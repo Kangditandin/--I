@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DifficultyAnomalySection>异象</DifficultyAnomalySection>
+  <Difficulty_AnomalyThreats_Label>异象威胁</Difficulty_AnomalyThreats_Label>
+  <Difficulty_AnomalyThreats_Info>调整重大威胁中与异象相关的比例。</Difficulty_AnomalyThreats_Info>
+  <Difficulty_AnomalyThreatsInactive_Label>异象威胁（未激活）</Difficulty_AnomalyThreatsInactive_Label>
+  <Difficulty_AnomalyThreatsInactive_Info>调整当巨石碑未激活时，重大威胁中与异象相关的比例。巨石碑未激活时，只会发生某些次要的异象事件。</Difficulty_AnomalyThreatsInactive_Info>
+  <Difficulty_AnomalyThreatsActive_Label>异象威胁（已激活）</Difficulty_AnomalyThreatsActive_Label>
+  <Difficulty_AnomalyThreatsActive_Info>调整当巨石碑已激活时，重大威胁中与异象相关的比例。按当前设置：\n  - 在巨石碑等级 1 和 5 时，{0} 的重大威胁与异象相关\n  - 在巨石碑等级 2-4 时，{1} 的重大威胁与异象相关</Difficulty_AnomalyThreatsActive_Info>
+  <Difficulty_StudyEfficiency_Label>研究效率</Difficulty_StudyEfficiency_Label>
+  <Difficulty_StudyEfficiency_Info>为研究非自然实体所获得的研究量添加一个倍率。</Difficulty_StudyEfficiency_Info>
+
+  <Difficulty_ChildShamblersAllowed_Label>儿童行尸</Difficulty_ChildShamblersAllowed_Label>
+  <Difficulty_ChildShamblersAllowed_Info>有时会出现被复活的儿童行尸。</Difficulty_ChildShamblersAllowed_Info>
+  
+  <AnomalySettings>异象设置</AnomalySettings>
+  <ChooseAnomalyPlaystyle>选择你想如何将异象的恐怖融入游戏：</ChooseAnomalyPlaystyle>
+  <CanBeEditedInStorytellerSettings>更新异象叙事者设置。这些设置可在游戏中修改</CanBeEditedInStorytellerSettings>
+  <SetToStandardPlaystyle>设为标准玩法</SetToStandardPlaystyle>
+
+</LanguageData>

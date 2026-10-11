@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BlindFog.letterLabel>致盲浓雾</BlindFog.letterLabel>
+  <BlindFog.letterText>浓雾正在形成，大幅降低能见度。远程武器的精度会降低，最大射程也会缩短。</BlindFog.letterText>
+  <TorrentialRain.letterLabel>倾盆大雨</TorrentialRain.letterLabel>
+  <TorrentialRain.letterText>大雨开始从天而降。它会在水域周围造成临时洪水。建造屏障以阻止洪水蔓延。</TorrentialRain.letterText>
+  <ToxRain.letterLabel>毒雨</ToxRain.letterLabel>
+  <ToxRain.letterText>毒雨开始从天而降。它会缓慢地让任何接触到它的人患病。让你的殖民者待在屋顶下。</ToxRain.letterText>
+  
+</LanguageData>

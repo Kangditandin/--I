@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Grav engine/substructrues -->
+  <ConfirmGravEngineLaunch>你确定要发射吗？\n\n你当前的地图，以及任何不在引力船子结构上的东西，都将永久消失。发射过程是破坏性的，意味着你无法返回。建造一个引力锚可防止此地图被摧毁。</ConfirmGravEngineLaunch>
+  <GravEngineWarning>警告</GravEngineWarning>
+  <PeopleWillBeLeftBehind>下列人员将被留下</PeopleWillBeLeftBehind>
+  <AnimalsWillBeLeftBehind>下列将被留下</AnimalsWillBeLeftBehind>
+  <PawnsKidnappedOnGravship>下列来自其他派系的人员和动物将随你一同前往。这会激怒他们的派系，并可能使其转为敌对</PawnsKidnappedOnGravship>
+  <BuildingsWillBeLeftBehind>下列建筑并未完全位于引力船上，将被留下</BuildingsWillBeLeftBehind>
+  <SubstructureWillBeLeftBehind>部分子结构放置无效，将被留下</SubstructureWillBeLeftBehind>
+  <DisconnectedSubstructure>未连接引力引擎</DisconnectedSubstructure>
+  <SubstructureUnderRockRoof>位于岩石屋顶下</SubstructureUnderRockRoof>
+  <SubstructureOutsideFootprint>超出范围</SubstructureOutsideFootprint>
+
+  <NamePlayerGravshipMessage>{0} 对你的新引力船寄予厚望，想为它取一个好名字。你的引力船该叫什么？</NamePlayerGravshipMessage>
+  <PlayerGravshipGainsName>这艘引力船现在名为 {0}。</PlayerGravshipGainsName>
+  <PlayerGravshipNameIsInvalid>该名称无效。</PlayerGravshipNameIsInvalid>
+
+  <GravshipForceVisitorsToLeaveLabel>强制访客离开</GravshipForceVisitorsToLeaveLabel>
+  <GravshipForceVisitorsToLeaveTooltip>等待所有访客离开引力船后再发射。这不影响敌人、囚犯或倒地的访客。</GravshipForceVisitorsToLeaveTooltip>
+  <GravshipBoardColonyAnimalsLabel>让殖民地动物登船</GravshipBoardColonyAnimalsLabel>
+  <GravshipBoardColonyAnimalsTooltip>命令所有殖民地动物登上引力船。在它们登船前，引力船不会发射。</GravshipBoardColonyAnimalsTooltip>
+  <GravshipBoardColonyMechsLabel>让殖民地机械族登船</GravshipBoardColonyMechsLabel>
+  <GravshipBoardColonyMechsTooltip>命令所有殖民地机械族登上引力船。在它们登船前，引力船不会发射。</GravshipBoardColonyMechsTooltip>
+
+  <ConfirmLandOnHostileFactionBase>{0} 处于敌对状态。若你在此降落，他们会攻击你。</ConfirmLandOnHostileFactionBase>
+  <ConfirmLandOnNeutralFactionBase>在此降落会被 {0} 视为侵略行为。他们会转为敌对并发动攻击。</ConfirmLandOnNeutralFactionBase>
+
+  <ConfirmLand>仍要在此降落吗？</ConfirmLand>
+
+  <OrbitalWarning>轨道位置很危险。请确保做好准备：\n - 为你的殖民者装备真空服或其他先进护甲。\n - 规划好返程。长期在轨道上生活极其艰难。</OrbitalWarning>
+  <OrbitalWarning_Gravship>为你的引力船做好进入轨道的准备：\n- 使用气密墙壁和门。\n- 确保房间供暖良好且屋顶完整。\n- 建造制氧机。</OrbitalWarning_Gravship>
+  <OrbitalWarning_Warning>警告</OrbitalWarning_Warning>
+  <OrbitalWarning_Vacuum>部分外墙或门不气密。</OrbitalWarning_Vacuum>
+  <OrbitalWarning_NoHeatSources>没有可用的热源。</OrbitalWarning_NoHeatSources>
+  <OrbitalWarning_FewHeatSources>可用热源不足</OrbitalWarning_FewHeatSources>
+  <OrbitalWarning_NoOxygenPumps>没有可用的制氧机。</OrbitalWarning_NoOxygenPumps>
+  <OrbitalWarning_FewOxygenPumps>可用制氧机不足</OrbitalWarning_FewOxygenPumps>
+
+  <ConfirmShuttleNotEnoughFuelToReturn>穿梭机的燃料不足以从此目的地返回，可能会被困住。\n\n你当前有 {0} 燃料，但返航需要 {1} 燃料。\n\n你确定要继续吗？</ConfirmShuttleNotEnoughFuelToReturn>
+  <CaravanMovementSpeedShuttle>因穿梭机而无法移动</CaravanMovementSpeedShuttle>
+  <RefuelShuttleCount>加注 {0}× 化合燃料</RefuelShuttleCount>
+  <ZoomRangeGravshipCutscene>缩放范围（引力船）{0}</ZoomRangeGravshipCutscene>
+
+</LanguageData>

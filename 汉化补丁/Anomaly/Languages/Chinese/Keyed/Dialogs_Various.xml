@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Reading management -->
+  <MaxMentalBreakChance>{0} 最高精神崩溃几率</MaxMentalBreakChance>
+  <TomePolicy>书籍</TomePolicy>
+
+  <!-- Caravan -->
+  <EntitiesSection>实体</EntitiesSection>
+  
+  <!-- Hidden items filter -->
+  <UndiscoveredItemLabel>未发现</UndiscoveredItemLabel>
+  <UndiscoveredItemDesc>此物品尚未被发现。</UndiscoveredItemDesc>
+
+  <!-- Medical settings -->
+  <MedGroupEntities>实体</MedGroupEntities>
+  <MedGroupEntitiesDesc>异常实体及其变体。</MedGroupEntitiesDesc>
+
+  <MedGroupGhouls>食尸鬼</MedGroupGhouls>
+  <MedGroupGhoulsDesc>属于你殖民地的食尸鬼。</MedGroupGhoulsDesc>
+
+  <GhoulConfirmation>将 {PAWN_nameDef} 变成食尸鬼是不可逆的。{PAWN_pronoun} 将处于半昏迷的恍惚状态，且无法工作。\n\n你确定要将 {PAWN_nameDef} 变成食尸鬼吗？</GhoulConfirmation>
+
+  <RoomRequirementNoAnomalyBuildings>不允许有异象建筑</RoomRequirementNoAnomalyBuildings>
+
+  <EntityCodex>实体图鉴</EntityCodex>
+  <EntityCodexGizmoTip>查看所有已发现的实体。发现新实体可推进巨石碑并解锁新的研究项目。</EntityCodexGizmoTip>
+  <ResearchUnlocks>解锁的研究</ResearchUnlocks>
+  <EntityCodexDesc>此页面列出所有与黑暗虚空相关的已知实体。使用“虚空挑衅”灵能仪式发现新实体。发现新实体会解锁新的研究项目，并让你得以推进虚空巨石碑。</EntityCodexDesc>
+  <UndiscoveredEntity>未发现的实体</UndiscoveredEntity>
+  <UndiscoveredEntityDesc>你尚未发现此实体。</UndiscoveredEntityDesc>
+  <ViewEntityCodex>查看实体图鉴</ViewEntityCodex>
+
+</LanguageData>

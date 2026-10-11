@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VacuumResistance_Partial.label>真空抗性</VacuumResistance_Partial.label>
+  <VacuumResistance_Partial.description>携带此基因者在气压低时皮肤会分泌一种蜡状物质，可防止真空灼伤，并让他们在暴露于真空时存活更久。</VacuumResistance_Partial.description>
+  <VacuumResistance_Total.label>无需呼吸</VacuumResistance_Total.label>
+  <VacuumResistance_Total.description>携带此基因者能在体内储存浓缩的氧气。他们的细胞消耗的氧气要少得多，意味着他们极少需要呼吸。这些适应使他们免疫太空的有害影响，以及环境毒素、毒气、酸性烟雾与腐臭。</VacuumResistance_Total.description>
+
+</LanguageData>

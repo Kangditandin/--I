@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BodyMastery.description>{PAWN_nameDef}没有进食、睡眠或舒适之类的基本需求。{PAWN_possessive}身体由某种未知机制驱动，这使{PAWN_possessive}双眼变得完全苍白。</BodyMastery.description>
+  <Disturbing.description>{PAWN_nameDef}是个古怪的人，似乎痴迷于骇人的念头。和{PAWN_objective}交谈常常令人不快。</Disturbing.description>
+  <Joyous.description>{PAWN_nameDef}有能力让每个人都感觉更好，并激励他们成为最好的自己。</Joyous.description>
+  <Joyous.label>欢愉</Joyous.label>
+  <Occultist.description>{PAWN_nameDef}深谙黑暗灵能的扭曲模式。{PAWN_pronoun}研究非自然实体的速度比他人更快。{PAWN_pronoun}还会在有机会时定期把这门非人的知识教给他人。</Occultist.description>
+  <PerfectMemory.description>{PAWN_nameDef}有着惊人的记忆，既能记住信息，也有肌肉记忆。{PAWN_possessive}技能永不衰退。</PerfectMemory.description>
+  <PerfectMemory.label>完美记忆</PerfectMemory.label>
+  <VoidFascination.description>{PAWN_nameDef}对非自然实体有着奇异的兴趣，很容易被它们迷住。</VoidFascination.description>
+  <VoidFascination.label>虚空迷恋</VoidFascination.label>
+  
+</LanguageData>

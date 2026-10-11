@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Character -->
+  <OverridesSomePrecepts>覆盖某些戒律，相关于</OverridesSomePrecepts>
+  <AgreeableMemes>与模因相符</AgreeableMemes>
+  <DisagreeableMemes>与模因冲突</DisagreeableMemes>
+
+  <!-- ITab titles -->
+  <TabSlave>奴隶</TabSlave>
+  <SlaveReleaseRelationGainsDesc>释放奴隶后你将获得的派系好感。这受奴隶身心健康的影响。</SlaveReleaseRelationGainsDesc>
+  <SlaveReleasePotentialRelationGains>释放后获得的关系</SlaveReleasePotentialRelationGains>
+  <SlaveRebellionMTBDays>奴隶叛乱间隔</SlaveRebellionMTBDays>
+  <SlaveRebellionMTBDaysDescription>奴隶叛乱尝试之间的平均天数。仅计算清醒时间。这受压制、心情、健康、与武器的距离、地图上奴隶数量以及地图上是否存在殖民者的影响。</SlaveRebellionMTBDaysDescription>
+
+  <!-- Slave tab -->
+  <Suppression>压制</Suppression>
+  <SuppressionDesc>压制是恐惧与控制对奴隶造成的心理效果。若压制较低，奴隶更容易叛乱。</SuppressionDesc>
+  <SuppressionFallRate>压制下降速率</SuppressionFallRate>
+  <SuppressionFallRateDesc>压制随时间下降，速率取决于当前水平：\n\n- 压制 {1}+：每天 {0}\n- 压制 {4}-{3}：每天 {2}\n- 压制低于 {6}：每天 {5}\n\n服装和恐吓也会影响压制下降速率。此奴隶的下降速率计算为</SuppressionFallRateDesc>
+  <CannotEmancipate>无法解放</CannotEmancipate>
+  <CannotImprison>无法囚禁</CannotImprison>
+  <CurrentSuppression>当前压制</CurrentSuppression>
+  <Terror>恐吓</Terror>
+  <TerrorDescription>恐吓是保持奴隶被压制的一种方式。当奴隶靠近可怕的事物（如恐吓雕塑）时，恐吓会上升。一名奴隶一次只能受三个恐吓来源影响。\n\n恐吓较高时，压制下降会变慢，具体如下</TerrorDescription>
+  <TerrorCurrentThoughts>近期的恐怖见闻</TerrorCurrentThoughts>
+
+  <SuppressionBaseInterval>基础间隔</SuppressionBaseInterval>
+  <SuppressionMovingCapacityFactor>移动能力</SuppressionMovingCapacityFactor>
+  <SuppressionFactor>压制</SuppressionFactor>
+  <SuppressionMoodFactor>心情</SuppressionMoodFactor>
+  <SuppressionSlaveCountFactor>奴隶数量</SuppressionSlaveCountFactor>
+  <SuppressionEscapeFactor>逃跑路线</SuppressionEscapeFactor>
+  <SuppressionWeaponProximityFactor>与武器距离</SuppressionWeaponProximityFactor>
+  <SuppressionFinalInterval>最终间隔</SuppressionFinalInterval>
+  <SuppressionUnattendedByColonists>无人看管</SuppressionUnattendedByColonists>
+  <SuppressionRebellionAnySlave>此地图上 {0} 名奴隶中至少有一名平均每 {1} 就会叛乱一次。</SuppressionRebellionAnySlave>
+
+  <WillLevel>意志</WillLevel>
+  <WillLevelDesc>囚犯不愿屈服的决心程度。当降为零时，即可将其奴役。</WillLevelDesc>
+  <WillFromPawnKind>{0} 基础意志</WillFromPawnKind>
+  <IdeoConversionTarget>目标理念</IdeoConversionTarget>
+  <IdeoConversionTargetDesc>你的看守将尝试将此囚犯转化为该理念。</IdeoConversionTargetDesc>
+
+  <!-- Social -->
+  <CertaintyChangePerDay>因心情的每日变化</CertaintyChangePerDay>
+  <MoodChangeRate>基于心情的变化速率</MoodChangeRate>
+  <CertaintyInIdeo>{PAWN_nameDef} 对 {IDEO_name} 的确信度</CertaintyInIdeo>
+  <RoleDesc>此人在其理念中拥有的特殊身份。若你更改或取消此职位，他们会不满。</RoleDesc>
+  <RoleAssignmentTip>更改职位需要职位变更仪式。选择任意仪式点或祭坛，然后按下“开始职位变更”。</RoleAssignmentTip>
+  <ConversionWeakerDueToTraitAgreements>由于特性/模因相符，转化尝试会变弱</ConversionWeakerDueToTraitAgreements>
+  <ConversionStrongerDueToTraitAgreements>由于特性/模因冲突，转化尝试会变强</ConversionStrongerDueToTraitAgreements>
+
+  <Cut>切割</Cut>
+  <CutBothEyes>割去双眼</CutBothEyes>
+
+</LanguageData>

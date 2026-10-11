@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Royalty and throne -->
+  <ThroneMaxSatisfiedTitle>满足头衔</ThroneMaxSatisfiedTitle>
+  <ThroneRoomImpressivenessInfo>（壮观度 {0}）</ThroneRoomImpressivenessInfo>
+  <ThroneMustBePlacedInside>王座必须放置在室内。</ThroneMustBePlacedInside>
+  <MinimumRoyalTitleInspectString>最低头衔（{FACTION_name}）：{TITLE}</MinimumRoyalTitleInspectString>
+  <RequiresTradePermission>在此处交易需要头衔：{0}</RequiresTradePermission>
+  <RequirementPersonalBedroom>私人卧室（允许伴侣）</RequirementPersonalBedroom>
+  
+  <!-- Generated neurotrainers -->
+  <PsycastNeurotrainerLabel>灵能训练器（{0}）</PsycastNeurotrainerLabel>
+  <PsycastNeurotrainerUseLabel>使用灵能训练器学习 {0} 灵能</PsycastNeurotrainerUseLabel>
+  <PsycastNeurotrainerDescription>一份一次性超剂量的机械微粒，可训练特定的灵能。\n\n该剂量通过眼眶注射。一旦进入大脑，机械微粒就会形成特定能力的知识，并按需转化为神经组织。\n\n{PSYCAST_label}\n\n{PSYCASTDESCRIPTION}</PsycastNeurotrainerDescription>
+  <AbilityNeurotrainerUsed>{USER_labelShort} 使用了神经训练器学会了 {1} 能力。</AbilityNeurotrainerUsed>
+  <PsycastNeurotrainerNoPsylink>需要灵能链接</PsycastNeurotrainerNoPsylink>
+  <PsycastNeurotrainerAbilityAlreadyLearned>{USER_labelShort} 已经学会 {1}。</PsycastNeurotrainerAbilityAlreadyLearned>
+
+  <Reward_RoyalFavor>接受该任务的人将从 {0_name} 处获得 {1} {0_royalFavorLabel}</Reward_RoyalFavor>
+  <Reward_RoyalFavor_ChoosePawn>你可以从参与任务的 {2} 中选一人，接受来自 {0_name} 的 {1} {0_royalFavorLabel}</Reward_RoyalFavor_ChoosePawn>
+  
+  <!-- Ship landing beacons -->
+  <NotUsable>无法使用</NotUsable>
+  <Unpowered>未通电</Unpowered>
+  <TooCloseToOtherBeacon>距离其他信标太近</TooCloseToOtherBeacon>
+  
+  <!-- Meditation -->
+  <Psyfocus>灵能聚焦</Psyfocus>
+  <PsyfocusLabelGizmo>灵能聚焦</PsyfocusLabelGizmo>
+  <PsyfocusDesc>灵能聚焦是一种特殊的精神结构，是使用灵能所必需的。灵能聚焦会随时间消散，必须通过定期冥想来积累。失去全部灵能聚焦会使人无法使用灵能，但没有其他后果。\n\n灵能聚焦等级越高，可使用的灵能等级越高，但灵能聚焦的消散速度也会加快</PsyfocusDesc>
+  <PsyfocusLevelInfoRange>{0}-{1}%</PsyfocusLevelInfoRange>
+  <PsyfocusLevelInfoPsycasts>最高可使用 {0} 级能力。</PsyfocusLevelInfoPsycasts>
+  <PsyfocusLevelInfoFallRate>灵能聚焦每天下降 {0}。</PsyfocusLevelInfoFallRate>
+  <UserMeditationFocusStrength>{LASTUSER_labelShort} 的冥想聚焦强度</UserMeditationFocusStrength>
+  <MeditationFocusImpacted>聚焦效果受以下因素影响</MeditationFocusImpacted>
+  <MeditationFocusPerAnimusStoneAbstract>每块附近的灵力石提供 {1}（最大 {0}）</MeditationFocusPerAnimusStoneAbstract>
+  <MeditationFocusPerAnimusStone>每块附近的灵力石提供 {2}（{0} / {1}）</MeditationFocusPerAnimusStone>
+  <MeditationFocusPerAnimusStoneAndShrineAbstract>每块附近的灵力石 {2}，自然神龛 {1}（最大 {0}）</MeditationFocusPerAnimusStoneAndShrineAbstract>
+  <MeditationFocusPerAnimusStoneAndShrine>每块附近的灵力石 {3}，自然神龛 {2}（{0} / {1}）</MeditationFocusPerAnimusStoneAndShrine>
+  <MeditationFocusPerSculptureAbstract>每座附近的雕塑按品质提供最多 {1}（最大 {0}）</MeditationFocusPerSculptureAbstract>
+  <MeditationFocusPerSculpture>每座附近的雕塑按品质提供最多 {2}（{0} / {1}）</MeditationFocusPerSculpture>
+  <MeditationFocusPerGraveAbstract>每座附近的坟墓：若为空提供 {1}，若有人类尸体提供 {2}（最多 {0}）</MeditationFocusPerGraveAbstract>
+  <MeditationFocusPerGrave>每座附近的坟墓：若为空提供 {2}，若有人类尸体提供 {3}（{0} / {1}）</MeditationFocusPerGrave>
+  <MeditationFocusPerFlameAbstract>每处附近点燃的火焰提供 {1}（最多 {0}）</MeditationFocusPerFlameAbstract>
+  <MeditationFocusPerFlame>每处附近点燃的火焰提供 {2}（{0} / {1}）</MeditationFocusPerFlame>
+  <PsyfocusPerDayOfMeditation>灵能聚焦获取速率：{0}/天</PsyfocusPerDayOfMeditation>
+  <DesiredPsyfocus>目标灵能聚焦</DesiredPsyfocus>
+  <DesiredPsyfocusDesc>点击以设置目标灵能聚焦。</DesiredPsyfocusDesc>
+
+  <AbilitySpeechDisabledNoThroneAssigned>未指派王座。</AbilitySpeechDisabledNoThroneAssigned>
+  <AbilitySpeechDisabledNoThroneIsNotAccessible>王座无法到达。</AbilitySpeechDisabledNoThroneIsNotAccessible>
+  <AbilitySpeechDisabledNoThroneUndignified>王座因不够体面而无法使用。</AbilitySpeechDisabledNoThroneUndignified>
+  <AbilitySpeechDisabledAlreadyGivingSpeech>正在发表演讲。</AbilitySpeechDisabledAlreadyGivingSpeech>
+  <AbilitySpeechPossibleOutcomes>结果几率</AbilitySpeechPossibleOutcomes>
+  <AbilitySpeechStatInfo>{ORGANIZER_labelShort} 的 {1} 属性</AbilitySpeechStatInfo>
+  <AbilitySpeechTargetDescThrone>体面的王座</AbilitySpeechTargetDescThrone>
+  
+  <RitualDisabledNoAltar>没有可到达的祭坛。</RitualDisabledNoAltar>
+  <RitualBestowingCeremony>授勋仪式</RitualBestowingCeremony>
+  <BestowingSpotUnavailable>授勋者附近没有合适的位置</BestowingSpotUnavailable>
+
+  <TotalMeditationToday>今日冥想总计：{0}（进度倍率 {1}）</TotalMeditationToday>
+  <ProgressToNextSubplant>进度 {0}</ProgressToNextSubplant>
+  <BeginLinkingRitualFloatMenu>开始链接仪式</BeginLinkingRitualFloatMenu>
+  <BeginLinkingRitualNeedSubplants>此处需要 {0} {1}（现有 {2}）</BeginLinkingRitualNeedSubplants>
+  <BeginLinkingRitualNeedFocus>需要 {0} 灵能链接聚焦类型</BeginLinkingRitualNeedFocus>
+  <BeginLinkingRitualMaxPsylinkLevel>已达最高灵能链接等级</BeginLinkingRitualMaxPsylinkLevel>
+  <BeginLinkingRitualNeedLinkSpot>需要在 3 格内有一个空闲且可到达的位置用于链接</BeginLinkingRitualNeedLinkSpot>
+  <LetterLabelLinkingRitualCompleted>链接仪式已完成</LetterLabelLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompleted>{PAWN_labelShort} 已完成与 {LINKABLE_labelShort} 的链接仪式。\n\n{PAWN_pronoun} 现在拥有升级后的灵能链接，可以使用新的灵能。</LetterTextLinkingRitualCompleted>
+  <LetterTextLinkingRitualCompletedAnimaGrass>此外，已恢复 {0} 灵能草。</LetterTextLinkingRitualCompletedAnimaGrass>
+
+  <LandHere>让穿梭机在此降落</LandHere>
+  <MessageShuttleDestinationIsTooFar>目的地超出范围。</MessageShuttleDestinationIsTooFar>
+
+  <BeginCeremony>为 {0_labelShort} 开始授勋仪式</BeginCeremony>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>{PAWN_definite} 的王座厅不满足 {TITLE} 头衔的要求。</BestowingCeremonyThroneroomRequirementsNotSatisfiedShort>
+  <BestowingCeremonyThroneroomRequirementsNotSatisfied>授勋者因 {PAWN_definite} 的王座厅不满足 {TITLE} 头衔的要求而感到被冒犯。授勋仪式已取消。</BestowingCeremonyThroneroomRequirementsNotSatisfied>
+  <BestowingCeremonyLabel>授勋仪式</BestowingCeremonyLabel>
+  <BestowingOutcomeQualitySpecific>授勋仪式的总品质为 {0}，由以下因素决定</BestowingOutcomeQualitySpecific>
+  
+  <RitualTargetAnimaTreeNoPawnsToLink>当前没有可以与灵能树链接的殖民者。</RitualTargetAnimaTreeNoPawnsToLink>
+  <RitualTargetAnimaTreeNoPawnsWithNatureFocus>没有具有自然冥想聚焦类型的殖民者。</RitualTargetAnimaTreeNoPawnsWithNatureFocus>
+  <RitualTargetAnimaTreeNotEnoughAnimaGrass>至少需要 {0} 灵能草。</RitualTargetAnimaTreeNotEnoughAnimaGrass>
+  <RitualTargetAnimaTreeInfo>一棵灵能树</RitualTargetAnimaTreeInfo>
+  <RitualTargetAnimaTreeMustBeCapableOfNature>必须是具有自然冥想聚焦类型且未达最高灵能链接等级的殖民者。</RitualTargetAnimaTreeMustBeCapableOfNature>
+  <RitualTargetAnimaTreeMustBePsychicallySensitive>不能是灵能失聪者。</RitualTargetAnimaTreeMustBePsychicallySensitive>
+
+  <AnimaLinkingExplanationBase>灵能链接仪式参与者越多，效果越强。参与的人越多，仪式耗时越短，且会长出更多灵能草。\n\n在 {0} 名额外参与者的情况下，仪式结束时将恢复 {1} 灵能草。</AnimaLinkingExplanationBase>
+  <ShuttleRequiredItemsNotSatisfied>尚未装载全部所需货物！</ShuttleRequiredItemsNotSatisfied>
+  <CannotLoadIntoShuttle>无法装载 {0_labelShort}</CannotLoadIntoShuttle>
+
+  <AbilityNoEntropyToDump>没有可释放的热量。</AbilityNoEntropyToDump>
+
+  <LevelNum>{0} 级</LevelNum>
+
+</LanguageData>

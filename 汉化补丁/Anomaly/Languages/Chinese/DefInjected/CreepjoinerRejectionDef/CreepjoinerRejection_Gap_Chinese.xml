@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AggressiveRejection.letterDesc>被拒绝后，{PAWN_nameDef}勃然大怒，开始攻击！</AggressiveRejection.letterDesc>
+  <AggressiveRejection.letterLabel>{PAWN_nameDef}敌对</AggressiveRejection.letterLabel>
+  <Departure.letterDesc>{PAWN_nameDef}对你对待{PAWN_objective}的方式感到失望。{PAWN_pronoun}决定离开。</Departure.letterDesc>
+  <Departure.letterLabel>{PAWN_nameDef}离去</Departure.letterLabel>
+  
+</LanguageData>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <RecipeRequiresMechanitor>该配方 {0} 需要机械师才能进行。你的殖民者中没有机械师，所以无人会做此项工作。</RecipeRequiresMechanitor>
+
+  <GenepackPlural>基因包</GenepackPlural>
+  <TraitsDevelopLaterBaby>特性会在童年时期后期发展</TraitsDevelopLaterBaby>
+  <SkillsDevelopLaterBaby>技能会在童年时期后期发展</SkillsDevelopLaterBaby>
+  <TabGenes>基因</TabGenes>
+
+  <ViewGenes>查看基因</ViewGenes>
+  <ViewGenesDesc>点击查看 {PAWN_nameDef} 的基因。</ViewGenesDesc>
+
+  <!-- Feeding tab (human babies) -->
+  <TabFeeding>喂食</TabFeeding>
+  <AutofeedSectionHeader>自动喂食设置</AutofeedSectionHeader>
+  <AutofeedModeNever>从不</AutofeedModeNever>
+  <AutofeedModeChildcare>育儿工作</AutofeedModeChildcare>
+  <AutofeedModeUrgent>紧急</AutofeedModeUrgent>
+  <AutofeedNone>没人能喂养这个婴儿。</AutofeedNone>
+  <AutofeedModeTooltipNever>{FEEDER_nameDef} 不会自动喂食 {BABY_nameDef}。</AutofeedModeTooltipNever>
+  <AutofeedModeTooltipChildcare>{FEEDER_nameDef} 会将喂食 {BABY_nameDef} 作为育儿工作。</AutofeedModeTooltipChildcare>
+  <AutofeedModeTooltipUrgent>{FEEDER_nameDef} 会昼夜喂食 {BABY_nameDef}，即使 {FEEDER_nameDef} 未被指派到育儿工作或无法从事育儿工作。</AutofeedModeTooltipUrgent>
+  <BabyFoodConsumables>可食用食物</BabyFoodConsumables>
+
+  <!-- Social tab (human babies) -->
+  <IdeoExposureSectionHeader>理念接触</IdeoExposureSectionHeader>
+  <IdeoExposureNoExposure>{BABY_labelShort} 尚未接触过任何理念。</IdeoExposureNoExposure>
+  <IdeoExposureNoExposureDetail>{BABY_pronoun} 可以通过与某理念的信徒互动来接触该理念。这些互动包括被母乳喂养、被搬运、被逗玩等。在 {CHILDAGE} 岁时，{BABY_labelShort} 会加入 {BABY_pronoun} 接触过的理念之一。</IdeoExposureNoExposureDetail>
+  <IdeoExposurePointsTooltipJoinLikelihood>{BABY_labelShort} 加入理念 {IDEO_name} 的几率为 {PERCENT}。</IdeoExposurePointsTooltipJoinLikelihood>
+  <IdeoExposurePointsTooltipJoinDescription>随着 {BABY_labelShort} 与某理念的信徒互动，{BABY_pronoun} 加入该理念的几率会增加。{BABY_labelShort} 会在 {CHILDAGE} 岁时加入 {BABY_pronoun} 接触过的理念之一。</IdeoExposurePointsTooltipJoinDescription>
+  <IdeoExposurePointsTooltipExposureDescription>理念接触以接触点数衡量。被母乳喂养、被搬运或被逗玩等互动会使 {BABY_labelShort} 获得 {BABY_pronoun} 所互动对象信仰理念的接触点数。</IdeoExposurePointsTooltipExposureDescription>
+  <IdeoExposurePointsTooltipIdeoExposure>{IDEO_name} 接触点</IdeoExposurePointsTooltipIdeoExposure>
+  <IdeoExposurePointsTooltipTotalExposure>总接触点</IdeoExposurePointsTooltipTotalExposure>
+
+  <!-- Social tab (romance) -->
+  <TryRomanceButtonLabel>恋爱</TryRomanceButtonLabel>
+  <TryRomanceNoOptsMessage>{0_labelShort} 没有可恋爱的对象。</TryRomanceNoOptsMessage>
+  <CantRomanceTargetUnreachable>无法到达</CantRomanceTargetUnreachable>
+  <CantRomanceTargetSleeping>正在睡觉</CantRomanceTargetSleeping>
+  <CantRomanceTargetDowned>失去行动能力</CantRomanceTargetDowned>
+  <CantRomanceTargetDrafted>处于征召状态</CantRomanceTargetDrafted>
+  <CantRomanceTargetMentalState>精神崩溃</CantRomanceTargetMentalState>
+  <CantRomanceTargetIncest>乱伦</CantRomanceTargetIncest>
+  <CantRomanceTargetOpinion>看法过低</CantRomanceTargetOpinion>
+  <CantRomanceTargetSexuality>取向不合</CantRomanceTargetSexuality>
+  <CantRomanceTargetPrisoner>囚犯</CantRomanceTargetPrisoner>
+  <CantRomanceTargetYoung>年龄太小</CantRomanceTargetYoung>
+  <CantRomanceTargetZeroChance>几率为零</CantRomanceTargetZeroChance>
+  <CantRomanceInitiateMessagePrisoner>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 是囚犯。</CantRomanceInitiateMessagePrisoner>
+  <CantRomanceInitiateMessageSlave>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 是奴隶。</CantRomanceInitiateMessageSlave>
+  <CantRomanceInitiateMessageAsexual>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 具有无性恋特性。</CantRomanceInitiateMessageAsexual>
+  <CantRomanceInitiateMessageDowned>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 失去行动能力。</CantRomanceInitiateMessageDowned>
+  <CantRomanceInitiateMessageDrafted>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 处于征召状态。</CantRomanceInitiateMessageDrafted>
+  <CantRomanceInitiateMessageMentalState>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 处于不适合的精神状态。</CantRomanceInitiateMessageMentalState>
+  <CantRomanceInitiateMessageTalk>{0_labelShort} 无法尝试恋爱，因为 {0_pronoun} 无法说话。</CantRomanceInitiateMessageTalk>
+  <CantRomanceInitiateMessageCooldown>{0_labelShort} 近期尝试过恋爱，必须等待 {1} 才能再次尝试。</CantRomanceInitiateMessageCooldown>
+  <TryRomanceFailedMessage>{0_labelShort} 向 {1_labelShort} 尝试恋爱失败了。</TryRomanceFailedMessage>
+  <RomanceExistingRelationshipWarning>让 {INITIATOR_nameDef} 与 {TARGET_nameDef} 恋爱，可能在现有伴侣间激起怨恨、导致分手，并引发争执。</RomanceExistingRelationshipWarning>
+  <RomanceChance>恋爱几率</RomanceChance>
+  <RomanceChanceExistingRelation>已是 {PAWN_nameDef} 的 {RELATION}</RomanceChanceExistingRelation>
+  <RomanceChanceCant>无法恋爱</RomanceChanceCant>
+  <RomanceChanceAgeFactor>相对年龄</RomanceChanceAgeFactor>
+  <RomanceChanceBeautyFactor>美观度</RomanceChanceBeautyFactor>
+  <RomanceChanceOpinionFactor>看法</RomanceChanceOpinionFactor>
+  <RomanceChancePartnerFactor>对伴侣的看法</RomanceChancePartnerFactor>
+  <RomanceFailedUnexpected>{0_labelShort} 未能与 {1_labelShort} 恋爱</RomanceFailedUnexpected>
+  <RomanceWarningMonogamous>{0_nameDef} 已有恋人。</RomanceWarningMonogamous>
+  <RomanceWarningPolygamous>{0_nameDef} 已有 {1} 名伴侣。</RomanceWarningPolygamous>
+
+  <!-- Guest tab (prisoners) -->
+  <FactorForGenes>基因</FactorForGenes>
+  <PrisonBreakingDisabledDueToGene>越狱因 {GENE_label} 基因而被禁用。</PrisonBreakingDisabledDueToGene>
+
+</LanguageData>

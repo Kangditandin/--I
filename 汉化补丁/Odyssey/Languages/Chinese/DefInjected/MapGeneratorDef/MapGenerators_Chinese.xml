@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AncientStockpile.label>远古储藏点</AncientStockpile.label>
+  <InsectLair.label>虫巢</InsectLair.label>
+  <Mechhive.label>机械巢</Mechhive.label>
+  <Asteroid.label>小行星</Asteroid.label>
+  <AsteroidBasic.label>基础小行星</AsteroidBasic.label>
+  <OrbitalItemStash.label>轨道物品储藏点</OrbitalItemStash.label>
+  <OrbitalRelay.label>轨道中继站</OrbitalRelay.label>
+  <SettlementPlatform.label>定居平台</SettlementPlatform.label>
+  <Space.label>太空</Space.label>
+  <SpacePocket.label>空间口袋</SpacePocket.label>
+
+</LanguageData>

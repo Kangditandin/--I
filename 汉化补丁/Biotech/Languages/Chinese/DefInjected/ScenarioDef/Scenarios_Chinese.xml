@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Mechanitor.scenario.summary>一名机械师与几只仆从机械体。</Mechanitor.scenario.summary>
+  <Mechanitor.label>机械师</Mechanitor.label>
+  <Mechanitor.description>你知道唯有借助帮助才能成就伟业。人们太不可靠，于是你选择让机械体成为你的仆从、工人与战士。随着你实力渐长，他人开始恐惧。很明显，你需要远离人类的影响。如今你带着一些金属帮手迁徙到了这个人口稀少的边缘世界。终于，你有了空间去把握自己真正的潜能！\n\n注意：由于你的起始角色会缺少一些技能，这是一个困难的情景。</Mechanitor.description>
+  <Mechanitor.scenario.description>你知道唯有借助帮助才能成就伟业。人们太不可靠，于是你选择让机械体成为你的仆从、工人与战士。随着你实力渐长，他人开始恐惧。很明显，你需要远离人类的影响。如今你带着一些金属帮手迁徙到了这个人口稀少的边缘世界。终于，你有了空间去把握自己真正的潜能！\n\n注意：由于你的起始角色会缺少一些技能，这是一个困难的情景。</Mechanitor.scenario.description>
+  <Sanguophage.scenario.summary>一名迫降的噬血者需要血液维生，外加一名人类殖民者。</Sanguophage.scenario.summary>
+  <Sanguophage.label>噬血者</Sanguophage.label>
+  <Sanguophage.description>当一个阴沉的陌生人提出能治愈你的癌症时，你愿意答应任何条件。他把你变成了噬血者——一个被千百种宗教憎恨的不朽饮血者。你隐藏自己的状况多年，但最终一名猎手追踪到了你。你偷偷登上第一艘离开该星系的飞船，勉强生还。\n\n注意：噬血者有着独特的长处与弱点，这使得本情景较为困难。</Sanguophage.description>
+  <Sanguophage.scenario.description>当一个阴沉的陌生人提出能治愈你的癌症时，你愿意答应任何条件。他把你变成了噬血者——一个被千百种宗教憎恨的不朽饮血者。你隐藏自己的状况多年，但最终一名猎手追踪到了你。你偷偷登上第一艘离开该星系的飞船，勉强生还。\n\n注意：噬血者有着独特的长处与弱点，这使得本情景较为困难。</Sanguophage.scenario.description>
+  <Sanguophage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>非婴儿噬血者</Sanguophage.scenario.parts.ConfigurePawnsXenotypes.xenotypeCounts.0.description>
+
+  <Mechanitor.scenario.name>机械师</Mechanitor.scenario.name>
+  <Mechanitor.scenario.parts.GameStartDialog.text>你知道唯有借助帮助才能成就伟业。人们太不可靠，于是你选择让机械体成为你的仆从、工人与战士。\n\n随着你实力渐长，他人开始恐惧。很明显，你需要远离人类的影响。\n\n如今你带着一些金属帮手迁徙到了这个人口稀少的边缘世界。终于，你有了空间去把握自己真正的潜能！</Mechanitor.scenario.parts.GameStartDialog.text>
+  <Sanguophage.scenario.name>噬血者</Sanguophage.scenario.name>
+  <Sanguophage.scenario.parts.ConfigurePawnsXenotypes.customSummary>开局时拥有一名成年或幼年噬血者，外加一名任意年龄的其他殖民者。</Sanguophage.scenario.parts.ConfigurePawnsXenotypes.customSummary>
+  <Sanguophage.scenario.parts.GameStartDialog.text>当一个阴沉的陌生人提出能治愈你的癌症时，你愿意答应任何条件。他把你变成了噬血者——一个被千百种宗教憎恨的不朽饮血者。你隐藏自己的状况多年，但最终一名猎手追踪到了你。你偷偷登上第一艘离开该星系的飞船，勉强生还。\n\n随后飞船坠毁了。只有少数人登上逃生舱。你降落在一个未知的边缘世界上，发现自己并不孤单。为了生存所需的血液，你愿意付出什么代价？</Sanguophage.scenario.parts.GameStartDialog.text>
+
+</LanguageData>

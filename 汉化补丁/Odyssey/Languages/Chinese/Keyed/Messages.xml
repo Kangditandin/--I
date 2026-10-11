@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Grav engine/substructrues -->
+  <MessageMustBePlacedOnSubstructure>必须放置在引力船子结构上。</MessageMustBePlacedOnSubstructure>
+  <MessageMustBePlacedInRangeOfGravEngineOrExtender>必须放置在引力引擎或引力场扩展器的半径内。</MessageMustBePlacedInRangeOfGravEngineOrExtender>
+  <MessageCannotPlaceUnderRockRoof>不能放置在岩石或山体屋顶下。</MessageCannotPlaceUnderRockRoof>
+  <MessageStabilizerDeactivated>{ACTIVATOR_labelShort} 已完成对 {SUBJECT_definite} 的骇入。</MessageStabilizerDeactivated>
+  <MessageCannotPlaceOverSubstructure>不能放置在引力船子结构上。</MessageCannotPlaceOverSubstructure>
+  <MessageSubstructureBlocked>引力船子结构被阻挡。</MessageSubstructureBlocked>
+  <MessageMustBePlacedInRangeOfGravEngine>必须放置在引力引擎的范围内。</MessageMustBePlacedInRangeOfGravEngine>
+
+  <!-- Alerts -->
+  <MessagePlantDiedOfRot_ExposedToVacuum>{0} 因真空暴露而死亡。</MessagePlantDiedOfRot_ExposedToVacuum>
+
+  <!-- Ancient Vents -->
+  <AncientSmokeVentStartUp>古代排烟口已启动，天空变暗。</AncientSmokeVentStartUp>
+  <AncientSmokeVentShutdown>古代排烟口正在停止。</AncientSmokeVentShutdown>
+  <AncientToxVentStartUp>古代毒气口已启动，造成有毒落尘。</AncientToxVentStartUp>
+  <AncientToxVentShutdown>古代毒气口正在停止。</AncientToxVentShutdown>
+  <AncientHeatVentStartUp>古代排气口已启动，温度上升。</AncientHeatVentStartUp>
+  <AncientHeatVentShutdown>古代排气口正在停止。</AncientHeatVentShutdown>
+  
+  <CannotPlaceFishingZone>必须放置在有鱼的浅水上方。</CannotPlaceFishingZone>
+  
+  <MessageTrapSprung>{TRAP_indefinite} 被触发了。</MessageTrapSprung>
+
+  <GravshipReadyToLaunch>{0} 已准备好再次发射。</GravshipReadyToLaunch>
+
+  <MessageOrbitalSignalDetected>一台轨道扫描器发现了信号，正在定位其来源</MessageOrbitalSignalDetected>
+  <OrbitalScannerCompletesIn>将在 {0} 内完成</OrbitalScannerCompletesIn>
+
+  <MessageTraderGaveQuest>在与 {TRADER_nameDef} 交谈时，{NEGOTIATOR_nameDef} 得知了一个新任务：{0}</MessageTraderGaveQuest>
+  <MessageBookGaveQuest>在阅读 {BOOK_labelNoParenthesis} 时，{READER_nameDef} 发现了一个任务：{0}</MessageBookGaveQuest>
+
+  <MessageConfirmLandingAreaFirst>请先确认引力船着陆区以继续。</MessageConfirmLandingAreaFirst>
+  <MessageNoLandingSiteSelected>请先选择着陆点。</MessageNoLandingSiteSelected>
+  
+  <CannotStoreThingOnTarget>无法将 {THING_labelShort} 存放在 {TARGET_indefinite} 上</CannotStoreThingOnTarget>
+
+</LanguageData>

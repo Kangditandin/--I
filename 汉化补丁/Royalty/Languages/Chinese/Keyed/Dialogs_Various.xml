@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Royal Titles -->
+  <RoyalFavorDescription>你的谈判者将因这笔交易亲自获得的 {FACTION_royalFavorLabel} 数量。</RoyalFavorDescription>
+  <RoyalTitleTooltipRequiredApparel>要求的服装</RoyalTitleTooltipRequiredApparel>
+  <RoyalTitleTooltipRequiredApparelQuality>最低服装品质</RoyalTitleTooltipRequiredApparelQuality>
+  <RoyalTitleTooltipBedroomRequirements>卧室要求</RoyalTitleTooltipBedroomRequirements>
+  <RoyalTitleTooltipThroneroomRequirements>王座厅要求</RoyalTitleTooltipThroneroomRequirements>
+  <RoyalTitleTooltipPermits>头衔特权</RoyalTitleTooltipPermits>
+  <RoyalTitleRequiredApparelStatDescription>此头衔的持有者必须以以下某种组合覆盖身体：</RoyalTitleRequiredApparelStatDescription>
+  <ApparelRequirementAnyPrestigeArmor>任意威严护甲</ApparelRequirementAnyPrestigeArmor>
+  <ApparelRequirementAnyPsycasterApparel>任意灵能者服装</ApparelRequirementAnyPsycasterApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparel>或任意灵能者或威严服装</ApparelRequirementOrAnyPsycasterOrPrestigeApparel>
+  <DisabledWorkTypes>被禁止的工作类型</DisabledWorkTypes>
+  <RoyalTitleRequiredMeals>允许的食物</RoyalTitleRequiredMeals>
+  <RoyalTitleRequiredMealsDesc>此头衔的持有者只吃这些食物，除非处于饥饿状态或正在随商队行进。</RoyalTitleRequiredMealsDesc>
+
+  <!-- Royal implants -->
+  <RoyalImplantIllegalUseWarning>根据 {FACTION_name} 的法律，必须拥有 {TITLE} 头衔才能合法使用 {IMPLANT}。\n\n{VIOLATIONTRIGGER}，有几率被 {FACTION_name} 探测到其灵能特征。这将引发外交后果。</RoyalImplantIllegalUseWarning>
+  <RoyalImplantInstallConfirmation>仍要植入此植入体吗？</RoyalImplantInstallConfirmation>
+  <RoyalImplantUpgradeConfirmation>仍要升级此植入体吗？</RoyalImplantUpgradeConfirmation>
+
+  <!-- Royal weapons -->
+  <BladelinkEquipWarning>一旦与使用者绑定，该武器的武器人格将拒绝被任何其他人使用。</BladelinkEquipWarning>
+  <BladelinkEquipWarningTraits>该武器具有以下特性</BladelinkEquipWarningTraits>
+  <RoyalWeaponEquipConfirmation>你确定要装备此物品吗？</RoyalWeaponEquipConfirmation>
+  
+  <!-- Psycasts -->
+  <AbilityTargetPsychicallyDeaf>目标灵能失聪。</AbilityTargetPsychicallyDeaf>
+  <PsycastIsIllegal>这对 {PAWN_labelShort} 而言是非法的。需要 {TITLE} 头衔。</PsycastIsIllegal>
+
+  <!-- Skip -->
+  <CannotSkipTarget>无法跳跃 {PAWN_labelShort}</CannotSkipTarget>
+  <CannotSkipTargetTooLarge>体型过大</CannotSkipTargetTooLarge>
+  <CannotSkipTargetPsychicResistant>灵能抗性</CannotSkipTargetPsychicResistant>
+
+  <!-- Warning -->
+  <QuestGivesRoyalFavor>此任务将奖励 {FACTION_royalFavorLabel}，从而为 {PAWN_labelShort} 带来贵族头衔。</QuestGivesRoyalFavor>
+  <RoyalIncapableOfSocial>{PAWN_labelShort} 无法从事社交工作。拥有贵族头衔者极需社交能力，因此若 {PAWN_labelShort} 获得头衔，{PAWN_pronoun} 可能会很艰难。其他殖民者也许更擅长社交。</RoyalIncapableOfSocial>
+  <RoyalWithConceitedTrait>由于 {PAWN_labelShort} 具有 {2}，{PAWN_pronoun} 将要求头衔特权被完全尊重。{PAWN_labelShort} 可能拒绝某些工作类型或拒绝食用低等食物，并会颁布法令。其他殖民者大概会更灵活。</RoyalWithConceitedTrait>
+  <RoyalWithTraitAffectingPsylinkNegatively>由于 {PAWN_labelShort} 具有 {2}，灵能链接对 {PAWN_objective} 可能没什么用处。</RoyalWithTraitAffectingPsylinkNegatively>
+  <PsylinkTooLowForGainAbility>{PAWN_labelShort} 的灵能链接等级不足以使用 {ABILITY}。\n\n仍要获得此能力吗？</PsylinkTooLowForGainAbility>
+  <SendShuttleWithNoContents>此穿梭机是空的。若你将其派走，就再也无法使用它。\n\n仍要派走吗？</SendShuttleWithNoContents>
+  <DropResourcesOverweightConfirm>这些资源会使商队超重并导致其无法移动。\n\n仍要呼叫它们吗？</DropResourcesOverweightConfirm>
+
+</LanguageData>

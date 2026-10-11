@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BloodTransfusion.jobString>正在对TargetA进行输血。</BloodTransfusion.jobString>
+  <ExtractHemogenPack.jobString>正在提取血原质包。</ExtractHemogenPack.jobString>
+  <ExtractOvum.jobString>正在从TargetA提取卵子。</ExtractOvum.jobString>
+  <ImplantEmbryo.jobString>正在把胚胎植入TargetA。</ImplantEmbryo.jobString>
+  <ImplantIUD.jobString>正在给TargetA植入宫内节育器。</ImplantIUD.jobString>
+  <ImplantIUD.successfullyRemovedHediffMessage>{0}成功给{1}植入了宫内节育器。</ImplantIUD.successfullyRemovedHediffMessage>
+  <ImplantXenogerm.jobString>正在植入异种胚芽。</ImplantXenogerm.jobString>
+  <InstallDetoxifierKidney.jobString>正在安装解毒肾。</InstallDetoxifierKidney.jobString>
+  <InstallDetoxifierLung.jobString>正在安装解毒肺。</InstallDetoxifierLung.jobString>
+  <Make_BabyFood.customSummary>素食材料</Make_BabyFood.customSummary>
+  <Make_BabyFood.jobString>正在制作婴儿食品。</Make_BabyFood.jobString>
+  <Make_BabyFoodBulk.customSummary>素食材料</Make_BabyFoodBulk.customSummary>
+  <Make_BabyFoodBulk.jobString>正在批量制作婴儿食品。</Make_BabyFoodBulk.jobString>
+  <RemoveIUD.jobString>正在从TargetA取出宫内节育器。</RemoveIUD.jobString>
+  <RemoveIUD.successfullyRemovedHediffMessage>{0}成功取出了{1}的宫内节育器。</RemoveIUD.successfullyRemovedHediffMessage>
+  <ReverseVasectomy.jobString>正在对TargetA进行输精管复通。</ReverseVasectomy.jobString>
+  <ReverseVasectomy.successfullyRemovedHediffMessage>{0}成功对{1}进行了输精管复通。</ReverseVasectomy.successfullyRemovedHediffMessage>
+  <TerminatePregnancy.jobString>正在终止TargetA的妊娠。</TerminatePregnancy.jobString>
+  <TubalLigation.jobString>正在对TargetA进行输卵管结扎。</TubalLigation.jobString>
+  <TubalLigation.successfullyRemovedHediffMessage>{0}成功对{1}进行了输卵管结扎。</TubalLigation.successfullyRemovedHediffMessage>
+  <Vasectomy.jobString>正在对TargetA进行输精管结扎。</Vasectomy.jobString>
+  <Vasectomy.successfullyRemovedHediffMessage>{0}成功对{1}进行了输精管结扎。</Vasectomy.successfullyRemovedHediffMessage>
+  
+</LanguageData>

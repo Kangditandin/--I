@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <HungerMaker.label>饥饿剧痛</HungerMaker.label>
+  <HungerMaker.description>该武器的副人格热爱食物，并将这种感受传递给任何与其羁绊的人。被羁绊者的饥饿速率会提高 50%。</HungerMaker.description>
+  <Jealous.label>嫉妒</Jealous.label>
+  <Jealous.description>当被羁绊的个体使用另一件武器时，该武器的副人格会愤怒，从而降低其心情。</Jealous.description>
+  <NeedKill.label>杀戮渴求</NeedKill.label>
+  <NeedKill.description>该武器的副人格在流血中寻找意义。若它 20 天内没有杀人，就会愤怒并以灵能方式向与其羁绊的人抱怨。</NeedKill.description>
+  <NeuralHeatRecoveryGain.label>神经散热</NeuralHeatRecoveryGain.label>
+  <NeuralHeatRecoveryGain.description>该武器的副人格有能力帮助消散持用者的心灵熵。持用者的心灵熵消散每秒提升 0.15。</NeuralHeatRecoveryGain.description>
+  <NeverBond.label>自由持用者</NeverBond.label>
+  <NeverBond.description>该武器的副人格不会以寻常方式形成羁绊。任何人都能拿起并使用它。</NeverBond.description>
+  <NoPain.label>无痛</NoPain.label>
+  <NoPain.description>该武器的副人格拥有某种以灵能方式禁用疼痛的方法。持用武器者将感觉不到任何疼痛。</NoPain.description>
+  <OnKill_PsyfocusGain.label>杀戮专注</OnKill_PsyfocusGain.label>
+  <OnKill_PsyfocusGain.description>该武器的副人格专注于死亡。若该武器杀了人，持用者会立刻获得 20% 灵能聚焦。</OnKill_PsyfocusGain.description>
+  <OnKill_ThoughtBad.label>杀戮悲伤</OnKill_ThoughtBad.label>
+  <OnKill_ThoughtBad.description>该武器的副人格憎恨杀戮。若该武器杀了人，其悲伤会以灵能方式传递给持用者，降低其数天的心情。</OnKill_ThoughtBad.description>
+  <OnKill_ThoughtGood.label>杀戮喜悦</OnKill_ThoughtGood.label>
+  <OnKill_ThoughtGood.description>该武器的副人格热爱杀戮。若该武器杀了人，其喜悦会以灵能方式传递给持用者，使其数天更开心。</OnKill_ThoughtGood.description>
+  <PsychicSensitivityDownMajor.label>灵能迷雾</PsychicSensitivityDownMajor.label>
+  <PsychicSensitivityDownMajor.description>该武器将持用者的心灵敏感度压制 30%。仅在持用武器时生效。</PsychicSensitivityDownMajor.description>
+  <PsychicSensitivityDownMinor.label>灵能静默</PsychicSensitivityDownMinor.label>
+  <PsychicSensitivityDownMinor.description>该武器将持用者的心灵敏感度压制 15%。仅在持用武器时生效。</PsychicSensitivityDownMinor.description>
+  <PsychicSensitivityUpMajor.label>灵能超敏化器</PsychicSensitivityUpMajor.label>
+  <PsychicSensitivityUpMajor.description>该武器将持用者的心灵敏感度放大 40%。仅在持用武器时生效。</PsychicSensitivityUpMajor.description>
+  <PsychicSensitivityUpMinor.label>灵能增敏器</PsychicSensitivityUpMinor.label>
+  <PsychicSensitivityUpMinor.description>该武器将持用者的心灵敏感度放大 20%。仅在持用武器时生效。</PsychicSensitivityUpMinor.description>
+  <PsyfocusMeditationBonus.label>灵能冥想</PsyfocusMeditationBonus.label>
+  <PsyfocusMeditationBonus.description>该武器的副人格天生善于冥想，能帮助持用者在灵能冥想中专注。只要持用该武器，持用者每天冥想可额外获得 10% 灵能聚焦。</PsyfocusMeditationBonus.description>
+  <SpeedBoost.label>迅捷者</SpeedBoost.label>
+  <SpeedBoost.description>该武器的副人格有一种动感。它将此赋予持用者，只要持用武器，其移动速度提升 15%。</SpeedBoost.description>
+  <ThoughtCalm.label>平静思绪</ThoughtCalm.label>
+  <ThoughtCalm.description>该武器的副人格放松而沉稳。它向与其羁绊的人低语平静的思绪，提升其心情。</ThoughtCalm.description>
+  <ThoughtKind.label>善意思绪</ThoughtKind.label>
+  <ThoughtKind.description>该武器的副人格善良而支持他人。它向与其羁绊的人低语善意的思绪，提升其心情。</ThoughtKind.description>
+  <ThoughtMuttering.label>疯狂嘟囔</ThoughtMuttering.label>
+  <ThoughtMuttering.description>该武器的副人格神经质且不稳定。它向与其羁绊的人嘟囔疯狂的念头，降低其心情。</ThoughtMuttering.description>
+  <ThoughtWailing.label>疯狂哀号</ThoughtWailing.label>
+  <ThoughtWailing.description>该武器的副人格极度困扰，而且对此喋喋不休。它向与其羁绊的人哀号疯狂的念头，压制其心情。</ThoughtWailing.description>
+
+</LanguageData>

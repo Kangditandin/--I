@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <IdeoligionForbids>理念禁止</IdeoligionForbids>
+  <OnlyMembersCanBuild>只有 {0} 能建造</OnlyMembersCanBuild>
+  <CantStartRitualAlreadyInProgress>{0} 已在进行中。</CantStartRitualAlreadyInProgress>
+  <CantStartRitualLayer>{RITUAL} 无法在{GERUND}{LAYER} 时举行。</CantStartRitualLayer>
+  <CantJoinRitualInExtremeWeather>因极端温度，一名或多名参与者无法参加。</CantJoinRitualInExtremeWeather>
+  <CantStartRitualTargetIsAlreadyInRitual>{0} 已在参与一项仪式。</CantStartRitualTargetIsAlreadyInRitual>
+  <CantStartRitualRoleNotAssigned>要开始此仪式，你必须先指定 {0} 职位。</CantStartRitualRoleNotAssigned>
+  <CantStartRitualNoConvertee>没有可转化为 {0} 的对象。你需要一名其他理念的殖民者、囚犯或奴隶。</CantStartRitualNoConvertee>
+  <CantStartRitualSelectedPawnCannotBeRole>{PAWN_nameDef} 无法担任 {ROLE}。</CantStartRitualSelectedPawnCannotBeRole>
+  <CantStartRitualSelectedPawnMustBeMember>{PAWN_nameDef} 必须是 {IDEO_memberName}。</CantStartRitualSelectedPawnMustBeMember>
+  <CantStartRitualSelectedPawnPsychicallyDeaf>{PAWN_nameDef} 灵能失聪。</CantStartRitualSelectedPawnPsychicallyDeaf>
+  <CantStartNotEnoughSpaceDuelSpectators>观众空间不足。必须有半径为 {MINRADIUS} 的空地。该半径内至少需要 {1} 个可站立位置。</CantStartNotEnoughSpaceDuelSpectators>
+  <CantStartNotEnoughSpaceDuelDuelists>决斗者空间不足。必须有半径为 {MINRADIUS} 的空地。该半径内至少需要 {1} 个可站立位置。</CantStartNotEnoughSpaceDuelDuelists>
+  <CantStartNotEnoughSpaceDuelSpeaker>发言者空间不足。必须有半径为 {MINRADIUS} 的空地。</CantStartNotEnoughSpaceDuelSpeaker>
+  <CantStartFuneralForSlave>{0_labelShort} 是奴隶。奴隶不举行葬礼。</CantStartFuneralForSlave>
+  <NoSlaveBed>需要一张可到达、未被预订且温度安全的奴隶床。</NoSlaveBed>
+  <ReturnToSlaveBed>返回奴隶床</ReturnToSlaveBed>
+  <NotAllowedForFaction>派系不允许</NotAllowedForFaction>
+
+  <RemovePrecept>移除戒律</RemovePrecept>
+  <Regenerate>重新生成</Regenerate>
+  <CannotEdit>无法编辑</CannotEdit>
+  <NoChoicesAvailable>没有可用选项</NoChoicesAvailable>
+  <RequiredByMeme>模因 {0} 所需</RequiredByMeme>
+  <Required>必需</Required>
+  <StyleCategory>风格类别</StyleCategory>
+  <AddStyleCategory>添加风格类别</AddStyleCategory>
+  <MaxRitualCount>最多只能添加 {0} 项仪式。</MaxRitualCount>
+  <MaxRelicCount>最多只能添加 {0} 件圣物。</MaxRelicCount>
+  <MaxMultiRolesCount>最多只能有 {0} 名专精者。</MaxMultiRolesCount>
+  <MaxPreceptCount>最多 {0}</MaxPreceptCount>
+  <SetTargetGender>设置性别</SetTargetGender>
+  <RoleApparelRequirementIncompatibleFaction>必须是 {0} 派系</RoleApparelRequirementIncompatibleFaction>
+  <RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>部落</RoleApparelRequirementIncompatibleFaction_Allowed_Tribal>
+  <RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>非部落</RoleApparelRequirementIncompatibleFaction_Disallowed_Tribal>
+  <RoleApparelRequirementIncompatibleAnyMemeRequired>需要以下模因之一</RoleApparelRequirementIncompatibleAnyMemeRequired>
+  <BodyPartAlreadyCovered>无法与已指定的服装同时穿戴</BodyPartAlreadyCovered>
+  <NoteRoleApparelRequirementEffects>当人们的服装要求得到满足时会高兴，被违反时会不满。</NoteRoleApparelRequirementEffects>
+  <NeuralSuperchargeNotReady>强化尚未就绪</NeuralSuperchargeNotReady>
+  <NeuralSuperchargeAlreadyGetting>已在接受中</NeuralSuperchargeAlreadyGetting>
+  <SetApparelType>设置类型</SetApparelType>
+
+  <ChangeStyle>更改风格</ChangeStyle>
+  <DeitiesRequired>需要 {0} 位{DEITYNOUN}</DeitiesRequired>
+  <Deity>神祇</Deity>
+  <RequiresMeme>需要模因</RequiresMeme>
+  <RequiresOneOfMemes>需要以下之一</RequiresOneOfMemes>
+  <ConflictsWithMeme>与模因冲突</ConflictsWithMeme>
+  <ConflictsWithMemes>与模因冲突</ConflictsWithMemes>
+  <IdeoAlreadyHasAltar>最多只能有一个祭坛/理念图</IdeoAlreadyHasAltar>
+  <RecolorApparel>重染服装</RecolorApparel>
+
+  <InstallRelic>安装 {0}</InstallRelic>
+  <ExtractRelic>取出 {0}</ExtractRelic>
+  <ExtractRelicToInventory>将 {0} 取至物品栏（{1}）</ExtractRelicToInventory>
+  <NoRelicToInstall>没有可安装的圣物</NoRelicToInstall>
+  <InstallInReliquary>安装到圣物匣</InstallInReliquary>
+  <NoEmptyReliquary>没有可到达的空圣物匣</NoEmptyReliquary>
+
+  <NoWardenOfIdeo>没有 {MEMBERNAME} 看守</NoWardenOfIdeo>
+
+  <RemoveCurrentRole>移除当前职位</RemoveCurrentRole>
+
+  <EnterBiosculpterPod>进入生物雕塑舱进行 {0} 循环（{1}）</EnterBiosculpterPod>
+  <BiosculpterBiotunedToAnother>已生物调谐至他人。</BiosculpterBiotunedToAnother>
+  <UnderMinBiosculpterAgeReversalAge>必须年满 {0} 岁才能进行年龄逆转。</UnderMinBiosculpterAgeReversalAge>
+  <CarryToBiosculpterPod>将 {PAWN_labelShort} 搬到生物雕塑舱（{CYCLE} 循环）</CarryToBiosculpterPod>
+  <CannotCarryToBiosculpterPod>无法搬到生物雕塑舱</CannotCarryToBiosculpterPod>
+  <NoBiosculpterPod>没有可用的生物雕塑舱。</NoBiosculpterPod>
+  <BiosculpterNutritionNotLoaded>未装载营养</BiosculpterNutritionNotLoaded>
+  <BiosculpterOccupied>已占用</BiosculpterOccupied>
+  <CannotEnter>无法进入</CannotEnter>
+  <BiosculpterCannotStartCycle>无法开始 {0} 循环</BiosculpterCannotStartCycle>
+  <BiosculpterMissingIngredients>找不到循环所需材料（{INGREDIENTS}）</BiosculpterMissingIngredients>
+  <BiosculpterNoEligiblePawns>附近无人能使用它</BiosculpterNoEligiblePawns>
+  <BiosculpterNoEligiblePawnsBiotuned>已生物调谐至 {PAWN_labelShort}，而 {PAWN_pronoun} 不在附近</BiosculpterNoEligiblePawnsBiotuned>
+  <BiosculpterAutoLoadNutritionLabel>自动装载营养</BiosculpterAutoLoadNutritionLabel>
+  <BiosculpterAutoLoadNutritionDescription>自动装载运行一个循环所需的营养</BiosculpterAutoLoadNutritionDescription>
+  <BiosculpterAutoAgeReversalLabel>为 {PAWN_labelShort} 自动年龄逆转</BiosculpterAutoAgeReversalLabel>
+  <BiosculpterAutoAgeReversalDescription>按 {PAWN_labelShort} 的信仰，自动满足其在舱内每年进行一次年龄逆转治疗的意愿。{NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+  <BiosculpterAutoAgeReversalDescriptionFuture>启用后，若雕塑舱已就绪，{PAWN_labelShort} 将在 {TIME} 后自动接受下一次治疗。</BiosculpterAutoAgeReversalDescriptionFuture>
+  <BiosculpterAutoAgeReversalDescriptionNow>{PAWN_labelShort} 已经需要接受下一次治疗，若启用此选项将自动开始。</BiosculpterAutoAgeReversalDescriptionNow>
+  <BiosculpterJobReportCollectIngredients>正在收集生物雕塑循环所需材料</BiosculpterJobReportCollectIngredients>
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <!-- ITab_Entity -->
+  <HoldingPlatformEscapeMTBDays>逃脱间隔</HoldingPlatformEscapeMTBDays>
+  <HoldingPlatformEscapeMTBDaysDesc>两次逃脱之间的平均时间。这受收容强度、实体类型、实体的移动能力以及实体被囚禁时长的影响。有些实体还会被低温压制。</HoldingPlatformEscapeMTBDaysDesc>
+  <TabEntity>实体</TabEntity>
+  <StudyInterval>研究间隔</StudyInterval>
+  <StudyIntervalDesc>此实体多久可以被研究一次。</StudyIntervalDesc>
+  <EntityStudyMode_MaintainOnly>仅维持</EntityStudyMode_MaintainOnly>
+  <EntityStudyMode_MaintainOnlyDesc>看守不会对此实体执行特殊操作，但仍可进行其他互动。</EntityStudyMode_MaintainOnlyDesc>
+  <EntityStudyMode_Study>研究</EntityStudyMode_Study>
+  <EntityStudyMode_StudyDesc>研究员会研究此实体。</EntityStudyMode_StudyDesc>
+  <EntityStudyMode_Release>释放</EntityStudyMode_Release>
+  <EntityStudyMode_ReleaseDesc>看守会将实体从收容平台上释放。实体被释放时可能是敌对的。</EntityStudyMode_ReleaseDesc>
+  <EntityStudyMode_Execute>处决</EntityStudyMode_Execute>
+  <EntityStudyMode_ExecuteDesc>看守会处决被束缚的实体。</EntityStudyMode_ExecuteDesc>
+  <EntityStudyMode_Extract>提取生物铁素</EntityStudyMode_Extract>
+  <EntityStudyMode_ExtractDesc>医生会尽可能从被捕获的实体身上提取生物铁素。此提取方式简单但效率低下。若实体已连接到生物铁素采集器，则无法进行。</EntityStudyMode_ExtractDesc>
+  <RequiresBioferriteExtraction>需要提取生物铁素。</RequiresBioferriteExtraction>
+  <BioferriteHarvesterAttached>被生物铁素采集器阻挡。</BioferriteHarvesterAttached>
+  <CantBeExecuted>无法被处决。</CantBeExecuted>
+  <StudyKnowledgeGain>知识获取</StudyKnowledgeGain>
+  <StudyKnowledgeGainDesc>每个研究间隔获得的知识量。更好的收容条件能让研究员专注于研究而非安全，从而获得更多知识。</StudyKnowledgeGainDesc>
+  <MedicineQualityDescriptionEntity>可以给此实体使用何种药物。</MedicineQualityDescriptionEntity>
+
+  <FactorForElectroharvester>电力采集器</FactorForElectroharvester>
+  <FactorForDaysInCaptivity>长期囚禁</FactorForDaysInCaptivity>
+  <FactorForColdCaptivity>低温收容加成</FactorForColdCaptivity>
+  <IncapableOfEscaping>无法逃脱</IncapableOfEscaping>
+  <EntityDowned>实体已倒地</EntityDowned>
+  <FactorContainmentStrength>收容强度</FactorContainmentStrength>
+  <FactorElectroharvester>电力采集器</FactorElectroharvester>
+  <FactorActivity>活动</FactorActivity>
+
+</LanguageData>

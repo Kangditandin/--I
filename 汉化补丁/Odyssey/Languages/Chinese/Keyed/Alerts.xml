@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AlertVacuumExposure>真空暴露</AlertVacuumExposure>
+  <AlertVacuumExposureDesc>下列人和动物正因暴露于太空真空中而受到伤害：\n{0}\n\n在他们死亡前将他们带到有压力的区域。</AlertVacuumExposureDesc>
+
+  <AlertMechanoidThreat>机械族威胁</AlertMechanoidThreat>
+  <AlertMechanoidThreatDesc>一个机械巢正在进行扫描以确定你的位置。一旦找到你，它就会派出大量敌对机械族发动突袭。\n\n在机械族抵达前撤离此地！</AlertMechanoidThreatDesc>
+  <AlertMechanoidThreatCritical>机械族来袭</AlertMechanoidThreatCritical>
+  <AlertMechanoidThreatCriticalDesc>一个机械巢已发现你的位置。它会派出多波敌对机械族。\n\n在机械族抵达前撤离此地！</AlertMechanoidThreatCriticalDesc>
+
+  <!-- Mechhive -->
+  <StabilizersRemainingAlertLabel>剩余稳定器</StabilizersRemainingAlertLabel>
+  <StabilizersRemainingAlertDescription>脑机核心目前无法被伤害。找到并摧毁它的稳定器，才能接触到核心。</StabilizersRemainingAlertDescription>
+
+  <!-- Relay -->
+  <RelayStabilizersRemainingAlertLabel>剩余稳定器</RelayStabilizersRemainingAlertLabel>
+  <RelayStabilizersRemainingAlertDescription>中继站目前受到附近稳定器的保护。摧毁或骇入它们即可使其失稳。</RelayStabilizersRemainingAlertDescription>
+
+  <!-- Scanner -->
+  <SurveyScannerAlertLabel>保护扫描器</SurveyScannerAlertLabel>
+  <SurveyScannerAlertDescription>保护扫描器直到勘测作业完成。</SurveyScannerAlertDescription>
+  
+</LanguageData>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AcceptRole.reportString>接受身份。</AcceptRole.reportString>
+  <ActivateArchonexusCore.reportString>调用远古科技。</ActivateArchonexusCore.reportString>
+  <Blind.reportString>正在致盲TargetA。</Blind.reportString>
+  <CarryToBiosculpterPod.reportString>正在把TargetA运往生物雕塑舱。</CarryToBiosculpterPod.reportString>
+  <ChangeTreeMode.reportString>正在更改TargetA的树精种类。</ChangeTreeMode.reportString>
+  <CreateAndEnterCocoon.reportString>正在结茧。</CreateAndEnterCocoon.reportString>
+  <CreateAndEnterHealingPod.reportString>正在创建治愈舱。</CreateAndEnterHealingPod.reportString>
+  <Dance.reportString>正在跳舞。</Dance.reportString>
+  <DeliverToAltar.reportString>正在把TargetA送往祭坛。</DeliverToAltar.reportString>
+  <DyeHair.reportString>正在染发</DyeHair.reportString>
+  <EatAtCannibalPlatter.reportString>正在TargetA进食。</EatAtCannibalPlatter.reportString>
+  <EnterBiosculpterPod.reportString>正在进入生物雕塑舱。</EnterBiosculpterPod.reportString>
+  <ExtractRelic.reportString>正在从TargetA取出TargetB。</ExtractRelic.reportString>
+  <ExtractToInventory.reportString>正在把TargetB取出放入库存。</ExtractToInventory.reportString>
+  <GetNeuralSupercharge.reportString>正在从TargetA获得神经强化</GetNeuralSupercharge.reportString>
+  <GiveToPawn.reportString>正在把TargetA交给TargetB。</GiveToPawn.reportString>
+  <GotoAndBeSociallyActive.reportString>正在社交放松。</GotoAndBeSociallyActive.reportString>
+  <InduceSlaveToRebel.reportString>正在诱使TargetA反叛。</InduceSlaveToRebel.reportString>
+  <InstallRelic.reportString>正在把TargetA安装到TargetB</InstallRelic.reportString>
+  <MeditatePray.reportString>正在祈祷。</MeditatePray.reportString>
+  <MergeIntoGaumakerPod.reportString>正在融入TargetB。</MergeIntoGaumakerPod.reportString>
+  <OpenStylingStationDialog.reportString>正在TargetA更改样式。</OpenStylingStationDialog.reportString>
+  <PrepareSkylantern.reportString>正在制作天灯。</PrepareSkylantern.reportString>
+  <PrisonerConvert.reportString>正在让TargetA皈依。</PrisonerConvert.reportString>
+  <PrisonerEnslave.reportString>正在奴役TargetA。</PrisonerEnslave.reportString>
+  <PrisonerReduceWill.reportString>正在削弱TargetA的意志。</PrisonerReduceWill.reportString>
+  <PruneGauranlenTree.reportString>正在修剪TargetA。</PruneGauranlenTree.reportString>
+  <RecolorApparel.reportString>正在给衣物重新染色</RecolorApparel.reportString>
+  <ReturnToGauranlenTree.reportString>正在返回TargetA。</ReturnToGauranlenTree.reportString>
+  <Sacrifice.reportString>正在献祭TargetA。</Sacrifice.reportString>
+  <Scarify.reportString>正在对TargetA刺青。</Scarify.reportString>
+  <SlaveEmancipation.reportString>正在解放TargetA。</SlaveEmancipation.reportString>
+  <SlaveExecution.reportString>正在处决TargetA。</SlaveExecution.reportString>
+  <SlaveSuppress.reportString>正在压制TargetA。</SlaveSuppress.reportString>
+  <UseStylingStation.reportString>正在TargetA更改样式。</UseStylingStation.reportString>
+  <UseStylingStationAutomatic.reportString>正在TargetA更改样式。</UseStylingStationAutomatic.reportString>
+  
+</LanguageData>

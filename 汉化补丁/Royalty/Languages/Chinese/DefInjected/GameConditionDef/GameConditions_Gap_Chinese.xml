@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ClimateAdjustment.letterText>一台气候调节器机器已开始改变温度。</ClimateAdjustment.letterText>
+  <EMIField.endMessage>电磁干扰场已消失。</EMIField.endMessage>
+  <EMIField.letterText>一个电磁干扰场已产生。它正在使电子设备失效。</EMIField.letterText>
+  <GiantSmokeCloud.letterText>一台喷烟机已开始遮蔽太阳。</GiantSmokeCloud.letterText>
+  <PsychicSuppression.endMessage>灵能抑制场已消散。</PsychicSuppression.endMessage>
+  <PsychicSuppression.letterText>一个灵能抑制场已开始降低整个区域内{0}的意识。该效果受个体心灵敏感度的调节。</PsychicSuppression.letterText>
+  <SunBlocker.letterText>一台遮阳器机器已开始遮蔽太阳。</SunBlocker.letterText>
+  <ToxicSpewer.letterText>一台喷毒机已开始用毒素覆盖整个区域。</ToxicSpewer.letterText>
+  <WeatherController.endMessage>天气控制器不再改变天气。</WeatherController.endMessage>
+  <WeatherController.letterText>一台天气控制器机器已开始影响天气。</WeatherController.letterText>
+  
+</LanguageData>

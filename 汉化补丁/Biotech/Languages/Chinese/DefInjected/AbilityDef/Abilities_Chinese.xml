@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AcidSpray.label>酸液喷吐</AcidSpray.label>
+  <AcidSpray.description>从颈部的腺体经口腔向整个目标区域喷出黏性酸性物质。酸液会附着在目标上并灼烧他们。</AcidSpray.description>
+  <AnimalWarcall.label>动物战呼</AnimalWarcall.label>
+  <AnimalWarcall.description>以强劲的吼叫与灵能连接，召唤一只动物为你与敌人战斗数小时。</AnimalWarcall.description>
+  <AnimalWarcall.verbProperties.label>战呼</AnimalWarcall.verbProperties.label>
+  <Bloodfeed.label>吸血</Bloodfeed.label>
+  <Bloodfeed.description>咬住目标并从其血液中直接提取血原质。目标会失血，并因这一互动而惊恐，但除此之外不会受伤。快速起效的凝血剂会封住伤口以防流血。\n\n只能以非造血人类为目标。血原质获取量受目标体型影响。</Bloodfeed.description>
+  <Coagulate.label>凝血</Coagulate.label>
+  <Coagulate.description>使用腕部的特殊腺体迅速处理某人的伤口。</Coagulate.description>
+  <FireBurst.label>火焰爆发</FireBurst.label>
+  <FireBurst.description>向四面八方喷出燃烧的燃料，在地面上形成燃烧液体的水洼。</FireBurst.description>
+  <FirefoampopMech.label>灭火泡沫弹</FirefoampopMech.label>
+  <FirefoampopMech.description>在一片圆形区域释放阻燃泡沫。</FirefoampopMech.description>
+  <FireSpew.label>喷火</FireSpew.label>
+  <FireSpew.description>从口中喷出一股黏性、易燃的胆汁。胆汁能点燃它击中的任何东西或人，并在地面上形成燃烧的水洼。\n\n胆汁由颈部的一个器官生成并储存，另有一个单独的超戈燃料反应物囊用于点火。</FireSpew.description>
+  <FoamSpray.label>泡沫喷射</FoamSpray.label>
+  <FoamSpray.description>从颈部的腺体经口腔喷出浓稠的阻燃泡沫。泡沫会覆盖一小片区域，并熄灭它接触到的任何火焰。</FoamSpray.description>
+  <Longjump.label>远跳</Longjump.label>
+  <Longjump.description>使用超强、血原质驱动的双腿跳向远处位置。</Longjump.description>
+  <Longjump.verbProperties.label>跳跃</Longjump.verbProperties.label>
+  <LongjumpMech.label>机械远跳</LongjumpMech.label>
+  <LongjumpMech.description>使用特殊的超快速机械体肌肉跳向远处位置。</LongjumpMech.description>
+  <LongjumpMech.verbProperties.label>跳跃</LongjumpMech.verbProperties.label>
+  <LongjumpMechLauncher.label>跳跃发射器</LongjumpMechLauncher.label>
+  <LongjumpMechLauncher.description>使用内置跳跃发射器跳向远处位置。</LongjumpMechLauncher.description>
+  <LongjumpMechLauncher.verbProperties.label>跳跃</LongjumpMechLauncher.verbProperties.label>
+  <PiercingSpine.label>穿刺脊刺</PiercingSpine.label>
+  <PiercingSpine.description>使用造血化学反应向目标发射一根骨刺。脊刺从锁骨之间的开口穿出皮肤。鉴于这种发射方式，瞄准出奇地容易。</PiercingSpine.description>
+  <ReimplantXenogerm.label>植入基因</ReimplantXenogerm.label>
+  <ReimplantXenogerm.description>使用特殊的注射器器官将此人的异种基因植入一名自愿对象体内。若此人的基因目前正处于再生期，他们会在植入异种胚芽的过程中死亡。\n\n植入时，异种胚芽会覆盖目标的异种基因。种系基因不受影响。</ReimplantXenogerm.description>
+  <Resurrect.label>复活</Resurrect.label>
+  <Resurrect.description>使用血液中的远古微粒为尸体注入新的生命，修复退化的细胞结构并启动重要功能。尸体越老旧、保存越差，他们带着记忆丧失或健康问题回来的可能性就越大。该能力似乎会以某种方式耗尽远古微粒，因此只能极少使用。</Resurrect.description>
+  <ResurrectionMech.label>复活机械体</ResurrectionMech.label>
+  <ResurrectionMech.description>通过从外部超载其自我修复过程来复活一台刚阵亡的机械体。该机械体会带着部分（而非全部）伤口痊愈的状态回来。</ResurrectionMech.description>
+  <SmokepopMech.label>机械烟幕</SmokepopMech.label>
+  <SmokepopMech.description>从隐藏的通风口释放压缩烟雾。烟雾会降低任何穿过它的射击精度，并完全阻止炮塔锁定。</SmokepopMech.description>
+  <RemoteRepair.label>远程维修</RemoteRepair.label>
+  <RemoteRepair.description>远程维修一台机械体。机械师与机械体链接，并用自己的大脑为其自我维修机械微粒提供超出其自身灵能能力的详细指引。这使机械体能在迅速治愈伤害方面取得进展。</RemoteRepair.description>
+  <RemoteShield.label>远程护盾</RemoteShield.label>
+  <RemoteShield.description>远程向一台机械体投射个人防御护盾。护盾会阻止射入的伤害，但也阻止向外射击，因此即使在敌人身上施放也可能有用。机械师必须持续专注于该机械体以维持护盾。</RemoteShield.description>
+
+</LanguageData>

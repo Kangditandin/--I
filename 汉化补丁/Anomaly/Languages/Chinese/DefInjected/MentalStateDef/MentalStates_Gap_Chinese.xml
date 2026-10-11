@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <CubeSculpting.baseInspectLine>精神状态：立方雕塑</CubeSculpting.baseInspectLine>
+  <CubeSculpting.beginLetter>{PAWN_nameDef}对立方体的痴迷使{PAWN_objective}陷入了恍惚。{PAWN_pronoun}打算建造一座雕塑，以释放{PAWN_possessive}脑中不断积聚的压力。</CubeSculpting.beginLetter>
+  <CubeSculpting.beginLetterLabel>立方痴迷</CubeSculpting.beginLetterLabel>
+  <CubeSculpting.recoveryMessage>{PAWN_nameDef}完成了{PAWN_possessive}立方结构。</CubeSculpting.recoveryMessage>
+  <DarkVisions.baseInspectLine>精神状态：黑暗幻象</DarkVisions.baseInspectLine>
+  <DarkVisions.beginLetter>{PAWN_nameDef}被可怕的幻象压垮，胡言乱语着只有{PAWN_pronoun}才看得见的东西。{PAWN_pronoun}会在几个小时后恢复过来。</DarkVisions.beginLetter>
+  <DarkVisions.beginLetterLabel>黑暗幻象</DarkVisions.beginLetterLabel>
+  <DarkVisions.recoveryMessage>{PAWN_nameDef}的黑暗幻象停止了。</DarkVisions.recoveryMessage>
+  <EntityKiller.baseInspectLine>精神状态：实体屠戮者</EntityKiller.baseInspectLine>
+  <EntityKiller.beginLetter>{0}崩溃了。{PAWN_pronoun}再也无法忍受把如此危险的实体囚禁起来，打算尽可能多地摧毁它们。</EntityKiller.beginLetter>
+  <EntityKiller.recoveryMessage>{0}不再乱杀实体了。</EntityKiller.recoveryMessage>
+  <EntityLiberator.baseInspectLine>精神状态：实体解放者</EntityLiberator.baseInspectLine>
+  <EntityLiberator.beginLetter>{0}突然被一个被囚禁的实体所吸引，并深信它必须被释放。</EntityLiberator.beginLetter>
+  <EntityLiberator.recoveryMessage>{0}不再释放实体了。</EntityLiberator.recoveryMessage>
+  <HumanityBreak.baseInspectLine>精神状态：人性崩解</HumanityBreak.baseInspectLine>
+  <HumanityBreak.beginLetter>{PAWN_nameDef}舍弃了{PAWN_possessive}与凡人身份仅剩的羁绊，拥抱了{PAWN_possessive}理念对虚空的崇拜。{PAWN_possessive}对健康、家庭、友谊与爱的牵挂都已崩断。\n\n{PAWN_nameDef}如今已非人化，并会在努力应对自身新的精神取向时陷入一次崩溃。</HumanityBreak.beginLetter>
+  <InsaneRamblings.baseInspectLine>精神状态：疯狂呓语</InsaneRamblings.baseInspectLine>
+  <InsaneRamblings.beginLetter>{PAWN_nameDef}已完全脱离现实，胡言乱语着不可能存在的事物。{PAWN_pronoun}会在几个小时后恢复过来。</InsaneRamblings.beginLetter>
+  <InsaneRamblings.beginLetterLabel>疯狂呓语</InsaneRamblings.beginLetterLabel>
+  <InsaneRamblings.recoveryMessage>{PAWN_nameDef}停止了呓语。</InsaneRamblings.recoveryMessage>
+  <ManhunterBloodRain.baseInspectLine>发狂：猎杀人类</ManhunterBloodRain.baseInspectLine>
+  <ManhunterBloodRain.recoveryMessage>{0}的猎杀嗜血欲望结束了。</ManhunterBloodRain.recoveryMessage>
+  <TerrifyingHallucinations.baseInspectLine>精神状态：骇人幻觉</TerrifyingHallucinations.baseInspectLine>
+  <TerrifyingHallucinations.beginLetter>生动的幻觉在{0}周围翻涌，把盟友扭曲、幻化成可怖的憎恶之物。{PAWN_pronoun}会逃离任何被{PAWN_pronoun}视为威胁的人。</TerrifyingHallucinations.beginLetter>
+  <TerrifyingHallucinations.beginLetterLabel>骇人幻觉</TerrifyingHallucinations.beginLetterLabel>
+  <TerrifyingHallucinations.recoveryMessage>{0}不再产生幻觉了。</TerrifyingHallucinations.recoveryMessage>
+  
+</LanguageData>

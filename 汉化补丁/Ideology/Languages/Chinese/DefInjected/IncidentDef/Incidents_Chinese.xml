@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GauranlenPodSpawn.label>高兰树荚萌发</GauranlenPodSpawn.label>
+  <GiveQuest_Beggars.label>乞丐抵达</GiveQuest_Beggars.label>
+  <GiveQuest_ReliquaryPilgrims.label>朝圣者抵达</GiveQuest_ReliquaryPilgrims.label>
+  <Infestation_Jelly.label>虫胶</Infestation_Jelly.label>
+  <WanderersSkylantern.label>天灯流浪者</WanderersSkylantern.label>
+  <GiveQuest_EndGame_ArchonexusVictory.label>机械神所胜利</GiveQuest_EndGame_ArchonexusVictory.label>
+  <GiveQuest_WorkSite.label>工作点</GiveQuest_WorkSite.label>
+
+</LanguageData>

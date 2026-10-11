@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <InstallAdrenalHeart.label>植入肾上腺心</InstallAdrenalHeart.label>
+  <InstallAdrenalHeart.description>植入肾上腺心。</InstallAdrenalHeart.description>
+  <InstallCorrosiveHeart.label>植入腐蚀心</InstallCorrosiveHeart.label>
+  <InstallCorrosiveHeart.description>植入腐蚀心。</InstallCorrosiveHeart.description>
+  <InstallGhoulBarbs.label>植入食尸鬼倒刺</InstallGhoulBarbs.label>
+  <InstallGhoulBarbs.description>植入食尸鬼倒刺。</InstallGhoulBarbs.description>
+  <InstallGhoulPlating.label>植入食尸鬼护甲板</InstallGhoulPlating.label>
+  <InstallGhoulPlating.description>植入食尸鬼护甲板。</InstallGhoulPlating.description>
+  <InstallMetalbloodHeart.label>植入金属血心</InstallMetalbloodHeart.label>
+  <InstallMetalbloodHeart.description>植入金属血心。</InstallMetalbloodHeart.description>
+  <InstallRevenantVertebrae.label>植入亡魂脊椎</InstallRevenantVertebrae.label>
+  <InstallRevenantVertebrae.description>植入亡魂脊椎。</InstallRevenantVertebrae.description>
+  <ExtractBioferrite.label>培育生物铁素</ExtractBioferrite.label>
+  <ExtractBioferrite.description>处理一具尸体，以便从播种入血肉与神经组织的远古微粒中培育出一批生物铁素。</ExtractBioferrite.description>
+  <BlissLobotomy.label>极乐脑白质切除</BlissLobotomy.label>
+  <BlissLobotomy.description>移除一个人的部分大脑，使其陷入极乐状态，同时使其无法从事智识与技能劳动。他们学习也会更慢，且更不可能叛乱或尝试越狱。</BlissLobotomy.description>
+  <GhoulInfusion.label>食尸鬼注入</GhoulInfusion.label>
+  <GhoulInfusion.description>将一枚远古科技碎片注入一个活人体内，创造出一种名为食尸鬼的可怖生物。食尸鬼是凶猛的近战斗士，无法工作。它们靠吃生肉生存，但从不睡眠。饥饿的食尸鬼很危险。\n\n通过该手术创造的食尸鬼将成为你殖民地的一部分。</GhoulInfusion.description>
+  <SurgicalInspection.label>手术检查</SurgicalInspection.label>
+  <SurgicalInspection.description>一种侵入性手术，用于寻找患者体内任何隐藏的异常。</SurgicalInspection.description>
+
+</LanguageData>

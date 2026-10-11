@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BuildMonumentWorker.label>纪念碑建成</BuildMonumentWorker.label>
+  <BuildMonument_TimeProtect.label>纪念碑建成</BuildMonument_TimeProtect.label>
+  <ChangeRoyalHeir.label>[titleHolder_nameDef]的继承人更改失败</ChangeRoyalHeir.label>
+  <DecreeSetup.label>[asker_nameDef]的命令被遗忘</DecreeSetup.label>
+  <Decree_BuildMonument.label>新纪念碑标记已抵达</Decree_BuildMonument.label>
+  <EndGame_RoyalAscent.endingText>高阶星尊现在将把你作为尊贵的贵族随行团迎接进帝国舰队。\n\n你也许会选择留在帝国宫廷中争权夺势。也许你会避开这些纷争，专注于享受超科技的奢华。又或者，你甚至会买一艘飞船，驶向你久别的故乡。\n\n选择权在你手中。</EndGame_RoyalAscent.endingText>
+  <EndGame_RoyalAscent.label>任务失败：[resolvedQuestName]</EndGame_RoyalAscent.label>
+  <Hospitality_Util_Worker.label>穿梭机抵达</Hospitality_Util_Worker.label>
+  <Intro_Deserter.label>任务已过期：[resolvedQuestName]</Intro_Deserter.label>
+  <Intro_Wimp.label>穿梭机抵达</Intro_Wimp.label>
+  <Intro_Wimp.title>自耕农</Intro_Wimp.title>
+  <PawnLend.label>穿梭机抵达</PawnLend.label>
+  <Permit_CallLaborers.label>劳工已抵达</Permit_CallLaborers.label>
+  <Util_ApplyMoodThreshold.label>客人不快：{SUBJECT_definite}</Util_ApplyMoodThreshold.label>
+  <Util_ArriveByDropPodsOrShuttle.label>穿梭机被摧毁</Util_ArriveByDropPodsOrShuttle.label>
+  <Util_MaybeGenerateHelpers.label>[helpersLabelSingOrPlural]离去</Util_MaybeGenerateHelpers.label>
+  
+</LanguageData>

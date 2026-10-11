@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <CureAbasia.jobString>正在注入抗瘫痪机械微粒。</CureAbasia.jobString>
+  <CureAbasia.successfullyRemovedHediffMessage>{0}成功治愈了{1}的麻痹性瘫痪。</CureAbasia.successfullyRemovedHediffMessage>
+  <CureBloodRot.jobString>正在治愈血液腐坏。</CureBloodRot.jobString>
+  <CureBloodRot.successfullyRemovedHediffMessage>{0}成功治愈了{1}的血液腐坏。</CureBloodRot.successfullyRemovedHediffMessage>
+  <InstallAestheticNose.jobString>正在安装美容鼻。</InstallAestheticNose.jobString>
+  <InstallAestheticShaper.jobString>正在安装美容塑形器。</InstallAestheticShaper.jobString>
+  <InstallArmorskinGland.jobString>正在安装装甲皮腺。</InstallArmorskinGland.jobString>
+  <InstallCircadianAssistant.jobString>正在安装昼夜节律辅助器。</InstallCircadianAssistant.jobString>
+  <InstallCircadianHalfCycler.jobString>正在安装昼夜节律半循环器。</InstallCircadianHalfCycler.jobString>
+  <InstallCoagulator.jobString>正在安装凝血器。</InstallCoagulator.jobString>
+  <InstallDetoxifierStomach.jobString>正在安装灭菌胃。</InstallDetoxifierStomach.jobString>
+  <InstallDrillArm.jobString>正在安装钻臂。</InstallDrillArm.jobString>
+  <InstallElbowBlade.jobString>正在安装肘刃。</InstallElbowBlade.jobString>
+  <InstallFieldHand.jobString>正在安装田间手。</InstallFieldHand.jobString>
+  <InstallGastroAnalyzer.jobString>正在安装胃部分析仪。</InstallGastroAnalyzer.jobString>
+  <InstallHandTalon.jobString>正在安装爪手。</InstallHandTalon.jobString>
+  <InstallHealingEnhancer.jobString>正在安装愈合强化器。</InstallHealingEnhancer.jobString>
+  <InstallImmunoenhancer.jobString>正在安装免疫强化器。</InstallImmunoenhancer.jobString>
+  <InstallKneeSpike.jobString>正在安装膝钉。</InstallKneeSpike.jobString>
+  <InstallLearningAssistant.jobString>正在安装学习辅助器。</InstallLearningAssistant.jobString>
+  <InstallLoveEnhancer.jobString>正在安装爱情强化器。</InstallLoveEnhancer.jobString>
+  <InstallMindscrew.jobString>正在安装脑螺钉。</InstallMindscrew.jobString>
+  <InstallNeurocalculator.jobString>正在安装神经计算器。</InstallNeurocalculator.jobString>
+  <InstallNuclearStomach.jobString>正在安装核能胃。</InstallNuclearStomach.jobString>
+  <InstallPsychicHarmonizer.jobString>正在安装灵能协调器。</InstallPsychicHarmonizer.jobString>
+  <InstallPsychicReader.jobString>正在安装灵能读取器。</InstallPsychicReader.jobString>
+  <InstallPsychicSensitizer.jobString>正在安装灵能敏化器。</InstallPsychicSensitizer.jobString>
+  <InstallReprocessorStomach.jobString>正在安装再处理胃。</InstallReprocessorStomach.jobString>
+  <InstallStoneskinGland.jobString>正在安装石肤腺。</InstallStoneskinGland.jobString>
+  <InstallToughskinGland.jobString>正在安装韧皮腺。</InstallToughskinGland.jobString>
+  <InstallVenomFangs.jobString>正在安装毒牙。</InstallVenomFangs.jobString>
+  <InstallVenomTalon.jobString>正在安装毒爪。</InstallVenomTalon.jobString>
+  <RemoveAestheticNose.jobString>正在移除美容鼻。</RemoveAestheticNose.jobString>
+  <RemoveAestheticShaper.jobString>正在移除美容塑形器。</RemoveAestheticShaper.jobString>
+  <RemoveArmorskinGland.jobString>正在移除装甲皮腺。</RemoveArmorskinGland.jobString>
+  <RemoveCircadianAssistant.jobString>正在移除昼夜节律辅助器。</RemoveCircadianAssistant.jobString>
+  <RemoveCircadianHalfCycler.jobString>正在移除昼夜节律半循环器。</RemoveCircadianHalfCycler.jobString>
+  <RemoveCoagulator.jobString>正在移除凝血器。</RemoveCoagulator.jobString>
+  <RemoveElbowBlade.jobString>正在移除肘刃。</RemoveElbowBlade.jobString>
+  <RemoveGastroAnalyzer.jobString>正在移除胃部分析仪。</RemoveGastroAnalyzer.jobString>
+  <RemoveHandTalon.jobString>正在移除爪手。</RemoveHandTalon.jobString>
+  <RemoveHealingEnhancer.jobString>正在移除愈合强化器。</RemoveHealingEnhancer.jobString>
+  <RemoveImmunoenhancer.jobString>正在移除免疫强化器。</RemoveImmunoenhancer.jobString>
+  <RemoveKneeSpike.jobString>正在移除膝钉。</RemoveKneeSpike.jobString>
+  <RemoveLearningAssistant.jobString>正在移除学习辅助器。</RemoveLearningAssistant.jobString>
+  <RemoveLoveEnhancer.jobString>正在移除爱情强化器。</RemoveLoveEnhancer.jobString>
+  <RemoveNeurocalculator.jobString>正在移除神经计算器。</RemoveNeurocalculator.jobString>
+  <RemovePsychicHarmonizer.jobString>正在移除灵能协调器。</RemovePsychicHarmonizer.jobString>
+  <RemovePsychicReader.jobString>正在移除灵能读取器。</RemovePsychicReader.jobString>
+  <RemovePsychicSensitizer.jobString>正在移除灵能敏化器。</RemovePsychicSensitizer.jobString>
+  <RemoveStoneskinGland.jobString>正在移除石肤腺。</RemoveStoneskinGland.jobString>
+  <RemoveToughskinGland.jobString>正在移除韧皮腺。</RemoveToughskinGland.jobString>
+  <RemoveVenomFangs.jobString>正在移除毒牙。</RemoveVenomFangs.jobString>
+  <RemoveVenomTalon.jobString>正在移除毒爪。</RemoveVenomTalon.jobString>
+  
+</LanguageData>

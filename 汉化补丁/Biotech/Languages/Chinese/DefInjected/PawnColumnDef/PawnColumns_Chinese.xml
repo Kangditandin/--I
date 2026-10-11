@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowedAreaMech.label>允许区域</AllowedAreaMech.label>
+  <AutoRepair.label>自动维修</AutoRepair.label>
+  <ControlGroup.label>控制组</ControlGroup.label>
+  <DraftMech.label>征召</DraftMech.label>
+  <Energy.label>能量</Energy.label>
+  <Overseer.label>监工</Overseer.label>
+  <WorkMode.label>工作模式</WorkMode.label>
+
+</LanguageData>

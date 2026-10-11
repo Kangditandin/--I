@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BodyMastery.degreeDatas.body_mastery.label>肉体掌控</BodyMastery.degreeDatas.body_mastery.label>
+  <BodyMastery.degreeDatas.body_mastery.description>{PAWN_nameDef}没有进食、睡眠或舒适等基本需求。{PAWN_possessive}的身体由某种未知机制驱动，双眼已完全变白。</BodyMastery.degreeDatas.body_mastery.description>
+  <Disturbing.degreeDatas.disturbing.label>令人不安</Disturbing.degreeDatas.disturbing.label>
+  <Disturbing.degreeDatas.disturbing.description>{PAWN_nameDef}是个古怪的人，似乎执着于骇人的念头。与{PAWN_objective}交谈常令人不快。</Disturbing.degreeDatas.disturbing.description>
+  <Joyous.degreeDatas.joyous.label>欢欣</Joyous.degreeDatas.joyous.label>
+  <Joyous.degreeDatas.joyous.description>{PAWN_nameDef}有能力让每个人都感觉更好，并激励他们成为最好的自己。</Joyous.degreeDatas.joyous.description>
+  <Occultist.degreeDatas.occultist.label>神秘学者</Occultist.degreeDatas.occultist.label>
+  <Occultist.degreeDatas.occultist.description>{PAWN_nameDef}对黑暗心灵能量的扭曲纹路有着深厚的了解。{PAWN_pronoun}研究非自然实体的速度高于常人。只要有机会，{PAWN_pronoun}还会定期将这种非人的知识传授给他人。</Occultist.degreeDatas.occultist.description>
+  <PerfectMemory.degreeDatas.perfect_memory.label>完美记忆</PerfectMemory.degreeDatas.perfect_memory.label>
+  <PerfectMemory.degreeDatas.perfect_memory.description>{PAWN_nameDef}拥有出众的记忆力，无论是信息记忆还是肌肉记忆。{PAWN_possessive}的技能永不衰退。</PerfectMemory.degreeDatas.perfect_memory.description>
+  <VoidFascination.degreeDatas.void_fascination.label>虚空迷恋</VoidFascination.degreeDatas.void_fascination.label>
+  <VoidFascination.degreeDatas.void_fascination.description>{PAWN_nameDef}对非自然实体有种奇怪的兴趣，很容易被它们迷住。</VoidFascination.degreeDatas.void_fascination.description>
+
+</LanguageData>

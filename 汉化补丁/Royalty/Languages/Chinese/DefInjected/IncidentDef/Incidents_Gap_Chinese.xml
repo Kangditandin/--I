@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AnimaTreeSpawn.letterLabel>灵树</AnimaTreeSpawn.letterLabel>
+  <AnimaTreeSpawn.letterText>附近冒出了一棵灵树。\n\n部落民可以把它用作强大的冥想焦点，但前提是附近没有放置人造建筑。</AnimaTreeSpawn.letterText>
+  <Disease_Abasia.letterLabel>疾病：麻痹性瘫痪</Disease_Abasia.letterLabel>
+  <Disease_BloodRot.letterLabel>疾病：血液腐坏</Disease_BloodRot.letterLabel>
+  <MechCluster.letterLabel>机械体集群</MechCluster.letterLabel>
+  <MechCluster.letterText>一个机械体作战集群正在附近降落。该集群起初会处于休眠状态，因此你有时间决定如何攻击它。\n\n它可能会一直休眠直到被惊扰，也可能会有一个倒计时或接近激活器。\n\n即便休眠的机械集群也并非无害。休眠的集群可能会不时集结机械体袭击者，或带有某种必须最终应对的更广泛的负面影响。</MechCluster.letterText>
+  
+</LanguageData>

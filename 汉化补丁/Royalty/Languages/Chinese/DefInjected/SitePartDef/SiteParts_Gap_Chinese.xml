@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <RaidSource.approachOrderString>攻击{0}</RaidSource.approachOrderString>
+  <RaidSource.approachingReportString>正在攻击{0}。</RaidSource.approachingReportString>
+  
+</LanguageData>

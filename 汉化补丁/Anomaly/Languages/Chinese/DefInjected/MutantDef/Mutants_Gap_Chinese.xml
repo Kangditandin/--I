@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Ghoul.deathLetter>你的一只食尸鬼死了。</Ghoul.deathLetter>
+  <Ghoul.deathLetterExtra>与普通殖民者不同，食尸鬼无需安葬，其死亡也不会让他人难过。如果你愿意，可以选择埋葬它们。</Ghoul.deathLetterExtra>
+  <Shambler.namePrefix>行尸</Shambler.namePrefix>
+  
+</LanguageData>

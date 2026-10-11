@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Ability.label>特殊能力</Ability.label>
+  <Aptitudes.label>天赋</Aptitudes.label>
+  <Archite.label>远古</Archite.label>
+  <Beauty.label>美貌</Beauty.label>
+  <Cosmetic_Body.label>外观 - 体型</Cosmetic_Body.label>
+  <Drugs.label>药物</Drugs.label>
+  <Healing.label>健康</Healing.label>
+  <Hemogen.label>血原质</Hemogen.label>
+  <Mood.label>心情</Mood.label>
+  <Movement.label>移动</Movement.label>
+  <Pain.label>疼痛</Pain.label>
+  <Psychic.label>灵能</Psychic.label>
+  <Reproduction.label>繁殖</Reproduction.label>
+  <ResistanceAndWeakness.label>抗性与弱性</ResistanceAndWeakness.label>
+  <Sleep.label>睡眠</Sleep.label>
+  <Temperature.label>温度</Temperature.label>
+  <Violence.label>暴力</Violence.label>
+
+</LanguageData>

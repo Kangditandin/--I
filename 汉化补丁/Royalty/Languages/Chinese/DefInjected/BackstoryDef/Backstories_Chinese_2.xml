@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <LoyalJanissary59.description>[PAWN_nameDef]是一位大领主军队中的亲兵。甚至比其他部队更甚，[PAWN_pronoun]有一种责任感，并从[PAWN_pronoun]为履行[PAWN_possessive]职责所付出的努力中汲取生命的意义。</LoyalJanissary59.description>
+  <MilitaryChaplain10.description>[PAWN_nameDef]与部队一同训练与作战，为垂死者施行圣事并坚定生者的信仰。\n\n像所有帝国随军牧师一样，[PAWN_pronoun]发誓绝不亲自参战。不过，[PAWN_pronoun]担任医护兵并治疗伤员。</MilitaryChaplain10.description>
+  <MilitaryCommissar71.description>[PAWN_nameDef]是一个帝国军营的内部特务长。[PAWN_pronoun]确保士兵们忠诚，且非奉命令绝不后退。这使[PAWN_objective]不受欢迎，但[PAWN_pronoun]练就了察觉最轻微不诚实的精湛技能。</MilitaryCommissar71.description>
+  <MilitaryCook18.description>俗话说军队靠胃行军。[PAWN_nameDef]的工作是准备伙食，让[PAWN_possessive]部队无论在什么情况下都能继续行军。\n\n这份工作要求[PAWN_objective]兼顾部队的营养与心理需求。</MilitaryCook18.description>
+  <PiousSoldier67.description>在非训练或作战时，[PAWN_nameDef]常在随军牧师身边。[PAWN_pronoun]将[PAWN_possessive]生命奉献于侍奉[PAWN_possessive]领主与[PAWN_possessive]宗教。</PiousSoldier67.description>
+  <Propagandist86.description>[PAWN_nameDef]是一名技艺娴熟的艺术家与军事宣传员。[PAWN_pronoun]创作作品，以有利的方式描绘[PAWN_possessive]领主与军队。</Propagandist86.description>
+  <ReconSniper89.description>[PAWN_nameDef]是一名职业军用狙击手。[PAWN_pronoun]受过训练，能迅速抵达出人意料的射击位置、狙击关键目标，并在敌人锁定[PAWN_possessive]位置前撤离。</ReconSniper89.description>
+  <RoyalGuard51.description>[PAWN_nameDef]守卫一位权势领主的私人宫殿。\n\n虽然暴力罕见，宫廷阴谋却持续不断。[PAWN_nameDef]的工作教会[PAWN_pronoun]同时驾驭言语与枪械。</RoyalGuard51.description>
+  <Shipcracker37.description>[PAWN_nameDef]的职责是穿越太空真空发射、降落在敌舰船壳上、打洞进入内部，并在逐室战斗中征服它。[PAWN_pronoun]变得极擅使用重型铁甲骑兵武器，既能斩钢也能斩肉。\n\n[PAWN_pronoun]还对[PAWN_pronoun]用来应对巨大压力的药物产生了喜好。</Shipcracker37.description>
+  <Warmonger35.description>[PAWN_nameDef]沉醉于流血。与[PAWN_objective]共事的士兵都畏惧[PAWN_possessive]凶残。他们很少与[PAWN_nameDef]来往，而[PAWN_pronoun]并不介意这种孤立。</Warmonger35.description>
+  <Delinquent13.description>[PAWN_nameDef]童年大部分时间都在铁窗之后度过。在一次失败的逃逸尝试后，[PAWN_pronoun]被强征入伍。</Delinquent13.description>
+  <Machinist56.description>[PAWN_nameDef]对机械颇有天分。[PAWN_pronoun]通过修理与改装黑市武器来补贴家用。</Machinist56.description>
+  <MilitaryCadet46.description>[PAWN_nameDef]年幼时就被从[PAWN_possessive]家中征走，成为一名士兵。[PAWN_pronoun]与其他军人子弟一起住在营房，学习责任、武器、痛苦与胜利。\n\n教官们有时会让孩子们离开基地去享受更广阔的世界。他们想要能独立思考的士兵。</MilitaryCadet46.description>
+  <PoliticalCaptive7.description>[PAWN_nameDef]被一个敌对的家族绑架并扣押以索要赎金。为了在囚禁中打发时间，[PAWN_pronoun]读书并练习武术。[PAWN_nameDef]几乎没有机会发展[PAWN_possessive]社交技能。</PoliticalCaptive7.description>
+  <RichKid61.description>[PAWN_nameDef]出身于富有而有势力的血统。[PAWN_possessive]昂贵的教育包括决斗、领导与军事战略的课程。</RichKid61.description>
+  <ShipBoy89.description>[PAWN_nameDef]出生在一艘古老星舰上的低阶仆人家中。船上的机械人格对[PAWN_objective]而言就像第三位家长，而[PAWN_pronoun]所效力的部件制作班组则像第二个家庭。\n\n[PAWN_nameDef]很少见到植物或动物，如今仍觉得触摸它们令人不安。</ShipBoy89.description>
+  <SoldiersKid55.description>[PAWN_nameDef]在[PAWN_possessive]父母驻扎的古老星舰上长大。[PAWN_pronoun]从船上的士兵那里学会了枪械操作与维护的基础。[PAWN_nameDef]习惯了严格的作息与频繁的纪律处分。</SoldiersKid55.description>
+  <StreetRat81.description>[PAWN_nameDef]属于一个街头窃贼帮派。[PAWN_possessive]日子在扒窃、调解地盘纠纷，或沉醉于[PAWN_pronoun]能弄到手的任何药物中度过。</StreetRat81.description>
+  <ArtsPatron54.description>[PAWN_nameDef]管理[PAWN_possessive]家族在艺术上的投资。\n\n[PAWN_pronoun]挑选要资助的艺术家，并与他们合作创作最能彰显[PAWN_possessive]家族、帝国教会与帝国本身的表现作品。</ArtsPatron54.description>
+  <Beastmaster67.description>[PAWN_nameDef]家族的孩子多过头衔可分。由于在出生顺序中位次靠后，[PAWN_nameDef]被授予兽王这一荣誉头衔。\n\n[PAWN_nameDef]管理家族庞大的动物展览园。虽然[PAWN_pronoun]从未亲手与野兽打交道，[PAWN_pronoun]却与它们心意相通。很少有别人能像它们那样欣赏[PAWN_objective]。</Beastmaster67.description>
+  <Landworker98.description>[PAWN_nameDef]在[PAWN_possessive]王室中担任田务官这一职位。[PAWN_pronoun]管理家族的土地及其上的一切资源——农业与矿产皆包括在内。\n\n虽然[PAWN_pronoun]永远不会亲自操作机器，但管理这些产业需要详细了解农耕与采矿的方法。</Landworker98.description>
+  <Regent9.description>当[PAWN_nameDef]家族的盟友被杀、其年幼的儿子继承了他的王座时，[PAWN_nameDef]被任命为摄政以代替那孩子进行统治。\n\n[PAWN_pronoun]监督家族与头衔的各类事务，从财政到战争，再到意图篡位的贪婪亲戚。[PAWN_nameDef]从未滥用[PAWN_possessive]地位。</Regent9.description>
+  <Spymaster41.description>一到[PAWN_pronoun]年纪够大，[PAWN_nameDef]就被授予[PAWN_possessive]家族特务长的职位。[PAWN_possessive]冷酷、精于算计的本性使[PAWN_objective]天生擅长刀刃、毒药与背叛的技艺。</Spymaster41.description>
+  <Warmaster54.description>[PAWN_nameDef]是一个中级王室家族的军事统帅。[PAWN_pronoun]监督家族战略中的军事层面。\n\n在罕见的战斗发生时，[PAWN_nameDef]指挥军事长官。</Warmaster54.description>
+  <CountryLordling92.description>[PAWN_nameDef]在一个贵族家族位于外乡的庄园中长大。[PAWN_possessive]早年充满了骑马、政治与宗教的课程。\n\n[PAWN_nameDef]与[PAWN_possessive]朋友们想出许多办法在田野与森林里违规取乐。</CountryLordling92.description>
+  <PamperedLordling37.description>[PAWN_nameDef]的父母不想要又一个继承人。出于对继承权之争的恐惧，他们决定提早使[PAWN_objective]无用。\n\n他们从[PAWN_nameDef]出生起就娇养[PAWN_objective]，使其无法发展出足以威胁他们心爱之子的胆识或知识。[PAWN_nameDef]除学会如何操纵王室仆役以获取更多食物外，几乎什么都没学到。</PamperedLordling37.description>
+  <ShipboundLordling12.description>[PAWN_nameDef]的家族将权力根基置于一艘宏伟的古老星舰之上。[PAWN_nameDef]在船上出生并长大，深谙舰上生活的严苛，以及星际战斗与轨道入侵的政治与手段。\n\n[PAWN_pronoun]学会了在四面紧逼的坚固墙壁与大气调节器的轻柔嘶声中，感到最为自在。</ShipboundLordling12.description>
+  <UnwantedSurvivor67.description>[PAWN_nameDef]的贵族家族不想要[PAWN_objective]，但也无法承受被人看到直接刺杀[PAWN_objective]的代价。他们试图通过在[PAWN_objective]年幼时安排缺乏适当保护的训练来害死[PAWN_objective]。\n\n[PAWN_nameDef]克服一切困难，在长枪比武、马战赛、河川赛与战区中活了下来。到头来，这只让[PAWN_objective]更加强大。</UnwantedSurvivor67.description>
+  <UrbanLordling82.description>[PAWN_nameDef]出生在一个大城中拥有宏伟庄园的王室家族。[PAWN_pronoun]把[PAWN_possessive]青春花在政治课程上。\n\n只要有机会，[PAWN_pronoun]就会与[PAWN_possessive]朋友们溜出去，探索大都会那些半建成的地下结构。</UrbanLordling82.description>
+
+</LanguageData>

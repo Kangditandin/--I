@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AteVeneratedAnimalMeat.label>吃了受崇敬动物的肉</AteVeneratedAnimalMeat.label>
+  <HuntedVeneratedAnimal.label>猎杀了受崇敬动物</HuntedVeneratedAnimal.label>
+  <SlaughteredVeneratedAnimal.label>屠宰了受崇敬动物</SlaughteredVeneratedAnimal.label>
+  <TameVeneratedAnimalDied.label>受崇敬动物死亡</TameVeneratedAnimalDied.label>
+  <SlaughteredAnimal.label>屠宰了动物</SlaughteredAnimal.label>
+  <ChangedIdeo.label>改变了理念</ChangedIdeo.label>
+  <BuiltAutomatedTurret.label>建造了自动化武器</BuiltAutomatedTurret.label>
+  <GotBlinded.label>被致盲</GotBlinded.label>
+  <AteNonCannibalFood.label>吃了非食人食物</AteNonCannibalFood.label>
+  <CharityFulfilled_Beggars.label>帮助了乞丐</CharityFulfilled_Beggars.label>
+  <CharityFulfilled_HospitalityRefugees.label>帮助了难民</CharityFulfilled_HospitalityRefugees.label>
+  <CharityFulfilled_IntroWimp.label>拯救了贵族</CharityFulfilled_IntroWimp.label>
+  <CharityFulfilled_RefugeePodCrash.label>拯救了舱难难民</CharityFulfilled_RefugeePodCrash.label>
+  <CharityFulfilled_ShuttleCrashRescue.label>帮助了坠机幸存者</CharityFulfilled_ShuttleCrashRescue.label>
+  <CharityFulfilled_ThreatReward_Joiner.label>接纳了绝望的加入者</CharityFulfilled_ThreatReward_Joiner.label>
+  <CharityFulfilled_WandererJoins.label>帮助了流浪者</CharityFulfilled_WandererJoins.label>
+  <CharityRefused_Beggars.label>拒绝了乞丐</CharityRefused_Beggars.label>
+  <CharityRefused_Beggars_Betrayed.label>背叛了乞丐</CharityRefused_Beggars_Betrayed.label>
+  <CharityRefused_HospitalityRefugees.label>拒绝了难民</CharityRefused_HospitalityRefugees.label>
+  <CharityRefused_IntroWimp.label>拒绝了懦夫</CharityRefused_IntroWimp.label>
+  <CharityRefused_Pilgrims.label>拒绝了朝圣者</CharityRefused_Pilgrims.label>
+  <CharityRefused_Pilgrims_Betrayed.label>背叛了朝圣者</CharityRefused_Pilgrims_Betrayed.label>
+  <CharityRefused_RefugeePodCrash.label>拒绝了舱难难民</CharityRefused_RefugeePodCrash.label>
+  <CharityRefused_ShuttleCrashRescue.label>拒绝了坠机幸存者</CharityRefused_ShuttleCrashRescue.label>
+  <CharityRefused_WandererJoins.label>拒绝了流浪者</CharityRefused_WandererJoins.label>
+  <AteFungus.label>吃了菌类</AteFungus.label>
+  <AteFungusAsIngredient.label>吃了含菌类的餐食</AteFungusAsIngredient.label>
+  <AteNonFungusMealWithPlants.label>吃了含非菌类植物的餐食</AteNonFungusMealWithPlants.label>
+  <AteNonFungusPlant.label>吃了非菌类作物</AteNonFungusPlant.label>
+  <ParticipatedInOthersRitual.label>参与了其他理念的仪式</ParticipatedInOthersRitual.label>
+  <KilledInnocentAnimal.label>杀死了无辜动物</KilledInnocentAnimal.label>
+  <AteMeat.label>吃了肉</AteMeat.label>
+  <AteNonMeat.label>吃了素食</AteNonMeat.label>
+  <HarvestedOrgan.label>摘取了器官</HarvestedOrgan.label>
+  <InstalledOrgan.label>植入了器官</InstalledOrgan.label>
+  <SoldOrgan.label>出售了器官</SoldOrgan.label>
+  <TradedOrgan.label>交易了器官</TradedOrgan.label>
+  <ConvertedNewMember.label>转化了新成员</ConvertedNewMember.label>
+  <RelicHuntSuccess.label>获得圣物</RelicHuntSuccess.label>
+  <ReliquaryPilgrimsSuccess.label>朝圣者瞻仰了圣物</ReliquaryPilgrimsSuccess.label>
+  <PlayerRaidedSomeone.label>袭击了某人</PlayerRaidedSomeone.label>
+  <Raided.label>袭击</Raided.label>
+  <Raided_BanditCamp.label>袭击了强盗营地</Raided_BanditCamp.label>
+  <Raided_WorkSite.label>袭击了工作点</Raided_WorkSite.label>
+  <HospitalitySuccess_Animals.label>动物接待成功</HospitalitySuccess_Animals.label>
+  <RelicDestroyed.label>圣物被摧毁</RelicDestroyed.label>
+  <RelicLost.label>圣物遗失</RelicLost.label>
+  <GotScarified.label>被划痕</GotScarified.label>
+  <EnslavedPrisoner.label>奴役了囚犯</EnslavedPrisoner.label>
+  <EnslavedPrisonerNotPreviouslyEnslaved.label>奴役了囚犯</EnslavedPrisonerNotPreviouslyEnslaved.label>
+  <GotMarried_SpouseCount_FiveOrMore.label>与五位或更多配偶结婚</GotMarried_SpouseCount_FiveOrMore.label>
+  <GotMarried_SpouseCount_Four.label>与四位或更多配偶结婚</GotMarried_SpouseCount_Four.label>
+  <GotMarried_SpouseCount_Three.label>与三位或更多配偶结婚</GotMarried_SpouseCount_Three.label>
+  <UsedBiosculpterPod.label>使用了生物雕塑舱</UsedBiosculpterPod.label>
+  <PlantedGauranlenTree.label>种植了高兰树</PlantedGauranlenTree.label>
+  <KillWithDespisedWeapon.label>以被厌恶的武器取胜</KillWithDespisedWeapon.label>
+  <KillWithNobleWeapon.label>以高贵武器取胜</KillWithNobleWeapon.label>
+  <UsedDespisedWeapon.label>使用了被厌恶的武器</UsedDespisedWeapon.label>
+  <UsedNobleWeapon.label>使用了高贵武器</UsedNobleWeapon.label>
+
+</LanguageData>

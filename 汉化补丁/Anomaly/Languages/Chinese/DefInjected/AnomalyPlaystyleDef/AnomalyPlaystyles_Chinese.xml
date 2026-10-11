@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AmbientHorror.label>环境恐怖</AmbientHorror.label>
+  <AmbientHorror.description>巨石碑不会出现。任何异常威胁都可能发生，但异常威胁默认会较为罕见。如果你希望接触异常扩展内容、又不以它为核心，这很适合你。注意：此模式下无法发生巨石碑结局。</AmbientHorror.description>
+  <Disabled.label>禁用异常事件</Disabled.label>
+  <Disabled.description>异常威胁不会发生。如果你不想接触大多数异常扩展内容，这很适合你。</Disabled.description>
+  <Standard.label>标准（含巨石碑）</Standard.label>
+  <Standard.description>标准的异常体验。异常威胁与虚空巨石碑的激活相关联。</Standard.description>
+
+</LanguageData>

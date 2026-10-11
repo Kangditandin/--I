@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <MessageMustChooseIdeo>为你的派系创建或选择一个理念。</MessageMustChooseIdeo>
+  <MessageIdeoNameCantBeEmpty>理念名称不能为空。</MessageIdeoNameCantBeEmpty>
+  <MessageIdeoIncompatiblePrecepts>{PRECEPT1} 与 {PRECEPT2} 不兼容。</MessageIdeoIncompatiblePrecepts>
+  <MessageIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} 的服装倾向与 {ROLE} 的服装要求重叠。</MessageIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>{DESIREDAPPAREL} 与 {ROLE} 的服装要求（{ROLEAPPAREL}）重叠。这将使 {ROLE} 无法同时穿戴要求与偏好的服装。</DescriptionIdeoWarnRoleApparelOverlapsDesiredApparel>
+  <MessageRitualMissingTarget>{PRECEPT} 需要以下建筑之一</MessageRitualMissingTarget>
+  <MessageBuildingMissingRitual>{PRECEPT} 需要一个关联仪式。</MessageBuildingMissingRitual>
+  <MessagePawnUnwillingToDoDueToIdeo>{0_labelShort} 因其理念而拒绝这样做。</MessagePawnUnwillingToDoDueToIdeo>
+  <MessageFailedConvertIdeoAttempt>{INITIATOR_nameDef} 试图将 {RECIPIENT_nameDef} 转化为 {INITIATOR_possessive} 的理念。{RECIPIENT_nameDef} 的确信度从 {CERTAINTYBEFORE} 降至 {CERTAINTYAFTER}。{RECIPIENT_pronoun} 对这种转化尝试感到恼火。</MessageFailedConvertIdeoAttempt>
+  <MessageFailedConvertIdeoAttemptSocialFight>{PAWN1_nameDef} 试图将 {PAWN2_nameDef} 转化为 {PAWN1_possessive} 的理念。这导致了一场社交打架！</MessageFailedConvertIdeoAttemptSocialFight>
+  <MessageNotEnoughMemes>你必须至少选择 {0} 个模因。</MessageNotEnoughMemes>
+  <MessageTooManyMemes>你最多只能选择 {0} 个模因。</MessageTooManyMemes>
+  <MessageNotEnoughStructureMemes>你必须选择一个结构模因。</MessageNotEnoughStructureMemes>
+  <MessageIncompatibleMemes>{0_label} 与 {1_label} 互不兼容。</MessageIncompatibleMemes>
+  <MessageNoRequiredRolePawnToBeginRitual>你需要 {0} 才能开始 {1}。</MessageNoRequiredRolePawnToBeginRitual>
+  <MessageNotEnoughSpectators>至少需要 {0} 名观众才能开始 {1}。</MessageNotEnoughSpectators>
+  <MessageRoleChangeChooseDifferentRole>你必须选择一个职位。</MessageRoleChangeChooseDifferentRole>
+  <MessageNeedAssignedRoleToBeginRitual>在开始 {1} 之前，你必须先指定某人担任 {0} 职位。</MessageNeedAssignedRoleToBeginRitual>
+  <MessageNeedAtLeastOneParticipantOfIdeo>需要至少一名 {0} 参与。</MessageNeedAtLeastOneParticipantOfIdeo>
+  
+  <MessageRoleAssigned>{0_labelShort} 现在担任 {1} 职位。</MessageRoleAssigned>
+  <MessageRoleUnassignedPrisoner>由于 {0_labelShort} 成为了囚犯，{0_pronoun} 不再能担任 {1} 职位。</MessageRoleUnassignedPrisoner>
+  <MessageWarningPlayerDesignatedTreeChopped>警告：若砍伐树木，{0} 会不满。</MessageWarningPlayerDesignatedTreeChopped>
+  <MessageWarningPlayerDesignatedMining>警告：若进行采矿，{0} 会不满。</MessageWarningPlayerDesignatedMining>
+  <MessageConnectedPawnDied>{TREE_label} 与 {PAWN_nameDef} 的连接已被扯断。它必须恢复 {DURATION} 后才能再次连接。</MessageConnectedPawnDied>
+
+  <!-- Slave interactions -->
+  <MessageSlaveEmancipated>{0_nameDef} 已被 {1_nameDef} 解放。</MessageSlaveEmancipated>
+  <MessagePrisonerEnslaved>{0_nameDef} 已被 {1_nameDef} 奴役。</MessagePrisonerEnslaved>
+  <MessagePrisonerWillBroken>囚犯 {1_nameDef} 的意志已被 {0_nameDef} 击破。</MessagePrisonerWillBroken>
+  <MessagePrisonerWillBroken_RecruitAttempsWillBegin>随后将进行奴役。</MessagePrisonerWillBroken_RecruitAttempsWillBegin>
+
+  <!-- Prisoner interactions -->
+  <MessageNoWardenCapableOfEnslavement>没有看守能执行此奴役操作。</MessageNoWardenCapableOfEnslavement>
+  <MessageNoWardenOfIdeo>你没有 {MEMBERNAME} 看守来转化 {PRISONER_nameDef}。{PRISONER_possessive} 的互动模式已恢复为“无互动”。</MessageNoWardenOfIdeo>
+
+  <!-- Camps -->
+  <MessageCampDetected>你在附近探测到了由 {FACTION_name} 控制的 {CAMP_label}。</MessageCampDetected>
+
+  <!-- Charity -->
+  <MessageCharityEventRefused>已拒绝慈善</MessageCharityEventRefused>
+  <MessageCharityEventFulfilled>已完成慈善</MessageCharityEventFulfilled>
+  <MessageBeggarsLeavingWithNoItems>{0} 将空手离开。</MessageBeggarsLeavingWithNoItems>
+  <MessageBeggarsLeavingWithItemsSingular>那位 {0} 已接受所求物品，正在离开。</MessageBeggarsLeavingWithItemsSingular>
+  <MessageBeggarsLeavingWithItemsPlural>{0} 已接受所求物品，正在离开。</MessageBeggarsLeavingWithItemsPlural>
+  <MessageWandererLeftToDie>{0_nameDef} 因未得到任何治疗而死亡。</MessageWandererLeftToDie>
+  <MessageWandererLeftBehind>{0_nameDef} 被抛弃等死。</MessageWandererLeftBehind>
+  <MessageWandererRecruited>{0_nameDef} 已被招募。</MessageWandererRecruited>
+  <MessageWandererLeftHealthy>{0_nameDef} 健康地离开了。</MessageWandererLeftHealthy>
+  <MessageCharityQuestEndedFailed>{0} 失败了。</MessageCharityQuestEndedFailed>
+  <MessageCharityQuestEndedSuccess>{0} 已成功完成。</MessageCharityQuestEndedSuccess>
+
+  <!-- Ideo UI -->
+  <CannotRemove>无法移除</CannotRemove>
+  <CannotRemoveMemeRequired>无法移除 {MEME}</CannotRemoveMemeRequired>
+  <CannotRemoveMemeRequiredPlayer>无法移除 {MEME}：玩家派系所需。</CannotRemoveMemeRequiredPlayer>
+  <RequiredByFaction>{FACTION_name} 所需。</RequiredByFaction>
+  <OverlappingRoleApparel>职位的服装要求不能重叠。</OverlappingRoleApparel>
+  
+  <SelfDestructCountdown>{0} 将在 {1} 后自毁。</SelfDestructCountdown>
+  <PreceptNameTooLong>戒律名称过长（最多 {0} 个字符）</PreceptNameTooLong>
+
+  <!-- Ancient complex -->
+  <MessageAncientTerminalDiscovered>你发现了一个古代终端，其中有关于 {0} 的信息！</MessageAncientTerminalDiscovered>
+  <MessageAncientComplexBackToShuttle>你发现了关于 {0} 的秘密信息！回到穿梭机上以将其发射。</MessageAncientComplexBackToShuttle>
+  <MessageAncientSignalActivated>一个古代补给卫星已被激活。补给将在附近投放。</MessageAncientSignalActivated>
+  <MessageAncientSignalHostileDetected>来自 {1} 的 {0} 探测到了补给信号，正在发动攻击。</MessageAncientSignalHostileDetected>
+
+  <!-- Ancient altar -->
+  <MessageAncientAltarThreatsWokenUp>所有安全系统正在苏醒！</MessageAncientAltarThreatsWokenUp>
+  <MessageAncientAltarThreatsAlerted>所有安全系统都已察觉你的存在。</MessageAncientAltarThreatsAlerted>
+
+  <!-- Animals -->
+  <MessageAnimalIsVeneratedForAllColonists>警告：{PAWNKINDLABELPLURAL} 受所有 {PAWNS} 崇敬，不会受到伤害。</MessageAnimalIsVeneratedForAllColonists>
+
+  <!-- Archonexus -->
+  <MessageNewColonyMax>最多选择 {0} 个 {1} 带到新殖民地。</MessageNewColonyMax>
+  <MessageNewColoyRequiresOneColonist>你必须至少选择 1 名殖民者。</MessageNewColoyRequiresOneColonist>
+
+  <!-- Fuel node -->
+  <MessageFuelNodeTriggered>一个 {0} 已起火，即将爆炸！</MessageFuelNodeTriggered>
+
+  <!-- Ancient complex -->
+  <MessageSleepingThreatDelayActivated>{0_pawnsPlural} 将在 {1} 后苏醒。</MessageSleepingThreatDelayActivated>
+  <MessageInfestationDelayActivated>虫灾即将到来。</MessageInfestationDelayActivated>
+  <MessageFuelNodeDelayActivated>{0} 受到扰动，可能很快爆炸！</MessageFuelNodeDelayActivated>
+
+  <!-- Fluid ideo messages -->
+  <MessageDevelopmentPointsEarned>发展点数从 {0} 变为 {1}（{2}）。</MessageDevelopmentPointsEarned>
+  <MessageFluidIdeoOneChangeAllowed>对结构、模因和风格仅允许更改一项。</MessageFluidIdeoOneChangeAllowed>
+
+</LanguageData>

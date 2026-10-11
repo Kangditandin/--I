@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <MeditationDesiredPsyfocus.helpText>你可以为每名殖民者设定一个期望的灵能专注水平。为此，选中一名拥有灵能链接的殖民者，点击其灵能专注条。\n\n若某名殖民者的灵能专注低于其期望水平，他们会在时间安排为「任意」时自动冥想。</MeditationDesiredPsyfocus.helpText>
+  <MeditationSchedule.helpText>你可以给殖民者安排特定的冥想日程。\n\n打开「日程」选项卡，选择「冥想」安排，然后点击并拖拽你想让对方冥想的时间段。</MeditationSchedule.helpText>
+  
+</LanguageData>

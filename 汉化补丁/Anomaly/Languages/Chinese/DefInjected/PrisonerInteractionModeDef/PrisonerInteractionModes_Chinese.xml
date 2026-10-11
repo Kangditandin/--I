@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Interrogate.label>审问</Interrogate.label>
+  <Interrogate.description>狱警会审问囚犯并观察其反应，以判断他们是否真是自己声称的那个人。识破冒充者的几率随狱警的社交互动能力提升。冒充者总有机会不被察觉。</Interrogate.description>
+  <Study.label>研究</Study.label>
+  <Study.description>研究人员与其互动以获取知识。</Study.description>
+
+</LanguageData>

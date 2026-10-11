@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DroneChassis.label>底盘</DroneChassis.label>
+  <DroneCore.label>核心</DroneCore.label>
+  <DroneEye.label>视觉传感器</DroneEye.label>
+  <DroneShell.label>外壳</DroneShell.label>
+  <DroneShellSection.label>外壳节段</DroneShellSection.label>
+  <DroneShellSectionWithSpike.label>带尖刺的外壳节段</DroneShellSectionWithSpike.label>
+  <DroneTreads.label>履带</DroneTreads.label>
+  <AnimalShell.label>甲壳</AnimalShell.label>
+  <Gills.label>鳃</Gills.label>
+  <EyeStalk.label>眼柄</EyeStalk.label>
+  <SnailFoot.label>腹足</SnailFoot.label>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BioluminescentSpores.label>生物荧光孢子</BioluminescentSpores.label>
+  <BioluminescentSpores.description>某种菌类正在绽放并释放生物荧光孢子！这些孢子奇异而美丽，毫无危险。</BioluminescentSpores.description>
+  <DarkenedSkies.label>昏暗的天空</DarkenedSkies.label>
+  <DarkenedSkies.description>厚厚的黑色云层遮蔽了天空与太阳。</DarkenedSkies.description>
+  <DeepFreeze.label>深寒</DeepFreeze.label>
+  <DeepFreeze.description>一台远古的神秘装置正在大幅降低该区域的温度。</DeepFreeze.description>
+  <Drought.label>干旱</Drought.label>
+  <Drought.description>一段长期的少雨期。干旱期间植物生长会更慢。</Drought.description>
+  <DroughtInitial.label>初始干旱条件</DroughtInitial.label>
+  <DroughtInitial.description>干旱的初始迹象。若持续下去，将发生全面干旱。</DroughtInitial.description>
+  <GillRot.label>鳃腐病</GillRot.label>
+  <GillRot.description>由于一种名为鳃腐病的寄生真菌，鱼类数量正在缓慢下降。该真菌对人类无害。</GillRot.description>
+  <HeatVentHeat.label>排热口排放</HeatVentHeat.label>
+  <HeatVentHeat.description>附近地下排热口的热量正在提升该区域的温度。</HeatVentHeat.description>
+  <LavaFlow.label>熔岩流</LavaFlow.label>
+  <LavaFlow.description>熔岩开始涌入该区域。它会漫过低洼的火山岩，但不会波及其他地形。让你的殖民者远离危险！</LavaFlow.description>
+  <VolcanicAsh.label>火山灰</VolcanicAsh.label>
+  <VolcanicAsh.description>附近火山喷发的灰烬正布满天空。太阳被遮蔽，刺鼻的空气灼烧肺部。这团灰云会持续数天。</VolcanicAsh.description>
+  <VolcanicDebris.label>火山碎屑</VolcanicDebris.label>
+  <VolcanicDebris.description>附近的火山喷发正以熔岩如雨般洒向该区域！</VolcanicDebris.description>
+  <WindyGameCondition.label>大风</WindyGameCondition.label>
+  <WindyGameCondition.description>该区域的风强得多。</WindyGameCondition.description>
+
+</LanguageData>

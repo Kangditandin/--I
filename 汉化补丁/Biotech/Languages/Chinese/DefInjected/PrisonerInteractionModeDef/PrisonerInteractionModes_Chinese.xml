@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bloodfeed.label>喂血</Bloodfeed.label>
+  <Bloodfeed.description>当噬血者的血原质水平过低时，他们可能会吸食此囚犯。同牢房中的其他噬血者囚犯也可以吸食此囚犯。</Bloodfeed.description>
+  <HemogenFarm.label>血原质农场</HemogenFarm.label>
+  <HemogenFarm.description>只要能在不致死的情况下进行，就会自动为此囚犯排入提取血原质的操作。该操作由医生执行。</HemogenFarm.description>
+
+</LanguageData>

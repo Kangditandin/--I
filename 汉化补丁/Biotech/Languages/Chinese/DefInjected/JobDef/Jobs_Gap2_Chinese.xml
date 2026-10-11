@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AbsorbXenogerm.reportString>正在从TargetA吸收异种胚芽。</AbsorbXenogerm.reportString>
+  <BabyPlay.reportString>正在与TargetA玩耍。</BabyPlay.reportString>
+  <BabySuckle.reportString>正在从TargetA吃奶。</BabySuckle.reportString>
+  <BottleFeedBaby.reportString>正在给TargetA喂TargetB。</BottleFeedBaby.reportString>
+  <Breastfeed.reportString>正在给TargetA哺乳。</Breastfeed.reportString>
+  <BreastfeedCarryToMom.reportString>正在把TargetA带给TargetB。</BreastfeedCarryToMom.reportString>
+  <BringBabyToSafety.reportString>正在把TargetA放到安全的地方。</BringBabyToSafety.reportString>
+  <BringBabyToSafetyUnforced.reportString>正在把TargetA放到安全的地方。</BringBabyToSafetyUnforced.reportString>
+  <CarryGenepackToContainer.reportString>正在把TargetA搬运到TargetB。</CarryGenepackToContainer.reportString>
+  <CarryToBuilding.reportString>正在把TargetB运往TargetA。</CarryToBuilding.reportString>
+  <CarryToMomAfterBirth.reportString>正在把TargetA带给TargetB。</CarryToMomAfterBirth.reportString>
+  <ClearPollution.reportString>正在清理污染。</ClearPollution.reportString>
+  <ControlMech.reportString>正在接管TargetA。</ControlMech.reportString>
+  <CreateXenogerm.reportString>正在制造异种胚芽。</CreateXenogerm.reportString>
+  <Deathrest.reportString>正在死眠。</Deathrest.reportString>
+  <DisassembleMech.reportString>正在拆解TargetA。</DisassembleMech.reportString>
+  <EmptyWasteContainer.reportString>正在从TargetA提取TargetB。</EmptyWasteContainer.reportString>
+  <EnterBuilding.reportString>正在进入TargetA。</EnterBuilding.reportString>
+  <FertilizeOvum.reportString>正在给TargetA授精。</FertilizeOvum.reportString>
+  <GetReimplanted.reportString>正在从TargetA吸收异种胚芽。</GetReimplanted.reportString>
+  <HaulMechToCharger.reportString>正在把TargetA搬运到充电器。</HaulMechToCharger.reportString>
+  <HaulToAtomizer.reportString>正在搬运TargetA。</HaulToAtomizer.reportString>
+  <InstallMechlink.reportString>正在安装TargetA。</InstallMechlink.reportString>
+  <MechCharge.reportString>正在充电。</MechCharge.reportString>
+  <NatureRunning.reportString>正在自然奔跑。</NatureRunning.reportString>
+  <PrisonerBloodfeed.reportString>正在吸TargetA的血。</PrisonerBloodfeed.reportString>
+  <ReadDatacore.reportString>正在解密TargetA。</ReadDatacore.reportString>
+  <ReleaseMechs.reportString>正在释放机械体。</ReleaseMechs.reportString>
+  <RepairMech.reportString>正在修理TargetA。</RepairMech.reportString>
+  <RepairMechRemote.reportString>正在修理TargetA。</RepairMechRemote.reportString>
+  <SelfShutdown.reportString>休眠自充能。</SelfShutdown.reportString>
+  <ShieldMech.reportString>正在为TargetA提供护盾。</ShieldMech.reportString>
+  <Skydreaming.reportString>正在望天做梦。</Skydreaming.reportString>
+  <TryRomance.reportString>正在与TargetA谈情。</TryRomance.reportString>
+  <Wait_WithSleeping.reportString>正在等待。</Wait_WithSleeping.reportString>
+  
+</LanguageData>

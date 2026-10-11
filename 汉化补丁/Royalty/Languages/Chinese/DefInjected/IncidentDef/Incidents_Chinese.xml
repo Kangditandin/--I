@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Disease_Abasia.label>麻痹性步行不能</Disease_Abasia.label>
+  <Disease_BloodRot.label>血腐病</Disease_BloodRot.label>
+  <MechCluster.label>机械集群</MechCluster.label>
+  <WandererJoinAbasia.label>步行不能者加入</WandererJoinAbasia.label>
+  <AnimaTreeSpawn.label>灵树</AnimaTreeSpawn.label>
+  <CaravanArrivalTributeCollector.label>贡品收集者商队抵达</CaravanArrivalTributeCollector.label>
+  <GiveQuest_EndGame_RoyalAscent.label>皇家升迁</GiveQuest_EndGame_RoyalAscent.label>
+  <GiveQuest_Intro_Deserter.label>帝国逃兵</GiveQuest_Intro_Deserter.label>
+  <GiveQuest_Intro_Wimp.label>帝国懦夫</GiveQuest_Intro_Wimp.label>
+  <ProblemCauser.label>麻烦制造者</ProblemCauser.label>
+
+</LanguageData>

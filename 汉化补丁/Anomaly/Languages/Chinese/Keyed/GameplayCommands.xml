@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CommandSelfResurrect>自我复活</CommandSelfResurrect>
+  <CommandSelfResurrectDesc>命令此人自我复活，治愈创伤并修复受损的躯体部位。该过程并不完美，可能会留下疤痕。</CommandSelfResurrectDesc>
+
+  <ToggleStudy>研究</ToggleStudy>
+  <ToggleStudyDesc>开启后，研究员会自动研究收容在此收容平台上的实体。</ToggleStudyDesc>
+
+</LanguageData>

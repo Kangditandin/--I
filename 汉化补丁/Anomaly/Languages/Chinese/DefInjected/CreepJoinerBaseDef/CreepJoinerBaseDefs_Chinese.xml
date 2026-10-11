@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Assault.label>基础突袭</Assault.label>
+  <FleshbeastEmergence.label>肉兽涌出</FleshbeastEmergence.label>
+  <SightstealerAttack.label>窃视者攻击</SightstealerAttack.label>
+  <Alchemist.label>炼金术士</Alchemist.label>
+  <BodyMastery.label>肉体掌控</BodyMastery.label>
+  <DeathRefusal.label>拒死</DeathRefusal.label>
+  <Fleshcrafter.label>血肉塑造者</Fleshcrafter.label>
+  <Joybringer.label>欢欣使者</Joybringer.label>
+  <Occultist.label>神秘学者</Occultist.label>
+  <PerfectHuman.label>完美人类</PerfectHuman.label>
+  <PsychicButcher.label>灵能屠夫</PsychicButcher.label>
+  <ShamblerOverlord.label>行尸霸主</ShamblerOverlord.label>
+  <UnnaturalHealing.label>非自然治疗</UnnaturalHealing.label>
+  <Aggressive.label>好斗</Aggressive.label>
+  <CrumblingMind.label>心智崩解</CrumblingMind.label>
+  <Disturbing.label>令人不安</Disturbing.label>
+  <EntityJailbreaker.label>实体破狱者</EntityJailbreaker.label>
+  <Leaves.label>离开</Leaves.label>
+  <Metalhorror.label>金属恐惧</Metalhorror.label>
+  <Nothing.label>无</Nothing.label>
+  <OrganDecay.label>器官衰败</OrganDecay.label>
+  <PsychicAgony.label>灵能剧痛</PsychicAgony.label>
+  <AggressiveRejection.label>好斗拒绝</AggressiveRejection.label>
+  <Departure.label>离去</Departure.label>
+
+</LanguageData>

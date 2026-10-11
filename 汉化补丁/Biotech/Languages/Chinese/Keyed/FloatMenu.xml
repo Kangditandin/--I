@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NotAMechanitor>不是机械师</NotAMechanitor>
+  <NotEnoughBandwidth>带宽不足</NotEnoughBandwidth>
+  <ControlMech>控制 {0}</ControlMech>
+  <CannotControlMech>无法控制 {0}</CannotControlMech>
+  <CannotControlMechAlreadyControlled>已被 {0} 控制</CannotControlMechAlreadyControlled>
+  <CannotControlMechNotEnoughBandwidth>带宽不足</CannotControlMechNotEnoughBandwidth>
+  <CannotControlMechNeverControllable>永远无法控制</CannotControlMechNeverControllable>
+  <CannotDisconnectMech>无法断开与 {0} 的连接</CannotDisconnectMech>
+  <DisconnectMech>断开与 {0} 的连接</DisconnectMech>
+  <DisassembleMech>永久拆解 {0}</DisassembleMech>
+  <CannotDisassembleMech>无法永久拆解 {0}</CannotDisassembleMech>
+  <MustBeOverseer>必须是监督者</MustBeOverseer>
+  <Extract>提取</Extract>
+  <OutOfCommandRange>超出指挥范围</OutOfCommandRange>
+  <CannotGoOutOfRange>无法前往此处</CannotGoOutOfRange>
+  <WasteContainerFull>必须清空</WasteContainerFull>
+  <CannotRepairMech>无法修复机械体 {0}</CannotRepairMech>
+
+  <ExtractXenogermFrom>从 {PAWN_nameDef} 提取异种胚芽</ExtractXenogermFrom>
+  <EnterBuilding>进入 {0_labelShort}</EnterBuilding>
+  <PawnHasNoGenes>{PAWN_nameDef} 没有基因</PawnHasNoGenes>
+  <PawnHasNoNonArchiteGenes>{PAWN_nameDef} 没有可提取的基因。</PawnHasNoNonArchiteGenes>
+  <InXenogerminationComa>处于异种胚芽植入昏迷</InXenogerminationComa>
+  <Occupied>已占用</Occupied>
+  <OccupantEjectedFromGrowthVat>{PAWN_nameDef} 被从生长舱中弹出</OccupantEjectedFromGrowthVat>
+  <TooOld>{PAWN_nameDef} 必须小于 {AGEYEARS} 岁。</TooOld>
+  <PawnIsTooOld>{PAWN_nameDef} 年龄太大了。</PawnIsTooOld>
+  <PawnBiostarving>{PAWN_nameDef} 正遭受生物饥饿。</PawnBiostarving>
+  <NoViablePawns>没有可用的人员</NoViablePawns>
+  <NoExtractablePawns>没有可提取的人员</NoExtractablePawns>
+  <NoImplantablePawns>没有可植入的人员</NoImplantablePawns>
+  <CannotEnterBuilding>无法进入 {0_labelShort}</CannotEnterBuilding>
+  <AssignedToOtherPawn>{0_labelShort} 已被指派给其他人。</AssignedToOtherPawn>
+
+  <AbsorbXenogerm>吸收 {PAWN_nameDef} 的异种胚芽</AbsorbXenogerm>
+  <CannotAbsorbXenogerm>无法吸收 {PAWN_nameDef} 的异种胚芽</CannotAbsorbXenogerm>
+  <SameXenotype>{PAWN_nameDef} 已经是 {PAWN_xenotype}</SameXenotype>
+  <XenogermLossShockPresent>{PAWN_nameDef} 正遭受异种胚芽失去休克</XenogermLossShockPresent>
+  <CarryToSpecificThing>搬到 {0_labelShort}</CarryToSpecificThing>
+  <NoCasketOrBed>在安全温度内没有可到达且未被预订的床或死眠棺。</NoCasketOrBed>
+  <TemporaryFactionMember>{PAWN_nameDef} 是临时派系成员。</TemporaryFactionMember>
+
+  <SubcoreScannerNotInit>扫描器未启动</SubcoreScannerNotInit>
+  <SubcoreScannerRequiresIngredients>正在等待材料</SubcoreScannerRequiresIngredients>
+  <SubcoreScannerOccupied>已占用</SubcoreScannerOccupied>
+  <EnterSubcoreScanner>进入 {0}</EnterSubcoreScanner>
+
+  <BabyCareBreastfeed>母乳喂养 {BABY_labelShort}</BabyCareBreastfeed>
+  <BabyCareBreastfeedUnable>无法母乳喂养 {BABY_labelShort}</BabyCareBreastfeedUnable>
+  <AlreadyBreastfeeding>正在母乳喂养 {BABY_labelShort}</AlreadyBreastfeeding>
+  <NoBabyFood>没有婴儿可食用的食物</NoBabyFood>
+
+  <CannotInteractBabyPlayFull>玩耍需求已满</CannotInteractBabyPlayFull>
+
+  <BloodfeedOn>吸食 {PAWN_nameDef}</BloodfeedOn>
+  <CannotBloodfeedOn>无法吸食 {PAWN_nameDef}</CannotBloodfeedOn>
+  <CannotFeedOnWouldKill>血液不足。</CannotFeedOnWouldKill>
+
+  <!-- BreastfeedFailReason strings-->
+  <BreastfeedFailReason_MomNotEnoughMilk>{MOM_labelShort} 奶水不足</BreastfeedFailReason_MomNotEnoughMilk>
+  <BreastfeedFailReason_MomInMentalState>{MOM_labelShort} 现在无法母乳喂养</BreastfeedFailReason_MomInMentalState>
+  <BreastfeedFailReason_BabyTooFull>{BABY_labelShort} 太饱了，无法吸奶</BreastfeedFailReason_BabyTooFull>
+  <BreastfeedFailReason_BabyForbiddenToMom>{BABY_labelShort} 对 {MOM_labelShort} 设有限制</BreastfeedFailReason_BabyForbiddenToMom>
+  <BreastfeedFailReason_BabyForbiddenToHauler>{BABY_labelShort} 对 {HAULER_labelShort} 设有限制</BreastfeedFailReason_BabyForbiddenToHauler>
+  <BreastfeedFailReason_MomForbiddenToHauler>{MOM_labelShort} 对 {HAULER_labelShort} 设有限制</BreastfeedFailReason_MomForbiddenToHauler>
+  <BreastfeedFailReason_MomIsMobile>{MOM_labelShort} 可以自己给 {BABY_labelShort} 母乳喂养</BreastfeedFailReason_MomIsMobile>
+  <BreastfeedFailReason_HaulerCannotReachMom>{HAULER_labelShort} 无法从 {BABY_labelShort} 处到达 {MOM_labelShort}</BreastfeedFailReason_HaulerCannotReachMom>
+  <BreastfeedFailReason_HaulerCannotReachBaby>{HAULER_labelShort} 无法到达 {BABY_labelShort}</BreastfeedFailReason_HaulerCannotReachBaby>
+  <BreastfeedFailReason_NoMomsAssignedToBaby>没有哺乳期的 {BABY_factionPawnsPlural} 被指派给 {BABY_labelShort}</BreastfeedFailReason_NoMomsAssignedToBaby>
+  <BreastfeedFailReason_MomNotAssignedToChildcare>{MOM_labelShort} 未被指派到育儿工作</BreastfeedFailReason_MomNotAssignedToChildcare>
+  <BreastfeedFailReason_MomInsideContainer>{MOM_labelShort} 在一个容器中</BreastfeedFailReason_MomInsideContainer>
+  <BreastfeedFailReason_MomBeingCarried>{MOM_labelShort} 正被搬运</BreastfeedFailReason_MomBeingCarried>
+
+  <OrderImplantationIntoPawn>下令植入到 {PAWN_nameDef}</OrderImplantationIntoPawn>
+  <AcceptXenogerm>接受 {0_xenotype} 异种胚芽</AcceptXenogerm>
+
+  <CarryToRechargerOrdered>将 {PAWN_labelShort} 搬到充能器</CarryToRechargerOrdered>
+  <CannotCarryToRecharger>无法将 {PAWN_labelShort} 搬到充能器</CannotCarryToRecharger>
+  <CannotCarryToRechargerNoneAvailable>没有可用的充能器</CannotCarryToRechargerNoneAvailable>
+
+  <NotAllowedHemogen>血原质包因食物限制而被禁用。</NotAllowedHemogen>
+
+  <EjectGenepackFromGeneBank>从基因库弹出基因包</EjectGenepackFromGeneBank>
+
+  <ResultingMetTooLow>最终的代谢率会过低</ResultingMetTooLow>
+
+  <RomanceOnCooldown>近期已尝试过恋爱</RomanceOnCooldown>
+
+  <CarryToSafePlace>带到安全地点</CarryToSafePlace>
+  <CannotCarryToSafePlace>无法带到安全地点</CannotCarryToSafePlace>
+  <NoBetterSafePlace>没有比当前位置更安全的地方</NoBetterSafePlace>
+  <AlreadyCarryingToSafePlace>已在带往安全地点</AlreadyCarryingToSafePlace>
+
+</LanguageData>

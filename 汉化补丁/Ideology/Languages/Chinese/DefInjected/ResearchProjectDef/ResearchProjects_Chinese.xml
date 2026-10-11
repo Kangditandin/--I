@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bioregeneration.label>生物再生</Bioregeneration.label>
+  <Bioregeneration.description>解锁生物雕塑舱的生物再生循环。该循环能治愈旧伤疤、再生手指脚趾等小型的缺失身体部位，并治愈许多伴随衰老而来的身体病症。</Bioregeneration.description>
+  <Biosculpting.label>生体塑形</Biosculpting.label>
+  <Biosculpting.description>建造可对殖民者进行各种生物改造的生物雕塑舱。这些对超人类主义信徒尤为重要。</Biosculpting.description>
+  <NeuralSupercharger.label>神经强化器</NeuralSupercharger.label>
+  <NeuralSupercharger.description>建造神经强化器装置。神经强化器可提升意识与学习速率，但也会增加饥饿，且效果需每日刷新。超人类主义者常将神经强化视为一项重要实践。</NeuralSupercharger.description>
+
+</LanguageData>

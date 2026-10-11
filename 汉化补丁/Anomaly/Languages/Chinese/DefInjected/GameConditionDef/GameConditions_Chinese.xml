@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodRain.label>血雨狂乱</BloodRain.label>
+  <BloodRain.description>血样液体从天而降。任何待在室外的人都会陷入狂暴。</BloodRain.description>
+  <DeathPall.label>死亡之幕复苏</DeathPall.label>
+  <DeathPall.description>死者将复苏！焚烧、埋葬、摧毁尸体，或将其移至室内，以阻止它们复活。</DeathPall.description>
+  <GrayPall.label>灰霾恶臭</GrayPall.label>
+  <GrayPall.description>空气中弥漫着腐臭的气味，令人不快。室外的气味更为浓重。</GrayPall.description>
+  <HateChantDrone.label>憎恨吟诵</HateChantDrone.label>
+  <HateChantDrone.description>霍拉克斯的邪教徒正在进行一场经过心灵调谐的吟诵。这不祥的吟诵传达着黑暗而如梦魇般的憎恨，令人头痛、头皮发麻。只要吟诵持续，殖民者就会感到不快。\n\n只要邪教徒未被阻止，吟诵就会不断变得更加强大。</HateChantDrone.description>
+  <UnnaturalDarkness.label>非自然黑暗</UnnaturalDarkness.label>
+  <UnnaturalDarkness.description>世界被一层非自然的黑暗笼罩。从墨黑的幽暗中，可以听到致命生物非人的呻吟。待在光亮处。</UnnaturalDarkness.description>
+  <UnnaturalHeat.label>非自然高温</UnnaturalHeat.label>
+  <UnnaturalHeat.description>一台热能投射装置正在搅动大气中的气体分子，使室外温度升高。</UnnaturalHeat.description>
+
+</LanguageData>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Boards_Totemic.label>图腾木板</Boards_Totemic.label>
+  <Boards_Totemic.description>以图腾风格装饰的优质木板。</Boards_Totemic.description>
+  <Carpet_MindbendA.label>菱形心智扭曲地毯</Carpet_MindbendA.label>
+  <Carpet_MindbendA.description>以常与药物使用相关的心智扭曲风格装饰的精致地毯。</Carpet_MindbendA.description>
+  <Carpet_MindbendB.label>紫色心智扭曲地毯</Carpet_MindbendB.label>
+  <Carpet_MindbendB.description>以常与药物使用相关的心智扭曲风格装饰的精致地毯。</Carpet_MindbendB.description>
+  <Carpet_MindbendC.label>绿色心智扭曲地毯</Carpet_MindbendC.label>
+  <Carpet_MindbendC.description>以常与药物使用相关的心智扭曲风格装饰的精致地毯。</Carpet_MindbendC.description>
+  <Carpet_MindbendD.label>蓝色心智扭曲地毯</Carpet_MindbendD.label>
+  <Carpet_MindbendD.description>以常与药物使用相关的心智扭曲风格装饰的精致地毯。</Carpet_MindbendD.description>
+  <Carpet_MindbendE.label>黄色心智扭曲地毯</Carpet_MindbendE.label>
+  <Carpet_MindbendE.description>以常与药物使用相关的心智扭曲风格装饰的精致地毯。</Carpet_MindbendE.description>
+  <Plates_Spikecore.label>尖刺钢板</Plates_Spikecore.label>
+  <Plates_Spikecore.description>以攻击性的尖刺风格装饰的优质钢板。</Plates_Spikecore.description>
+  <Tile_MorbidGranite.label>阴森花岗岩地砖</Tile_MorbidGranite.label>
+  <Tile_MorbidGranite.description>阴森风格的优质石砖。</Tile_MorbidGranite.description>
+  <Tile_MorbidLimestone.label>阴森石灰岩地砖</Tile_MorbidLimestone.label>
+  <Tile_MorbidLimestone.description>阴森风格的优质石砖。</Tile_MorbidLimestone.description>
+  <Tile_MorbidMarble.label>阴森大理石地砖</Tile_MorbidMarble.label>
+  <Tile_MorbidMarble.description>阴森风格的优质石砖。</Tile_MorbidMarble.description>
+  <Tile_MorbidSandstone.label>阴森砂岩地砖</Tile_MorbidSandstone.label>
+  <Tile_MorbidSandstone.description>阴森风格的优质石砖。</Tile_MorbidSandstone.description>
+  <Tile_MorbidSlate.label>阴森板岩地砖</Tile_MorbidSlate.label>
+  <Tile_MorbidSlate.description>阴森风格的优质石砖。</Tile_MorbidSlate.description>
+  <Tile_SpikecoreGranite.label>花岗岩尖刺地砖</Tile_SpikecoreGranite.label>
+  <Tile_SpikecoreGranite.description>尖刺风格的优质石砖。</Tile_SpikecoreGranite.description>
+  <Tile_SpikecoreLimestone.label>石灰岩尖刺地砖</Tile_SpikecoreLimestone.label>
+  <Tile_SpikecoreLimestone.description>尖刺风格的优质石砖。</Tile_SpikecoreLimestone.description>
+  <Tile_SpikecoreMarble.label>大理石尖刺地砖</Tile_SpikecoreMarble.label>
+  <Tile_SpikecoreMarble.description>尖刺风格的优质石砖。</Tile_SpikecoreMarble.description>
+  <Tile_SpikecoreSandstone.label>砂岩尖刺地砖</Tile_SpikecoreSandstone.label>
+  <Tile_SpikecoreSandstone.description>尖刺风格的优质石砖。</Tile_SpikecoreSandstone.description>
+  <Tile_SpikecoreSlate.label>板岩尖刺地砖</Tile_SpikecoreSlate.label>
+  <Tile_SpikecoreSlate.description>尖刺风格的优质石砖。</Tile_SpikecoreSlate.description>
+  <Tile_TotemicGranite.label>花岗岩图腾地砖</Tile_TotemicGranite.label>
+  <Tile_TotemicGranite.description>图腾风格的优质石砖。</Tile_TotemicGranite.description>
+  <Tile_TotemicLimestone.label>石灰岩图腾地砖</Tile_TotemicLimestone.label>
+  <Tile_TotemicLimestone.description>图腾风格的优质石砖。</Tile_TotemicLimestone.description>
+  <Tile_TotemicMarble.label>大理石图腾地砖</Tile_TotemicMarble.label>
+  <Tile_TotemicMarble.description>图腾风格的优质石砖。</Tile_TotemicMarble.description>
+  <Tile_TotemicSandstone.label>砂岩图腾地砖</Tile_TotemicSandstone.label>
+  <Tile_TotemicSandstone.description>图腾风格的优质石砖。</Tile_TotemicSandstone.description>
+  <Tile_TotemicSlate.label>板岩图腾地砖</Tile_TotemicSlate.label>
+  <Tile_TotemicSlate.description>图腾风格的优质石砖。</Tile_TotemicSlate.description>
+  <Tile_Transhumanist.label>六角地砖</Tile_Transhumanist.label>
+  <Tile_Transhumanist.description>带有六边形图案、极具超科技感的优质钢板。</Tile_Transhumanist.description>
+  <FungalGravel.label>真菌砾石</FungalGravel.label>
+  <FungalGravel.description>一种可铺设的砾石，用于在地下种植真菌作物。它必须放置在头顶山岩之下，这样深层的阴湿才能滋养真菌孢子。</FungalGravel.description>
+
+</LanguageData>

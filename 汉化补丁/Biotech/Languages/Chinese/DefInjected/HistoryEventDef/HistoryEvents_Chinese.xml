@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AbsorbedXenogerm.label>吸收了异种胚芽</AbsorbedXenogerm.label>
+  <ExtractedHemogenPack.label>从成员提取血原质</ExtractedHemogenPack.label>
+  <PollutedBase.label>污染基地</PollutedBase.label>
+  <PollutedNearbySite.label>污染附近地点</PollutedNearbySite.label>
+  <ToxicWasteDumping.label>倾倒有毒废料</ToxicWasteDumping.label>
+  <BloodfeederDied.label>噬血者死亡</BloodfeederDied.label>
+  <PropagateBloodfeederGene.label>传播噬血者基因</PropagateBloodfeederGene.label>
+  <BecomeNonPreferredXenotype.label>成为非偏好异种</BecomeNonPreferredXenotype.label>
+
+</LanguageData>

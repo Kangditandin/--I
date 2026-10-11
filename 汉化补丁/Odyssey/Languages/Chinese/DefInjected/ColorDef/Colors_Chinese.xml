@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <UniqueWeapon_Black.label>黑</UniqueWeapon_Black.label>
+  <UniqueWeapon_Cream.label>奶油白</UniqueWeapon_Cream.label>
+  <UniqueWeapon_DarkBrown.label>深棕</UniqueWeapon_DarkBrown.label>
+  <UniqueWeapon_EMP.label>电蓝</UniqueWeapon_EMP.label>
+  <UniqueWeapon_Fire.label>火橙</UniqueWeapon_Fire.label>
+  <UniqueWeapon_Gold.label>金</UniqueWeapon_Gold.label>
+  <UniqueWeapon_Gray.label>灰</UniqueWeapon_Gray.label>
+  <UniqueWeapon_Green.label>绿</UniqueWeapon_Green.label>
+  <UniqueWeapon_IceBlue.label>冰蓝</UniqueWeapon_IceBlue.label>
+  <UniqueWeapon_Jade.label>翡翠</UniqueWeapon_Jade.label>
+  <UniqueWeapon_Limestone.label>石灰岩</UniqueWeapon_Limestone.label>
+  <UniqueWeapon_MutedBlue.label>柔和蓝</UniqueWeapon_MutedBlue.label>
+  <UniqueWeapon_MutedGreen.label>柔和绿</UniqueWeapon_MutedGreen.label>
+  <UniqueWeapon_MutedPurple.label>柔和紫</UniqueWeapon_MutedPurple.label>
+  <UniqueWeapon_MutedRed.label>柔和红</UniqueWeapon_MutedRed.label>
+  <UniqueWeapon_Purple.label>紫</UniqueWeapon_Purple.label>
+  <UniqueWeapon_Red.label>红</UniqueWeapon_Red.label>
+  <UniqueWeapon_Sandstone.label>砂岩</UniqueWeapon_Sandstone.label>
+  <UniqueWeapon_Tox.label>毒绿</UniqueWeapon_Tox.label>
+  <UniqueWeapon_White.label>白</UniqueWeapon_White.label>
+
+</LanguageData>

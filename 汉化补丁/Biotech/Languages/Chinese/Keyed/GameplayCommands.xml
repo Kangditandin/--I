@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <CommandAutoRepair>自动修复</CommandAutoRepair>
+  <CommandAutoRepairDesc>启用后，机械师会自动修复此机械体。修复机械体会消耗其能量。</CommandAutoRepairDesc>
+
+  <CommandDisabledDeathresting>{0_labelShort} 正在死眠。</CommandDisabledDeathresting>
+
+  <CommandCancelGrowth>取消舱内生长</CommandCancelGrowth>
+  <CommandCancelGrowthDesc>取消当前入舱者的生长。入舱者将被弹出。</CommandCancelGrowthDesc>
+
+  <CommandSelectOverseer>选择监督者</CommandSelectOverseer>
+  <CommandSelectOverseerDesc>选中作为此机械体监督者的机械师。</CommandSelectOverseerDesc>
+  <CommandSelectOverseerDisabledDesc>没有监督者。</CommandSelectOverseerDisabledDesc>
+
+  <CommandCancelExtraction>取消提取</CommandCancelExtraction>
+  <CommandCancelExtractionDesc>取消提取过程。被装入者将被弹出。</CommandCancelExtractionDesc>
+
+  <CommandCallBossgroup>召唤机械族威胁…</CommandCallBossgroup>
+  <CommandCallBossgroupDesc>召唤一名敌方首领机械体及其护卫。\n\n若你击败首领机械体，它会掉落一块特殊芯片，你可以用它来推进自己的机械科技。\n\n首领机械体共有三种类型，各自以不同方式召唤，并各掉落不同类型的芯片。</CommandCallBossgroupDesc>
+
+  <CommandAutoLoad>切换自动装载 {0}</CommandAutoLoad>
+  <CommandAutoLoadDesc>启用后，殖民者会自动用 {0} 填充它。</CommandAutoLoadDesc>
+
+  <CommandEjectContents>弹出内容物</CommandEjectContents>
+  <CommandEjectContentsDesc>将所有收容的 {0} 弹出到地面。</CommandEjectContentsDesc>
+
+  <CommandSelectAllMechs>选中所有机械体</CommandSelectAllMechs>
+  <CommandSelectAllMechsDesc>选中此机械师控制的所有机械族。</CommandSelectAllMechsDesc>
+
+  <CommandToggleTurret>炮塔已启用</CommandToggleTurret>
+  <CommandToggleTurretDesc>切换炮塔是否可自由开火。\n\n禁用后，炮塔不会自动开火。这在潜近敌人时很有用。</CommandToggleTurretDesc>
+
+  <CommandCancelSubcoreScan>取消扫描</CommandCancelSubcoreScan>
+  <CommandCancelSubcoreScanDesc>取消扫描过程。被装入者将被弹出。</CommandCancelSubcoreScanDesc>
+
+  <ForceXenogermImplantation>强制异种胚芽植入</ForceXenogermImplantation>
+  <ForceXenogermImplantationDesc>强制此人利用特殊注射器官将其异种基因植入另一个体。若此人的基因当前正在再生，则过程中会死亡。\n\n植入后，异种胚芽会覆盖目标的异种基因。生殖系基因不受影响。</ForceXenogermImplantationDesc>
+</LanguageData>

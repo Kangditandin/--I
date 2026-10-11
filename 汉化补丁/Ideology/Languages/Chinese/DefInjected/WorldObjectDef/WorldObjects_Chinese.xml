@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AbandonedArchotechStructures.label>远古科技结构</AbandonedArchotechStructures.label>
+  <AbandonedArchotechStructures.description>一座可供你研究的远古科技结构。</AbandonedArchotechStructures.description>
+  <Settlement_SecondArchonexusCycle.label>第二个机械神所定居点</Settlement_SecondArchonexusCycle.label>
+  <Settlement_SecondArchonexusCycle.description>某个阵营的基地。</Settlement_SecondArchonexusCycle.description>
+  <Settlement_ThirdArchonexusCycle.label>第三个机械神所定居点</Settlement_ThirdArchonexusCycle.label>
+  <Settlement_ThirdArchonexusCycle.description>某个阵营的基地。</Settlement_ThirdArchonexusCycle.description>
+
+</LanguageData>

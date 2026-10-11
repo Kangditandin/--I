@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnimaTreeLinking.comps.0.label>参与者数量</AnimaTreeLinking.comps.0.label>
+  <BestowingCeremony.description>根据仪式质量，受封者可获得最多 3 点额外荣誉。其他参与者可获得最多 +6 心情加成，持续 6 天。</BestowingCeremony.description>
+  <BestowingCeremony.comps.0.label>参与者数量</BestowingCeremony.comps.0.label>
+  <BestowingCeremony.comps.1.label>房间观感</BestowingCeremony.comps.1.label>
+  <BestowingCeremony.outcomeChances.0.label>糟糕</BestowingCeremony.outcomeChances.0.label>
+  <BestowingCeremony.outcomeChances.1.label>平平无奇</BestowingCeremony.outcomeChances.1.label>
+  <BestowingCeremony.outcomeChances.2.label>荣耀</BestowingCeremony.outcomeChances.2.label>
+  <BestowingCeremony.outcomeChances.3.label>盛大</BestowingCeremony.outcomeChances.3.label>
+
+</LanguageData>

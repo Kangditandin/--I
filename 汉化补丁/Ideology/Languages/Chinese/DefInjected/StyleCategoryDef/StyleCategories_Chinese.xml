@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Animalist.label>兽灵式</Animalist.label>
+  <Buddhist.label>佛教式</Buddhist.label>
+  <Christian.label>基督教式</Christian.label>
+  <Hindu.label>印度教式</Hindu.label>
+  <Islamic.label>伊斯兰教式</Islamic.label>
+  <Morbid.label>阴森式</Morbid.label>
+  <Rustic.label>乡野式</Rustic.label>
+  <Spikecore.label>尖刺式</Spikecore.label>
+  <Techist.label>技术至上式</Techist.label>
+  <Totemic.label>图腾式</Totemic.label>
+
+</LanguageData>

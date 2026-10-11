@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Ideoligions -->
+  <Deities>神祇</Deities>
+  <ButtonShowAllIdeoligions>显示所有理念</ButtonShowAllIdeoligions>
+  <IdeoligionOf>所属理念</IdeoligionOf>
+  <Memes>模因</Memes>
+  <CoreNarrative>叙事</CoreNarrative>
+  <CoreNarrativeDesc>你理念的核心叙事。这对游戏玩法没有影响。</CoreNarrativeDesc>
+  <EditNarrative>编辑叙事</EditNarrative>
+  <LockButtonDesc>锁定或解锁理念的叙事。锁定时，若理念发生更改，叙事文本不会自动重新生成。</LockButtonDesc>
+  <LockInOn>{0} 锁定当前已开启。{1} 不会自动重新生成。</LockInOn>
+  <LockInOff>{0} 锁定当前已关闭。{1} 文本可以自动重新生成。</LockInOff>
+  <LockPreceptNameButtonDesc>锁定或解锁此戒律的名称。锁定时，若理念发生更改，戒律名称不会自动重新生成。</LockPreceptNameButtonDesc>
+  <Precepts>戒律</Precepts>
+  <Rituals>仪式</Rituals>
+  <IdeoRoles>职位</IdeoRoles>
+  <IdeoBuildings>建筑</IdeoBuildings>
+  <IdeoRelics>圣物</IdeoRelics>
+  <IdeoApparel>偏好服装</IdeoApparel>
+  <IdeoApparelDesire>服装倾向</IdeoApparelDesire>
+  <UnwillingToDoIdeoAction>不会做</UnwillingToDoIdeoAction>
+  <PreceptStats>属性</PreceptStats>
+  <Prohibitions>禁忌</Prohibitions>
+  <Opinions>看法</Opinions>
+  <MentalBreaks>精神崩溃</MentalBreaks>
+  <RandomizeName>随机名称</RandomizeName>
+  <RandomizePrecepts>随机戒律</RandomizePrecepts>
+  <RandomizeDeities>随机神祇</RandomizeDeities>
+  <AddDeity>添加神祇</AddDeity>
+  <ChooseMemes>选择模因</ChooseMemes>
+  <ChooseStartingMeme>选择初始模因</ChooseStartingMeme>
+  <ChooseStructure>选择结构</ChooseStructure>
+  <ChooseCulture>选择文化</ChooseCulture>
+  <Culture>文化</Culture>
+  <CultureTip>文化影响名字、外观与符号。</CultureTip>
+  <StructureMeme>结构</StructureMeme>
+  <StructureMemeTip>理念的结构决定了它认为哪些实体与力量对宇宙的道德结构具有重要意义。它没有直接的玩法影响。</StructureMemeTip>
+  <Adjective>形容词</Adjective>
+  <WorshipRoom>仪式房间</WorshipRoom>
+  <IdeoMembers>成员名词</IdeoMembers>
+  <IdeoMembersPlural>成员复数</IdeoMembersPlural>
+  <EditSymbols>编辑符号</EditSymbols>
+  <EditDeity>编辑神祇</EditDeity>
+  <EditApparelRequirement>编辑要求服装</EditApparelRequirement>
+  <EditName>编辑名称</EditName>
+  <StartingCondition_Anytime>任意时间</StartingCondition_Anytime>
+  <StartingCondition_Date>日期</StartingCondition_Date>
+  <StartingCondition>起始条件</StartingCondition>
+  <RandomizeSymbols>随机符号</RandomizeSymbols>
+  <RandomizeSymbolsTooltip>随机理念名称、图标、叙事、领袖头衔以及其他文本（如仪式名称或职位名称）。这不影响模因或戒律等玩法元素。</RandomizeSymbolsTooltip>
+  <ClickAnyElementToEditIt>点击任意元素即可编辑</ClickAnyElementToEditIt>
+  <LeaderTitle>领袖头衔</LeaderTitle>
+  <DeityName>神祇名称</DeityName>
+  <DeityTitle>神祇头衔</DeityTitle>
+  <DeityGender>神祇性别</DeityGender>
+  <Name>名称</Name>
+  <Icon>图标</Icon>
+  <RelatedToMeme>与模因相关</RelatedToMeme>
+  <IdeoCharityQuestInfo>这是一个慈善任务。若你不完成它，{0} 的信徒将因其慈善信仰而不满。若你完成它，{0} 的信徒会高兴（{1}）。</IdeoCharityQuestInfo>
+  <WorkDisabledSlave>奴隶不会从事此工作</WorkDisabledSlave>
+  <WorkDisabledHealth>因健康状况而禁用</WorkDisabledHealth>
+  <WorkDisabledRole>因 {0} 职位而禁用</WorkDisabledRole>
+  <AffectedByTraits>受特性影响</AffectedByTraits>
+  <CharityQuestTip>这是一个慈善任务。具有慈善信仰的人会受其结果影响。</CharityQuestTip>
+  <Formerly>曾为</Formerly>
+  <All>全部</All>
+  <RelicTip>圣物是具有精神或理念意义的物品。它们可以通过完成漫长而危险的任务来发现。圣物可以安置在圣物匣中，以吸引朝圣者、增强仪式，并提升理念转化外来者的能力。</RelicTip>
+  <RelicTipClassic>圣物是具有精神或理念意义的物品。它们可以通过完成漫长而危险的任务来发现。圣物可以安置在圣物匣中，以吸引朝圣者并增强仪式。</RelicTipClassic>
+  <Animal>动物</Animal>
+  <VeneratedAnimals>崇敬动物</VeneratedAnimals>
+  <IdeoWeapon>武器搭配</IdeoWeapon>
+  <IdeoWeapons>武器</IdeoWeapons>
+  <SwapNobleAndDespised>交换尊贵与卑鄙</SwapNobleAndDespised>
+  <Noble>尊贵</Noble>
+  <Despised>卑鄙</Despised>
+  <UnlockedRecipes>解锁的可制作物</UnlockedRecipes>
+  <IdeoStartWithResearch>开局携带研究</IdeoStartWithResearch>
+  <AgreeableTraits>相符的特性</AgreeableTraits>
+  <DisagreeableTraits>冲突的特性</DisagreeableTraits>
+  <Shooting>射击</Shooting>
+  <IdeoImpact>影响</IdeoImpact>
+  <IdeoImpactOverall>总体影响</IdeoImpactOverall>
+  <IdeoImpactOverallDesc>有些模因对玩法的影响比其他模因更大。模因的影响评分可以说明它有多大程度上影响玩法。</IdeoImpactOverallDesc>
+  <IdeoMemeImpactLabel_1>低</IdeoMemeImpactLabel_1>
+  <IdeoMemeImpactLabel_2>中</IdeoMemeImpactLabel_2>
+  <IdeoMemeImpactLabel_3>高</IdeoMemeImpactLabel_3>
+  <IdeoImpactLabel_1>低</IdeoImpactLabel_1>
+  <IdeoImpactLabel_2>低</IdeoImpactLabel_2>
+  <IdeoImpactLabel_3>中等</IdeoImpactLabel_3>
+  <IdeoImpactLabel_4>中等</IdeoImpactLabel_4>
+  <IdeoImpactLabel_5>强</IdeoImpactLabel_5>
+  <IdeoImpactLabel_6>强</IdeoImpactLabel_6>
+  <IdeoImpactLabel_7>极强</IdeoImpactLabel_7>
+  <IdeoImpactLabel_8>极强</IdeoImpactLabel_8>
+  <IdeoImpactLabel_9>极端</IdeoImpactLabel_9>
+  <InitialPlayerIdeo>这曾是你殖民地的初始理念。</InitialPlayerIdeo>
+  
+  
+  <FluidIdeoTip>由于此理念非常新，且在这个星球上信徒极少，因此它是流动的。这意味着它可以随时间发展。\n\n发展理念需要消耗发展点数。你可以通过完成与此理念相关的仪式和任务来获得发展点数。\n\n积累足够的发展点数后，你就可以用新的模因、戒律、风格等来改革理念。</FluidIdeoTip>
+  <FluidIdeoTipGetPoints>如何获得发展点数</FluidIdeoTipGetPoints>
+  <FluidIdeoTipGetPoinsByConversion>将某人转化为你的理念</FluidIdeoTipGetPoinsByConversion>
+
+  <ResearchProjectHasDefsWithMissingMemes>{0} 解锁了一些你无法建造的东西，因为它们需要你的人民中无人信仰的模因</ResearchProjectHasDefsWithMissingMemes>
+  <SelectedWorkTypeOpposedByIdeo>警告：这类工作被 {0_possessive} 的理念所反对，因此可能会使此人不快。</SelectedWorkTypeOpposedByIdeo>
+
+  <DevelopmentPoints>发展点数</DevelopmentPoints>
+
+</LanguageData>

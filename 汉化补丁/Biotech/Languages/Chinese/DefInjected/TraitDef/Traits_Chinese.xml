@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Delicate.degreeDatas.delicate.label>脆弱</Delicate.degreeDatas.delicate.label>
+  <Delicate.degreeDatas.delicate.description>{PAWN_nameDef}的皮肤和骨骼都很脆弱。同样的打击，{PAWN_pronoun}受到的伤害比其他人更多。</Delicate.degreeDatas.delicate.description>
+  <Recluse.degreeDatas.recluse.label>隐士</Recluse.degreeDatas.recluse.label>
+  <Recluse.degreeDatas.recluse.description>{PAWN_nameDef}所属阵营的人数越少，{PAWN_pronoun}就越开心。独自一人是最好的。</Recluse.degreeDatas.recluse.description>
+
+</LanguageData>

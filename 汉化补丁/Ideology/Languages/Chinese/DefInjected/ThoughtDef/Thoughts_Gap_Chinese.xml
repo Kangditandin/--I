@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <VeneratedAnimalsOnMapOrCaravan.label>受崇敬的{ANIMAL_label}</VeneratedAnimalsOnMapOrCaravan.label>
+  <VeneratedAnimalsOnMapOrCaravan.description>我身边有受崇敬的动物。</VeneratedAnimalsOnMapOrCaravan.description>
+  <InstalledProsthetic_Approved.label>植入了义体</InstalledProsthetic_Approved.label>
+  <InstalledProsthetic_Approved.description>我得以植入一具义体。这是件好事。</InstalledProsthetic_Approved.description>
+  <InstalledProsthetic_Know_Approved.label>植入了义体</InstalledProsthetic_Know_Approved.label>
+  <IngestedDrug_Abhorrent.label>服用了药物</IngestedDrug_Abhorrent.label>
+  <IngestedDrug_Abhorrent.description>我服用了药物。这是对我所信奉的一切的可憎违背。</IngestedDrug_Abhorrent.description>
+  <IngestedDrug_Know_Abhorrent.label>服用了药物</IngestedDrug_Know_Abhorrent.label>
+  <AnyBodyPartButHairOrFaceCovered_Disapproved_Male.label>穿着衣物（非头发、非面部）</AnyBodyPartButHairOrFaceCovered_Disapproved_Male.label>
+  <AnyBodyPartButHairOrFaceCovered_Disapproved_Male.description>我不该遮蔽头发或面部以外的任何东西。皮肤应当透气！</AnyBodyPartButHairOrFaceCovered_Disapproved_Male.description>
+  <AnyBodyPartButHairOrFaceCovered_Disapproved_Social_Male.label>穿着衣物（非头发、非面部）</AnyBodyPartButHairOrFaceCovered_Disapproved_Social_Male.label>
+  <FaceCovered_Disapproved_Male.label>遮蔽了面部</FaceCovered_Disapproved_Male.label>
+  <FaceCovered_Disapproved_Male.description>我不该遮蔽自己的面部。这是错的。</FaceCovered_Disapproved_Male.description>
+  <FaceCovered_Disapproved_Social_Male.label>遮蔽了面部</FaceCovered_Disapproved_Social_Male.label>
+  <HarvestedOrgan_Respected.label>摘取了器官</HarvestedOrgan_Respected.label>
+  <HarvestedOrgan_Respected.description>我摘取了某人的器官。为能做这样的好事而自豪。</HarvestedOrgan_Respected.description>
+  <HarvestedOrgan_Know_Respected.label>摘取了器官</HarvestedOrgan_Know_Respected.label>
+  <WieldingNobleOrDespisedWeapon.label>挥舞{WEAPON}</WieldingNobleOrDespisedWeapon.label>
+  <WieldingNobleOrDespisedWeapon.description>我正挥舞着{WEAPON_indefinite}。多么高贵的武器！</WieldingNobleOrDespisedWeapon.description>
+  <PsychicArchotechEmanator_Major.label>远古科技的流溢</PsychicArchotechEmanator_Major.label>
+  <PsychicArchotechEmanator_Major.description>这些从结构中传来的思想，为如此浩瀚打开了一扇门……我感到自己渺小得仿佛会消失。</PsychicArchotechEmanator_Major.description>
+  <PsychicArchotechEmanator_Grand.label>远古科技的流溢</PsychicArchotechEmanator_Grand.label>
+  <PsychicArchotechEmanator_Grand.description>它让我感知到如此之多。对绝对存在的无眼之知，所有心智同时言说、死去与诞生。很难不失去与自我的连接。</PsychicArchotechEmanator_Grand.description>
+  <PsychicArchotechEmanator_Core.label>远古科技的流溢</PsychicArchotechEmanator_Core.label>
+  <PsychicArchotechEmanator_Core.description>那规模。那多重宇宙超平面的分形逻辑景观。没有距离。没有时间。没有我或他们。我是一切。我什么都不是。</PsychicArchotechEmanator_Core.description>
+
+</LanguageData>

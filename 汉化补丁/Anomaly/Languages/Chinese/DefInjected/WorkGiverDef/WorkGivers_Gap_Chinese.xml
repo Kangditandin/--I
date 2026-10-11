@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ActivitySuppression.gerund>压制</ActivitySuppression.gerund>
+  <ActivitySuppression.verb>压制</ActivitySuppression.verb>
+  <DoBillsBioferriteShaper.gerund>在……工作</DoBillsBioferriteShaper.gerund>
+  <DoBillsBioferriteShaper.verb>在……工作</DoBillsBioferriteShaper.verb>
+  <DoBillsSerumCentrifuge.gerund>在……工作</DoBillsSerumCentrifuge.gerund>
+  <DoBillsSerumCentrifuge.verb>在……工作</DoBillsSerumCentrifuge.verb>
+  <DoctorTendToEntities.gerund>照料</DoctorTendToEntities.gerund>
+  <DoctorTendToEntities.verb>照料</DoctorTendToEntities.verb>
+  <ExecuteEntity.gerund>处决</ExecuteEntity.gerund>
+  <ExecuteEntity.verb>处决</ExecuteEntity.verb>
+  <ExtractBioferrite.gerund>从……提取</ExtractBioferrite.gerund>
+  <ExtractBioferrite.verb>从……提取</ExtractBioferrite.verb>
+  <InterrogatePrisoner.gerund>审问</InterrogatePrisoner.gerund>
+  <InterrogatePrisoner.verb>审问</InterrogatePrisoner.verb>
+  <ReleaseEntity.gerund>释放</ReleaseEntity.gerund>
+  <ReleaseEntity.verb>释放</ReleaseEntity.verb>
+  <StudyInteract.gerund>研究</StudyInteract.gerund>
+  <StudyInteract.verb>研究</StudyInteract.verb>
+  <TakeBioferriteOutOfHarvester.gerund>从……取生物铁素</TakeBioferriteOutOfHarvester.gerund>
+  <TakeBioferriteOutOfHarvester.verb>取生物铁素</TakeBioferriteOutOfHarvester.verb>
+  <TakeEntityToHoldingPlatform.gerund>捕获</TakeEntityToHoldingPlatform.gerund>
+  <TakeEntityToHoldingPlatform.verb>捕获</TakeEntityToHoldingPlatform.verb>
+  <TransferEntity.gerund>转移</TransferEntity.gerund>
+  <TransferEntity.verb>转移</TransferEntity.verb>
+  
+</LanguageData>

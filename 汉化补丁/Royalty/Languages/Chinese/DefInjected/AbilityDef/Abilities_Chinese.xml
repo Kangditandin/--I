@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Beckon.label>召唤</Beckon.label>
+  <Beckon.description>以灵能命令目标靠近施法者。</Beckon.description>
+  <Berserk.label>狂暴</Berserk.label>
+  <Berserk.description>在目标心智中诱发愤怒性精神病，使其攻击附近任何人。</Berserk.description>
+  <BerserkPulse.label>狂暴脉冲</BerserkPulse.label>
+  <BerserkPulse.description>在目标点附近的每个人心中产生一阵无法抵挡的、无方向的暴怒。</BerserkPulse.description>
+  <BlindingPulse.label>致盲脉冲</BlindingPulse.label>
+  <BlindingPulse.description>在目标点附近每个人大脑的视觉中枢诱发噪点，遮蔽其视力。</BlindingPulse.description>
+  <BulletShield.label>跃迁护盾</BulletShield.label>
+  <BulletShield.description>生成一道球形跃迁门，将所有进出地面层的弹射物送往某处远方。该过程的力量足以引爆爆炸性弹射物。人与物品不受影响。</BulletShield.description>
+  <Burden.label>负担</Burden.label>
+  <Burden.description>通过抑制大脑中的运动活动，使目标在短时间内变慢。</Burden.description>
+  <ChaosSkip.label>混沌跃迁</ChaosSkip.label>
+  <ChaosSkip.description>将目标传送到其起始位置附近的随机位置。超过一定大小的物体无法被传送。</ChaosSkip.description>
+  <Chunkskip.label>石块跃迁</Chunkskip.label>
+  <Chunkskip.description>跃迁最近 5 块岩石或矿渣，将它们散布到目标点附近。这在进攻行动中用于制造掩体很有用。</Chunkskip.description>
+  <EntropyDump.label>心灵熵倾泻</EntropyDump.label>
+  <EntropyDump.description>立刻将你全部的心灵熵倾倒给他人。作为副作用，目标会陷入约一天的无害但使人衰弱的昏迷。目标必须主动接受这种灵能入侵，因此只能以有意识的盟友为目标。</EntropyDump.description>
+  <Farskip.label>远距跃迁</Farskip.label>
+  <Farskip.description>将施法者及站在其附近的任何人跃迁到远方位置的盟友处。这能把人送往行星另一端，但仅在对面有一位自愿的盟友可作为导航信标时才有效。被跃迁的人总会出现在目标地图上一位随机盟友的附近。</Farskip.description>
+  <Flashstorm.label>闪电风暴</Flashstorm.label>
+  <Flashstorm.description>在大气中利用压差跃迁门生成一场局部闪电风暴。风暴会以闪电轰击该区域一段时间后消散。</Flashstorm.description>
+  <Focus.label>专注</Focus.label>
+  <Focus.description>以灵能聚焦目标的心智，提升其视觉、听觉与运动能力。</Focus.description>
+  <Invisibility.label>隐形</Invisibility.label>
+  <Invisibility.description>以灵能操控附近所有人的视觉中枢，使他们在短时间内无法感知某个特定个体。</Invisibility.description>
+  <ManhunterPulse.label>猎杀脉冲</ManhunterPulse.label>
+  <ManhunterPulse.description>使用灵能脉冲驱使附近的动物陷入猎杀狂暴。</ManhunterPulse.description>
+  <MassChaosSkip.label>群体混沌跃迁</MassChaosSkip.label>
+  <MassChaosSkip.description>将一片区域内的所有人跃迁到附近的随机位置。过大的物体无法被传送。</MassChaosSkip.description>
+  <Neuroquake.label>神经震爆</Neuroquake.label>
+  <Neuroquake.description>找到灵能场中的一处不连续点并将其展开，释放大量灵能能量。范围内但在安全的内圈之外的每个生物都会被逼入疯狂的癫狂状态。施放此能力需要 12 秒的冥想，之后施法者会陷入五天的灵能昏迷。令人不安的神经震爆回响会对周围数公里内的所有人造成痛苦，导致与所有阵营的外交后果。</Neuroquake.description>
+  <Painblock.label>阻断痛苦</Painblock.label>
+  <Painblock.description>在短时间内阻断目标大脑中的疼痛通路。这能让人即使身负通常会使他们丧失行动能力的重伤，也能移动与行动。</Painblock.description>
+  <Skip.label>跃迁</Skip.label>
+  <Skip.description>将目标传送到离其起始点不太远的期望位置。过大的物体无法被传送。</Skip.description>
+  <Smokepop.label>烟雾弹</Smokepop.label>
+  <Smokepop.description>从地表之下跃迁出尘埃颗粒，形成浓密的烟雾。这会降低任何穿过它的射击精度，并完全阻止炮塔锁定。</Smokepop.description>
+  <SolarPinhole.label>太阳针孔</SolarPinhole.label>
+  <SolarPinhole.description>生成一个与附近恒星核心相连的微观跃迁门。太阳物质透过时空中的针孔泄漏，照亮并温暖周围区域，直到它闭合。这光足以工作，但不足以种植植物。</SolarPinhole.description>
+  <Speech.label>王座演说</Speech.label>
+  <Speech.description>从王座上发表演说。所有殖民者都会前来聆听。若进展顺利，听众会感到激励，并对说话者更加尊敬。若不顺利，演说会造成社交损害。结果取决于说话者的社交能力。</Speech.description>
+  <Stun.label>眩晕</Stun.label>
+  <Stun.description>短暂扰乱目标大脑的运动功能，阻止任何移动。</Stun.description>
+  <VertigoPulse.label>眩晕脉冲</VertigoPulse.label>
+  <VertigoPulse.description>干扰目标点附近每个人的空间定向感，造成间歇性失衡。血肉生物还会感到极度恶心。</VertigoPulse.description>
+  <Wallraise.label>拔墙</Wallraise.label>
+  <Wallraise.description>通过从地底深处跃迁碎砾与土壤，形成一道临时墙壁。</Wallraise.description>
+  <Waterskip.label>跃迁水</Waterskip.label>
+  <Waterskip.description>用水浇灌目标区域，熄灭火焰。这些水是以远古科技方式从远处的水体或地下蓄水层跃迁而来的。</Waterskip.description>
+  <WordOfInspiration.label>激励之言</WordOfInspiration.label>
+  <WordOfInspiration.description>说出鼓励创造的话语，同时以灵能向目标心智超载灌输新想法。目标会经历一次适合其自身的随机灵感。</WordOfInspiration.description>
+  <WordOfJoy.label>喜悦之言</WordOfJoy.label>
+  <WordOfJoy.description>对某人说出快乐、安抚的话语，同时使用灵能暗示在其心智中植入一个欣悦朦胧循环。欣悦朦胧会抑制目标的不适思绪与感受以改善心情。其副作用是钝化感觉与决策能力，从而降低意识。</WordOfJoy.description>
+  <WordOfLove.label>爱意之言</WordOfLove.label>
+  <WordOfLove.description>谈论某人的恋爱优点，同时使用灵能暗示在听者心中植入恋爱欲望。此后数天，听者会对另一人感到由灵能诱发的浪漫吸引。这会大幅提升好感，并使他们在有机会时更可能尝试浪漫示好与求婚。该能力可用于连接另两个人、诱使对施法者的爱意，或强迫自己爱上他人。</WordOfLove.description>
+  <WordOfSerenity.label>宁静之言</WordOfSerenity.label>
+  <WordOfSerenity.description>使用安抚的话语与灵能暗示来结束某人的精神崩溃。目标会陷入短暂的灵能睡眠。灵能聚焦消耗取决于目标精神崩溃的强度。</WordOfSerenity.description>
+  <WordOfTrust.label>信任之言</WordOfTrust.label>
+  <WordOfTrust.description>对囚犯说话，同时使用灵能暗示降低其对招募的抵抗。这只能降低囚犯的抵抗，但无法招募他们。</WordOfTrust.description>
+
+</LanguageData>

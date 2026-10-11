@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Alchemist.letterExtra>{PAWN_nameDef}自称精通炼金术。{PAWN_pronoun}能借助未知的远古科技影响，把钢铁转化为各种珍贵的资源。</Alchemist.letterExtra>
+  <BodyMastery.letterExtra>{PAWN_nameDef}的双眼纯白如雪。凭借当地的民间知识，{PAWN_pronoun}掌控了{PAWN_possessive}代谢与昼夜节律。至少{PAWN_pronoun}是这么说的。{PAWN_nameDef}从不睡觉，也无需进食，不过{PAWN_possessive}眼中你能看到一种原始的饥饿。</BodyMastery.letterExtra>
+  <DeathRefusal.letterExtra>作为某场邪教仪式的昔日受试者，{PAWN_nameDef}拥有向死而生的能力。黑色的远古科技流淌在{PAWN_possessive}全身，使{PAWN_objective}能够自我复活。当{PAWN_pronoun}复活时，{PAWN_possessive}血肉会迅速重塑，补全缺失的器官并治愈伤口。不过，这个过程并不完美。</DeathRefusal.letterExtra>
+  <Fleshcrafter.letterExtra>{PAWN_nameDef}自称拥有驱使死肉活动的黑暗技艺。{PAWN_pronoun}能把尸体变成可憎的肉兽。</Fleshcrafter.letterExtra>
+  <Joybringer.letterExtra>{PAWN_nameDef}是欢愉与宁静的传播者，其能力远不止于单纯的魅力。{PAWN_pronoun}通过讲笑话、传播欢愉的念头来振奋人心、激励他人。</Joybringer.letterExtra>
+  <Occultist.letterExtra>{PAWN_pronoun}对与虚空有关的一切都深有研究。{PAWN_pronoun}研究非自然现象的速度比他人更快，并会在有机会时把这门学问教给他人。</Occultist.letterExtra>
+  <PerfectHuman.letterExtra>{PAWN_nameDef}精通一切，且到了非人的程度。无论是什么领域，{PAWN_pronoun}都已掌握。此外，{PAWN_possessive}工作态度也极为出色。{PAWN_pronoun}看起来就是完美的工人。</PerfectHuman.letterExtra>
+  <PsychicButcher.letterExtra>动物在{PAWN_nameDef}身边会变得不安。{PAWN_pronoun}拥有扭曲生物血肉的非人力量，能让它们爆裂成一堆扭曲的肉块。{PAWN_nameDef}声称只用{PAWN_possessive}天赋来屠宰动物——但显然{PAWN_pronoun}同样能轻易地屠宰一个人。</PsychicButcher.letterExtra>
+  <ShamblerOverlord.letterExtra>{PAWN_nameDef}的身体遍布腐化的远古微粒。{PAWN_pronoun}能随意释放它们，制造出一团死生尘埃，复活附近的尸体。</ShamblerOverlord.letterExtra>
+  <UnnaturalHealing.letterExtra>{PAWN_pronoun}提出要用{PAWN_possessive}治愈之力来帮助你。</UnnaturalHealing.letterExtra>
+  
+</LanguageData>

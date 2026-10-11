@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <RoyalFavorTip>你可以从 {0} 中选一人，接受来自 {3_name} 的 {1} {2}。\n\n获得 {2} 即可获得头衔。头衔会带来灵能链接奖励以及军事援助等特殊许可。不过，头衔越高的 {0} 也需要特定的服装与卧室陈设。</RoyalFavorTip>
+  
+  <!-- Work tab -->
+  <WorkDisabledByRoyalTitle>因贵族头衔 {0} 而被禁用</WorkDisabledByRoyalTitle>
+
+</LanguageData>

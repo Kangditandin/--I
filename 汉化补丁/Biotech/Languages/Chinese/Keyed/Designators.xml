@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <DesignatorMechControlGroup>分配到编组</DesignatorMechControlGroup>
+  <DesignatorMechControlGroupDesc>将选中的机械体分配到其当前机械师监督者下的另一个控制编组。</DesignatorMechControlGroupDesc>
+  <MechCanBuildThis>不过，一个 {0} 可以建造它。</MechCanBuildThis>
+
+  <DesignatorAdopt>领养</DesignatorAdopt>
+  <DesignatorAdoptDesc>将此婴儿收为殖民者。婴儿会立刻成为你的一员。</DesignatorAdoptDesc>
+  <ChooseMechColor>选择机械体颜色…</ChooseMechColor>
+
+  <DesignatorAreaPollutionClearExpand>污染清理区</DesignatorAreaPollutionClearExpand>
+  <DesignatorAreaPollutionClearExpandDesc>指定一片由殖民者手动清理受污染地形的区域。清理地形会从地面去除污染，并将其打包成可运走的剧毒废料包。</DesignatorAreaPollutionClearExpandDesc>
+  <DesignatorAreaPollutionClearClear>清除污染清理区</DesignatorAreaPollutionClearClear>
+  <DesignatorAreaPollutionClearClearDesc>移除污染清理区。殖民者将不再手动从此区域的地形中提取污染。</DesignatorAreaPollutionClearClearDesc>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <StatsReport_Slave>被奴役的倍率（积极性低）</StatsReport_Slave>
+  <StatsReport_Terror>恐吓加成</StatsReport_Terror>
+  <StatsReport_LeaderOffset>派系领袖加成</StatsReport_LeaderOffset>
+  <StatsReport_OccupiedCorpseCasket>装有尸体</StatsReport_OccupiedCorpseCasket>
+
+  <StatsReport_InstalledRelicConvertPowerFactor>地图上的转化力加成</StatsReport_InstalledRelicConvertPowerFactor>
+  <StatsReport_RelicAtRitualMoodBonus>房间内仪式的情绪加成</StatsReport_RelicAtRitualMoodBonus>
+
+  <Stat_Thing_RelicOf_Name>圣物属于</Stat_Thing_RelicOf_Name>
+  <Stat_Thing_RelicOf_Desc>此圣物所属的理念。</Stat_Thing_RelicOf_Desc>
+  <Stat_Thing_RelicStatus>圣物状态</Stat_Thing_RelicStatus>
+  <Stat_Thing_RelicStatus_Desc>一件被广泛追寻、具有宗教或理念意义的物品。</Stat_Thing_RelicStatus_Desc>
+
+  <Stat_Thing_RelatedToIdeos_Name>相关于</Stat_Thing_RelatedToIdeos_Name>
+  <Stat_Thing_RelatedToIdeos_Desc>此物所属的理念。</Stat_Thing_RelatedToIdeos_Desc>
+
+  <StatsReports_HasRelic>持有圣物</StatsReports_HasRelic>
+
+  <StatsReport_BlindPsychicSensitivityOffset>失明加成</StatsReport_BlindPsychicSensitivityOffset>
+  <StatsReport_SightPsychicSensitivityOffset>视力加成</StatsReport_SightPsychicSensitivityOffset>
+
+  <Stat_Thing_StyleDominanceCategory>主导风格</Stat_Thing_StyleDominanceCategory>
+  <Stat_Thing_StyleDominanceCategoryDesc>此物体展现的风格。此风格可能与某些理念相关。根据其理念信仰，不同的人对特定风格的反应各不相同。</Stat_Thing_StyleDominanceCategoryDesc>
+  <Stat_Thing_IdeosSatisfied>满足理念</Stat_Thing_IdeosSatisfied>
+  <Style>风格</Style>
+
+  <Stat_Pawn_DarknessCombatShooting_Name>黑暗射击精度</Stat_Pawn_DarknessCombatShooting_Name>
+  <Stat_Pawn_DarknessCombatShooting_Desc>根据目标的光照水平，对命中几率的加成。</Stat_Pawn_DarknessCombatShooting_Desc>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Name>黑暗近战闪避几率</Stat_Pawn_DarknessMeleeDodgeChance_Name>
+  <Stat_Pawn_DarknessMeleeDodgeChance_Desc>根据当地光照水平，对近战闪避几率的加成。</Stat_Pawn_DarknessMeleeDodgeChance_Desc>
+  <Stat_Pawn_DarknessMeleeHitChance_Name>黑暗近战命中几率</Stat_Pawn_DarknessMeleeHitChance_Name>
+  <Stat_Pawn_DarknessMeleeHitChance_Desc>根据目标的光照水平，对近战命中几率的加成。</Stat_Pawn_DarknessMeleeHitChance_Desc>
+  <Stat_PawnDarkness_FollowingOffset>可以应用以下加成</Stat_PawnDarkness_FollowingOffset>
+
+  <StatsReport_BiosculptingSpeedFactor>生物雕塑速度</StatsReport_BiosculptingSpeedFactor>
+
+  </LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AncientAltar.approachOrderString>调查{0}</AncientAltar.approachOrderString>
+  <AncientAltar.approachingReportString>正在调查{0}。</AncientAltar.approachingReportString>
+  <AncientComplex.approachOrderString>调查{0}</AncientComplex.approachOrderString>
+  <AncientComplex.approachingReportString>正在调查{0}。</AncientComplex.approachingReportString>
+  <Archonexus.approachOrderString>调查{0}</Archonexus.approachOrderString>
+  <Archonexus.approachingReportString>正在调查{0}。</Archonexus.approachingReportString>
+  <WorshippedTerminal.approachOrderString>调查{0}</WorshippedTerminal.approachOrderString>
+  
+</LanguageData>

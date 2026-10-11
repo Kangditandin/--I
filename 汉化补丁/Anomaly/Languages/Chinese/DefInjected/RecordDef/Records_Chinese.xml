@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <KillsEntities.label>击杀（实体）</KillsEntities.label>
+  <KillsEntities.description>我击杀的实体数量。</KillsEntities.description>
+  <PawnsDownedEntities.label>击倒敌人（实体）</PawnsDownedEntities.label>
+  <PawnsDownedEntities.description>我击倒的实体数量。</PawnsDownedEntities.description>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Gravship -->
+  <StatsReport_GravshipRangeOffset>引力船航程加成</StatsReport_GravshipRangeOffset>
+  <StatsReport_GravshipRangeOffset_Desc>该建筑能让引力船在世界地图上多航行多远。</StatsReport_GravshipRangeOffset_Desc>
+  <StatsReport_GravshipFuelSavings>燃料节省</StatsReport_GravshipFuelSavings>
+  <StatsReport_GravshipFuelSavings_Desc>该建筑能减少多少引力船航行所需的燃料。</StatsReport_GravshipFuelSavings_Desc>
+  <StatsReport_GravEngineFuelConsumption>燃料消耗</StatsReport_GravEngineFuelConsumption>
+  <StatsReport_GravEngineFuelConsumption_Desc>引力船航行所需燃料的倍率。</StatsReport_GravEngineFuelConsumption_Desc>
+
+  <Stat_ThingUniqueWeaponTrait_Label>特性</Stat_ThingUniqueWeaponTrait_Label>
+  <Stat_ThingUniqueWeaponTrait_Desc>此武器的专属特性。</Stat_ThingUniqueWeaponTrait_Desc>
+
+  <StatsReport_WeaponTraits>武器特性</StatsReport_WeaponTraits>
+  <StatsReport_BurstShotCountMultiplier>连发次数倍率</StatsReport_BurstShotCountMultiplier>
+  <StatsReport_BurstShotSpeedMultiplier>射速倍率</StatsReport_BurstShotSpeedMultiplier>
+  <StatsReport_AdditionalStoppingPower>停止力加成</StatsReport_AdditionalStoppingPower>
+
+  <Stat_Airtight>气密</Stat_Airtight>
+  <Stat_Airtight_Desc>气密墙壁可防止房间在太空真空中失压。</Stat_Airtight_Desc>
+
+  <ContainedApparelBeauty>所装服装美观度</ContainedApparelBeauty>
+
+  <StatsReport_SentienceCatalystInstalled>已安装感知催化剂。</StatsReport_SentienceCatalystInstalled>
+
+</LanguageData>

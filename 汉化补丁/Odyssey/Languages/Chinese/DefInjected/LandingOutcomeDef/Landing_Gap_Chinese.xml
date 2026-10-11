@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <GravNausea.letterLabel>引力恶心</GravNausea.letterLabel>
+  <GravNausea.letterText>降落{GRAVSHIP}时，{PILOT_nameDef}被迫进行了一次紧急机动，造成了强烈而持久的减速。这次经历让你的殖民者感到极度恶心。效果会很快消退。</GravNausea.letterText>
+  <MinorGravshipCrash.letterLabel>轻微引力船坠毁</MinorGravshipCrash.letterLabel>
+  <MinorGravshipCrash.letterText>降落{GRAVSHIP}时，{PILOT_nameDef}过早地意外关闭了引力引擎，导致引力船自由落体了数英尺。引力船上的一些建筑因坠毁而受了轻微损伤。</MinorGravshipCrash.letterText>
+  <OverheatedGravEngine.letterLabel>引力引擎过热</OverheatedGravEngine.letterLabel>
+  <OverheatedGravEngine.letterText>降落{GRAVSHIP}时，{PILOT_nameDef}过度启动了引力引擎，导致其过热。引力引擎需要比平时更长的时间冷却。在此期间，引力船无法发射。</OverheatedGravEngine.letterText>
+  <ThrusterBreakdown.letterLabel>推进器故障</ThrusterBreakdown.letterLabel>
+  <ThrusterBreakdown.letterText>降落{GRAVSHIP}时，{PILOT_nameDef}使飞船推进器过热，烧毁了宝贵的部件。推进器需要修理后才能再次使用。</ThrusterBreakdown.letterText>
+  
+</LanguageData>

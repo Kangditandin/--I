@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Deathrest.label>死眠</Deathrest.label>
+  <Deathrest.description>携带死眠基因的人必须每隔几天或几个季度进行一次死眠。死眠意味着进入持续数天的再生昏迷，在此期间安眠者看起来如同死了一般。\n\n多种特殊建筑可以连接到死眠者，并在其醒来时给予加成。\n\n长时间不进行死眠会导致死眠耗竭，使人身体机能大幅下降。</Deathrest.description>
+  <KillThirst.label>杀戮满足</KillThirst.label>
+  <KillThirst.description>杀戮满足满足一种与生俱来的欲望：在近距离对人类受害者施暴。若未得到满足，此人会变得非常不快。</KillThirst.description>
+  <Learning.label>学习</Learning.label>
+  <Learning.description>儿童需要新的课程与体验才能良好成长，缺少这些他们会变得不快。\n\n只有当儿童的日程被设为娱乐或任意时，他们才会进行学习活动。\n\n满足儿童学习欲望的活动包括：\n{ACTIVITIES}\n\n被满足的学习需求能帮助儿童更快获得成长阶段，使他们在成长时刻获得更多热情与选择。</Learning.description>
+  <MechEnergy.label>能量</MechEnergy.label>
+  <MechEnergy.description>机械体运作所需的生物电能储备。可以在充能站充电。若降至零，机械体会进入休眠自充电模式并以极慢的速度充电。</MechEnergy.description>
+  <Play.label>玩耍</Play.label>
+  <Play.description>婴儿需要成年人陪玩。若没人陪他们玩，他们会变得不快。</Play.description>
+
+</LanguageData>

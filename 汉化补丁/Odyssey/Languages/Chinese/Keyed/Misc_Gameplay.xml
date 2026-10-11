@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Gravship -->
+  <Gravship>引力船</Gravship>
+  <CannotLaunchNoEngine>没有引力引擎</CannotLaunchNoEngine>
+  <CannotLaunchNotEnoughFuel>燃料不足</CannotLaunchNotEnoughFuel>
+  <CannotLaunchDestination>无法抵达此目的地</CannotLaunchDestination>
+  <CannotLandOnSameTile>无法降落在同一格</CannotLandOnSameTile>
+  <ConnectedSubstructure>已连接子结构</ConnectedSubstructure>
+  <SubstructureBlueprintsCount>已放置的子结构蓝图</SubstructureBlueprintsCount>
+  <CannotLaunchDisconnected>未连接引力引擎</CannotLaunchDisconnected>
+  <CannotLaunchNoSubstructure>没有子结构</CannotLaunchNoSubstructure>
+  <CannotLaunchNoThrusters>没有未被阻挡且可用的推进器</CannotLaunchNoThrusters>
+  <CannotLaunchOnCooldown>引擎冷却：{0}</CannotLaunchOnCooldown>
+  <ChooseWhereToLand>选择降落地</ChooseWhereToLand>
+  <GravEngineNotInspected>派一名殖民者来检查它。</GravEngineNotInspected>
+  <ChooseWhoShouldInspect>选择由谁检查 {0_definite}</ChooseWhoShouldInspect>
+  <CannotPilotGravship>无法发射引力船</CannotPilotGravship>
+  <PilotGravship>发射引力船</PilotGravship>
+  <FuelAmount>{0} {1_label}</FuelAmount>
+  <GravshipName>引力船名称</GravshipName>
+  <GravshipRange>引力船航程</GravshipRange>
+  <StoredChemfuel>储存的化合燃料</StoredChemfuel>
+  <ThrusterBlocked>推进器被阻挡</ThrusterBlocked>
+  <FuelConsumption>燃料消耗</FuelConsumption>
+  <FuelPerTile>每格 {0} 化合燃料</FuelPerTile>
+  <RequiresSignalJammer>重型武器系统：接近时需信号干扰器</RequiresSignalJammer>
+  <GravshipLandingSite>{0} 着陆点</GravshipLandingSite>
+  <ConfirmLandingArea>确认着陆区</ConfirmLandingArea>
+  <GravshipBlockedBy>被 {0_label} 阻挡</GravshipBlockedBy>
+  <GravshipBlockedByFog>无法放置在未发现区域</GravshipBlockedByFog>
+  <GravshipBlockedByRoof>被屋顶阻挡</GravshipBlockedByRoof>
+  <GravshipOutOfBounds>无法放置在地图边界之外</GravshipOutOfBounds>
+  <GravshipInNoBuildArea>无法放置在靠近地图边缘处</GravshipInNoBuildArea>
+  <GravshipInBlockedArea>无法放置在受阻区域</GravshipInBlockedArea>
+  <GravshipBlockedByTerrain>无法放置在 {0_label} 上</GravshipBlockedByTerrain>
+  <GravshipMustBeConnectedToLand>必须与坚固地面相连</GravshipMustBeConnectedToLand>
+  <ConfirmLandingToContinue>请确认着陆区以继续</ConfirmLandingToContinue>
+  <RitualTargetPilotConsole>一个有效的驾驶控制台</RitualTargetPilotConsole>
+  <GravshipOutcomeChanceLetterExtra>根据引力船的发射情况，出现负面结果的几率为 {0_percentage}。</GravshipOutcomeChanceLetterExtra>
+  <ThrustersBrokeDown>下列推进器受到影响</ThrustersBrokeDown>
+  <NoPathToGravship>无法到达引力船</NoPathToGravship>
+  <NoPathToPilotConsole>无法到达驾驶控制台</NoPathToPilotConsole>
+  <PilotConsoleInaccessible>无法从引力船到达驾驶控制台</PilotConsoleInaccessible>
+  <LaunchDate>发射日期</LaunchDate>
+  <WarningThrusterBlocked>警告：{0} 将被 {1} 阻挡。</WarningThrusterBlocked>
+  <WarningThrusterInside>警告：由于位于室内，{0} 将被阻挡。</WarningThrusterInside>
+  <GravFacilityMaxSimultaneousConnections>每艘引力船上限</GravFacilityMaxSimultaneousConnections>
+  <ShieldNotConnectedToGravship>未连接引力船</ShieldNotConnectedToGravship>
+  <GravshipLaunchInterrupted>引力船发射已取消</GravshipLaunchInterrupted>
+  <NotConnectedToGravEngine>未连接引力引擎。</NotConnectedToGravEngine>
+  <ThrusterNotFunctional>无法运作</ThrusterNotFunctional>
+  <ThrusterNotConnected>未连接引力引擎</ThrusterNotConnected>
+  <ThrusterBlockedBy>被 {0_label} 阻挡</ThrusterBlockedBy>
+  <MustBeOutside>必须在室外</MustBeOutside>
+  <BlockedBySubstructure>被子结构阻挡</BlockedBySubstructure>
+  <FailedToBoardGravship>{PAWN_nameDef} 无法登上 {1}</FailedToBoardGravship>
+  <FailedToLeaveGravship>{PAWN_nameDef} 无法离开 {1}</FailedToLeaveGravship>
+  <ViewRange>查看航程</ViewRange>
+  <ViewRangeDesc>在世界地图上查看引力船的当前航程。</ViewRangeDesc>
+
+  <!-- Map generation -->
+  <Landmark>地标</Landmark>
+  <AnimalHabitat>{ANIMALKIND_label} 栖息地</AnimalHabitat>
+  <PlantGrove>{0} 树林</PlantGrove>
+  <WildPlants>{0}</WildPlants>
+  <MineralRich>富含 {MINERAL_label}</MineralRich>
+  <MineralRichDescription>此区域的 {MINERAL_label} 矿藏比正常情况更多。</MineralRichDescription>
+
+  <!-- Insect Lair -->
+  <CaveEntranceLetter>洞穴入口</CaveEntranceLetter>
+  <CaveEntranceLetterText>引力核心的能量特征从附近的洞穴网络传来。入口由虫巢把守。\n\n探索洞穴网络以找到引力核心。</CaveEntranceLetterText>
+  <InsectAmbushLetter>虫类伏击</InsectAmbushLetter>
+  <InsectAmbushLetterText>虫类正从地下挖掘上来。做好准备！</InsectAmbushLetterText>
+  <LetterLabelInsectQueenWarning>低沉的虫鸣</LetterLabelInsectQueenWarning>
+  <LetterInsectQueenWarning>在附近的墙后，{PAWN_nameDef} 能听到低沉的脉动声，夹杂着低低的虫鸣。墙后藏着某种庞然大物。</LetterInsectQueenWarning>
+  
+  <!-- Overlay -->
+  <ShowVacuumOverlayToggleButton>切换真空覆盖层。它会显示哪些区域处于真空状态并指出泄漏处。\n\n没有合适的装备，暴露于真空会致命。</ShowVacuumOverlayToggleButton>
+  <Vacuum>真空</Vacuum>
+  
+  <!-- World -->
+  <CannotSelectOrbitReason>未发现轨道位置。</CannotSelectOrbitReason>
+  <DyingBecauseExposedToVacuum>因真空暴露而濒死</DyingBecauseExposedToVacuum>
+  <TracesOfPreciousResource>含有 {RESOURCE_label} 痕迹的真空石</TracesOfPreciousResource>
+  <TransportPodDestinationRequiresSignalJammer>需要信号干扰器</TransportPodDestinationRequiresSignalJammer>
+  <CannotFunctionInVacuum>在真空中无法运作。</CannotFunctionInVacuum>
+  <GravshipOnTileInspectString>引力船</GravshipOnTileInspectString>
+  
+  <!-- Ruins -->
+  <HackableDoorLocked>骇入以打开。</HackableDoorLocked>
+  
+  <!-- Fishing -->
+  <Fish>鱼</Fish>
+  <Fishing>钓鱼</Fishing>
+  <CannotFish>无法钓鱼</CannotFish>
+  <FishingSpotBlocked>受阻</FishingSpotBlocked>
+  <FishingSpotFrozen>结冰</FishingSpotFrozen>
+  <FishingSpotUnderTargetPopulation>低于最低鱼类数量</FishingSpotUnderTargetPopulation>
+  <FishingSpotOverTargetResourceCount>储存的鱼超过钓鱼区设置</FishingSpotOverTargetResourceCount>
+  <TabFishing>钓鱼</TabFishing>
+  <FishPopulation>鱼类数量</FishPopulation>
+  <FishPopulationDecline>数量正在下降</FishPopulationDecline>
+  <FishPopulation_VeryLow>极低</FishPopulation_VeryLow>
+  <FishPopulation_Low>低</FishPopulation_Low> 
+  <FishPopulation_Moderate>中等</FishPopulation_Moderate>
+  <FishPopulation_Healthy>健康</FishPopulation_Healthy>
+
+  <!-- Sand -->
+  <Sand>风积沙</Sand>
+  <SandNone>无沙</SandNone>
+  <SandDusting>微量</SandDusting>
+  <SandThin>薄</SandThin>
+  <SandMedium>中等</SandMedium>
+  <SandThick>厚</SandThick>
+  <Sand_Label>风积沙</Sand_Label>
+  <JobClearingSand>正在清理沙子。</JobClearingSand>
+  <ClearingSandGerund>清理沙子</ClearingSandGerund>
+
+  <!-- Stockpile -->
+  <StockpileMedicine>药品储存区</StockpileMedicine>
+  <StockpileChemfuel>化合燃料储存区</StockpileChemfuel>
+  <StockpileComponent>零部件储存区</StockpileComponent>
+  <StockpileWeapons>武器储存区</StockpileWeapons>
+  <StockpileDrugs>毒品储存区</StockpileDrugs>
+  
+  <!-- Outfit Stand -->
+  <SwapOutfit>装备套装</SwapOutfit>
+  <SwapOutfitGizmo>装备套装…</SwapOutfitGizmo>
+  <SwapOutfitDesc>命令一名殖民者穿上架上所有服装。殖民者会把未装备的衣物放回架上。</SwapOutfitDesc>
+  <CannotSwapOutfit>无法装备套装</CannotSwapOutfit>
+  <OutfitStandEmpty>服装架是空的</OutfitStandEmpty>
+  <EjectApparelTooltip>将此物从服装架上取下。</EjectApparelTooltip>
+  
+  <!-- Orbital mechanoid platform -->
+  <LetterAncientGravEngineDiscoveredLabel>古代引力引擎</LetterAncientGravEngineDiscoveredLabel>
+  <LetterAncientGravEngineDiscovered>你发现了一台古代引力引擎。摧毁它以获得引力核心。</LetterAncientGravEngineDiscovered>
+
+  <PlayerPawnsArriveMethod_Gravship>引力船</PlayerPawnsArriveMethod_Gravship>
+
+  <!-- Misc -->
+  <ShowExpandingLandmarksToggleButton>切换是否显示地标的展开图标。</ShowExpandingLandmarksToggleButton>
+
+  <!-- Mechive -->
+  <CerebrexCoreDialog>在 {PAWN_nameDef} 面前矗立着脑机核心——一张巨大的、类似大脑的神经网，指挥着全行星的机械族。\n\n随着它的稳定器被摧毁，{PAWN_nameDef} 现在可以直接接触它了……但 {PAWN_pronoun} 该拿这份力量怎么办？</CerebrexCoreDialog>
+  <CerebrexCoreOption_Destroy>摧毁核心</CerebrexCoreOption_Destroy>
+  <CerebrexCoreOption_Scavenge>拆取科技</CerebrexCoreOption_Scavenge>
+  <CerebrexCoreOption_Postpone>推迟</CerebrexCoreOption_Postpone>
+  <StabilizersRemaining>剩余稳定器</StabilizersRemaining>
+  <ProducingMechanoids>正在孕育机械族。</ProducingMechanoids>
+
+  <OdysseyDestroyedCredits>{PAWN_nameDef} 开始撕开脑机核心内部那比发丝还细的脑神经网。网体扭动着，发出呻吟般的声响，仿佛活着一般。电弧在网格框架间跳跃——随即，一切归于黑暗与死寂。\n\n机械族的嗡鸣停止了。在此处，以及全行星上，机械族开始永久失活，不再受机械巢控制。\n\n机械族的威胁结束了。但你的故事仍在继续……</OdysseyDestroyedCredits>
+  <OdysseyScavengedCredits>{PAWN_nameDef} 开始着手从核心中取出一个埋藏的处理节点。网格框架痛苦地抽搐着。当 {PAWN_nameDef} 将节点拉出时，神经网开始自行修复损伤。核心重建了防御并闭合。\n\n{PAWN_nameDef} 翻过节点，它迸发生机，与核心同步脉动，令 {PAWN_nameDef} 不禁一缩。在 {PAWN_possessive} 手中，{PAWN_nameDef} 握着一件拥有无穷力量的武器。\n\n故事仍在继续……</OdysseyScavengedCredits>
+
+  <CoreNotInteractableStabilizersRemaining>剩余 {0} 个稳定器</CoreNotInteractableStabilizersRemaining>
+  <CoreNotInteractableDeactivated>已失活</CoreNotInteractableDeactivated>
+
+  <CaravanShuttleFuel>穿梭机燃料</CaravanShuttleFuel>
+
+  <OrbitalScannerScanning>正在被动扫描轨道信号。</OrbitalScannerScanning>
+  <OrbitalScannerLocating>正在定位轨道信号</OrbitalScannerLocating>
+
+  <WeaponTraits>特性</WeaponTraits>
+  <UniqueWeapon>独特武器</UniqueWeapon>
+
+  <ConfirmLoseGravship>重组商队将废弃你的引力船。你确定要继续吗？\n\n要带着引力船离开，请选择引力船的驾驶控制台，然后选择“发射”。</ConfirmLoseGravship>
+  <ConfirmLoseShuttle>重组商队将废弃你的穿梭机。你确定要继续吗？\n\n要带着穿梭机离开，请选择穿梭机，然后选择“发射”。</ConfirmLoseShuttle>
+
+  <BookHasQuest>发现一个任务</BookHasQuest>
+  <DiscoveredQuest>已发现</DiscoveredQuest>
+
+  <QuestDiscoveredFromOrbitalScanner>你的轨道扫描器探测到</QuestDiscoveredFromOrbitalScanner>
+  <QuestDiscoveredFromUplink>{HACKER_nameDef} 骇入了一条上行链路，并发现了</QuestDiscoveredFromUplink>
+
+  <!-- Special Trainables -->
+  <AnimalAttackTarget>攻击</AnimalAttackTarget>
+  <AnimalAttackTargetDesc>命令此动物攻击特定目标。</AnimalAttackTargetDesc>
+  <AnimalsAttackTarget>动物攻击目标</AnimalsAttackTarget>
+  <AnimalsAttackTargetDesc>指挥所有已驯服的动物攻击特定目标。</AnimalsAttackTargetDesc>
+  <CancelAttack>取消攻击</CancelAttack>
+  <CancelAttackDesc>清除此动物当前的目标。</CancelAttackDesc>
+  <NoMaster>此动物没有主人</NoMaster>
+  <MasterNotSpawned>此动物的主人不在此地图上</MasterNotSpawned>
+  <MessageNotInRangeOfMaster>不在主人范围内。</MessageNotInRangeOfMaster>
+  <MessageAnimalForagedFood>{ANIMAL_nameDef} 在觅食时找到了 {FOOD_label}。</MessageAnimalForagedFood>
+  <ForageTrained>已训练觅食</ForageTrained>
+  <ForageEnabled>允许觅食</ForageEnabled>
+  <DigEnabled>允许挖掘</DigEnabled>
+
+  <HatchUnlocked>已解锁。</HatchUnlocked>
+
+  <GravshipShieldTip>一层短暂的动量排斥面，可阻挡抛射物。它对普通射击和迫击炮有效。若被 EMP 击中，会立即关闭。</GravshipShieldTip>
+
+</LanguageData>

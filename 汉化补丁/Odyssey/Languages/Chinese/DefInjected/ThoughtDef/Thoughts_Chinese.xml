@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.label>屠宰了鱼</SlaughteredFish_Disapproved.stages.slaughtered_fish.label>
+  <SlaughteredFish_Disapproved.stages.slaughtered_fish.description>我不得不杀鱼。这是件丑恶的事。</SlaughteredFish_Disapproved.stages.slaughtered_fish.description>
+  <SlaughteredFish_Know_Disapproved.stages.killed_fish.label>杀了鱼</SlaughteredFish_Know_Disapproved.stages.killed_fish.label>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>鱼被屠宰</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.label>
+  <SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>有人在杀鱼！我们应当保护这些美丽的生物。</SlaughteredFish_Know_Disapproved_Mood.stages.fish_slaughtered.description>
+  <SlaughteredFish_Know_Prohibited.stages.killed_fish.label>杀了鱼</SlaughteredFish_Know_Prohibited.stages.killed_fish.label>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>鱼被屠宰</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.label>
+  <SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>有人在杀鱼！我们这些滑溜溜的兄弟姐妹正在死去。</SlaughteredFish_Know_Prohibited_Mood.stages.fish_slaughtered.description>
+  <SlaughteredFish_Sacred.stages.fished_recently.label>最近钓过鱼</SlaughteredFish_Sacred.stages.fished_recently.label>
+  <SlaughteredFish_Sacred.stages.fished_recently.description>钓鱼让我走在正道上——至少有一小会儿。</SlaughteredFish_Sacred.stages.fished_recently.description>
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>鱼不够</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.label>
+  <SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>我希望我们在一个能钓鱼的地方。</SlaughteredFish_Sacred_NoFish.stages.not_enough_fish.description>
+  <ResettledRecently.stages.new_location-0.label>新地点</ResettledRecently.stages.new_location-0.label>
+  <ResettledRecently.stages.new_location-0.description>待在一个新地方真好。</ResettledRecently.stages.new_location-0.description>
+  <ResettledRecently.stages.new_location-1.label>新地点</ResettledRecently.stages.new_location-1.label>
+  <ResettledRecently.stages.new_location-1.description>待在一个新地方不错。</ResettledRecently.stages.new_location-1.description>
+  <ResettledRecently.stages.want_new_location-0.label>想要新地点</ResettledRecently.stages.want_new_location-0.label>
+  <ResettledRecently.stages.want_new_location-0.description>我们在这里够久了。让我们搬到新地方去。</ResettledRecently.stages.want_new_location-0.description>
+  <ResettledRecently.stages.want_new_location-1.label>想要新地点</ResettledRecently.stages.want_new_location-1.label>
+  <ResettledRecently.stages.want_new_location-1.description>我们在这里待太久了。我们需要尽快搬走。</ResettledRecently.stages.want_new_location-1.description>
+  <SpaceHabitat_Mood.stages.Planetary_habitat.label>行星居所</SpaceHabitat_Mood.stages.Planetary_habitat.label>
+  <SpaceHabitat_Mood.stages.Planetary_habitat.description>在这泥土里我永远不会觉得像家。我们该待在太空。</SpaceHabitat_Mood.stages.Planetary_habitat.description>
+  <SpaceHabitat_Mood.stages.Space_habitat.label>太空居所</SpaceHabitat_Mood.stages.Space_habitat.label>
+  <SpaceHabitat_Mood.stages.Space_habitat.description>待在我所属的地方感觉真好。我受不了待在下面那泥土里。</SpaceHabitat_Mood.stages.Space_habitat.description>
+  <BlowingSand.stages.blowing_sand.label>飞扬的沙</BlowingSand.stages.blowing_sand.label>
+  <BlowingSand.stages.blowing_sand.description>它无处不在！我能感觉到它在我的牙缝里。</BlowingSand.stages.blowing_sand.description>
+  <DestroyedMechhive.stages.destroyed_mechhive.label>摧毁的机械巢</DestroyedMechhive.stages.destroyed_mechhive.label>
+  <DestroyedMechhive.stages.destroyed_mechhive.description>我们击败了它们！我们现在摆脱它们了。</DestroyedMechhive.stages.destroyed_mechhive.description>
+  <HotSpring.stages.hot_spring.label>温泉</HotSpring.stages.hot_spring.label>
+  <HotSpring.stages.hot_spring.description>把脚泡在温水里真舒服。</HotSpring.stages.hot_spring.description>
+  <ToxWater.stages.tox_water.label>毒水</ToxWater.stages.tox_water.label>
+  <ToxWater.stages.tox_water.description>我浸在这恶心的东西里。它又痒又烧。</ToxWater.stages.tox_water.description>
+  <MadeStatueOfMe.stages.made_statue_of_me.label>为我制作了雕像</MadeStatueOfMe.stages.made_statue_of_me.label>
+  <BioluminescentSpores.stages.bioluminescent_spores.label>生物荧光孢子</BioluminescentSpores.stages.bioluminescent_spores.label>
+  <BioluminescentSpores.stages.bioluminescent_spores.description>它们绝对充满魔力。</BioluminescentSpores.stages.bioluminescent_spores.description>
+  <GravNausea.stages.grav_nausea.label>引力眩晕</GravNausea.stages.grav_nausea.label>
+  <GravNausea.stages.grav_nausea.description>世界在旋转。我觉得我要吐了。</GravNausea.stages.grav_nausea.description>
+  <VolcanicAsh.stages.volcanic_ash.label>火山灰</VolcanicAsh.stages.volcanic_ash.label>
+  <VolcanicAsh.stages.volcanic_ash.description>吸进这东西会让肺灼烧。</VolcanicAsh.stages.volcanic_ash.description>
+
+</LanguageData>

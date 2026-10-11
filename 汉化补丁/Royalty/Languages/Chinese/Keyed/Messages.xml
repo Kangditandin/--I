@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Shuttle landing zones -->
+  <ShuttleBlocked>穿梭机无法降落在停机坪上：{0}</ShuttleBlocked>
+  <MessageShuttleArrivedContentsLost>穿梭机抵达了，但由于里面没有殖民者，货物已丢失。</MessageShuttleArrivedContentsLost>
+
+  <ShuttleCannotLand_Fogged>无法降落在未探索区域。</ShuttleCannotLand_Fogged>
+  <ShuttleCannotLand_Unwalkable>区域必须可通行。</ShuttleCannotLand_Unwalkable>
+  <ShuttleCannotLand_Unaffordable>地形无法支撑 {0}。</ShuttleCannotLand_Unaffordable>
+
+  <MessageBestowerWaiting>选中 {BESTOWER_definite} 并点击“开始授勋仪式”以开始仪式。</MessageBestowerWaiting>
+  <MessageBestowerUnreachable>无法抵达授勋者！</MessageBestowerUnreachable>
+  <MessageBestowingTargetIsBusy>{0} 正忙。</MessageBestowingTargetIsBusy>
+  <MessageBestowingSpotUnreachable>授勋者对这种妨碍感到恼怒，决定离开。</MessageBestowingSpotUnreachable>
+  <MessageBestowingDanger>因有危及生命的危险，授勋者正在离开。</MessageBestowingDanger>
+  <MessageBestowingDangerTemperature>因有危及生命的温度，授勋者正在离开。</MessageBestowingDangerTemperature>
+  <MessageBestowingDangerGas>因区域内有危险气体，授勋者正在离开。</MessageBestowingDangerGas>
+  <MessageBestowingInterrupted>授勋仪式已被打断。</MessageBestowingInterrupted>
+
+  <MessageBestowingCeremonyStarted>{PAWN_definite} 的授勋仪式已开始。</MessageBestowingCeremonyStarted>
+  <MessageMissionGetBackToShuttle>你击败了 {FACTION_pawnsPlural}！回到穿梭机上以将其发射。</MessageMissionGetBackToShuttle>
+
+  <MessagePermitTransportDrop>{FACTION_name} 已在附近投放资源。</MessagePermitTransportDrop>
+  <MessagePermitTransportDropCaravan>{FACTION_name} 已向 {PAWN_nameDef} 的商队发送资源。</MessagePermitTransportDropCaravan>
+
+  <MessageNoFactionForVerbMechCluster>未发现轨道上的机械族。</MessageNoFactionForVerbMechCluster>
+
+</LanguageData>

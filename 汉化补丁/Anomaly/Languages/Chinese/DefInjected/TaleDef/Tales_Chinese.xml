@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <HealedMe.label>治好了我</HealedMe.label>
+  <MutatedMyArm.label>使我的手臂发生变异</MutatedMyArm.label>
+  <StudiedEntity.label>研究了实体</StudiedEntity.label>
+  <DeathPall.label>死亡之幕</DeathPall.label>
+  <UnnaturalDarkness.label>非自然黑暗</UnnaturalDarkness.label>
+  <ClosedTheVoid.label>关闭了虚空节点</ClosedTheVoid.label>
+  <EmbracedTheVoid.label>拥抱了虚空</EmbracedTheVoid.label>
+  <PerformedPsychicRitual.label>举行了灵能仪式</PerformedPsychicRitual.label>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodRain.label>血雨</BloodRain.label>
+  <BloodRain.description>任何长时间暴露在血雨中的人都会陷入狂暴。某些特质与心灵敏感度会影响狂暴效果。</BloodRain.description>
+  <GrayPall.label>灰霾</GrayPall.label>
+  <GrayPall.description>粗砺的雾气弥漫在空气中，气味腐臭而刺鼻。这种非自然的天气会引发恐惧。</GrayPall.description>
+  <MetalHell.label>金属地狱</MetalHell.label>
+  <MetalHell.description>地下没有天气。</MetalHell.description>
+  <Undercave.label>地下洞穴</Undercave.label>
+  <Undercave.description>地下没有天气。</Undercave.description>
+  <UnnaturalDarkness_Stage1.label>非自然黑暗</UnnaturalDarkness_Stage1.label>
+  <UnnaturalDarkness_Stage1.description>一种影响你殖民者的心灵现象。天空正在开裂、消融，使世界陷入非自然的黑暗。随着时间推移，黑暗会加深并变得危险。</UnnaturalDarkness_Stage1.description>
+  <UnnaturalDarkness_Stage2.label>非自然黑暗</UnnaturalDarkness_Stage2.label>
+  <UnnaturalDarkness_Stage2.description>一种影响你殖民者的心灵现象。天空本身似乎已经崩塌，使世界陷入非自然的黑暗。待在光亮处。</UnnaturalDarkness_Stage2.description>
+  <UnnaturalFog.label>死亡之幕</UnnaturalFog.label>
+  <UnnaturalFog.description>一团死灰色的黑尘落在这片区域。弥漫的尘埃渗入每个缝隙，散发出陈腐而恶臭的气味。\n\n这些尘埃由腐化的远古微粒构成，它们会进入尸体，将其复活成扭曲的生命拟态。\n\n死者将复苏！焚烧、埋葬、摧毁尸体，或将其移至室内，以阻止它们复活。</UnnaturalFog.description>
+
+</LanguageData>

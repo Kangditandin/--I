@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AssemblySpeedFactor.customLabel>房间清洁度</AssemblySpeedFactor.customLabel>
+  <ControlTakingTime.formatString>{0}秒</ControlTakingTime.formatString>
+  
+</LanguageData>

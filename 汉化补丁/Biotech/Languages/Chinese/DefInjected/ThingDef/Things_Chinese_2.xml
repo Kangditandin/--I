@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ShuttleCrashed_Exitable.label>坠毁的穿梭机</ShuttleCrashed_Exitable.label>
+  <ShuttleCrashed_Exitable.description>一架以铀为动力、供地表与轨道之间或行星系各卫星之间往来的太空时代穿梭机。为防止未经许可的使用，穿梭机被锁定在飞行员的生物签名上。</ShuttleCrashed_Exitable.description>
+  <ShuttleCrashed_Exitable_Mechanitor.label>坠毁的机械师飞船</ShuttleCrashed_Exitable_Mechanitor.label>
+  <ShuttleCrashed_Exitable_Mechanitor.description>一艘供机械师运输机械体、用于低轨道或行星内往来的短程飞船。</ShuttleCrashed_Exitable_Mechanitor.description>
+  <ToxifierGenerator.label>产毒发电机</ToxifierGenerator.label>
+  <ToxifierGenerator.description>这台发电机在产生能量的同时，会非常缓慢地污染其周围半径内的地形。若半径内所有地形都已被污染，发电机会停机。</ToxifierGenerator.description>
+  <TrapIED_ToxGas.label>IED 毒气陷阱</TrapIED_ToxGas.label>
+  <TrapIED_ToxGas.description>一对毒气炮弹连接到触发装置，在触碰或子弹命中时引爆。由于它隐藏于周围地形中，不能与其他陷阱相邻放置。动物在平静时可以感知到它们。</TrapIED_ToxGas.description>
+  <WastepackAtomizer.label>废料包雾化器</WastepackAtomizer.label>
+  <WastepackAtomizer.description>一种闪耀科技装置，利用先进的分子过程将有毒废料包分解为惰性气体。该过程需要相当大量的电力。</WastepackAtomizer.description>
+  <LargeMechGestator.label>大型机械孕育器</LargeMechGestator.label>
+  <LargeMechGestator.description>一缸富含机械微粒的液体，带有用于送入材料与营养的供给管。机械师可以用它生产新的机械体或复活死亡的机械体。此等级的机械孕育器能生成中型、重型与超重型机械体。\n\n该过程会产生严苛的化学物质，储存在有毒废料包中。搬运工必须不时移除这些废料包。</LargeMechGestator.description>
+  <MechGestator.label>机械孕育器</MechGestator.label>
+  <MechGestator.description>一缸富含机械微粒的液体，带有用于送入材料与营养的供给管。机械师可以用它生产新的机械体或复活死亡的机械体。这种基础型机械孕育器只能生成轻型机械体。\n\n该过程会产生严苛的化学物质，储存在有毒废料包中。搬运工必须不时移除这些废料包。</MechGestator.description>
+  <SubcoreEncoder.label>子核编码器</SubcoreEncoder.label>
+  <SubcoreEncoder.description>一台工作站，机械师可在此生产基础级子核。子核是机械体的大脑，生产任何机械体都需要一个。基础子核只能用于简单的机械体。\n\n更高等级的子核可以通过建造子核软扫描仪或子核撕裂扫描仪来制造。</SubcoreEncoder.description>
+  <SubcoreRipscanner.label>子核撕裂扫描仪</SubcoreRipscanner.label>
+  <SubcoreRipscanner.description>一个带有数千支组织探针注射器与一台超高功率蒸发式脑扫描仪的舱体。一旦有人被放入，装置会将探针刺入其身体、穿过皮肤，同时撕裂扫描仪啃噬大脑，读取反射辐射并在此过程中摧毁大脑。对心智进行撕裂扫描会生成一种神经灵能模式，扫描仪可将其模拟转移到一个新的高等级机械体子核中。\n\n子核是机械体的大脑，生产任何机械体都需要一个。此撕裂扫描仪产出的高等级子核只能驱动高等级机械体。</SubcoreRipscanner.description>
+  <SubcoreSoftscanner.label>子核软扫描仪</SubcoreSoftscanner.label>
+  <SubcoreSoftscanner.description>一个带有数千支微小组织探针与一台高能脑扫描仪的舱体。一旦有人被放入，系统会使用探针与扫描仪感知一种神经灵能模式，并将其模拟转移到一个新的标准级机械体子核中。此人会暂时生病，但不会受到伤害。\n\n子核是机械体的大脑，生产任何机械体都需要一个。此软扫描仪产出的标准级子核只能驱动标准级机械体。\n\n更高等级的子核可以通过建造子核撕裂扫描仪来制造。</SubcoreSoftscanner.description>
+  <BasicRecharger.label>机械充能器</BasicRecharger.label>
+  <BasicRecharger.description>轻型机械体可以在此充能。充能期间，该充能器会产生有毒废料包并将其存储在内部。搬运工必须不时移除这些废料包。</BasicRecharger.description>
+  <StandardRecharger.label>大型机械充能器</StandardRecharger.label>
+  <StandardRecharger.description>中型、重型与超重型机械体可以在此充能。充能期间，该充能器会产生有毒废料包并将其存储在内部。搬运工必须不时移除这些废料包。</StandardRecharger.description>
+  <ShuttleCrashing_Mechanitor.label>机械师飞船（坠毁中）</ShuttleCrashing_Mechanitor.label>
+  <ShuttleCrashing_Mechanitor.description>一艘供机械师运输机械体、用于低轨道或行星内往来的短程飞船。</ShuttleCrashing_Mechanitor.description>
+  <CocoonSpawner.label>昆虫茧</CocoonSpawner.label>
+  <MechShield.label>机械护盾</MechShield.label>
+  <Filth_FlammableBile.label>易燃胆汁</Filth_FlammableBile.label>
+  <Filth_Floordrawing.label>地面涂鸦</Filth_Floordrawing.label>
+  <DetoxifierKidney.label>消毒肾</DetoxifierKidney.label>
+  <DetoxifierKidney.description>一颗先进的人工肾脏。通过一系列纳米过滤器，它能迅速从血液中清除大量毒素，因此对环境毒素、毒液与注射毒物都有效。</DetoxifierKidney.description>
+  <DetoxifierLung.label>消毒肺</DetoxifierLung.label>
+  <DetoxifierLung.description>一颗先进的人工肺，使用微过滤器减少环境毒素的摄入，让使用者能在被污染的环境中存活更久。此外，它能抵消酸性烟雾的刺激，并防止此肺发生肺腐病。</DetoxifierLung.description>
+  <ControlSublink.label>控制子链接（标准）</ControlSublink.label>
+  <ControlSublink.description>一种神经植入体，为机械师提供一个额外的控制组。此外，子链接会略微提升该机械师所控制的所有机械体的工作速度。\n\n这种标准级子链接最多只能把控制组数量提升到 3。若要更高，必须使用更高等级的链接植入体。\n\n它可以无需手术自行植入。\n\n此植入体最多可植入 3 次以增强效果。</ControlSublink.description>
+  <ControlSublinkHigh.label>控制子链接（高级）</ControlSublinkHigh.label>
+  <ControlSublinkHigh.description>一种神经植入体，为机械师提供一个额外的控制组。此外，子链接会略微提升该机械师所控制的所有机械体的工作速度。\n\n这种高级植入体最多可把控制组数量提升到 6。\n\n它可以无需手术自行植入。\n\n此植入体最多可植入 3 次以增强效果。</ControlSublinkHigh.description>
+  <MechFormfeeder.label>机械孕育处理器</MechFormfeeder.label>
+  <MechFormfeeder.description>一种可提升机械师在机械孕育器中生产机械体速度的植入体。该处理器优化了机械成形槽中机械微粒的行为。\n\n此植入体可以像机械链接一样自行植入。\n\n此植入体最多可植入 6 次以增强效果。</MechFormfeeder.description>
+  <Mechlink.label>机械链接</Mechlink.label>
+  <Mechlink.description>一种可直接控制机械体的仿生植入体。机械链接被士兵用于控制战斗机械体，被工人用于控制劳作机械体。拥有机械链接的人被称为机械师。\n\n机械链接可自行植入。它被压入咽喉后部，装置会自行穿过血肉，夹在颅底与脊髓相接之处。在那里，它把一张超细导线网穿入附近的神经组织，在用户与机械体控制频带之间建立直接的精神链接。\n\n机械链接不只是向机械体发送无线电信号的装置，因为机械体并不仅仅是机器人。除了传统计算机之外，机械体还具有微弱的灵能存在，因此要流畅地控制它们就需要灵能连接。通过在灵能与电磁两方面同时连接机械师与机械体，机械链接能实现比屏幕加按钮界面更深层的控制。\n\n由于机械链接深深交织于脑组织之中，它只能在死后取出。\n\n注意：机械师必须能够从事锻造工作才能孕育机械体。</Mechlink.description>
+  <RemoteRepairer.label>远程维修器</RemoteRepairer.label>
+  <RemoteRepairer.description>一种机械链接升级，允许机械师远距离维修机械体。使用者与机械体链接，并用自己的大脑以灵能方式引导其自我维修机械微粒。\n\n此植入体可以无需手术自行植入。\n\n此植入体最多可植入 3 次以增加范围。</RemoteRepairer.description>
+  <RemoteShielder.label>远程护盾器</RemoteShielder.label>
+  <RemoteShielder.description>一种允许机械师为机械体施加个人防御护盾的植入体。机械师必须持续专注于该机械体以维持护盾。\n\n远距离施加护盾需要大量集中的能量。它可用于在关键时刻挽救一台机械体。\n\n此植入体可以像机械链接一样自行植入。\n\n此植入体最多可植入 3 次以增加范围与护盾能量。</RemoteShielder.description>
+  <RepairProbe.label>维修探针</RepairProbe.label>
+  <RepairProbe.description>一种可提升机械师维修机械体速度的植入体。这不影响维修机械体所需的总能量。\n\n该植入体让机械师在维修时能直接接入机械体。这使他们能更快地理解机械体的损伤，并更好地引导机械体的自我维修机械微粒来协助维修。\n\n此植入体可以像机械链接一样自行植入。\n\n此植入体最多可植入 6 次以增强效果。</RepairProbe.description>
+  <BabyFood.label>婴儿食品</BabyFood.label>
+  <BabyFood.description>一种淡而无味的素食糊。婴儿很喜欢，但若儿童与成年人被迫食用，他们会不高兴。</BabyFood.description>
+  <HemogenPack.label>血原质包</HemogenPack.label>
+  <HemogenPack.description>一包精炼血原质，装在可防止腐坏的专用容器中。具备造血能力的人类可以食用它以补充体内血原质储备。它也可以通过手术用于逆转失血。</HemogenPack.description>
+  <Bullet_Shell_Tox.label>毒气炮弹</Bullet_Shell_Tox.label>
+  <DeathrestCapacitySerum.label>死眠容量血清</DeathrestCapacitySerum.label>
+  <DeathrestCapacitySerum.description>一剂血清，可永久提升一个人在死眠期间能连接的死眠建筑数量。\n\n该血清只能由携带死眠基因的个体服用。</DeathrestCapacitySerum.description>
+  <NanostructuringChip.label>纳米构造芯片</NanostructuringChip.label>
+  <NanostructuringChip.description>一个分子重构的机械体微型器官。生产某些先进机械体与装备所必需。\n\n机械师可以研究该芯片，以帮助解锁更高等级的机械科技研究。</NanostructuringChip.description>
+  <PowerfocusChip.label>能量聚焦芯片</PowerfocusChip.label>
+  <PowerfocusChip.description>一个能量聚焦的机械体微型器官。生产某些先进类型的机械体与装备所必需。\n\n机械师可以研究该芯片，以帮助解锁更高等级的机械科技研究。</PowerfocusChip.description>
+  <Shell_Toxic.label>毒气炮弹</Shell_Toxic.label>
+  <Shell_Toxic.description>一发炮弹，内含混合后会产生致命毒气的试剂。发射后，它会插在地上并释放一段时间的毒气，随后失效。\n\n毒气会灼伤肺部与眼睛，造成暂时的呼吸急促与视力下降。持续暴露于毒气会导致可能致命的毒素积累。</Shell_Toxic.description>
+  <Shell_Toxic_Releasing.label>毒气炮弹</Shell_Toxic_Releasing.label>
+  <Shell_Toxic_Releasing_Water.label>毒气炮弹</Shell_Toxic_Releasing_Water.label>
+  <SignalChip.label>信号芯片</SignalChip.label>
+  <SignalChip.description>一个机械体频带同步的微型器官。生产某些先进类型的机械体与装备所必需。\n\n机械师可以研究该芯片，以帮助解锁更高等级的机械科技研究。</SignalChip.description>
+  <SubcoreBasic.label>基础子核</SubcoreBasic.label>
+  <SubcoreBasic.description>可能存在的最简单的机械体大脑，它是一个极小的心理动力基质单元，容纳着一个迟钝的副人格。由于这只是基础级子核，它只能驱动最简单的机械体。\n\n与所有机械体子核一样，它含有一个具有灵能存在的副人格，尽管非常微弱。</SubcoreBasic.description>
+  <SubcoreHigh.label>高级子核</SubcoreHigh.label>
+  <SubcoreHigh.description>一种高等级机械体大脑，是一个支持复杂副人格的心理动力基质单元。这个特定的子核属于最强等级，可以驱动复杂的超重型机械体。\n\n此核心内的副人格在复杂度上接近活人，尽管性质极为不同。与任何此类心智一样，它具有明显的灵能存在。\n\n此子核只能通过从另一个复杂心智进行丰富的模式转移来生产。若没有庞大的设施，唯一的方法就是撕裂扫描一个活人的大脑，并在此过程中杀死他们。</SubcoreHigh.description>
+  <SubcoreRegular.label>标准子核</SubcoreRegular.label>
+  <SubcoreRegular.description>一种标准级机械体大脑，是一个支持会思考的副人格的心理动力基质单元。这个特定的子核强到足以驱动标准级机械体。\n\n机械体不只是机器人，而这也不只是硅基计算机。它那个会思考、具有灵能存在的副人格，使其比硅基系统更具适应性。然而，这也意味着它只能通过从另一个会思考的心智进行模拟模式转移来生产。</SubcoreRegular.description>
+  <Wastepack.label>有毒废料包</Wastepack.label>
+  <Wastepack.description>一包压实的毒性废料，若不冷冻就会缓慢溶解。表面经过热封以便安全运输。废料包若溶解、老化或以其他方式被破坏，就会污染周围地形。\n\n有毒废料包易燃。若被燃烧或损坏，它们会释放毒气。</Wastepack.description>
+  <RawToxipotato.label>毒薯</RawToxipotato.label>
+  <RawToxipotato.description>未加工的毒薯。收获后，毒薯在食用上与普通马铃薯非常相似。不过，生吃时它们更可能导致食物中毒。</RawToxipotato.description>
+  <UnfinishedSubcore.label>未完成的子核</UnfinishedSubcore.label>
+  <UnfinishedSubcore.description>一个未完成的机械体子核。</UnfinishedSubcore.description>
+  <ArchiteCapsule.label>远古微粒胶囊</ArchiteCapsule.label>
+  <ArchiteCapsule.description>一个装有远古微粒的小胶囊——由超级智能远古科技制造的微观机器。这些装置能实现人类科学家看来不可能的物理与灵能壮举。与所有远古科技一样，没有任何人类能制造。我们只能试着搜集那些远古科技出于自身不可揣测的原因而制造的成品。\n\n该胶囊本身毫无用处，但可以在基因组装机上花费，以制作一个新的、由远古微粒驱动的异种胚芽。这需要研究远古基因学，以及一个含有远古微粒基因的基因包。远古微粒基因包可以从商人处获得。</ArchiteCapsule.description>
+  <Genepack.label>基因包</Genepack.label>
+  <Genepack.description>一个装有一整套遗传信息的小胶囊。要使用基因包，必须把它放入基因组装机附近的基因库，并组合成一个可植入的异种胚芽。\n\n若不存放在通电的基因库中，该基因包会缓慢老化。</Genepack.description>
+  <HumanEmbryo.label>胚胎</HumanEmbryo.label>
+  <HumanEmbryo.description>一个人类胚胎，可以植入母体以形成怀孕。</HumanEmbryo.description>
+  <HumanOvum.label>卵子</HumanOvum.label>
+  <HumanOvum.description>一个已取出、未受精的人类卵细胞，储存在保护性胶囊中。一旦由男性受精，它就会成为胚胎，随后可以植入人类母体或成长舱。</HumanOvum.description>
+  <MechanoidTransponder.label>机械体应答器</MechanoidTransponder.label>
+  <MechanoidTransponder.description>一种应答器微型器官，能将机械师与机械体连接起来，即便相隔极远。机械师能够利用灵能与电磁信号的混合来控制许多机械体。\n\n解密该应答器可以让你精确定位最后一名控制该机械体的机械师的位置。</MechanoidTransponder.description>
+  <Xenogerm.label>异种胚芽</Xenogerm.label>
+  <Xenogerm.description>一种自成一体的生物器官，含有一个或多个可植入的异种基因。\n\n一旦植入宿主体内，异种胚芽就会利用病毒、激素、生物合成药物以及可能的机械微粒，修改宿主的基因、基因表达与表型发育。视异种胚芽而定，宿主会发展出各种奇特的特质与能力，从而转变为不同的异种人类。\n\n植入异种胚芽是一个创伤性过程。一旦植入异种胚芽，此人会因转变过程而卧床数天。\n\n在储存与运输期间，异种胚芽被保存在密封容器中。</Xenogerm.description>
+  <Mote_Toy.label>微粒</Mote_Toy.label>
+  <MechGestatorCycleComplete_East.label>微粒</MechGestatorCycleComplete_East.label>
+  <MechGestatorCycleComplete_North.label>微粒</MechGestatorCycleComplete_North.label>
+  <MechGestatorCycleComplete_South.label>微粒</MechGestatorCycleComplete_South.label>
+  <MechGestatorCycleCompleteLarge_East.label>微粒</MechGestatorCycleCompleteLarge_East.label>
+  <MechGestatorCycleCompleteLarge_North.label>微粒</MechGestatorCycleCompleteLarge_North.label>
+  <MechGestatorCycleCompleteLarge_South.label>微粒</MechGestatorCycleCompleteLarge_South.label>
+  <MechGestatorCycleCompleteLarge_West.label>微粒</MechGestatorCycleCompleteLarge_West.label>
+  <MechGestatorFormed_East.label>微粒</MechGestatorFormed_East.label>
+  <MechGestatorFormed_North.label>微粒</MechGestatorFormed_North.label>
+  <MechGestatorFormed_South.label>微粒</MechGestatorFormed_South.label>
+  <MechGestatorFormedLarge_East.label>微粒</MechGestatorFormedLarge_East.label>
+  <MechGestatorFormedLarge_North.label>微粒</MechGestatorFormedLarge_North.label>
+  <MechGestatorFormedLarge_South.label>微粒</MechGestatorFormedLarge_South.label>
+  <MechGestatorFormedLarge_West.label>微粒</MechGestatorFormedLarge_West.label>
+  <MechGestatorForming_East.label>微粒</MechGestatorForming_East.label>
+  <MechGestatorForming_North.label>微粒</MechGestatorForming_North.label>
+  <MechGestatorForming_South.label>微粒</MechGestatorForming_South.label>
+  <MechGestatorFormingLarge_East.label>微粒</MechGestatorFormingLarge_East.label>
+  <MechGestatorFormingLarge_North.label>微粒</MechGestatorFormingLarge_North.label>
+  <MechGestatorFormingLarge_South.label>微粒</MechGestatorFormingLarge_South.label>
+
+</LanguageData>

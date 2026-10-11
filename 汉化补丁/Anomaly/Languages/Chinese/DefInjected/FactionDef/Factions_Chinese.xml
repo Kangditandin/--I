@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Entities.label>实体</Entities.label>
+  <HoraxCult.label>霍拉克斯教团</HoraxCult.label>
+  <ResearchExpedition.label>研究远征队</ResearchExpedition.label>
+  <ResearchExpedition.description>一支科学家团队。</ResearchExpedition.description>
+
+</LanguageData>

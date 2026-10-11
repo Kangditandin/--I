@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BioluminescentSpores.endMessage>生物荧光孢子正在消退。</BioluminescentSpores.endMessage>
+  <DeepFreeze.endMessage>深冻正在结束。</DeepFreeze.endMessage>
+  <Drought.endMessage>干旱结束了。</Drought.endMessage>
+  <Drought.letterText>由于近期缺少降雨，干旱开始了。露天植物会显著减慢生长。</Drought.letterText>
+  <GillRot.endMessage>鳃腐病正在结束。</GillRot.endMessage>
+  <GillRot.letterText>一种名为鳃腐病的寄生真菌出现在当地鱼群中。虽然对人类无害，但这种真菌会导致鱼群数量在一段时间内持续下降。\n\n鱼群数量低会使钓鱼产量降低。</GillRot.letterText>
+  <VolcanicAsh.endMessage>大部分火山灰已沉降。</VolcanicAsh.endMessage>
+  <VolcanicAsh.letterText>附近火山喷发产生的火山灰弥漫天空。太阳被遮蔽，刺鼻的空气灼烧肺部。这团灰云将持续数日。</VolcanicAsh.letterText>
+  
+</LanguageData>

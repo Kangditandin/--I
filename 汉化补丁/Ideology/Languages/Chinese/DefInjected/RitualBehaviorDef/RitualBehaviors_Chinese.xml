@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BlindingCeremony.roles.0.label>目标</BlindingCeremony.roles.0.label>
+  <BlindingCeremony.roles.1.label>切割者</BlindingCeremony.roles.1.label>
+  <Conversion.roles.0.label>说话者</Conversion.roles.0.label>
+  <Conversion.roles.1.label>被转化者</Conversion.roles.1.label>
+  <DateRitual.roles.0.label>说话者</DateRitual.roles.0.label>
+  <Execution.roles.0.label>行刑者</Execution.roles.0.label>
+  <Execution.roles.1.label>囚犯</Execution.roles.1.label>
+  <Execution.spectatorFilter.description>旁观者必须愿意观看处决。</Execution.spectatorFilter.description>
+  <Funeral.roles.0.label>说话者</Funeral.roles.0.label>
+  <GladiatorDuel.roles.0.label>说话者</GladiatorDuel.roles.0.label>
+  <GladiatorDuel.roles.1.label>决斗者</GladiatorDuel.roles.1.label>
+  <GladiatorDuel.roles.2.label>决斗者</GladiatorDuel.roles.2.label>
+  <GladiatorDuel.roles.3.label>决斗者护卫</GladiatorDuel.roles.3.label>
+  <GladiatorDuel.roles.4.label>决斗者护卫</GladiatorDuel.roles.4.label>
+  <LeaderSpeech.roles.0.label>说话者</LeaderSpeech.roles.0.label>
+  <RoleChange.roles.0.label>角色变更者</RoleChange.roles.0.label>
+  <SacrificeAnimal.roles.0.label>切割者</SacrificeAnimal.roles.0.label>
+  <SacrificeAnimal.roles.1.label>祭品</SacrificeAnimal.roles.1.label>
+  <SacrificePrisoner.roles.0.label>切割者</SacrificePrisoner.roles.0.label>
+  <SacrificePrisoner.roles.1.label>祭品</SacrificePrisoner.roles.1.label>
+  <ScarificationCeremony.roles.0.label>目标</ScarificationCeremony.roles.0.label>
+  <ScarificationCeremony.roles.1.label>切割者</ScarificationCeremony.roles.1.label>
+  <TreeConnection.roles.0.label>连接者</TreeConnection.roles.0.label>
+  <Trial.roles.0.label>法官</Trial.roles.0.label>
+  <Trial.roles.1.label>被定罪者</Trial.roles.1.label>
+  <TrialMentalState.roles.0.label>法官</TrialMentalState.roles.0.label>
+  <TrialMentalState.roles.1.label>被定罪者</TrialMentalState.roles.1.label>
+  <TrialPrisoner.roles.0.label>法官</TrialPrisoner.roles.0.label>
+  <TrialPrisoner.roles.1.label>被定罪者</TrialPrisoner.roles.1.label>
+
+</LanguageData>

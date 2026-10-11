@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AlphaThrumboSighting.label>阿尔法敲击兽目击</AlphaThrumboSighting.label>
+  <AlphaThrumboSighting.description>在此处目击到一头稀有的阿尔法敲击兽。</AlphaThrumboSighting.description>
+  <OpportunitySite_AncientChemfuelRefinery.label>远古化合燃料精炼厂</OpportunitySite_AncientChemfuelRefinery.label>
+  <OpportunitySite_AncientChemfuelRefinery.description>一处废弃的工业设施，内含大量化合燃料。它也可能含有仍在运作的安保系统。</OpportunitySite_AncientChemfuelRefinery.description>
+  <OpportunitySite_AncientGarrison.label>远古驻防地</OpportunitySite_AncientGarrison.label>
+  <OpportunitySite_AncientGarrison.description>一处早已废弃的军事结构。它可能仍含有贵重物品，以及仍在运作的安保系统。探索这些废墟时请小心。</OpportunitySite_AncientGarrison.description>
+  <OpportunitySite_AncientInfestedSettlement.label>虫巢定居点</OpportunitySite_AncientInfestedSettlement.label>
+  <OpportunitySite_AncientInfestedSettlement.description>一处曾繁荣、如今已被昆虫侵染的定居点。它可能仍含有宝贵的资源。</OpportunitySite_AncientInfestedSettlement.description>
+  <OpportunitySite_AncientLaunchSite.label>远古发射场</OpportunitySite_AncientLaunchSite.label>
+  <OpportunitySite_AncientLaunchSite.description>一处废弃的发射台群，曾用于向轨道平台运送物资。它含有可用的运输舱。</OpportunitySite_AncientLaunchSite.description>
+  <OpportunitySite_AncientWarehouse.label>远古仓库</OpportunitySite_AncientWarehouse.label>
+  <OpportunitySite_AncientWarehouse.description>一处废弃的仓库。它仍含有贵重物品。它也可能含有仍在运作的安保系统。</OpportunitySite_AncientWarehouse.description>
+  <BanditGang.label>远古雇佣兵</BanditGang.label>
+  <BanditGang.description>一队躲藏在一座远古结构中的敌对雇佣兵。</BanditGang.description>
+  <AbandonedSettlement.label>废弃定居点</AbandonedSettlement.label>
+  <AbandonedSettlement.description>引力核心的能量信号来自这个定居点的某处。探索这些废弃建筑以找到引力核心。</AbandonedSettlement.description>
+  <AncientReactor.label>远古反应堆</AncientReactor.label>
+  <AncientReactor.description>一座远古反应堆隐藏在附近的废墟中。反应堆已开裂，正向整个区域泄漏毒性落尘。找到并关闭反应堆，以获取引力核心并停止落尘。</AncientReactor.description>
+  <AncientStockpile.label>远古储藏点</AncientStockpile.label>
+  <AncientStockpile.description>你探测到引力核心的能量信号从一处远古地下储藏点发出。该位置已标记在世界地图上。\n\n获取引力核心与引力岩板以扩大你引力船的规模。</AncientStockpile.description>
+  <CrashedMechanoidPlatform.label>坠毁的机械体平台</CrashedMechanoidPlatform.label>
+  <CrashedMechanoidPlatform.description>一处轨道平台的残骸散落在附近。小心，残骸中含有敌对的机械体。\n\n引力核心信号来自坠毁地点内的某处。</CrashedMechanoidPlatform.description>
+  <FrozenTerraformer.label>冰封地形改造器</FrozenTerraformer.label>
+  <FrozenTerraformer.description>你探测到引力核心的能量信号。该引力核心正为一台故障的远古地形改造器供能。其位置已标记在世界地图上。\n\n地形改造器正把当地区域冷却到危险的低温度。请为寒冷天气做好准备。\n\n获取引力核心与引力岩板以扩大你引力船的规模。</FrozenTerraformer.description>
+  <InsectLair.label>洞穴系统</InsectLair.label>
+  <InsectLair.description>你探测到引力核心的能量信号从地下一处洞穴系统发出。该洞穴系统的入口已标记在世界地图上。\n\n获取引力核心与引力岩板以升级你的引力船。</InsectLair.description>
+  <MechanoidRelay.label>机械体中继站</MechanoidRelay.label>
+  <MechanoidRelay.description>引力核心的能量信号来自此处的一座机械体通信中继站。拆解它以获取引力核心。</MechanoidRelay.description>
+  <OrbitalAncientPlatform.label>废弃轨道平台</OrbitalAncientPlatform.label>
+  <OrbitalAncientPlatform.description>你探测到引力核心的能量信号。\n\n小心——轨道地点极其危险。确保你的引力船用气密墙完全封闭，并为你的殖民者配备真空服。规划好返程，因为长期生活在轨道上非常艰难。</OrbitalAncientPlatform.description>
+  <OrbitalMechanoidPlatform.label>机械体平台</OrbitalMechanoidPlatform.label>
+  <OrbitalMechanoidPlatform.description>你在此平台上探测到引力核心的能量信号。这里有大量的机械体。\n\n小心，轨道地点极其危险。确保你的引力船用气密墙完全封闭，并为你的殖民者配备真空服。规划好返程，因为长期生活在轨道上非常艰难。</OrbitalMechanoidPlatform.description>
+  <OrbitalMechhive.label>机械巢</OrbitalMechhive.label>
+  <OrbitalMechhive.description>你探测到行星上方轨道中的机械巢。其位置已标记在世界地图上。\n\n机械巢是机械体智能的中心，指挥着行星上的机械体。若将其关闭，它将使全行星的机械体失效。或者，你也许能为自己目的利用机械巢。\n\n警告，机械巢极其危险。先完成其他地点的探索，并确保你已为长期驻留轨道做好准备。</OrbitalMechhive.description>
+  <GravshipWreckage.label>引力船残骸</GravshipWreckage.label>
+  <GravshipWreckage.description>一艘引力船的坠毁地点。</GravshipWreckage.description>
+  <Opportunity_AbandonedPlatform.description>一处含宝贵资源的废弃轨道平台。</Opportunity_AbandonedPlatform.description>
+  <Opportunity_MechanoidPlatform.description>一处用于生产机械体的轨道平台，由远处的机械巢控制。</Opportunity_MechanoidPlatform.description>
+  <Opportunity_OrbitalWreck.description>一处含宝贵资源的轨道平台残骸。这类残骸通常由轨道海盗看守。</Opportunity_OrbitalWreck.description>
+  <Opportunity_SurveySite.label>勘测点</Opportunity_SurveySite.label>
+  <Opportunity_SurveySite.description>一处远程勘测作业的地点。</Opportunity_SurveySite.description>
+  <OpportunitySite_Satellite.description>一颗无法维持生命的无人卫星。卫星用途广泛，从收集能量到作为武器平台。</OpportunitySite_Satellite.description>
+
+</LanguageData>

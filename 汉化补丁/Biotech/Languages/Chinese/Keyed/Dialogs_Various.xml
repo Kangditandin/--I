@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Mechanitors -->
+  <AnyMechanitor>任意机械师</AnyMechanitor>
+  <BossgroupWarningDialog>召唤 {LEADERKIND_label} 威胁将召来以下敌对机械体：\n\n{PAWNS}\n\n这些机械体将在接下来几小时或几天内抵达。你准备好战斗了吗？</BossgroupWarningDialog>
+  <MechControllerDowned>{PAWN_labelShort} 已倒地。</MechControllerDowned>
+  <MechControllerImprisoned>{PAWN_labelShort} 是囚犯。</MechControllerImprisoned>
+  <MechControllerInsideContainer>{PAWN_labelShort} 在 {CONTAINER} 中</MechControllerInsideContainer>
+  <MechControllerInsufficientBandwidth>{PAWN_labelShort} 带宽不足</MechControllerInsufficientBandwidth>
+  <MechControllerMentalState>{PAWN_labelShort} 处于“{MENTALSTATE_label}”精神状态。</MechControllerMentalState>
+  <ConfirmDisassemblingMech>你真的想永久拆解 {0} 吗？\n\n永久拆解 {0} 将回收</ConfirmDisassemblingMech>
+  <ConfirmInstallMechlink_Smithing>机械师必须能从事锻造工作才能制造机械体。\n\n你确定要继续吗？</ConfirmInstallMechlink_Smithing>
+  <ConfirmInstallMechlink_Intellectual>机械师必须能从事研究工作才能解锁机械师研究。\n\n你确定要继续吗？</ConfirmInstallMechlink_Intellectual>
+  <InsufficientBandwidth>带宽不足</InsufficientBandwidth>
+  <MechanitorLeftMapWithoutMechs>{PAWN_labelShort} 将以下机械体留在了原地：\n\n{MECHS}\n\n这些机械体会留在这里直到被接走。\n\n要将其工作模式设为护送，以便它们跟随 {PAWN_labelShort} 离开地图吗？</MechanitorLeftMapWithoutMechs>
+
+  <!-- Apparel -->
+  <ApparelRequirementAnyMechlordApparel>任意机械领主服装</ApparelRequirementAnyMechlordApparel>
+  <ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>或任意灵能者、威严或机械领主服装</ApparelRequirementOrAnyPsycasterOrPrestigeApparelOrMechlord>
+
+  <!-- Mech gestator -->
+  <GestationCyclesCompleted>已完成的孕育周期</GestationCyclesCompleted>
+  <FormerIngredients>已收集的材料</FormerIngredients>
+
+  <!-- Subcore scanner -->
+  <ConfirmRipscanPawn>对 {PAWN_nameDef} 进行撕取扫描会杀死 {PAWN_objective}。你确定要继续吗？</ConfirmRipscanPawn>
+  <ConfirmCancelRipscan>取消撕取扫描仍会杀死 {PAWN_nameDef}。你确定要继续吗？</ConfirmCancelRipscan>
+
+  <!-- Xenogerm -->
+  <AssembleGenes>组裝基因</AssembleGenes>
+  <CreateXenotype>创建异种型</CreateXenotype>
+  <SelectIcon>选择图标</SelectIcon>
+  <SelectIconDesc>此异种型的图标。</SelectIconDesc>
+  <InspectGenesDesc>查看 {0_labelShort} 内的基因。</InspectGenesDesc>
+  <InspectGenesHediffDesc>查看未出生婴儿的基因。</InspectGenesHediffDesc>
+  <InspectGenesEmbryoDesc>查看胚胎的基因。</InspectGenesEmbryoDesc>
+  <NoGenePacks>没有基因包</NoGenePacks>
+  <StartCombining>开始合成</StartCombining>
+  <SelectedGenepacks>已选基因包</SelectedGenepacks>
+  <GenepackLibrary>基因包库</GenepackLibrary>
+  <ClickToAddOrRemove>点击添加或移除</ClickToAddOrRemove>
+  <ClickToAdd>点击添加</ClickToAdd>
+  <ClickToRemove>点击移除</ClickToRemove>
+  <SelectXenogerm>选择异种胚芽</SelectXenogerm>
+  <WarningPawnWillDieFromReimplanting>警告：{PAWN_nameDef} 的基因正在再生。若在 {PAWN_possessive} 基因完全再生前植入 {PAWN_possessive} 的异种胚芽，会杀死 {PAWN_objective}。\n\n你确定要继续吗？</WarningPawnWillDieFromReimplanting>
+  <NotEnoughArchites>远古胶囊不足。</NotEnoughArchites>
+  <XenogenesDesc>异种基因源自植入的异种胚芽。若胚芽被移除或替换，异种基因也会随之消失。由于异种基因不是生物自身生殖系 DNA 的一部分，它们不会传给后代。</XenogenesDesc>
+  <EndogenesDesc>生殖系基因是自然遗传的基因，存在于生物体内每个细胞中，无需任何外部支持。它们会从父母传给子女。</EndogenesDesc>
+  <MemberXenotypeChances>成员异种型</MemberXenotypeChances>
+  <XenotypeName>异种型名称</XenotypeName>
+  <LockNameButtonDesc>锁定或解锁异种型的名称。锁定时，添加或移除基因包不会自动重生成异种型名称。</LockNameButtonDesc>
+  <LockNameOn>异种型名称锁定已开启。添加或移除基因包时不会重生成异种型名称。</LockNameOn>
+  <LockNameOff>异种型名称锁定已关闭。添加或移除基因包时会重生成异种型名称。</LockNameOff>
+  <CreatingXenogerm>正在创建异种胚芽</CreatingXenogerm>
+  <GenepackUnusableGenebankUnpowered>此基因包含在未通电的基因库中。若加入，异种胚芽的生产将会暂停，直到恢复供电。</GenepackUnusableGenebankUnpowered>
+  <GeneProcessorUnpowered>此异种胚芽所需的基因复杂度超出了基因合成器及附近已通电基因处理器的支持范。</GeneProcessorUnpowered>
+  <RecombineDuration>预计重组时间</RecombineDuration>
+  <RecombineDurationDesc>一名普通工作者将所选基因合成为异种胚芽所需的时间。重组时间随胚芽中基因的总复杂度而增加。</RecombineDurationDesc>
+  <MustResearchProject>在你可以组裝需要远古胶囊的异种胚芽之前，必须先研究 {0_label}。</MustResearchProject>
+  <AssemblingRequiresResearch>组裝带远古基因的异种胚芽需要 {0_label} 研究。</AssemblingRequiresResearch>
+  <ConfirmStartNewXenogerm>你当前正在合成一个 {XENOGERMNAME} 异种胚芽。若开始合成新胚芽，当前胚芽将被取消。\n\n你确定要继续吗？</ConfirmStartNewXenogerm>
+  <SelectAGeneToRandomizeName>请至少选择一个基因，以便为此异种型随机取名。</SelectAGeneToRandomizeName>
+  <SelectAGeneToChooseAName>请至少选择一个基因，以便为此异种型取名。</SelectAGeneToChooseAName>
+
+  <!-- View genes -->
+  <InspectGenes>查看基因</InspectGenes>
+  <InspectBabyGenes>查看婴儿基因</InspectBabyGenes>
+  <NoXenogermImplanted>未植入异种胚芽</NoXenogermImplanted>
+  <Endogenes>生殖系基因</Endogenes>
+  <Xenogenes>异种基因</Xenogenes>
+  <Overridden>已被覆盖</Overridden>
+  <OverriddenByGene>被基因覆盖</OverriddenByGene>
+  <OverriddenByIdenticalGene>被同种基因覆盖</OverriddenByIdenticalGene>
+  <MoreInfoInInfoScreen>更多信息可在此异种型的信息界面中查看。</MoreInfoInInfoScreen>
+  <TakesEffectAfterAge>在以下年龄后生效</TakesEffectAfterAge>
+
+  <!-- Xenotype editor -->
+  <XenotypeEditor>异种型编辑器</XenotypeEditor>
+  <AnyNonArchite>任意（非远古）</AnyNonArchite>
+  <SelectedGenes>已选基因</SelectedGenes>
+  <Custom>自定义</Custom>
+  <Hybrid>混合</Hybrid>
+  <GenesAreInheritable>基因可遗传</GenesAreInheritable>
+  <GenesAreInheritableXenotypeDef>此异种型是否能遗传给后代。</GenesAreInheritableXenotypeDef>
+  <GenesAreInheritableDesc>此异种型中的所有基因都能遗传给后代。</GenesAreInheritableDesc>
+  <GeneWillBeRandomChosen>对每个个体，将从以下基因中随机选择一个生效</GeneWillBeRandomChosen>
+  <GeneIncompatibleDesc>此基因与此异种型中的其他基因不兼容。这些基因中只有一个会生效</GeneIncompatibleDesc>
+  <GeneLeftmostActive>在以下基因中，最左侧的总是生效，其他则被抑制</GeneLeftmostActive>
+  <GeneOneActive>在以下基因中，只有一个会生效，其他则被抑制</GeneOneActive>
+  <WarnChangingXenotypeWillRandomizePawn>更改异种型会随机化此殖民者。\n\n仍要继续吗？</WarnChangingXenotypeWillRandomizePawn>
+  <DeleteThisXenotype>删除此异种型。</DeleteThisXenotype>
+  <IgnoreRestrictions>忽略限制</IgnoreRestrictions>
+  <IgnoreRestrictionsDesc>创建的异种型没有生物属性限制。可以添加需要远古胶囊的基因。</IgnoreRestrictionsDesc>
+  <XenotypeBreaksLimits>此异种型突破了正常游戏限制</XenotypeBreaksLimits>
+  <XenotypeBreaksLimits_Archites>它包含远古基因且可遗传，但远古基因通常永远无法遗传。</XenotypeBreaksLimits_Archites>
+  <XenotypeBreaksLimits_Exceeds>{STAT} 为 {VALUE}，超出了正常上限 {MAX}。</XenotypeBreaksLimits_Exceeds>
+  <XenotypeBreaksLimits_Below>{STAT} 为 {VALUE}，低于正常下限 {MIN}。</XenotypeBreaksLimits_Below>
+  <SaveAnyway>仍要保存吗？</SaveAnyway>
+  <IgnoreRestrictionsConfirmation>忽略限制使你能够通过突破生物属性限制来创造不可能的基因组合。它还会让你获得强大的远古基因，这可能使游戏变得非常容易。\n\n你确定要忽略限制吗？</IgnoreRestrictionsConfirmation>
+  <DevelopmentalAgeSelectionDesc>生成时，殖民者将始终处于此发育阶段的年龄范围内。</DevelopmentalAgeSelectionDesc>
+  <XenotypeSelectionDesc>殖民者将始终携带此异种型所定义的基因。</XenotypeSelectionDesc>
+  <SaveAndApply>保存并应用</SaveAndApply>
+  <LoadCustom>加载自定义</LoadCustom>
+  <LoadPremade>加载预设</LoadPremade>
+  <GenesConflict>基因冲突</GenesConflict>
+  <GenesConflictDesc>{FIRST_label}、{SECOND_label}</GenesConflictDesc>
+
+  <!-- Xenogerm editor -->
+  <LoadXenogermTemplate>加载模板</LoadXenogermTemplate>
+  <SaveXenogermTemplate>保存模板</SaveXenogermTemplate>
+  <CannotSaveXenogermTemplate>无法保存不含 {0} 的模板。</CannotSaveXenogermTemplate>
+  <XenogermTemplateSaved>{NAME} 模板已保存</XenogermTemplateSaved>
+  <MissingGenepacksForXenogerm>缺少 {COUNT} 个用于 {NAME} 模板的基因包。</MissingGenepacksForXenogerm>
+  <MissingGenepackForXenogerm>缺少用于 {NAME} 模板的基因包</MissingGenepackForXenogerm>
+  <DeleteThisXenogerm>删除此异种胚芽。</DeleteThisXenogerm>
+
+  <!-- Babies -->
+  <ChooseChildOrAdult>请至少选择一名儿童或成人。</ChooseChildOrAdult>
+
+  <!-- Deathrest -->
+  <WarningWakingInterruptsDeathrest>在 {MINDURATION} 过去前唤醒 {PAWN_nameDef} 会打断 {PAWN_possessive} 死眠，使其在恢复期间病上好几天。提前唤醒意味着 {PAWN_nameDef} 将无法从任何死眠建筑中获益。{PAWN_pronoun} 已死眠了 {CURDURATION}。\n\n你确定要唤醒 {PAWN_nameDef} 吗？</WarningWakingInterruptsDeathrest>
+
+  <!-- Text motes -->
+  <NumWoundsTended>已处理 {0} 处伤口</NumWoundsTended>
+
+  <!-- Mechs -->
+  <MechWeightClass>重量等级</MechWeightClass>
+  <MechWeightClassExplanation>此机械体的重量等级。</MechWeightClassExplanation>
+  <MechOverseer>此机械体的监督者是 {0}。</MechOverseer>
+  <MechWorkActivities>工作活动</MechWorkActivities>
+  <MechWorkActivitiesExplanation>此机械族可以从事的工作活动。\n\n以下列表详述了每种工作类型内可完成的工作活动</MechWorkActivitiesExplanation>
+  <MechRechargeSettingsTitle>充能设置</MechRechargeSettingsTitle>
+  <MechRechargeSettingsExplanation>更改机械体何时开始和停止充能。\n\n能量低于此范围的机械体会自动寻找充能器。达到此范围上限后，它们会停止充能。这些设置仅在工作模式下生效。</MechRechargeSettingsExplanation>
+  <MechWorkSkill>工作技能</MechWorkSkill>
+  <MechWorkSkillDesc>此机械体工作时使用的技能等级。</MechWorkSkillDesc>
+  <AnyMech>任意机械体</AnyMech>
+  <AnyNonMech>任意人类</AnyNonMech>
+  <CaravanLacksMechMechanitorWarning>你的商队中有机械体，但没有它们的监督者。抵达目的地后，你对这些机械体的控制将很有限。</CaravanLacksMechMechanitorWarning>
+  <MechsSection>机械族</MechsSection>
+
+  <!-- Pawn naming -->
+  <RenameMech>重命名机械体</RenameMech>
+  <MechGainsName>机械体的名称现在为 {0}。</MechGainsName>
+
+  <FertilizeOvumInbredChance>{FATHER_nameDef} 是 {MOTHER_nameDef} 的 {RELATION}。由于近亲繁殖，所生婴儿有 {CHANCE} 的几率会带有遗传异常。\n\n你确定要继续吗？</FertilizeOvumInbredChance>
+
+  <ConfirmationPawnPregnancyTerminated>{PAWN_nameDef} 怀孕了。在 {PAWN_pronoun} 怀孕头三个月内植入宫内节育器会终止妊娠。\n\n你确定要继续吗？</ConfirmationPawnPregnancyTerminated>
+
+  <!-- Pollution -->
+  <ConfirmSettleNearPollution>此地块靠近受污染地块，因此大约每 {0} 天这里会出现一次酸性雾霾。酸性雾霾会减缓植物生长、腐蚀暴露的物品，并让人不开心。</ConfirmSettleNearPollution>
+
+  <!-- Pregnancy -->
+  <PawnIsAway>{PAWN_nameDef} 不在。</PawnIsAway>
+  <PawnsHaveSameGender>{PAWN1_nameDef} 和 {PAWN2_nameDef} 性别相同。</PawnsHaveSameGender>
+  <PawnsAreSterile>{PAWN1_nameDef} 和 {PAWN2_nameDef} 都不育。</PawnsAreSterile>
+  <PawnIsSterile>{PAWN_nameDef} 不育。</PawnIsSterile>
+  <PawnsAreInfertile>{PAWN1_nameDef} 和 {PAWN2_nameDef} 都不能生育。</PawnsAreInfertile>
+  <PawnIsInfertile>{PAWN_nameDef} 不能生育。</PawnIsInfertile>
+  <PawnsAreTooYoung>{PAWN1_nameDef} 和 {PAWN2_nameDef} 还太年轻，不能生育。</PawnsAreTooYoung>
+  <PawnIsTooYoung>{PAWN_nameDef} 还太年轻，不能生育。</PawnIsTooYoung>
+  <PawnIsDead>{PAWN_nameDef} 已死亡。</PawnIsDead>
+
+  <PsychicBondDistanceWillBeActive_Cryptosleep>将 {PAWN_nameDef} 放入低温休眠会使其与 {BOND_nameDef} 的灵能羁绊紧张，给双方带来压力。\n\n你确定要继续吗？</PsychicBondDistanceWillBeActive_Cryptosleep>
+  <PsychicBondDistanceWillBeActive_Caravan>此商队中有人的灵能羁绊伴侣没有同行。若与羁绊伴侣分开，这些人将会感到压力</PsychicBondDistanceWillBeActive_Caravan>
+  <Partner>伴侣 {0_nameFull}</Partner>
+
+  <ChooseMechAccentColor>选择机械体点缀色</ChooseMechAccentColor>
+
+  <!-- Faction specific comms overrides -->
+  <PigFactionGreetingHostile>{0} 对着麦克风尖叫了一串脏话，然后断开连接。</PigFactionGreetingHostile>
+  <PigFactionGreetingHostileAppreciative>{0} 愤怒地哼哼着，要求你做出友好姿态，比如给 {0_possessive} 的某个定居点送礼，或释放 {0_possessive} 派系的囚犯。在此之前，{0_pronoun} 不愿交谈。\n\n{0_pronoun} 骂了一句，随即断开连接。</PigFactionGreetingHostileAppreciative>
+  <PigFactionGreetingWary>{0} 哼哼着打了个招呼，问你有什么事。</PigFactionGreetingWary>
+  <PigFactionGreetingWarm>{0} 热情地哼哼着向 {NEGOTIATOR_labelShort} 打招呼，并问 {LEADER_pronoun} 能为你做什么。</PigFactionGreetingWarm>
+  <PigMilitaryAidSent>{0} 同意派出猪皮战士来帮你。</PigMilitaryAidSent>
+
+  <YttakinFactionGreetingHostile>{0} 对着麦克风咆哮，然后断开连接。</YttakinFactionGreetingHostile>
+  <YttakinFactionGreetingHostileAppreciative>{0} 低声咆哮着，要求你做出友好姿态，比如给 {0_possessive} 的某个定居点送礼，或释放 {0_possessive} 派系的囚犯。在此之前，{0_pronoun} 不愿交谈。\n\n{0_pronoun} 吼了一句侮辱，随即断开连接。</YttakinFactionGreetingHostileAppreciative>
+  <YttakinFactionGreetingWary>{0} 向 {NEGOTIATOR_labelShort} 咕哝着打了个招呼，问你为何呼叫。</YttakinFactionGreetingWary>
+  <YttakinFactionGreetingWarm>{0} 大声友好地问候，并问 {LEADER_pronoun} 能为你做什么。</YttakinFactionGreetingWarm>
+
+  <NeanderthalFactionGreetingHostile>{0} 愤怒地哼了一声，随即断开连接。</NeanderthalFactionGreetingHostile>
+  <NeanderthalFactionGreetingHostileAppreciative>{0} 带有攻击性地咕哝着。除非你做出友好姿态，{0_pronoun} 不会与你交易。你可以通过多种方式改善关系，比如给 {0_possessive} 的某个定居点送礼，或释放 {0_possessive} 派系的囚犯。\n\n{0_pronoun} 突然断开连接。</NeanderthalFactionGreetingHostileAppreciative>
+  <NeanderthalFactionGreetingWary>{0} 咕哝了一声表示问候。</NeanderthalFactionGreetingWary>
+  <NeanderthalFactionGreetingWarm>{0} 向 {NEGOTIATOR_labelShort} 温热地咕哝问候。</NeanderthalFactionGreetingWarm>
+
+  <MaxTier>最高层级</MaxTier>
+  <MaxTierDesc>{PAWN_nameDef} 已累积了最大数量的成长点数。</MaxTierDesc>
+  <ProgressToNextGrowthTier>到下一成长层级的进度</ProgressToNextGrowthTier>
+  <ThisGrowthTier>当前成长层级</ThisGrowthTier>
+  <NextGrowthTier>下一成长层级</NextGrowthTier>
+  <NumPassionsFromOptions>从 {1} 个选项中选出 {0} 个激情。</NumPassionsFromOptions>
+  <NumTraitsFromOptions>从 {1} 个选项中选出 {0} 个特性。</NumTraitsFromOptions>
+  <NextGrowthMomentAt>下次成长时刻的年龄</NextGrowthMomentAt>
+
+  <RoomRequirementNoBiotechBuildings>不允许有生物科技建筑</RoomRequirementNoBiotechBuildings>
+
+  <WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>吸食 {PAWN_nameDef} 会导致严重失血，使 {PAWN_objective} 陷入昏迷。\n\n你确定吗？</WarningPawnWillHaveSeriousBloodlossFromBloodfeeding>
+  <WarningPawnWillDieFromBloodfeeding>吸食 {PAWN_nameDef} 会杀死 {PAWN_objective}。\n\n你确定吗？</WarningPawnWillDieFromBloodfeeding>
+
+  <AbilityMustHaveTendableWound>{0_labelShort} 必须有可处理的伤口。</AbilityMustHaveTendableWound>
+
+  <!-- Abandon home (including mechs) -->
+  <ConfirmAbandonHomeWithColonyPawnsIncMechs>你的一些殖民者、动物或机械体在此区域内。你确定要放弃它吗？\n\n以下人员、动物和机械体将被留下：\n\n{0}</ConfirmAbandonHomeWithColonyPawnsIncMechs>
+
+</LanguageData>

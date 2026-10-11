@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Fishing -->
+  <Zone_Fishing>钓鱼区</Zone_Fishing>
+  <FishingGroup>钓鱼</FishingGroup>
+  <DesignatorFishingZoneDesc>创建一片供猎人钓鱼的区域。必须放置在有鱼的水域上。较大的水域通常更利于钓鱼。</DesignatorFishingZoneDesc>
+
+  <!-- Override snow clearing => snow and sand clearing -->
+  <DesignatorAreaSnowOrSandClearExpand>除雪除沙区</DesignatorAreaSnowOrSandClearExpand>
+  <DesignatorAreaSnowOrSandClearExpandDesc>创建一片殖民者会尽量保持无雪无沙的区域。</DesignatorAreaSnowOrSandClearExpandDesc>
+  <DesignatorAreaSnowOrSandClearClear>清除除雪除沙区</DesignatorAreaSnowOrSandClearClear>
+  <DesignatorAreaSnowOrSandClearClearDesc>移除一片除雪除沙区。殖民者将不再尝试保持此区域无雪无沙。</DesignatorAreaSnowOrSandClearClearDesc>
+
+  <DesignatorRemoveFoundation>移除地基</DesignatorRemoveFoundation>
+  <DesignatorRemoveFoundationDesc>移除桥梁或引力船子结构，以露出下方的地形。</DesignatorRemoveFoundationDesc>
+
+  <DesignatorMoveGravship>移动着陆区</DesignatorMoveGravship>
+  <DesignatorMoveGravshipDesc>重新设置引力船的着陆点。</DesignatorMoveGravshipDesc>
+</LanguageData>

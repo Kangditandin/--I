@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <CrumblingMindUndiagnosedCreepjoiner.letterDesc>{PAWN_nameDef}开始出现剧烈的头痛，并乞求帮助。{PAWN_pronoun}无法理清思路，认知功能正在丧失。{PAWN_nameDef}声称{PAWN_pronoun}看到了未来的幻象。不出数日，{PAWN_possessive}心智就会崩塌，{PAWN_pronoun}将无法胜任大多数工作。\n\n在充足的技术（如治愈者机械血清）下，目前这种状况仍可逆转，但很快就会变成永久性的。</CrumblingMindUndiagnosedCreepjoiner.letterDesc>
+  <CrumblingMindUndiagnosedCreepjoiner.letterLabel>心智崩坏：{PAWN_nameDef}</CrumblingMindUndiagnosedCreepjoiner.letterLabel>
+  <CrumblingMindUndiagnosedDuplication.letterDesc>{PAWN_nameDef}开始出现剧烈的头痛。{PAWN_pronoun}似乎无法理清思路，认知功能正在迅速丧失。复制过程出了差错。\n\n在充足的技术（如治愈者机械血清）下，这种状况仍可逆转。但若不加以治疗，很快就会变成永久性的。</CrumblingMindUndiagnosedDuplication.letterDesc>
+  <CrumblingMindUndiagnosedDuplication.letterLabel>心智崩坏：{PAWN_nameDef}</CrumblingMindUndiagnosedDuplication.letterLabel>
+  <CubeInterest.reportString>正在闲逛并想着立方体。</CubeInterest.reportString>
+  <Digested.labelNoun>一个被消化的部位</Digested.labelNoun>
+  <Digested.labelNounPretty>被消化的{1}</Digested.labelNounPretty>
+  <EnergyBolt.labelNoun>一处能量矢创伤</EnergyBolt.labelNoun>
+  <FleshWhip.labelNoun>一条肉鞭</FleshWhip.labelNoun>
+  <FleshWhip.letterLabel>肉团手术</FleshWhip.letterLabel>
+  <FleshWhip.letterText>试图移除{PAWN_nameDef}的肉鞭，导致那团扭动的血肉发起了攻击。肉团已从{PAWN_nameDef}身上脱离，并变成了一只肉兽！</FleshWhip.letterText>
+  <FleshmassLung.labelNoun>一个肉团肺</FleshmassLung.labelNoun>
+  <FleshmassLung.letterLabel>肉团手术</FleshmassLung.letterLabel>
+  <FleshmassLung.letterText>试图移除{PAWN_nameDef}的肉团肺，导致那团扭动的血肉发起了攻击。肉团已从{PAWN_nameDef}身上脱离，并变成了一只肉兽！</FleshmassLung.letterText>
+  <FleshmassStomach.labelNoun>一个肉团胃</FleshmassStomach.labelNoun>
+  <FleshmassStomach.letterLabel>肉团手术</FleshmassStomach.letterLabel>
+  <FleshmassStomach.letterText>试图移除{PAWN_nameDef}的肉团胃，导致那团扭动的血肉发起了攻击。肉团已从{PAWN_nameDef}身上脱离，并变成了一只肉兽！</FleshmassStomach.letterText>
+  <OrganDecayUndiagnosedCreepjoiner.letterDesc>{PAWN_nameDef}再也无法隐瞒{PAWN_possessive}严重的病情。{PAWN_possessive}身体遍布腐坏的器官——{PAWN_pronoun}几乎只是一具行尸。{PAWN_nameDef}的器官腐坏影响了以下身体部位：\n\n{ORGANS}\n\n请尽快更换器官，以维持{PAWN_nameDef}的健康。你可以使用仿生器官，或从捐献者身上取得的天然器官。</OrganDecayUndiagnosedCreepjoiner.letterDesc>
+  <OrganDecayUndiagnosedCreepjoiner.letterLabel>器官腐坏：{PAWN_nameDef}</OrganDecayUndiagnosedCreepjoiner.letterLabel>
+  <OrganDecayUndiagnosedDuplicaton.letterDesc>{PAWN_nameDef}再也无法隐瞒{PAWN_possessive}严重的病情。复制过程让{PAWN_possessive}身体遍布腐坏的器官。{PAWN_nameDef}的器官腐坏影响了以下身体部位：\n\n{ORGANS}\n\n请尽快更换器官，以维持{PAWN_nameDef}的健康。你可以使用仿生器官，或从捐献者身上取得的天然器官。</OrganDecayUndiagnosedDuplicaton.letterDesc>
+  <OrganDecayUndiagnosedDuplicaton.letterLabel>器官腐坏：{PAWN_nameDef}</OrganDecayUndiagnosedDuplicaton.letterLabel>
+  <PsychicInjury.labelNoun>一处灵能灼伤</PsychicInjury.labelNoun>
+  <PsychicInjurySkin.labelNoun>一处灵能灼伤</PsychicInjurySkin.labelNoun>
+  <PsychicInjurySolid.labelNoun>一处灵能灼伤</PsychicInjurySolid.labelNoun>
+  <Tentacle.labelNoun>一条肉触手</Tentacle.labelNoun>
+  <Tentacle.letterLabel>肉团手术</Tentacle.letterLabel>
+  <Tentacle.letterText>试图移除{PAWN_nameDef}的触手，导致那团扭动的血肉发起了攻击。肉团已从{PAWN_nameDef}身上脱离，并变成了一只肉兽！</Tentacle.letterText>
+  
+</LanguageData>

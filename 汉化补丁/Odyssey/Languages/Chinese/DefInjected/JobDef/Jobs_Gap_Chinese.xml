@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Deactivated.reportString>已停用。</Deactivated.reportString>
+  <Fish.reportString>正在钓鱼。</Fish.reportString>
+  <FishAnimal.reportString>正在钓鱼。</FishAnimal.reportString>
+  <Forage.reportString>正在觅食。</Forage.reportString>
+  <GoSwimming.reportString>正在游泳。</GoSwimming.reportString>
+  <GotoOxygenatedArea.reportString>正在寻找氧气。</GotoOxygenatedArea.reportString>
+  <GotoPatrolDest.reportString>正在巡逻。</GotoPatrolDest.reportString>
+  <GotoShip.reportString>正在前往飞船。</GotoShip.reportString>
+  <InspectGravEngine.reportString>正在检查TargetA。</InspectGravEngine.reportString>
+  <LeaveShip.reportString>正在离开飞船。</LeaveShip.reportString>
+  <PilotConsole.reportString>正在操作TargetA。</PilotConsole.reportString>
+  <PutApparelOnOutfitStand.reportString>正在把TargetA放到TargetB上。</PutApparelOnOutfitStand.reportString>
+  <Seal.reportString>正在密封TargetA。</Seal.reportString>
+  <SelfDetonate.reportString>正在引爆。</SelfDetonate.reportString>
+  <UseOutfitStand.reportString>正在与TargetA交换装束。</UseOutfitStand.reportString>
+  
+</LanguageData>

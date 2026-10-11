@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowCannibal.label>允许含人肉的食物</AllowCannibal.label>
+  <AllowCannibal.description>允许食人族可接受的食物（即含有人肉）。这会把那些因成分不同而分类不同的餐食也考虑在内。</AllowCannibal.description>
+  <AllowCarnivore.label>允许含美味肉类的食物</AllowCarnivore.label>
+  <AllowCarnivore.description>允许肉食者普遍可接受、但素食者不接受的食物。这会把那些因成分不同而分类不同的餐食也考虑在内。此选项不控制人肉与虫肉。</AllowCarnivore.description>
+  <AllowCorpsesSlave.label>允许奴隶尸体</AllowCorpsesSlave.label>
+  <AllowCorpsesSlave.description>允许收录奴隶的尸体。</AllowCorpsesSlave.description>
+  <AllowInsectMeat.label>允许含虫肉的食物</AllowInsectMeat.label>
+  <AllowInsectMeat.description>允许含有虫肉的食物。这会把那些因成分不同而分类不同的餐食也考虑在内。</AllowInsectMeat.description>
+  <AllowVegetarian.label>允许素食</AllowVegetarian.label>
+  <AllowVegetarian.description>允许素食者可接受、但纯肉食者不接受的食物。这会把那些因成分不同而分类不同的餐食也考虑在内。</AllowVegetarian.description>
+
+</LanguageData>

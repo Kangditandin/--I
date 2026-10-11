@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <MechanicalDiabolusBodyFirstRing.label>第一身环</MechanicalDiabolusBodyFirstRing.label>
+  <MechanicalDiabolusBodyFirstRing.labelShort>身环</MechanicalDiabolusBodyFirstRing.labelShort>
+  <MechanicalDiabolusBodySecondRing.label>第二身环</MechanicalDiabolusBodySecondRing.label>
+  <MechanicalDiabolusBodySecondRing.labelShort>身环</MechanicalDiabolusBodySecondRing.labelShort>
+  <MechanicalDiabolusBodyThirdRing.label>第三身环</MechanicalDiabolusBodyThirdRing.label>
+  <MechanicalDiabolusBodyThirdRing.labelShort>身环</MechanicalDiabolusBodyThirdRing.labelShort>
+  <MechanicalDiabolusBodyFourthRing.label>第四身环</MechanicalDiabolusBodyFourthRing.label>
+  <MechanicalDiabolusBodyFourthRing.labelShort>身环</MechanicalDiabolusBodyFourthRing.labelShort>
+  <MechanicalDiabolusBodyFifthRing.label>第五身环</MechanicalDiabolusBodyFifthRing.label>
+  <MechanicalDiabolusBodyFifthRing.labelShort>身环</MechanicalDiabolusBodyFifthRing.labelShort>
+  <MechanicalDiabolusBodySixthRing.label>第六身环</MechanicalDiabolusBodySixthRing.label>
+  <MechanicalDiabolusBodySixthRing.labelShort>身环</MechanicalDiabolusBodySixthRing.labelShort>
+  <MechanicalWarqueenBodyFirstRing.label>第一身环</MechanicalWarqueenBodyFirstRing.label>
+  <MechanicalWarqueenBodyFirstRing.labelShort>身环</MechanicalWarqueenBodyFirstRing.labelShort>
+  <MechanicalWarqueenBodySecondRing.label>第二身环</MechanicalWarqueenBodySecondRing.label>
+  <MechanicalWarqueenBodySecondRing.labelShort>身环</MechanicalWarqueenBodySecondRing.labelShort>
+  <MechanicalWarqueenBodyThirdRing.label>第三身环</MechanicalWarqueenBodyThirdRing.label>
+  <MechanicalWarqueenBodyThirdRing.labelShort>身环</MechanicalWarqueenBodyThirdRing.labelShort>
+  <MechanicalWarqueenBodyFourthRing.label>第四身环</MechanicalWarqueenBodyFourthRing.label>
+  <MechanicalWarqueenBodyFourthRing.labelShort>身环</MechanicalWarqueenBodyFourthRing.labelShort>
+  <MechanicalWarqueenBodyFifthRing.label>第五身环</MechanicalWarqueenBodyFifthRing.label>
+  <MechanicalWarqueenBodyFifthRing.labelShort>身环</MechanicalWarqueenBodyFifthRing.labelShort>
+  <BulbTurret.label>球状炮塔</BulbTurret.label>
+  <DiabolusCapacitor.label>超级电容</DiabolusCapacitor.label>
+  <MechanicalWarqueenFormingPod.label>成形囊</MechanicalWarqueenFormingPod.label>
+  <PowerClaw.label>动力爪</PowerClaw.label>
+  <SmallMechanicalFoot.label>小脚</SmallMechanicalFoot.label>
+  <SmallMechanicalLeg.label>小腿</SmallMechanicalLeg.label>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BioluminescentSpores.label>生物荧光孢子</BioluminescentSpores.label>
+  <BoomshroomSprout.label>爆菇萌发</BoomshroomSprout.label>
+  <Drought.label>干旱</Drought.label>
+  <DroughtInitial.label>初始干旱条件</DroughtInitial.label>
+  <GillRot.label>鳃腐病</GillRot.label>
+  <LavaEmergence.label>熔岩涌出</LavaEmergence.label>
+  <LavaFlow.label>熔岩流</LavaFlow.label>
+  <OrbitalDebris.label>轨道碎片</OrbitalDebris.label>
+  <SeasonalFlooding.label>季节性洪水</SeasonalFlooding.label>
+  <VolcanicAsh.label>火山灰</VolcanicAsh.label>
+  <VolcanicDebris.label>火山碎屑</VolcanicDebris.label>
+  <GiveQuest_MechanoidSignal.label>机械体信号</GiveQuest_MechanoidSignal.label>
+
+</LanguageData>

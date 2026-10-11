@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BerserkWarcall.baseInspectLine>精神状态：战争召唤狂怒</BerserkWarcall.baseInspectLine>
+  <BerserkWarcall.beginLetter>{0}被战争召唤激发。\n\n[PAWN_pronoun]将攻击殖民地的任何敌人。</BerserkWarcall.beginLetter>
+  <BerserkWarcall.recoveryMessage>{0}的狂怒结束了。</BerserkWarcall.recoveryMessage>
+  <Crying.baseInspectLine>精神状态：哭泣</Crying.baseInspectLine>
+  <Giggling.baseInspectLine>精神状态：咯咯笑</Giggling.baseInspectLine>
+  <PanicFleeFire.baseInspectLine>精神状态：逃离火场</PanicFleeFire.baseInspectLine>
+  <PanicFleeFire.beginLetter>{0}正在逃离火场。</PanicFleeFire.beginLetter>
+  <PanicFleeFire.beginLetterLabel>逃离火场</PanicFleeFire.beginLetterLabel>
+  <PanicFleeFire.recoveryMessage>{0}不再逃离火场了。</PanicFleeFire.recoveryMessage>
+  
+</LanguageData>

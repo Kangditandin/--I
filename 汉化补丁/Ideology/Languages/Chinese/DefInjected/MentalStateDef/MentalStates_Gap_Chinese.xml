@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BerserkTrance.baseInspectLine>狂怒恍惚</BerserkTrance.baseInspectLine>
+  <IdeoChange.baseInspectLine>精神状态：信念危机</IdeoChange.baseInspectLine>
+  <IdeoChange.beginLetter>{PAWN_nameDef}的精神崩溃了。结果，{PAWN_pronoun}被迫质疑一切。</IdeoChange.beginLetter>
+  <Rebellion.baseInspectLine>精神状态：反叛中</Rebellion.baseInspectLine>
+  <Rebellion.beginLetter>{0}达到了心理极限，将要煽动其他奴隶反叛。</Rebellion.beginLetter>
+  <Rebellion.beginLetterLabel>反叛</Rebellion.beginLetterLabel>
+  
+</LanguageData>

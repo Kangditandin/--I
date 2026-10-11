@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AnomalyResearch.helpText>你必须通过研究非自然实体来推进异常研究。\n\n异常研究分为两类：基础与高级。研究任何实体都能推进基础研究项目；只有研究高级实体才能推进高级项目。\n\n你可以同时进行一项基础项目和一项高级项目。如果没有进行中的高级项目，高级研究将转而推进基础项目。</AnomalyResearch.helpText>
+  <CapturingEntities.helpText>当实体被击倒但仍活着时，你可以捕获它。要捕获，请选中一名殖民者，右键点击该实体，然后选择「捕获」。你需要一个空的收容平台或收容点。\n\n实体被带到收容平台后，你就可以研究它以获取异常研究。\n\n为受伤的实体处理伤口，以确保它能活下来。</CapturingEntities.helpText>
+  <ColonyGhouls.helpText>食尸鬼是被生物铁素扭曲的人类。它们能迅速恢复伤势，因此作为近战战士很有用。但它们无法工作。\n\n食尸鬼只吃尸体和生肉。如果它们挨饿，就可能变得敌对。</ColonyGhouls.helpText>
+  <ContainingEntities.helpText>最好把实体关押在收容强度高的安全牢房里，否则它们很快就会逃脱。收容强度会因以下因素而提高：\n\n - 坚固的墙壁和门\n\n - 良好的照明\n\n - 电子抑制器（需要研究）\n\n - 生物铁素板地板（需要研究）\n\n打开实体的「实体」选项卡，即可配置你的殖民者将如何与其互动。</ContainingEntities.helpText>
+  <EntityCodex.helpText>使用实体图鉴来记录你已发现的实体。\n\n发现新实体将揭示隐藏的异常研究项目。一旦发现足够多的实体，你就能提升虚空巨石碑的等级。\n\n使用屏幕右下角的实体图鉴图标打开实体图鉴。</EntityCodex.helpText>
+  <StudyingEntities.helpText>被分配到「黑暗研究」工作的殖民者将研究各种实体，包括生物和建筑。\n\n通过选中虚空巨石碑之类的建筑并打开「研究」选项来研究它们。有些实体必须先被捕获到收容平台或收容点才能被研究。\n\n研究能推进异常研究项目。打开「研究」选项卡，然后选择「异常」子选项卡即可查看异常研究项目。</StudyingEntities.helpText>
+  <SuppressingEntities.helpText>有些实体即使被囚禁也会随时间变得更加活跃。如果实体的活跃度条填满，它就会做出极其危险的事。\n\n为防止其完全激活，你必须定期压制它。狱卒会压制实体。</SuppressingEntities.helpText>
+  <VoidProvocation.helpText>使用虚空挑衅灵能仪式来发现并捕获新的实体。\n\n发现实体能让你把虚空巨石碑提升到更高等级，并解锁新的研究项目。捕获更多实体能让你更快完成异常研究项目。\n\n放置一个灵能仪式点即可举行虚空挑衅仪式。</VoidProvocation.helpText>
+  
+</LanguageData>

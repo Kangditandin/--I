@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Heritage -->
+  <ChooseHeir>为 {HOLDER_nameIndef} 选择新的继承人：</ChooseHeir>
+  <MakeHeirConfirm>你即将更改 {HOLDER_nameIndef} 从 {0_name} 处获得的头衔的继承人。这需要在限定时间内建造一座纪念碑，以确立新的继承。</MakeHeirConfirm>
+  <MakeHeirPreviousHeirWarning>这会激怒 {HOLDER_possessive} 当前的继承人 {HEIR_nameFull}。</MakeHeirPreviousHeirWarning>
+
+  <!-- Call aid -->
+  <CommandCallRoyalAid>请求援助…</CommandCallRoyalAid>
+  <CommandCallRoyalAidDesc>使用特殊许可请求援助。\n\n每种援助都可以免费使用一次，之后必须等待才能再次免费使用。你也可以更频繁地使用该援助，但需要消耗荣誉。</CommandCallRoyalAidDesc>
+  <CommandCallRoyalAidLodger>客人不会使用他们的援助许可。</CommandCallRoyalAidLodger>
+  <CommandCallRoyalAidSlave>奴隶无法使用他们的许可。</CommandCallRoyalAidSlave>
+  <CommandCallRoyalAidFactionHostile>你与 {FACTION_name} 的关系处于敌对状态。</CommandCallRoyalAidFactionHostile>
+  <CommandCallRoyalAidFreeOption>免费</CommandCallRoyalAidFreeOption>
+  <CommandCallRoyalAidFavorOption>剩余 {0} 天，消耗 {1} {FACTION_royalFavorLabel}</CommandCallRoyalAidFavorOption>
+  <CommandCallRoyalAidWarningNonHostileFactions>你即将请求援助，但此处有 {0_name} 并不敌对的派系成员。你召来的士兵不会攻击他们：{1}</CommandCallRoyalAidWarningNonHostileFactions>
+  <CommandCallRoyalAidNotEnoughFavor>荣誉不足。</CommandCallRoyalAidNotEnoughFavor>
+  <CommandCallRoyalAidMapUnreachable>{FACTION_name} 无法抵达此区域。</CommandCallRoyalAidMapUnreachable>
+  <CommandCallRoyalAidInvalidMap>无法在此处请求援助。</CommandCallRoyalAidInvalidMap>
+  
+  <!-- Call laborers -->
+  <CommandCallLaborers>召集劳工</CommandCallLaborers>
+  <CommandCallLaborersDesc>使用特殊许可从你的盟友处召集一队劳工。这些工人只能从事体力劳动，但你可以像控制自己的殖民者一样控制他们。你必须保证他们的安全。</CommandCallLaborersDesc>
+  <CommandOnCooldown>冷却中。剩余 {0} 天。</CommandOnCooldown>
+  <CommandCallLaborersNumLaborers>{0} 名劳工</CommandCallLaborersNumLaborers>
+
+  <!-- Abilities -->
+  <CommandPsycastWouldExceedEntropy>神经热将会溢出。请关闭神经热限制器后再施放。</CommandPsycastWouldExceedEntropy>
+  <CommandPsycastNotEnoughPsyfocus>{PSYCASTNAME} 需要消耗 {0} 灵能聚焦，但 {CASTERNAME} 只有 {1}。</CommandPsycastNotEnoughPsyfocus>
+  <CommandPsycastNotEnoughPsyfocusForMentalBreak>{PSYCASTNAME} 需要 {0} 灵能聚焦来终止 {1} 的精神崩溃，但 {CASTERNAME} 只有 {2} 灵能聚焦。</CommandPsycastNotEnoughPsyfocusForMentalBreak>
+  <CommandPsycastHigherLevelPsylinkRequired>需要 {0} 级灵能链接。</CommandPsycastHigherLevelPsylinkRequired>
+  <CommandPsycastZeroPsychicSensitivity>灵能敏感度为 0。</CommandPsycastZeroPsychicSensitivity>
+  <CommandPsycastPawnIsUnconscious>能力使用者处于昏迷状态。</CommandPsycastPawnIsUnconscious>
+  <CommandPsycastLowPsyfocus>施放此能力至少需要 {0} 灵能聚焦。</CommandPsycastLowPsyfocus>
+  <CommandPsycastInsanityImmune>免疫灵能疯狂。</CommandPsycastInsanityImmune>
+  <NeuralHeatLetter>热</NeuralHeatLetter>
+  <PsyfocusLetter>焦</PsyfocusLetter>
+  <IneffectivePsychicImmune>免疫灵能疯狂</IneffectivePsychicImmune>
+
+  <!-- Select monument marker -->
+  <CommandSelectMonumentMarker>选择纪念碑</CommandSelectMonumentMarker>
+  <CommandSelectMonumentMarkerDesc>选择其所属的纪念碑标记。</CommandSelectMonumentMarkerDesc>
+
+  <!-- Warn in building radius -->
+  <CommandWarnInBuildingRadius>建造半径警告</CommandWarnInBuildingRadius>
+  <CommandWarnInBuildingRadiusDesc>若启用，当你使用建筑规划菜单放置的建筑物因离此物体太近而会影响冥想时，此物体会向该建筑绘制一条红线。\n\n如果你不打算用它来冥想，可以关闭此功能。</CommandWarnInBuildingRadiusDesc>
+  
+  <!-- Permits -->
+  <ChooseRoyalPermit>选择许可</ChooseRoyalPermit>
+  <ChooseRoyalPermit_Desc>打开许可选择界面并挑选一项新许可。</ChooseRoyalPermit_Desc>
+
+  <CommandLeaveBestowingCeremony>离开授勋仪式</CommandLeaveBestowingCeremony>
+  <CommandLeaveBestowingCeremonyDesc>停止参与授勋仪式。</CommandLeaveBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremony>取消授勋仪式</CommandCancelBestowingCeremony>
+  <CommandCancelBestowingCeremonyDesc>立即结束授勋仪式。授勋者将会离开，但不久后会有另一次举行仪式的机会。</CommandCancelBestowingCeremonyDesc>
+  <CommandCancelBestowingCeremonyConfirm>你确定要取消授勋仪式吗？</CommandCancelBestowingCeremonyConfirm>
+</LanguageData>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ActivityMultipleDangerous>危险的活动水平</ActivityMultipleDangerous>
+  <ActivityDangerousDesc>这些实体的活动水平已达到危险的高度</ActivityDangerousDesc>  
+  <ActivityDangerousDescAppended>当实体的活动水平达到 100% 时，它将变得危险。\n\n派你的看守去压制这些实体，或在实体的活动面板中启用自动压制。</ActivityDangerousDescAppended>
+
+  <NeedAnomalyProject>需要异象研究项目</NeedAnomalyProject>
+  <NeedAnomalyProjectDesc>你有实体被标记为研究，但没有选择匹配的异象研究项目：</NeedAnomalyProjectDesc>
+  <NeedAnomalyProjectDescLine>需要 {NAME} 异象研究项目</NeedAnomalyProjectDescLine>
+  <NeedAnomalyProjectDescAppended>打开研究菜单，在异象页签上选择一个项目。\n\n你可以同时选择一个基础项目和一个高级项目。\n\n（点击打开研究菜单。）</NeedAnomalyProjectDescAppended>
+
+  <CreepJoinerTimeout>访客被忽视</CreepJoinerTimeout>
+  <CreepJoinerTimeoutDesc>下列访客感到被忽视，正变得越来越不满</CreepJoinerTimeoutDesc>
+  <CreepJoinerTimeoutDescAppended>选中一名殖民者并右键点击该访客。\n\n动作快些……他们不喜欢被忽视。</CreepJoinerTimeoutDescAppended>
+
+  <Alert_UndercaveUnstable>地下洞穴不稳定</Alert_UndercaveUnstable>
+  <Alert_UndercaveUnstableDesc>地下洞穴已变得不稳定，很快就会坍塌。\n\n在来得及之前让你的殖民者离开。</Alert_UndercaveUnstableDesc>
+
+  <Alert_CultistPsychicRitual>邪教徒灵能仪式</Alert_CultistPsychicRitual>
+  <Alert_CultistPsychicRitualDesc>{INVOKER_kindDef} {INVOKER_nameDef} 已开始举行 {RITUAL_definite} 仪式。如果你不打断 {INVOKER_objective}，后果可能不堪设想。</Alert_CultistPsychicRitualDesc>
+
+  <AlertMeatHunger>食尸鬼饥饿</AlertMeatHunger>
+  <AlertMeatHungerDesc>这些食尸鬼渴望生肉</AlertMeatHungerDesc>
+  <AlertMeatHungerDescAppended>若不尽快喂食，它们可能会发动攻击。给它们一些肉。</AlertMeatHungerDescAppended>
+  
+  <AlertEmergingPitGate>坑门正在开启</AlertEmergingPitGate>
+  <AlertEmergingPitGateDesc>地面正在自行塌陷。很快会形成一道坑门。</AlertEmergingPitGateDesc>
+
+  <Alert_InsufficientContainment>收容不足</Alert_InsufficientContainment>
+  <Alert_InsufficientContainmentDesc>下列实体被收容在未达到其最低收容强度的房间中</Alert_InsufficientContainmentDesc>
+  <Alert_InsufficientContainmentDescAppended>它们很快会逃脱。建造更坚固的墙壁、门或其他收容设施来关住它们。</Alert_InsufficientContainmentDescAppended>
+
+  <AlertHoldingPlatform>需要收容平台</AlertHoldingPlatform>
+  <AlertHoldingPlatformDesc>建造收容平台或放置收容点，以收容并研究被捕获的实体。</AlertHoldingPlatformDesc>
+
+  <AlertCubeWithdrawal>方块戒断</AlertCubeWithdrawal>
+  <AlertCubeWithdrawalDesc>下列人正遭受方块戒断之苦</AlertCubeWithdrawalDesc>
+  <AlertCubeWithdrawalDescAppended>他们皮肤发痒、思绪纷乱，渴望亲近那金色方块。症状会不断加重，直到他们能再次把玩方块。\n\n确保他们有自由时间，并且能接触到金色方块。</AlertCubeWithdrawalDescAppended>
+
+  <AlertDigestion>吞噬者正在消化</AlertDigestion>
+  <AlertDigestionDesc>下列人或生物正被吞噬者消化</AlertDigestionDesc>
+  <AlertDigestionDescAppended>在来得及之前杀死吞噬者以放出他们。</AlertDigestionDescAppended>
+  
+  <AlertInhibitorBlocked>抑制器被阻挡</AlertInhibitorBlocked>
+  <AlertInhibitorBlockedDesc>你的一个电力抑制器因被其他建筑阻挡而无法运作。\n\n请清理电力抑制器前方的空间。</AlertInhibitorBlockedDesc>
+
+  <EntityNeedsTreatment>实体需要治疗</EntityNeedsTreatment>
+  <EntityNeedsTreatmentDesc>这些实体需要医疗。否则它们可能会在囚禁中死亡。\n{0}\n\n派一名医生去治疗它们。</EntityNeedsTreatmentDesc>
+
+  <AlertGhoulHypothermia>食尸鬼失温</AlertGhoulHypothermia>
+  <AlertGhoulHypothermiaDesc>这些食尸鬼正遭受失温：\n{0}\n\n把它们带到更温暖的地方。</AlertGhoulHypothermiaDesc>
+  
+  <AlertGrayFleshSample>灰色血肉</AlertGrayFleshSample>
+  <AlertGrayFleshSampleDesc>你发现了一条血肉组织。分析它以了解更多关于生物特征的信息。</AlertGrayFleshSampleDesc>
+  <AlertNeuralLump>神经团块</AlertNeuralLump>
+  <AlertNeuralLumpDesc>肉团的神经束留下了一个神经团块。分析它以了解如何杀死肉团之心。</AlertNeuralLumpDesc>
+  <AlertRevenantFlesh>亡魂血肉</AlertRevenantFlesh>
+  <AlertRevenantFleshDesc>受伤的亡魂留下了一块自身的残片。分析它以了解如何追踪亡魂。</AlertRevenantFleshDesc>
+
+</LanguageData>

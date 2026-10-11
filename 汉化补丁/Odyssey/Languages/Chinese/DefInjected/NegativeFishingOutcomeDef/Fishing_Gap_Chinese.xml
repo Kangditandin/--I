@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <CatfishEscape.letterLabel>鲶鱼逃脱</CatfishEscape.letterLabel>
+  <CatfishEscape.letterText>试图抓住一条鲶鱼时，{PAWN_nameDef}绊了一下，让这条滑溜的鱼消失在浑浊的水中。</CatfishEscape.letterText>
+  <CatfishSpine.letterLabel>鲶鱼脊刺</CatfishSpine.letterLabel>
+  <CatfishSpine.letterText>处理一条鲶鱼时，{PAWN_nameDef}被这条鱼有毒的背鳍刺中，使{PAWN_objective}松手丢了鱼。</CatfishSpine.letterText>
+  <DogfishBite.letterLabel>角鲨咬伤</DogfishBite.letterLabel>
+  <DogfishBite.letterText>收线一条角鲨时，{PAWN_nameDef}被咬了一口。\n\n那条鱼趁机逃脱了。</DogfishBite.letterText>
+  <DogfishEscape.letterLabel>角鲨逃脱</DogfishEscape.letterLabel>
+  <DogfishEscape.letterText>收线一条角鲨时，{PAWN_nameDef}差点被那猛烈挣扎的生物咬到。\n\n混乱之中那条鱼逃走了。</DogfishEscape.letterText>
+  <FrostfishAttack.letterLabel>飞来的霜鱼</FrostfishAttack.letterLabel>
+  <FrostfishAttack.letterText>钓鱼时，{PAWN_nameDef}突然被一条跃出水面的霜鱼击中。这让{PAWN_objective}丢了{PAWN_possessive}的收获。</FrostfishAttack.letterText>
+  <GuppyEscape.letterLabel>孔雀鱼逃脱</GuppyEscape.letterLabel>
+  <GuppyEscape.letterText>试图捉一条孔雀鱼时，{PAWN_nameDef}手忙脚乱，让这条滑溜的小鱼溜掉了。</GuppyEscape.letterText>
+  <MarlinAttack.letterLabel>马林鱼袭击</MarlinAttack.letterLabel>
+  <MarlinAttack.letterText>钓鱼时，{PAWN_nameDef}遭到一条巨型马林鱼的攻击，被它长矛般的长吻刺穿。那条鱼逃走了。</MarlinAttack.letterText>
+  <MarlinEscape.letterLabel>巨型鱼</MarlinEscape.letterLabel>
+  <MarlinEscape.letterText>钓鱼时，{PAWN_nameDef}看到水下一条巨鱼的影子。那影子吓到了{PAWN_nameDef}，使{PAWN_objective}丢了{PAWN_possessive}的收获。</MarlinEscape.letterText>
+  <PiranhaAttack.letterLabel>食人鱼袭击</PiranhaAttack.letterLabel>
+  <PiranhaAttack.letterText>钓鱼时，{PAWN_nameDef}离水太近，遭到一群狂乱的食人鱼攻击！\n\n那些鱼趁机逃脱了。</PiranhaAttack.letterText>
+  <PiranhaBite.letterLabel>食人鱼咬伤</PiranhaBite.letterLabel>
+  <PiranhaBite.letterText>钓鱼时，{PAWN_nameDef}离水太近，被一条食人鱼咬了一口！\n\n那条鱼逃走了。</PiranhaBite.letterText>
+  <TunaEscape.letterLabel>金枪鱼逃脱</TunaEscape.letterLabel>
+  <TunaEscape.letterText>试图收线一条金枪鱼时，{PAWN_nameDef}的鱼线断了，使{PAWN_objective}丢了这来之不易的收获。</TunaEscape.letterText>
+  
+</LanguageData>

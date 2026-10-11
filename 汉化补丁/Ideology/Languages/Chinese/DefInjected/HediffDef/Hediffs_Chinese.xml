@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BerserkTrance.label>狂暴恍惚</BerserkTrance.label>
+  <BerserkTrance.description>受狂热的道德确信与理念委屈的故事驱使，此人将自己逼入狂暴。每一块肌肉都处于巅峰状态，但怒火很难平息。</BerserkTrance.description>
+  <CombatCommand.label>战斗指挥</CombatCommand.label>
+  <CombatCommand.description>通过鼓励并指挥附近的盟友，此人能增强他们在战斗中的专注，从而提升战斗表现。</CombatCommand.description>
+  <CombatCommandBuff.label>战斗指挥</CombatCommandBuff.label>
+  <CombatCommandBuff.description>由于身处使用战斗指挥能力的人附近，战斗能力得到提升。</CombatCommandBuff.description>
+  <FarmingCommand.label>农作指挥</FarmingCommand.label>
+  <FarmingCommand.description>此人正提供农作技术指导，提升附近所有人的农作能力。</FarmingCommand.description>
+  <FarmingCommandBuff.label>农作指挥</FarmingCommandBuff.label>
+  <FarmingCommandBuff.description>由于身处使用农作指挥能力的人附近，此人的农作能力得到提升。</FarmingCommandBuff.description>
+  <ImmunityDrive.label>免疫激励</ImmunityDrive.label>
+  <ImmunityDrive.description>此人获得了理念性质的精神支持。其精神确信为其身体注入活力，并强化了免疫系统。</ImmunityDrive.description>
+  <MarksmanCommand.label>射手指挥</MarksmanCommand.label>
+  <MarksmanCommand.description>此人正在使用一种特殊能力呼叫射击。效果范围内的所有人都会获得射击加成。</MarksmanCommand.description>
+  <MarksmanCommandBuff.label>射手指挥</MarksmanCommandBuff.label>
+  <MarksmanCommandBuff.description>附近有人正在使用射手指挥能力，提升了此人的射击能力。</MarksmanCommandBuff.description>
+  <MiningCommand.label>采矿指挥</MiningCommand.label>
+  <MiningCommand.description>此人正提供采矿技术指导，提升附近所有人的采矿速度。</MiningCommand.description>
+  <MiningCommandBuff.label>采矿指挥</MiningCommandBuff.label>
+  <MiningCommandBuff.description>由于身处使用采矿指挥能力的人附近，此人的采矿速度得到提升。</MiningCommandBuff.description>
+  <PreachHealth.label>布道健康</PreachHealth.label>
+  <PreachHealth.description>此人与理念的道德导师交谈后，求生意愿得到强化。这种道德确信提升了其治疗与免疫获取速率。</PreachHealth.description>
+  <ProductionCommand.label>生产指挥</ProductionCommand.label>
+  <ProductionCommand.description>此人正提供建造技术指导，提升附近所有人的建造与制作能力。</ProductionCommand.description>
+  <ProductionCommandBuff.label>生产指挥</ProductionCommandBuff.label>
+  <ProductionCommandBuff.description>由于身处使用生产指挥能力的人附近，此人的建造与制作速度得到提升。</ProductionCommandBuff.description>
+  <ResearchCommand.label>研究指挥</ResearchCommand.label>
+  <ResearchCommand.description>此人正在使用一种特殊能力提供建议与精神支持，提升附近所有人的研究速度。</ResearchCommand.description>
+  <ResearchCommandBuff.label>研究指挥</ResearchCommandBuff.label>
+  <ResearchCommandBuff.description>由于身处使用研究指挥能力的人附近，此人的研究速度得到提升。</ResearchCommandBuff.description>
+  <WorkDrive.label>工作激励</WorkDrive.label>
+  <WorkDrive.description>被领袖召唤、要更加努力工作的感觉。</WorkDrive.description>
+  <BiosculptingSickness.label>生体塑形症</BiosculptingSickness.label>
+  <BiosculptingSickness.description>未完成的生体塑形循环的后遗症。会引起恶心、头晕与思维模糊。</BiosculptingSickness.description>
+  <Blindfold.label>蒙眼</Blindfold.label>
+  <Blindfold.description>眼罩正遮挡此人的视线。</Blindfold.description>
+  <NeuralSupercharge.label>神经强化</NeuralSupercharge.label>
+  <NeuralSupercharge.description>由外部诱发的神经元敏感度与同步性提升。这会以增加饥饿为代价提升意识与学习速率。</NeuralSupercharge.description>
+  <TortureCrown.label>拷问冠</TortureCrown.label>
+  <TortureCrown.description>一顶类似王冠的头饰，带有深深刺入头部、令人不适的短刺。用于让穿戴者感到疼痛。</TortureCrown.description>
+  <WorkFocus.label>工作专注</WorkFocus.label>
+  <WorkFocus.description>此人因参与了一场仪式或事件而精力充沛。这股精力意味着他们现在能更努力地工作。</WorkFocus.description>
+  <Scarification.label>划痕</Scarification.label>
+  <Scarification.description>出于仪式或艺术目的，精心刻入血肉的艺术性疤痕。</Scarification.description>
+
+</LanguageData>

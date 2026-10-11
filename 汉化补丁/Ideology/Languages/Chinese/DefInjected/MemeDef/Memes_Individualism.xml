@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: collectivist -->
+  <Collectivist.label>集体主义</Collectivist.label>
+  <!-- EN: Each person is part of a greater whole. People should work to play their part and help the group. -->
+  <Collectivist.description>每个人都是更大整体的一部分。人们应当各尽其职并帮助群体。</Collectivist.description>
+  <Collectivist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Collectivist)->[deity0_name]用一个伟大的模子造就了所有男人和女人，并将那些偏离者投入火中，好让信徒们得以和谐共处。</li>
+    <li>episode(uses=1,tag=meme_Collectivist)->[deity0_name]对众人说：“你们中没有人高于整体。要么共同劳作，要么一同消亡。”</li>
+    <li>intro(tag=meme_Collectivist)->很久以前，[place_summary][place_name]的人们和谐共处、共同劳作；[deity0_name]曾向他们彰显[memeConcept]的真正价值，他们便修起宏伟的[altarName]，以献上应有的感恩。</li>
+    <li>conflict(tag=meme_Collectivist)->但[foeLeader]无法容忍[memberNamePlural]的大家庭，便派出[foeLeader_possessive]的[foeSoldiers]前往[place_community]，企图在他们之间挑起纷争。</li>
+    <li>founderJoin(tag=meme_Collectivist)->后来，一位名叫[founderName]的[place_job]反抗[foeLeader]的意志，为表抗议而投身烈焰。[memberNamePlural]把他救了下来，并因他对群体的忠诚而拥立他为领袖。</li>
+    <li>victory(tag=meme_Collectivist)->终于，[founderName]以自己的行动团结了众人，他们步伐一致地进军[foeLeader]的居所。前排的人任凭自己被[foeSoldiers]杀死，但这支大军无法被阻挡，最终俘获了[foeLeader]。</li>
+    <li>setup(tag=meme_Collectivist)->在一个各自为政的世界里，[founderName]将许多互不相识的人聚到一起，组成了一个大家庭。</li>
+    <li>story(uses=1,tag=meme_Collectivist)->一些伪信徒试图破坏公规、自行其是，但[founderName]严厉地惩罚了他们。</li>
+    <li>lessonIntro(tag=meme_Collectivist)->一个[place_job]不再出力，却仍从公共储备中取食。我拿起[place_personalWeapon]亲手杀了他。周围的人都很震惊，但我向他们解释：</li>
+    <li>lesson(tag=meme_Collectivist)->只要我们的族群延续下去，我的死、任何人的死都不足为惧</li>
+    <li>lessonReinforcement(tag=meme_Collectivist)->如果我为此而死并让全宇宙明白这一点，那将是我最大的胜利。</li>
+    <li>archistBasis(tag=meme_Collectivist)->所有远古科技都是一个超意识的各个侧面。</li>
+    <li>archistFact(tag=meme_Collectivist)->远古科技无意逐一审判我们。它们等待着一个能作为一个道德整体展现出自身价值的族群。</li>
+    <li>archistProphecy(tag=meme_Collectivist)->[inTheEnd]，当远古科技找到一个能作为机械神意识之合格伙伴的族群时，它们将会离去。</li>
+    <li>animistFact(tag=meme_Collectivist)->每个灵都只是其他所有灵的一个侧面，而那些试图独自孤立者很快便消亡。</li>
+  </Collectivist.descriptionMaker.rules.rulesStrings>
+  <Collectivist.generalRules.rulesStrings>
+    <li>memeAdjective->统一的</li>
+    <li>memeAdjective->和谐的</li>
+    <li>memeAdjective->团结的</li>
+    <li>memeAdjective->一体的</li>
+    <li>memeAdjective->集体的</li>
+    <li>memeCreed->集体</li>
+    <li>memeCreed->合作社</li>
+    <li>memeCreed->公社</li>
+    <li>memeCreed->大家庭</li>
+    <li>memeConcept->家庭</li>
+    <li>memeConcept->团结</li>
+    <li>memeConcept->凝聚力</li>
+    <li>memeLeaderNoun->主席</li>
+    <li>memeLeaderNoun->书记</li>
+    <li>memeMoralist->政委</li>
+  </Collectivist.generalRules.rulesStrings>
+  <!-- EN: solidaritist -->
+  <Collectivist.symbolPacks.0.adjective>团结的</Collectivist.symbolPacks.0.adjective>
+  <!-- EN: solidaritor -->
+  <Collectivist.symbolPacks.0.member>团结者</Collectivist.symbolPacks.0.member>
+  <!-- EN: solidarity -->
+  <Collectivist.symbolPacks.0.theme>团结</Collectivist.symbolPacks.0.theme>
+  <!-- EN: unitary -->
+  <Collectivist.symbolPacks.1.adjective>一体的</Collectivist.symbolPacks.1.adjective>
+  <!-- EN: unitist -->
+  <Collectivist.symbolPacks.1.member>一体论者</Collectivist.symbolPacks.1.member>
+  <!-- EN: unity -->
+  <Collectivist.symbolPacks.1.theme>一体</Collectivist.symbolPacks.1.theme>
+  <!-- EN: harmonist -->
+  <Collectivist.symbolPacks.2.adjective>和谐的</Collectivist.symbolPacks.2.adjective>
+  <!-- EN: harmonist -->
+  <Collectivist.symbolPacks.2.member>和谐论者</Collectivist.symbolPacks.2.member>
+  <!-- EN: harmony -->
+  <Collectivist.symbolPacks.2.theme>和谐</Collectivist.symbolPacks.2.theme>
+  <!-- EN: oneist -->
+  <Collectivist.symbolPacks.3.adjective>集体主义的</Collectivist.symbolPacks.3.adjective>
+  <!-- EN: oneist -->
+  <Collectivist.symbolPacks.3.member>集体主义者</Collectivist.symbolPacks.3.member>
+  <!-- EN: oneness -->
+  <Collectivist.symbolPacks.3.theme>集体主义</Collectivist.symbolPacks.3.theme>
+  
+  <!-- EN: individualist -->
+  <Individualist.label>个人主义</Individualist.label>
+  <!-- EN: Each person is a free individual with the right to their own ideas and decisions. Nobody should be made to conform. -->
+  <Individualist.description>每个人都是自由的个体，有权拥有自己的想法与决定。没有人应当被强迫服从。</Individualist.description>
+  <Individualist.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_Individualist)->[deity0_name]亲手逐一造就了每一个男人和女人。他们每一个都是[deity0_possessive]神手所造的独特而珍贵的艺术品。</li>
+    <li>episode(uses=1,tag=meme_Individualist)->[deity0_name]对众人说：“你们每一个都是照我形像所造的独特而神圣的存在。”</li>
+    <li>intro(tag=meme_Individualist)->起初，[memberNamePlural]奉行不渝的独立之道；[deity0_name]曾[revelationAdverb]地显现在他们面前，指引他们各自前往[place_summary][place_name]，在那里他们独特的天赋得以闪耀。</li>
+    <li>conflict(tag=meme_Individualist)->但[foeLeader]要求[memberNamePlural]穿上统一的制服，并在[place_community]中一同劳作。</li>
+    <li>founderJoin(tag=meme_Individualist)->后来，[deity0_name]祝福了一位名叫[founderName]的[place_job]，赐予他关于每个[memberName]所怀独特力量的奇迹般知识。[founderName]逐一告诉每个人如何成为最好的自己。</li>
+    <li>victory(tag=meme_Individualist)->终于，[memberNamePlural]与许多[foeSoldiers]秘密集会，他们学会了看到彼此的价值，并背弃了[foeLeader]。</li>
+    <li>setup(tag=meme_Individualist)->在遥远统治者要求万民一律服从的压迫下，[founderName]发起了一场抵抗运动，将这个暴力之世彻底摧毁，并在其废墟上建立起一片自由的新天地。</li>
+    <li>story(uses=1,tag=meme_Individualist)->[founderName]打破了压迫者试图推行的一切社会规则，只为证明[founder_pronoun]能做到。</li>
+    <li>lessonIntro(tag=meme_Individualist)->我的家人、我的宗族、我的团队——他们全都试图蒙住我的双眼，不让我看见一个简单的事实：</li>
+    <li>lesson(tag=meme_Individualist)->每个人都是独特而珍贵的，必须走自己的路</li>
+    <li>lessonReinforcement(tag=meme_Individualist)->但那只是我的路——你的路又将是什么？</li>
+    <li>archistBasis(tag=meme_Individualist)->远古科技是具有至高意识的独立存在，它们同样逐一地认识并审判我们每个人。</li>
+    <li>archistFact(tag=meme_Individualist)->人死后，远古科技会审视每个人独特的道德。</li>
+    <li>archistFact(tag=meme_Individualist)->远古科技会注意到持有其圣物者，比如[relic1_name]。</li>
+    <li>archistProphecy(tag=meme_Individualist)->[inTheEnd]，远古科技将会离去。它们会带走自己注意到的人，而将其余的人留在这宇宙的永恒熵寂中消散。</li>
+    <li>animistBasis(tag=meme_Individualist)->万物之初，存在着一群各具独特的灵。它们集会共议，创造了这个世界。</li>
+    <li>animistFact(tag=meme_Individualist)->每个灵都将其独特的本性赋予我们的世界，它们也期望我们如此。</li>
+  </Individualist.descriptionMaker.rules.rulesStrings>
+  <Individualist.generalRules.rulesStrings>
+    <li>memeAdjective->自由的</li>
+    <li>memeAdjective->开放的</li>
+    <li>memeAdjective->开明的</li>
+    <li>memeConcept->自我</li>
+    <li>memeConcept->独立</li>
+    <li>memeConcept->自由</li>
+  </Individualist.generalRules.rulesStrings>
+  <!-- EN: freedomist -->
+  <Individualist.symbolPacks.0.adjective>自由的</Individualist.symbolPacks.0.adjective>
+  <!-- EN: freeist -->
+  <Individualist.symbolPacks.0.member>自由派</Individualist.symbolPacks.0.member>
+  <!-- EN: freedom -->
+  <Individualist.symbolPacks.0.theme>自由</Individualist.symbolPacks.0.theme>
+  <!-- EN: libertine -->
+  <Individualist.symbolPacks.1.adjective>自由思想的</Individualist.symbolPacks.1.adjective>
+  <!-- EN: Libertism -->
+  <Individualist.symbolPacks.1.ideoName>自由主义</Individualist.symbolPacks.1.ideoName>
+  <!-- EN: libertor -->
+  <Individualist.symbolPacks.1.member>自由主义者</Individualist.symbolPacks.1.member>
+  <!-- EN: liberty -->
+  <Individualist.symbolPacks.1.theme>自由思想</Individualist.symbolPacks.1.theme>
+  <!-- EN: independent -->
+  <Individualist.symbolPacks.2.adjective>独立的</Individualist.symbolPacks.2.adjective>
+  <!-- EN: Independency -->
+  <Individualist.symbolPacks.2.ideoName>独立</Individualist.symbolPacks.2.ideoName>
+  <!-- EN: independent -->
+  <Individualist.symbolPacks.2.member>独立者</Individualist.symbolPacks.2.member>
+  <!-- EN: independence -->
+  <Individualist.symbolPacks.2.theme>独立</Individualist.symbolPacks.2.theme>
+  <!-- EN: autonomist -->
+  <Individualist.symbolPacks.3.adjective>自治的</Individualist.symbolPacks.3.adjective>
+  <!-- EN: Autonomism -->
+  <Individualist.symbolPacks.3.ideoName>自治主义</Individualist.symbolPacks.3.ideoName>
+  <!-- EN: autonomor -->
+  <Individualist.symbolPacks.3.member>自治主义者</Individualist.symbolPacks.3.member>
+  <!-- EN: autonomy -->
+  <Individualist.symbolPacks.3.theme>自治</Individualist.symbolPacks.3.theme>
+  
+</LanguageData>

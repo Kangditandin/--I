@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Royalty -->
+  <RequestChangeRoyalHeir>将 {HOLDER_labelShort} 的 {TITLE} 头衔的继承人从 {HEIR_labelShort} 更改</RequestChangeRoyalHeir>
+  <RequestSetRoyalHeir>指定 {HOLDER_labelShort} 的 {TITLE} 头衔的继承人</RequestSetRoyalHeir>
+  <RequestChangeRoyalHeirAlreadyInProgress>{PAWN_labelShort} 已在进行中</RequestChangeRoyalHeirAlreadyInProgress>
+  
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Make_Apparel_Blindfold.label>缝制眼罩</Make_Apparel_Blindfold.label>
+  <Make_Apparel_Blindfold.description>缝制眼罩。</Make_Apparel_Blindfold.description>
+  <Make_Apparel_Flophat.label>缝制软檐帽</Make_Apparel_Flophat.label>
+  <Make_Apparel_Flophat.description>缝制软檐帽。</Make_Apparel_Flophat.description>
+  <Make_Apparel_Shadecone.label>缝制遮阳斗笠</Make_Apparel_Shadecone.label>
+  <Make_Apparel_Shadecone.description>缝制遮阳斗笠。</Make_Apparel_Shadecone.description>
+  <Make_Apparel_Tailcap.label>缝制尾帽</Make_Apparel_Tailcap.label>
+  <Make_Apparel_Tailcap.description>缝制尾帽。</Make_Apparel_Tailcap.description>
+  <Make_Apparel_TortureCrown.label>缝制拷问冠</Make_Apparel_TortureCrown.label>
+  <Make_Apparel_TortureCrown.description>缝制拷问冠。</Make_Apparel_TortureCrown.description>
+
+</LanguageData>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AssemblySpeedFactor.label>工作速度系数</AssemblySpeedFactor.label>
+  <AssemblySpeedFactor.description>人们在此组装基因的速度会乘以该数值。</AssemblySpeedFactor.description>
+  <BabyPlayGainFactor.label>婴儿玩耍效力</BabyPlayGainFactor.label>
+  <BabyPlayGainFactor.description>该物体用于满足婴儿玩耍需求的效果有多好。</BabyPlayGainFactor.description>
+  <BirthRitualQualityOffset.label>分娩质量偏移</BirthRitualQualityOffset.label>
+  <BirthRitualQualityOffset.description>当此处被用作分娩地点时，它会改变分娩的质量。分娩质量会影响婴儿健康出生的几率。</BirthRitualQualityOffset.description>
+  <GeneticComplexityIncrease.label>基因复杂度提升</GeneticComplexityIncrease.label>
+  <GeneticComplexityIncrease.description>当放置在基因组装机附近时，该建筑可提升一次能组装的最大基因复杂度。</GeneticComplexityIncrease.description>
+  <MaxInstallCount.label>最大植入次数</MaxInstallCount.label>
+  <MaxInstallCount.description>这可被植入多少次。每次额外植入都会提升或升级基础效果。</MaxInstallCount.description>
+  <MeleeDoorDamageFactor.label>近战毁门伤害系数</MeleeDoorDamageFactor.label>
+  <MeleeDoorDamageFactor.description>对门造成的近战伤害量的特殊倍率。</MeleeDoorDamageFactor.description>
+  <ShootingAccuracyChildFactor.label>射击精度倍率</ShootingAccuracyChildFactor.label>
+  <BandwidthCost.label>带宽消耗</BandwidthCost.label>
+  <BandwidthCost.description>该机械体在机械师控制下会消耗多少带宽。</BandwidthCost.description>
+  <CancerRate.label>癌症几率系数</CancerRate.label>
+  <CancerRate.description>此人在任意给定时间段内患癌可能性的倍率。</CancerRate.description>
+  <ControlTakingTime.label>接管时间</ControlTakingTime.label>
+  <ControlTakingTime.description>机械师接管该机械体需要多少秒。</ControlTakingTime.description>
+  <Fertility.label>生育力</Fertility.label>
+  <Fertility.description>生育力影响怀孕发生的几率。怀孕几率取决于双方伴侣的生育力。这也会影响将胚胎成功植入代孕者的几率。</Fertility.description>
+  <GrowthVatOccupantSpeed.label>成长舱内者速度</GrowthVatOccupantSpeed.label>
+  <GrowthVatOccupantSpeed.description>此人在成长舱中生长快慢的倍率。</GrowthVatOccupantSpeed.description>
+  <HemogenGainFactor.label>血原质获取倍率</HemogenGainFactor.label>
+  <HemogenGainFactor.description>获得的血原质量量的倍率。</HemogenGainFactor.description>
+  <LearningRateFactor.label>学习速率系数</LearningRateFactor.label>
+  <LearningRateFactor.description>学习活动满足儿童学习需求快慢的倍率。</LearningRateFactor.description>
+  <MechBandwidth.label>机械带宽</MechBandwidth.label>
+  <MechBandwidth.description>机械师拥有多少带宽。更多带宽让机械师能同时生产并控制更多机械体。\n\n失去带宽意味着失去对机械体的控制，使它们没有监工。这些机械体若不被重新支配，最终可能变成野生。</MechBandwidth.description>
+  <MechControlGroups.label>机械控制组</MechControlGroups.label>
+  <MechControlGroups.description>该机械师能独立指挥多少个控制组。每个控制组可被给予各自独立的命令。</MechControlGroups.description>
+  <MechEnergyLossPerHP.label>维修耗能</MechEnergyLossPerHP.label>
+  <MechEnergyLossPerHP.description>该机械体每修复 100 点伤害损失多少能量。</MechEnergyLossPerHP.description>
+  <MechEnergyUsageFactor.label>能量消耗倍率</MechEnergyUsageFactor.label>
+  <MechEnergyUsageFactor.description>机械体在运作时消耗其能量储备快慢的倍率。</MechEnergyUsageFactor.description>
+  <MechFormingSpeed.label>机械孕育速度</MechFormingSpeed.label>
+  <MechFormingSpeed.description>该机械师在孕育器成形新机械体速度的倍率。</MechFormingSpeed.description>
+  <MechRemoteRepairDistance.label>机械远程维修距离</MechRemoteRepairDistance.label>
+  <MechRemoteRepairDistance.description>远程维修时机械体可以距离多远。</MechRemoteRepairDistance.description>
+  <MechRemoteShieldDistance.label>机械远程护盾距离</MechRemoteShieldDistance.label>
+  <MechRemoteShieldDistance.description>机械师能为机械体施加护盾的最大范围。</MechRemoteShieldDistance.description>
+  <MechRemoteShieldEnergy.label>机械远程护盾能量</MechRemoteShieldEnergy.label>
+  <MechRemoteShieldEnergy.description>机械师创造的远程护盾将拥有多少能量。</MechRemoteShieldEnergy.description>
+  <MechRepairSpeed.label>机械维修速度</MechRepairSpeed.label>
+  <MechRepairSpeed.description>机械师维修机械体快慢的倍率。</MechRepairSpeed.description>
+  <RawNutritionFactor.label>生食营养倍率</RawNutritionFactor.label>
+  <RawNutritionFactor.description>生食对此人营养价值的倍率。注意，由于餐食通常比其生食材更有营养，提升此属性可能只意味着此人从生食中获得的营养等同于烹制后。</RawNutritionFactor.description>
+  <SubcoreEncodingSpeed.label>子核编码速度</SubcoreEncodingSpeed.label>
+  <SubcoreEncodingSpeed.description>机械师制作子核快慢的倍率。</SubcoreEncodingSpeed.description>
+  <WastepacksPerRecharge.label>每次充能废料包</WastepacksPerRecharge.label>
+  <WastepacksPerRecharge.description>该机械体在机械充能器上从 0 充到 100% 能量时会产生多少个有毒废料包。更大的机械体通常会产生更多有毒废料包。</WastepacksPerRecharge.description>
+  <WorkSpeedGlobalOffsetMech.label>机械工作速度偏移</WorkSpeedGlobalOffsetMech.label>
+  <WorkSpeedGlobalOffsetMech.description>施加于机械师的机械体的工作速度偏移。</WorkSpeedGlobalOffsetMech.description>
+
+</LanguageData>

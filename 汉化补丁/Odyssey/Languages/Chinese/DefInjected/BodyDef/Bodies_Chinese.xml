@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Crab.label>蟹</Crab.label>
+  <Larva.label>幼虫</Larva.label>
+  <Pinniped.label>鳍足类</Pinniped.label>
+  <PinnipedWithTusks.label>有獠牙的鳍足类</PinnipedWithTusks.label>
+  <Snail.label>蜗牛</Snail.label>
+  <Drone.label>无人机</Drone.label>
+  <DroneWithThreeLegs.label>无人机</DroneWithThreeLegs.label>
+  <DroneWithTreads.label>无人机</DroneWithTreads.label>
+  <Cyclops.label>独眼巨兽</Cyclops.label>
+
+</LanguageData>

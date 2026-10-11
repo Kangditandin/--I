@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ElectricalBurn.label>电灼伤</ElectricalBurn.label>
+  <DeadlifeDust.label>死生尘</DeadlifeDust.label>
+  <Digested.label>消化</Digested.label>
+  <EnergyBolt.label>能量束</EnergyBolt.label>
+  <NociosphereVaporize.label>汽化</NociosphereVaporize.label>
+  <Psychic.label>灵能</Psychic.label>
+
+</LanguageData>

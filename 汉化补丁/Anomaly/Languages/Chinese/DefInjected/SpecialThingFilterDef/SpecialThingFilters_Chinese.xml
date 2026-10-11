@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowAnomalyResearch.label>异常研究</AllowAnomalyResearch.label>
+  <AllowAnomalyResearch.description>允许收录可推进异常研究的书籍。</AllowAnomalyResearch.description>
+  <AllowCorpsesUnnatural.label>允许非自然尸体</AllowCorpsesUnnatural.label>
+  <AllowCorpsesUnnatural.description>允许收录奇怪而非自然的尸体。</AllowCorpsesUnnatural.description>
+
+</LanguageData>

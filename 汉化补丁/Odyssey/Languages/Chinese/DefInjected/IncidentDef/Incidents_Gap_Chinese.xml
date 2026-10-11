@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BioluminescentSpores.letterLabel>生物荧光孢子</BioluminescentSpores.letterLabel>
+  <BioluminescentSpores.letterText>某种真菌正在绽放，释放出生物荧光孢子！这些孢子美得奇异，且没有任何危险。</BioluminescentSpores.letterText>
+  <BoomshroomSprout.letterLabel>爆菇冒芽</BoomshroomSprout.letterLabel>
+  <BoomshroomSprout.letterText>附近冒出了一丛会爆炸的爆菇！\n\n这些蘑菇只在黑暗中生长。一旦成熟，就能收获以制取化合燃料。\n\n小心——成熟的爆菇受到损伤会爆炸。</BoomshroomSprout.letterText>
+  <Drought.letterLabel>干旱</Drought.letterLabel>
+  <GillRot.letterLabel>鳃腐病</GillRot.letterLabel>
+  <OrbitalDebris.letterLabel>轨道碎片</OrbitalDebris.letterLabel>
+  <OrbitalDebris.letterText>一片轨道碎片正朝你的位置疾飞而来，将在数秒内撞击。让你的殖民者躲到屋顶下。</OrbitalDebris.letterText>
+  <VolcanicAsh.letterLabel>火山灰</VolcanicAsh.letterLabel>
+  <VolcanicDebris.letterLabel>火山碎屑</VolcanicDebris.letterLabel>
+  <VolcanicDebris.letterText>附近的一次火山喷发正以熔岩冲刷该地区！</VolcanicDebris.letterText>
+  
+</LanguageData>

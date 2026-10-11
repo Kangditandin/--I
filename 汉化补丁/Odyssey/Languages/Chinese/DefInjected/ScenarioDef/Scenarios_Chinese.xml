@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TheGravship.scenario.summary>三名船员被机械体追猎。</TheGravship.scenario.summary>
+  <TheGravship.label>引力船</TheGravship.label>
+  <TheGravship.description>你的引力船停靠在轨道中继站上。当你的船员开始打捞设备时，你意识到这并非远古人类科技——而是一座机械体信标。中继站噼啪作响地启动，向远处的一座机械巢广播了战争警报。它们现在正在猎杀你，无论你去往何处，它们最终都会找到你。\n\n注意：这是一个困难的情景，不推荐新玩家使用。</TheGravship.description>
+  <TheGravship.scenario.description>你的引力船停靠在轨道中继站上。当你的船员开始打捞设备时，你意识到这并非远古人类科技——而是一座机械体信标。中继站噼啪作响地启动，向远处的一座机械巢广播了战争警报。它们现在正在猎杀你，无论你去往何处，它们最终都会找到你。\n\n注意：这是一个困难的情景，不推荐新玩家使用。</TheGravship.scenario.description>
+
+  <TheGravship.scenario.name>引力船</TheGravship.scenario.name>
+  <TheGravship.scenario.parts.GameStartDialog.text>你搞砸了，现在机械巢想要你死。它那可怕的杀戮机器很快就会到来。收集宝贵的引力岩板，然后用你的引力船逃往下方星球的安全地点。\n\n要发射引力船，请先选中驾驶员控制台，再选择发射指令。\n\n在世界地图上，选择「查看星球」来为星球选择一处着陆点。\n\n从现在起，无论你走到哪里，机械体最终都会找到你。要阻止它们，你必须找到并击败机械巢本身。</TheGravship.scenario.parts.GameStartDialog.text>
+
+</LanguageData>

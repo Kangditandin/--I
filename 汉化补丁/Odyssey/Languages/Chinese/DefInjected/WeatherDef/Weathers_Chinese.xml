@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BlindFog.label>致盲浓雾</BlindFog.label>
+  <BlindFog.description>一场浓雾，会降低远程武器的精度与最大射程。</BlindFog.description>
+  <Blizzard.label>暴风雪</Blizzard.label>
+  <Blizzard.description>雪会降低远程武器的精度、熄灭火焰并使人们变慢。</Blizzard.description>
+  <Orbit.label>轨道</Orbit.label>
+  <Orbit.description>轨道上没有天气。</Orbit.description>
+  <Overcast.label>阴天</Overcast.label>
+  <Overcast.description>厚厚的云层遮蔽天空，降低光照水平。</Overcast.description>
+  <Sandstorm.label>沙尘暴</Sandstorm.label>
+  <Sandstorm.description>沙尘暴会降低远程武器的精度、使人变慢，并让沙子无处不在。</Sandstorm.description>
+  <TorrentialRain.label>暴雨</TorrentialRain.label>
+  <TorrentialRain.description>暴雨会引发洪水。它还会降低远程武器的精度、熄灭火焰并使人们变慢。</TorrentialRain.description>
+  <ToxRain.label>毒雨</ToxRain.label>
+  <ToxRain.description>毒雨会使生物因毒素积累而患病。它还会降低远程武器的精度、熄灭火焰并使人们变慢。</ToxRain.description>
+  <Windy.label>大风</Windy.label>
+  <Windy.description>强风会降低移动速度。</Windy.description>
+
+</LanguageData>

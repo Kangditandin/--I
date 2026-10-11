@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ClimateAdjustment.label>气候调节</ClimateAdjustment.label>
+  <ClimateAdjustment.description>附近的气候调节器正在改变温度。</ClimateAdjustment.description>
+  <EMIField.label>电磁干扰场</EMIField.label>
+  <EMIField.description>一台电磁干扰发电机正在投射电磁干扰场，使电气设备失效。</EMIField.description>
+  <GiantSmokeCloud.label>巨型烟云</GiantSmokeCloud.label>
+  <GiantSmokeCloud.description>附近的喷烟器正在降低此区域的阳光。</GiantSmokeCloud.description>
+  <PsychicSuppression.label>灵能压制</PsychicSuppression.label>
+  <PsychicSuppression.description>灵能压制场正在影响{0}并降低其意识。效果受个人的心灵敏感度调节。</PsychicSuppression.description>
+  <SunBlocker.label>遮蔽阳光</SunBlocker.label>
+  <SunBlocker.description>附近的遮阳机正在使高层大气变得不透明，遮蔽阳光。</SunBlocker.description>
+  <ToxicSpewer.label>毒性喷吐</ToxicSpewer.label>
+  <ToxicSpewer.description>附近的毒性喷吐器正以毒物覆盖整个区域。</ToxicSpewer.description>
+  <WeatherController.label>强制天气</WeatherController.label>
+  <WeatherController.description>附近的天气控制器正强制天气变为这种配置。</WeatherController.description>
+
+</LanguageData>

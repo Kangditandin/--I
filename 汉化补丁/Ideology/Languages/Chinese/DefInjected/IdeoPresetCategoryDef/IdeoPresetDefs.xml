@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: classic -->
+  <Classic.label>经典</Classic.label>
+  <!-- EN: Classic RimWorld without the ideoligion system. Good for your first few games, or when you're not trying to do something specific. All Ideology expansion content remains active. -->
+  <Classic.description>不含理念系统的经典 RimWorld。适合你最初的几局游戏，或当你不打算做特定事情时。所有《理念》扩展内容仍然可用。</Classic.description>
+  <!-- EN: Classic -->
+  <Classic.groupLabel>经典</Classic.groupLabel>
+  
+  <!-- EN: custom -->
+  <Custom.label>自定义</Custom.label>
+  <!-- EN: Customize a new ideoligion and control every detail. This can take a while. -->
+  <Custom.description>自定义一个新理念并掌控每一个细节。这可能需要一些时间。</Custom.description>
+  <!-- EN: Custom -->
+  <Custom.groupLabel>自定义</Custom.groupLabel>
+  
+  <!-- EN: fluid -->
+  <Fluid.label>流动</Fluid.label>
+  <!-- EN: Begin with a simple ideoligion and develop it over time. -->
+  <Fluid.description>以简单的理念开局，并随时间发展它。</Fluid.description>
+  <!-- EN: Fluid -->
+  <Fluid.groupLabel>流动</Fluid.groupLabel>
+  
+  <!-- EN: intense -->
+  <Intense.label>激烈</Intense.label>
+  <!-- EN: Extremely disruptive beliefs which make the game very different from classic RimWorld. These add significant difficulty. -->
+  <Intense.description>极其具颠覆性的信仰，使游戏与经典 RimWorld 大不相同。这些会显著增加难度。</Intense.description>
+  <!-- EN: Preset ideoligions -->
+  <Intense.groupLabel>预设理念</Intense.groupLabel>
+  
+  <!-- EN: mild -->
+  <Mild.label>温和</Mild.label>
+  <!-- EN: Classic-like gameplay with small variations. -->
+  <Mild.description>带少量变化的类经典玩法。</Mild.description>
+  <!-- EN: Preset ideoligions -->
+  <Mild.groupLabel>预设理念</Mild.groupLabel>
+  
+  <!-- EN: strong -->
+  <Strong.label>强硬</Strong.label>
+  <!-- EN: Strong beliefs which support playstyles significantly different from classic RimWorld. -->
+  <Strong.description>支持与经典 RimWorld 显著不同的玩法的强烈信仰。</Strong.description>
+  <!-- EN: Preset ideoligions -->
+  <Strong.groupLabel>预设理念</Strong.groupLabel>
+  
+</LanguageData>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: animal personhood -->
+  <AnimalPersonhood.label>动物人格化</AnimalPersonhood.label>
+  <!-- EN: Animals have rights as humans do. -->
+  <AnimalPersonhood.description>动物拥有与人同等的权利。</AnimalPersonhood.description>
+
+  <!-- EN: blindsight -->
+  <Blindsight.label>盲视</Blindsight.label>
+  <!-- EN: Only those who are blind can perceive the true reality. -->
+  <Blindsight.description>唯有盲者才能感知真正的现实。</Blindsight.description>
+
+  <!-- EN: cannibal -->
+  <Cannibal.label>食人</Cannibal.label>
+  <!-- EN: We must consume human flesh. -->
+  <Cannibal.description>我们必须食用人肉。</Cannibal.description>
+
+  <!-- EN: darkness -->
+  <Darkness.label>黑暗</Darkness.label>
+  <!-- EN: Bright light burns and destroys! Darkness nourishes and creates. People ought to live in darkness. -->
+  <Darkness.description>明亮的火光会灼伤与毁灭！黑暗滋养并创造。人们应当生活在黑暗中。</Darkness.description>
+
+  <!-- EN: flesh purity -->
+  <FleshPurity.label>肉体纯净</FleshPurity.label>
+  <!-- EN: The human body should not be debased. -->
+  <FleshPurity.description>人体不应被贬损。</FleshPurity.description>
+
+  <!-- EN: high life -->
+  <HighLife.label>极乐</HighLife.label>
+  <!-- EN: Exotic states of mind are central to a good life. -->
+  <HighLife.description>异样的精神状态是美好生活的核心。</HighLife.description>
+
+  <!-- EN: nudism -->
+  <Nudism.label>裸体主义</Nudism.label>
+  <!-- EN: Clothing binds, controls, and suffocates us. We should all hang free. -->
+  <Nudism.description>衣物束缚、控制、窒息我们。我们都应自由自在。</Nudism.description>
+
+  <!-- EN: pain is virtue -->
+  <PainIsVirtue.label>苦痛即美德</PainIsVirtue.label>
+  <!-- EN: Virtue is shown through suffering of self and others. -->
+  <PainIsVirtue.description>美德通过折磨自己与他人得以彰显。</PainIsVirtue.description>
+
+  <!-- EN: proselytizer -->
+  <Proselytizer.label>传教</Proselytizer.label>
+  <!-- EN: It is our duty to spread our beliefs. -->
+  <Proselytizer.description>传播我们的信仰是我们的职责。</Proselytizer.description>
+
+  <!-- EN: raider -->
+  <Raider.label>劫掠</Raider.label>
+  <!-- EN: The strong should take from the weak. -->
+  <Raider.description>强者应向弱者索取。</Raider.description>
+
+  <!-- EN: rancher -->
+  <Rancher.label>放牧</Rancher.label>
+  <!-- EN: Raising animals is the right way; raising plants to eat is not. -->
+  <Rancher.description>饲养动物才是正道；种植作物为食则不是。</Rancher.description>
+
+  <!-- EN: transhumanist -->
+  <Transhumanist.label>超人类主义</Transhumanist.label>
+  <!-- EN: Human progress means merging with technology. -->
+  <Transhumanist.description>人类进步意味着与技术融合。</Transhumanist.description>
+
+  <!-- EN: tree connection -->
+  <TreeConnection.label>与树相连</TreeConnection.label>
+  <!-- EN: Trees are the essence of life, and we must be near them. -->
+  <TreeConnection.description>树木是生命的精髓，我们必须靠近它们。</TreeConnection.description>
+
+  <!-- EN: tunneler -->
+  <Tunneler.label>地道人</Tunneler.label>
+  <!-- EN: Humans ought to live underground, and enjoy the succulent fruit of the depths. -->
+  <Tunneler.description>人类应当生活在地下，享用深渊的丰美果实。</Tunneler.description>
+
+</LanguageData>

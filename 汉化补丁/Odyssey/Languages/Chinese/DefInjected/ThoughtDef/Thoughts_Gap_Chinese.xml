@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BlowingSand.description>它到处都是！我能感觉到牙缝里的沙子。</BlowingSand.description>
+  <BlowingSand.label>扬沙</BlowingSand.label>
+  <DestroyedMechhive.description>我们击败了它们！现在我们摆脱它们了。</DestroyedMechhive.description>
+  <DestroyedMechhive.label>摧毁了机械巢</DestroyedMechhive.label>
+  <HotSpring.description>把脚泡在温水里真舒服。</HotSpring.description>
+  <MadeStatueOfMe.label>做了我的雕像</MadeStatueOfMe.label>
+  <SlaughteredFish_Disapproved.description>我不得不杀鱼。这是件丑陋的事。</SlaughteredFish_Disapproved.description>
+  <SlaughteredFish_Disapproved.label>屠宰了鱼</SlaughteredFish_Disapproved.label>
+  <SlaughteredFish_Know_Disapproved.label>杀了鱼</SlaughteredFish_Know_Disapproved.label>
+  <SlaughteredFish_Know_Disapproved_Mood.description>有人在杀鱼！我们该保护这些美丽的生物。</SlaughteredFish_Know_Disapproved_Mood.description>
+  <SlaughteredFish_Know_Disapproved_Mood.label>鱼被屠宰</SlaughteredFish_Know_Disapproved_Mood.label>
+  <SlaughteredFish_Know_Prohibited.label>杀了鱼</SlaughteredFish_Know_Prohibited.label>
+  <SlaughteredFish_Know_Prohibited_Mood.description>有人在杀鱼！我们滑溜溜的兄弟姐妹正在死去。</SlaughteredFish_Know_Prohibited_Mood.description>
+  <SlaughteredFish_Know_Prohibited_Mood.label>鱼被屠宰</SlaughteredFish_Know_Prohibited_Mood.label>
+  <SlaughteredFish_Sacred.description>钓鱼让我走上正道——至少有一小会儿。</SlaughteredFish_Sacred.description>
+  <SlaughteredFish_Sacred.label>最近钓过鱼</SlaughteredFish_Sacred.label>
+  <SlaughteredFish_Sacred_NoFish.description>真希望我们在一个能钓鱼的地方。</SlaughteredFish_Sacred_NoFish.description>
+  <SlaughteredFish_Sacred_NoFish.label>鱼不够多</SlaughteredFish_Sacred_NoFish.label>
+  <SpaceHabitat_Mood.description>在这泥土里我永远都感觉不到家。我们该待在太空中。</SpaceHabitat_Mood.description>
+  <SpaceHabitat_Mood.label>行星栖息地</SpaceHabitat_Mood.label>
+  <ToxWater.description>我泡在这恶心的东西里。又痒又烧。</ToxWater.description>
+  <ToxWater.label>毒水</ToxWater.label>
+  
+</LanguageData>

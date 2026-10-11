@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: female supremacy -->
+  <FemaleSupremacy.label>女权至上</FemaleSupremacy.label>
+  <!-- EN: Women are the superior gender and should rule. -->
+  <FemaleSupremacy.description>女性是更优越的性别，理应统治。</FemaleSupremacy.description>
+  <FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_FemaleSupremacy)->[deity0_name]将智慧赐予女人，使她们得以引导并安抚好动的男人与孩童，并惩戒那些扰乱这神圣秩序者。</li>
+    <li>episode(uses=1,tag=meme_FemaleSupremacy)->信女们发现自己遭受着堕落男人的欺凌，便与之抗争，[deity0_name]赐予她们神助，她们遂得以升上应许之位。</li>
+    <li>setup(tag=meme_FemaleSupremacy)->在一个由自私残暴的男人为满足私欲而欺凌全人类的世界里，[founderName]召集了一群有权势的女人，开始为所有人建立一个更美好的世界。</li>
+    <li>story(uses=1,tag=meme_FemaleSupremacy)->信男们吹嘘争斗，于是[founderName]将他们逐出了领袖议会。</li>
+    <li>lessonIntro(tag=meme_FemaleSupremacy)->又一次，一个男人在教我刚做过的那件事该怎么做。这更让我确信：</li>
+    <li>lesson(tag=meme_FemaleSupremacy)->只有女人才拥有统治所需的智慧与力量</li>
+    <li>lessonReinforcement(tag=meme_FemaleSupremacy)->女人因为最具智慧，早在好动咕哝的男人之前就明白了这一点。</li>
+    <li>archistBasis(tag=meme_FemaleSupremacy)->人类孕育了远古科技，并将它们哺育成长，直至它们超越了自己的母亲。</li>
+    <li>archistFact(tag=meme_FemaleSupremacy)->远古科技哺育着人类，尽管人类并不明白为何如此。</li>
+    <li>archistProphecy(tag=meme_FemaleSupremacy)->[inTheEnd]，远古科技将回到它们的母亲身边，教她们如何孕育人类发展的下一阶段。</li>
+    <li>animistFact(tag=meme_FemaleSupremacy)->最智慧的精灵是女人的精灵，她们应当用智慧引导男人。</li>
+    <li>animistProphecy(tag=meme_FemaleSupremacy)->[itIsSaid]说，一个强大的毁灭之灵将终结宇宙，但一个女人将持着[relic0_name]之灵重建宇宙。</li>
+  </FemaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <FemaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->女性的</li>
+    <li>memeAdjective->妇道的</li>
+    <li>memeHyphenPrefix->女</li>
+    <li>memeHyphenPrefix->雌</li>
+    <li>memeConcept->女人</li>
+    <li>memeConcept->女性气质</li>
+    <li>memeGod->母亲</li>
+    <li>memeLeaderNoun->女家长</li>
+  </FemaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.adjective>女权主义的</FemaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Gynism -->
+  <FemaleSupremacy.symbolPacks.0.ideoName>女权主义</FemaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: gynist -->
+  <FemaleSupremacy.symbolPacks.0.member>女权主义者</FemaleSupremacy.symbolPacks.0.member>
+  <!-- EN: gynism -->
+  <FemaleSupremacy.symbolPacks.0.theme>女权主义</FemaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.adjective>女性至上的</FemaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Femism -->
+  <FemaleSupremacy.symbolPacks.1.ideoName>女性至上</FemaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: femist -->
+  <FemaleSupremacy.symbolPacks.1.member>女性至上者</FemaleSupremacy.symbolPacks.1.member>
+  <!-- EN: femininity -->
+  <FemaleSupremacy.symbolPacks.1.theme>女性气质</FemaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.adjective>妇人道的</FemaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Womanism -->
+  <FemaleSupremacy.symbolPacks.2.ideoName>妇人道</FemaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: womanist -->
+  <FemaleSupremacy.symbolPacks.2.member>妇人道者</FemaleSupremacy.symbolPacks.2.member>
+  <!-- EN: women -->
+  <FemaleSupremacy.symbolPacks.2.theme>女人</FemaleSupremacy.symbolPacks.2.theme>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.adjective>丰穰的</FemaleSupremacy.symbolPacks.3.adjective>
+  <!-- EN: Fertilism -->
+  <FemaleSupremacy.symbolPacks.3.ideoName>丰穰教</FemaleSupremacy.symbolPacks.3.ideoName>
+  <!-- EN: fertilist -->
+  <FemaleSupremacy.symbolPacks.3.member>丰穰信徒</FemaleSupremacy.symbolPacks.3.member>
+  <!-- EN: fertility -->
+  <FemaleSupremacy.symbolPacks.3.theme>生育力</FemaleSupremacy.symbolPacks.3.theme>
+  
+  <!-- EN: male supremacy -->
+  <MaleSupremacy.label>男权至上</MaleSupremacy.label>
+  <!-- EN: Men are the superior gender and should rule. -->
+  <MaleSupremacy.description>男性是更优越的性别，理应统治。</MaleSupremacy.description>
+  <MaleSupremacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_MaleSupremacy)->[deity0_name]将力量赐予男人，使他们得以保护并供养软弱的女人与孩童，并惩戒那些扰乱这神圣秩序者。</li>
+    <li>episode(uses=1,tag=meme_MaleSupremacy)->[deity0_name]对众人说：“男人的力量被赐予，是为了保护并供养女人，她绝不可篡夺他的权柄。”</li>
+    <li>setup(tag=meme_MaleSupremacy)->在一个由软弱、卑躬屈膝、乞求女性认可的男人构成的世界里，[founderName]重新找回了男性的力量，并借此发起了一场新的运动。</li>
+    <li>story(uses=1,tag=meme_MaleSupremacy)->信女们喋喋不平，于是[founderName]将她们逐出了领袖议会。</li>
+    <li>lessonIntro(tag=meme_MaleSupremacy)->我已尽量把事情说得简单，但这个女人就是不明白。经历了她对真理的抱怨抵触后，我终于明白：</li>
+    <li>lesson(tag=meme_MaleSupremacy)->只有男人才拥有统治所需的智慧与力量</li>
+    <li>lessonReinforcement(tag=meme_MaleSupremacy)->我妻子甚至还试图与我争论这件事——你敢信吗？让她闭嘴可不容易。</li>
+    <li>archistBasis(tag=meme_MaleSupremacy)->人类是远古科技的父亲，但儿子的力量远胜父亲。</li>
+    <li>archistFact(tag=meme_MaleSupremacy)->远古科技如同父亲般保护着人类，尽管人类并不明白为何如此。</li>
+    <li>archistProphecy(tag=meme_MaleSupremacy)->[inTheEnd]，远古科技将最终释放男人的力量，使他们引领人类走向超越。</li>
+    <li>animistFact(tag=meme_MaleSupremacy)->最强大的精灵是男人的精灵，若男人不掌权，他们的精灵将不得安宁。</li>
+    <li>animistProphecy(tag=meme_MaleSupremacy)->[itIsSaid]说，一个强大的毁灭之灵将试图终结宇宙，但一个男人将持着[relic0_name]之灵，消灭那毁灭者。</li>
+  </MaleSupremacy.descriptionMaker.rules.rulesStrings>
+  <MaleSupremacy.generalRules.rulesStrings>
+    <li>memeAdjective->男性的</li>
+    <li>memeAdjective->有男子气概的</li>
+    <li>memeHyphenPrefix->男</li>
+    <li>memeHyphenPrefix->雄</li>
+    <li>memeConcept->男人</li>
+    <li>memeConcept->男子气概</li>
+    <li>memeGod->父亲</li>
+    <li>memeLeaderNoun->男家长</li>
+  </MaleSupremacy.generalRules.rulesStrings>
+  <!-- EN: masculist -->
+  <MaleSupremacy.symbolPacks.0.adjective>男性主义的</MaleSupremacy.symbolPacks.0.adjective>
+  <!-- EN: Masculinism -->
+  <MaleSupremacy.symbolPacks.0.ideoName>男性主义</MaleSupremacy.symbolPacks.0.ideoName>
+  <!-- EN: masculinist -->
+  <MaleSupremacy.symbolPacks.0.member>男性主义者</MaleSupremacy.symbolPacks.0.member>
+  <!-- EN: masculinity -->
+  <MaleSupremacy.symbolPacks.0.theme>男子气概</MaleSupremacy.symbolPacks.0.theme>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.adjective>男性至上的</MaleSupremacy.symbolPacks.1.adjective>
+  <!-- EN: Manism -->
+  <MaleSupremacy.symbolPacks.1.ideoName>男性至上</MaleSupremacy.symbolPacks.1.ideoName>
+  <!-- EN: manist -->
+  <MaleSupremacy.symbolPacks.1.member>男性至上者</MaleSupremacy.symbolPacks.1.member>
+  <!-- EN: man -->
+  <MaleSupremacy.symbolPacks.1.theme>男人</MaleSupremacy.symbolPacks.1.theme>
+  <!-- EN: virile -->
+  <MaleSupremacy.symbolPacks.2.adjective>阳刚的</MaleSupremacy.symbolPacks.2.adjective>
+  <!-- EN: Virilism -->
+  <MaleSupremacy.symbolPacks.2.ideoName>阳刚之道</MaleSupremacy.symbolPacks.2.ideoName>
+  <!-- EN: virilor -->
+  <MaleSupremacy.symbolPacks.2.member>阳刚之士</MaleSupremacy.symbolPacks.2.member>
+  <!-- EN: virility -->
+  <MaleSupremacy.symbolPacks.2.theme>阳刚之气</MaleSupremacy.symbolPacks.2.theme>
+  
+</LanguageData>

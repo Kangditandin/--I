@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Digested.deathMessage>{0}因被消化而死。</Digested.deathMessage>
+  <ElectricalBurn.deathMessage>{0}死于电灼伤。</ElectricalBurn.deathMessage>
+  <EnergyBolt.deathMessage>{0}被能量矢杀死。</EnergyBolt.deathMessage>
+  <Psychic.deathMessage>{0}被灵能攻击杀死。</Psychic.deathMessage>
+  
+</LanguageData>

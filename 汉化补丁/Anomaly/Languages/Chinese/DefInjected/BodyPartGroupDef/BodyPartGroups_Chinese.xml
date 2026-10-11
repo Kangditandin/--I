@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FrontLeftClaw.label>左前爪</FrontLeftClaw.label>
+  <FrontLeftClaw.labelShort>爪</FrontLeftClaw.labelShort>
+  <FrontRightClaw.label>右前爪</FrontRightClaw.label>
+  <FrontRightClaw.labelShort>爪</FrontRightClaw.labelShort>
+  <FifthTentacle.label>触手</FifthTentacle.label>
+  <FirstTentacle.label>触手</FirstTentacle.label>
+  <FourthTentacle.label>触手</FourthTentacle.label>
+  <LeftSpike.label>左侧尖刺</LeftSpike.label>
+  <LeftSpike.labelShort>尖刺</LeftSpike.labelShort>
+  <MiddleSpike.label>中间尖刺</MiddleSpike.label>
+  <MiddleSpike.labelShort>尖刺</MiddleSpike.labelShort>
+  <RightSpike.label>右侧尖刺</RightSpike.label>
+  <RightSpike.labelShort>尖刺</RightSpike.labelShort>
+  <SecondTentacle.label>触手</SecondTentacle.label>
+  <ThirdTentacle.label>触手</ThirdTentacle.label>
+  <LeftFin.label>左鳍</LeftFin.label>
+  <LeftFin.labelShort>鳍</LeftFin.labelShort>
+  <LeftFleshClub.label>左血肉棒</LeftFleshClub.label>
+  <LeftFleshClub.labelShort>血肉棒</LeftFleshClub.labelShort>
+  <RightFin.label>右鳍</RightFin.label>
+  <RightFin.labelShort>鳍</RightFin.labelShort>
+  <RightFleshClub.label>右血肉棒</RightFleshClub.label>
+  <RightFleshClub.labelShort>血肉棒</RightFleshClub.labelShort>
+
+</LanguageData>

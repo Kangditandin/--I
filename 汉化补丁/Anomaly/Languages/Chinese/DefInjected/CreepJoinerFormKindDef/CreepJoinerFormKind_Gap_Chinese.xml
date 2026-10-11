@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Blindhealer.letterLabel>一位盲眼治疗师正接近殖民地。</Blindhealer.letterLabel>
+  <CreepDrifter.letterLabel>一位访客正接近殖民地。</CreepDrifter.letterLabel>
+  <CultEscapee.letterLabel>一个血肉模糊的身影正接近殖民地。</CultEscapee.letterLabel>
+  <DarkScholar.letterLabel>一位遍体扭曲疤痕的黑暗学者正接近殖民地。</DarkScholar.letterLabel>
+  <DealMaker.letterLabel>一位俊美得惊人的陌生人正接近殖民地。</DealMaker.letterLabel>
+  <LeatheryStranger.letterLabel>一位皮肤如皮革的褴褛陌生人正接近你的殖民地。</LeatheryStranger.letterLabel>
+  <LoneGenius.letterLabel>一个孤身的身影正接近殖民地。</LoneGenius.letterLabel>
+  <TimelessOne.letterLabel>一个少年正接近殖民地。{PAWN_pronoun}在{PAWN_objective}周围带着一种奇异的自信气息。</TimelessOne.letterLabel>
+  
+</LanguageData>

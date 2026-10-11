@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnimalPersonhood_AnimalPersonhood.label>动物人格一致</AnimalPersonhood_AnimalPersonhood.label>
+  <Cannibal_Cannibal.label>食人一致</Cannibal_Cannibal.label>
+  <Cannibal_FleshPurity.label>食人 vs 血肉纯正</Cannibal_FleshPurity.label>
+  <Cannibal_PainIsVirtue.label>食人 vs 痛苦即美德</Cannibal_PainIsVirtue.label>
+  <Collectivist_Collectivist.label>集体主义一致</Collectivist_Collectivist.label>
+  <Collectivist_Individualist.label>集体主义 vs 个人主义</Collectivist_Individualist.label>
+  <FemaleSupremacy_FemaleSupremacy.label>女性至上一致</FemaleSupremacy_FemaleSupremacy.label>
+  <FemaleSupremacy_Individualist.label>女性至上 vs 个人主义</FemaleSupremacy_Individualist.label>
+  <FemaleSupremacy_MaleSupremacy.label>女性至上 vs 男性至上</FemaleSupremacy_MaleSupremacy.label>
+  <FleshPurity_FleshPurity.label>血肉纯正一致</FleshPurity_FleshPurity.label>
+  <FleshPurity_Transhumanist.label>血肉纯正 vs 超人类主义</FleshPurity_Transhumanist.label>
+  <Guilty_All.label>有罪</Guilty_All.label>
+  <HighLife_FleshPurity.label>迷幻生活 vs 血肉纯正</HighLife_FleshPurity.label>
+  <HighLife_HighLife.label>迷幻生活一致</HighLife_HighLife.label>
+  <HumanPrimacy_AnimalPersonhood.label>人类至上 vs 动物人格</HumanPrimacy_AnimalPersonhood.label>
+  <HumanPrimacy_FleshPurity.label>人类至上 vs 血肉纯正</HumanPrimacy_FleshPurity.label>
+  <HumanPrimacy_HumanPrimacy.label>人类至上一致</HumanPrimacy_HumanPrimacy.label>
+  <HumanPrimacy_Transhumanist.label>人类至上 vs 超人类主义</HumanPrimacy_Transhumanist.label>
+  <Individualist_Cannibal.label>个人主义 vs 食人</Individualist_Cannibal.label>
+  <Individualist_Individualist.label>个人主义一致</Individualist_Individualist.label>
+  <Individualist_Proselytizer.label>个人主义 vs 传教者</Individualist_Proselytizer.label>
+  <Loyalist_All.label>忠诚者</Loyalist_All.label>
+  <MaleSupremacy_Individualist.label>男性至上 vs 个人主义</MaleSupremacy_Individualist.label>
+  <MaleSupremacy_MaleSupremacy.label>男性至上一致</MaleSupremacy_MaleSupremacy.label>
+  <NaturePrimacy_AnimalPersonhood.label>自然至上 vs 动物人格</NaturePrimacy_AnimalPersonhood.label>
+  <NaturePrimacy_HumanPrimacy.label>自然至上 vs 人类至上</NaturePrimacy_HumanPrimacy.label>
+  <NaturePrimacy_NaturePrimacy.label>自然至上一致</NaturePrimacy_NaturePrimacy.label>
+  <NaturePrimacy_Transhumanist.label>自然至上 vs 超人类主义</NaturePrimacy_Transhumanist.label>
+  <Nudism_Nudism.label>裸体主义一致</Nudism_Nudism.label>
+  <PainIsVirtue_PainIsVirtue.label>痛苦即美德一致</PainIsVirtue_PainIsVirtue.label>
+  <Raider_All.label>劫掠者</Raider_All.label>
+  <Rancher_AnimalPersonhood.label>牧场主 vs 动物人格</Rancher_AnimalPersonhood.label>
+  <Rancher_NaturePrimacy.label>牧场主 vs 自然至上</Rancher_NaturePrimacy.label>
+  <SameIdeo.label>同信{0_name}</SameIdeo.label>
+  <Supremacist_All.label>至上主义者</Supremacist_All.label>
+  <Transhumanist_Transhumanist.label>超人类主义一致</Transhumanist_Transhumanist.label>
+
+</LanguageData>

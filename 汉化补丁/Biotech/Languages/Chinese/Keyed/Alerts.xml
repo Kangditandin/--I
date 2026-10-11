@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <AlertMechLacksOverseer>无人控制的机械体</AlertMechLacksOverseer>
+  <AlertMechLacksOverseerDesc>你的一台或多台机械体无人控制。将机械体连接到带宽足够的机械师以控制它们。\n\n若超过一天无人控制，机械体可能会野化。一旦发生，它们会加入 {0} 并与你敌对。若一台机械体野化，它会带走附近其他机械体。\n\n野化的机械体被杀死后无法在孕育器中复活。</AlertMechLacksOverseerDesc>
+  <AlertMechLacksOverseerUncontrolled>下列机械体无人控制</AlertMechLacksOverseerUncontrolled>
+  <AlertMechLacksOverseerMayGoFeral>下列机械体无人控制，随时可能野化</AlertMechLacksOverseerMayGoFeral>
+
+  <AlertWarqueenHasLowResources>{0} 资源不足</AlertWarqueenHasLowResources>
+  <AlertWarqueenHasLowResourcesDesc>一台或多台 {0} 资源不足。若资源耗尽，它们将无法按指令生产机械体。</AlertWarqueenHasLowResourcesDesc>
+
+  <AlertLowDeathrestPawn>{PAWN} 需要死眠</AlertLowDeathrestPawn>
+  <AlertLowDeathrestPawns>{NUMCULPRITS} 名殖民者需要死眠</AlertLowDeathrestPawns>
+  <AlertLowDeathrestDesc>有一名殖民者很久没有死眠了。若长期无法死眠，他们将会遭受死眠衰竭。\n\n要死眠，请选中该殖民者，然后右键点击其指定的床或死眠棺。\n\n这些人需要死眠：\n{CULPRITS}</AlertLowDeathrestDesc>
+
+  <AlertLowHemogen>血原质不足</AlertLowHemogen>
+  <AlertLowHemogenDesc>有一名殖民者血原质不足。血原质降为零时，他们会出现痛苦的血原质渴望。\n\n喂食血原质包可避免此情况。你可以对非血原质人类使用“提取血原质包”医疗操作来获得血原质包。\n\n下列殖民者血原质不足</AlertLowHemogenDesc>
+
+  <AlertRechargerFull>充能器已满</AlertRechargerFull>
+  <AlertRechargerFullDesc>一些机械充能器已储存了最大数量的剧毒废料包。在废料包被运走之前，机械体无法使用这些充能器。\n\n选中一名殖民者并右键点击充能器即可卸载它。</AlertRechargerFullDesc>
+
+  <AlertNeedMechChargers>需要机械充能器</AlertNeedMechChargers>
+  <AlertNeedMechChargersDesc>你并没有为所有机械体配备充能器。若机械体能量耗尽，它会进入休眠自充状态，充能非常缓慢。\n\n请建造更多以下充能器：\n{0}\n\n注意：只有轻型机械体可以使用普通机械充能器。中型或更重的机械体需要大型机械充能器。</AlertNeedMechChargersDesc>
+  <AlertNeedMechChargerBasicMechtech>需研究基础机械科技或更高才能建造充能器。</AlertNeedMechChargerBasicMechtech>
+
+  <AlertReimplantationAvailable>可以重新植入了</AlertReimplantationAvailable>
+  <AlertReimplantationAvailableDesc>{0_nameDef} 正等待将 {0_possessive} 的异种胚芽重新植入你的一名殖民者体内。</AlertReimplantationAvailableDesc>
+
+  <AlertLowBabyFood>婴儿食物不足</AlertLowBabyFood>
+  <AlertLowBabyFoodDesc>你的婴儿食物已降低到危险水平。\n\n    需要食物的婴儿：{0}\n    储存的婴儿食物天数：{1}\n\n购买、寻找或制作一些婴儿可食用的食物。这包括 {2}。</AlertLowBabyFoodDesc>
+  <AlertNoBabyFeeder>没有喂食者</AlertNoBabyFeeder>
+  <AlertNoBabyFeederDesc>没有 {FACTION_pawnsPlural} 被指派喂养这些婴儿，或者他们全部倒地了。\n\n在婴儿的喂食页签中，将你的一名 {FACTION_pawnsPlural} 指派到育儿工作，或将一名哺乳期的 {FACTION_pawnSingular} 设为“紧急”优先级来喂养这些婴儿，并确保其中至少一人未倒地。</AlertNoBabyFeederDesc>
+  <AlertAbandonedBaby>被遗弃的婴儿</AlertAbandonedBaby>
+  <AlertAbandonedBabyDesc>附近有被遗弃的婴儿，且没有照看者在旁边。如果你不领养这些婴儿，他们很可能会饿死。\n\n要领养婴儿，请选中它并选择“{0}”。</AlertAbandonedBabyDesc>
+
+  <AlertNoBabyFoodCaravan>商队中没有婴儿食物</AlertNoBabyFoodCaravan>
+  <AlertNoBabyFoodCaravanDesc>此商队中的婴儿没有婴儿食物，也没有哺乳期的 {FACTION_pawnsPlural} 被设为喂养他们。</AlertNoBabyFoodCaravanDesc>
+
+  <AlertToxicBuildup>毒素积累</AlertToxicBuildup>
+  <AlertToxicBuildupDesc>这些殖民者有严重的毒素积累：\n\n{0}\n\n把他们带离毒素来源。\n\n毒素积累可由许多原因造成，包括有毒落尘、毒气和受污染地形。</AlertToxicBuildupDesc>
+
+  <AlertNeedBabyCribs>需要婴儿床</AlertNeedBabyCribs>
+  <AlertNeedBabyCribsDesc>你的婴儿数量多于婴儿床。\n\n多造几张婴儿床，或者若你没有多余资源，也可以免费放置一些婴儿睡点。</AlertNeedBabyCribsDesc>
+  <AlertNeedSlaveCribs>需要奴隶婴儿床</AlertNeedSlaveCribs> 
+  <AlertNeedSlaveCribsDesc>你的奴隶婴儿数量多于标记为奴隶使用的婴儿床。\n\n要么多造几张婴儿床，要么将一张殖民者婴儿床改为奴隶婴儿床。\n\n若你没有资源，婴儿睡点是免费的，可以立即放置。</AlertNeedSlaveCribsDesc>
+
+  <AlertPollutedTerrain>受污染地形</AlertPollutedTerrain>
+  <AlertPollutedTerrainDesc>某人或某动物正遭受毒素积累，且处于受污染地形上。只要处于受污染地形上，其毒素积累就会随时间增加，直到死亡。\n\n下列人或动物受影响：\n\n{0}\n\n让人们远离受污染地形，或设法保护他们免受其影响。某些服装、植入体和基因改造可以防御毒素积累。受污染地形无法用地板覆盖，但可以通过人工和其他方式清理。</AlertPollutedTerrainDesc>
+
+  <AlertMechMissingBodyPart>机械体缺失部位</AlertMechMissingBodyPart>
+  <AlertMechsMissingBodyPart>机械体缺失部位</AlertMechsMissingBodyPart>
+  <AlertMechMissingBodyPartDesc>你的一台或多台机械体缺失了躯体部位。机械师可以修复失去的部位。\n\n失去躯体部位的机械体为</AlertMechMissingBodyPartDesc>
+
+  <AlertMechNeedsRepair>机械体需要修复</AlertMechNeedsRepair>
+  <AlertMechNeedsRepairDescPrefix>这些机械体受损，需要修复</AlertMechNeedsRepairDescPrefix>
+  <AlertMechNeedsRepairDesc>命令一名机械师修复它们，或选中该机械体并开启自动修复。修复机械体需要能量。若机械体能量过低而无法移动，必须有人把它搬到充能器。</AlertMechNeedsRepairDesc>
+  
+  <AlertToxifierGeneratorStopped>{0} 已停止</AlertToxifierGeneratorStopped>
+  <AlertToxifierGeneratorStoppedDesc>你的 {0} 未发电，因为附近没有可供转化的肥沃地形。\n\n请用污染泵清理受污染地形，或指定一片污染清理区。</AlertToxifierGeneratorStoppedDesc>
+
+  <AlertPsychicBondedPawnsSeparated>灵能羁绊距离</AlertPsychicBondedPawnsSeparated>
+  <AlertPsychicBondedPawnsSeparatedDesc>一些具有灵能羁绊的殖民者被分开了，正因距离而受到负面影响。为避免此情况，具有灵能羁绊的人必须处于同一世界格、同一商队或同一载具中。此外，他们不能处于低温休眠或类似的悬浮休眠状态。\n\n下列人受影响</AlertPsychicBondedPawnsSeparatedDesc>
+
+  <AlertGenebankUnpowered>基因库需要供电</AlertGenebankUnpowered>
+  <AlertGenebankUnpoweredDesc>一个基因库未通电，因此其中的基因包正在逐渐变质。恢复基因库供电以阻止基因包变质。\n\n一旦基因库通电，它会逐渐逆转其中基因包的变质。</AlertGenebankUnpoweredDesc>
+
+  <AlertBossgroupIncoming>{0} 即将到来</AlertBossgroupIncoming>
+  <AlertBossgroupIncomingDesc>你的机械师发出了信号，一名敌对 {0} 正与它的战斗护卫一同接近。做好准备，这不会是场轻松的战斗。敌对机械体将在几小时或几天后抵达。</AlertBossgroupIncomingDesc>
+
+  <AlertDeathrestComplete>死眠完成</AlertDeathrestComplete>
+  <AlertDeathrestCompleteDesc>下列人已完成死眠，可以安全唤醒</AlertDeathrestCompleteDesc>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BloodRain.endMessage>血雨正在结束。</BloodRain.endMessage>
+  <BloodRain.letterText>浓稠的、似血的液体开始从天而降。\n\n任何暴露在外的人都会感到不断增长的怒火，这会增强近战攻击，但最终会变为狂怒。暴露在外的动物最终会变为猎杀人类者。这种效果的强度因个体的特质、心灵敏感度以及随机的个人因素而异。</BloodRain.letterText>
+  <DeathPall.letterText>一片死灰色的云层降临到该地区。\n\n这云层由某种未知超级智能制造的微观自驱动远古微粒构成。当它们落在死肉上时，会进入尸体并将其复活，制造出一种扭曲的生命仿制品。\n\n死者将起身！焚烧、掩埋、摧毁尸体，或把尸体移到室内，以防它们复活。</DeathPall.letterText>
+  <GrayPall.letterText>一层粗糙的浓雾降临到这片地区。它闻起来带着某种古老的气息，还会刺痛皮肤。它那非自然的灰色唤起一种恐惧感。</GrayPall.letterText>
+  
+</LanguageData>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Misc -->
+  <TradingAnimalProduceBonus>交易动物产品的加成</TradingAnimalProduceBonus>
+  <SlavesSection>奴隶</SlavesSection>
+  <DominantStyle>主导风格</DominantStyle>
+  <Date>日期</Date>
+  <RitualDevelopmentPointRewards>根据仪式结果，将获得以下发展点数</RitualDevelopmentPointRewards>
+  <UseGlobalStyle>使用全局风格</UseGlobalStyle>
+  <NoStylesAvailable>没有可用的风格变体</NoStylesAvailable>
+
+  <ChooseStructureMemesInfo>选择你理念的象征结构。这只影响符号——不影响玩法。</ChooseStructureMemesInfo>
+  <ChooseNormalMemesInfo>选择 {0}-{1} 个模因，构成此理念的基础观念。</ChooseNormalMemesInfo>
+  <NotEnoughMemes>请至少选择 {0} 个模因。</NotEnoughMemes>
+  <TooManyMemes>最多只能选择 {0} 个模因。</TooManyMemes>
+  <ChooseStructureMeme>选择结构。</ChooseStructureMeme>
+  <IncompatibleMemes>{0_label} 与 {1_label} 不兼容。</IncompatibleMemes>
+  <SomeMemesHaveMoreImpact>其中一些对玩法的影响远大于其他。</SomeMemesHaveMoreImpact>
+  <ChooseNormalMemesFluidIdeoInfo>选择一个模因构成此理念的初始观念。随理念随时间发展，你会添加更多模因。</ChooseNormalMemesFluidIdeoInfo>
+  <ChooseOrRemoveMeme>选择一个模因或移除一个模因。</ChooseOrRemoveMeme>
+  <ReformIdeoResetChanges>重置更改</ReformIdeoResetChanges>
+  <NotEnoughMemesFluidIdeo>选择 {0} 个模因。</NotEnoughMemesFluidIdeo>
+
+  <ChangesRandomizePrecepts>{0} 会重新随机化你已编辑的任何戒律。\n\n你希望继续吗？</ChangesRandomizePrecepts>
+  <ChangesRemovePrecepts>以下戒律与此新的模因选择不兼容，将被移除：\n\n{0}\n\n你希望继续吗？</ChangesRemovePrecepts>
+  
+  <RoomRequirements>房间要求</RoomRequirements>
+  <ConfirmChangeMemesForFluidIdeo>你正在加载的理念拥有与新的流动理念不兼容的模因，其模因需要重新选择（流动理念只能以低影响模因开局）。</ConfirmChangeMemesForFluidIdeo>
+  <ConfirmIncompatibleMemes>以下模因不兼容</ConfirmIncompatibleMemes>
+  <ConfirmChangeMemesForFluidIdeoContinue>你希望继续吗？</ConfirmChangeMemesForFluidIdeoContinue>
+
+  <Role>职位</Role>
+  <ChooseRole>指定职位</ChooseRole>
+  <ChooseNewRole>选择新职位</ChooseNewRole>
+  <NoRoleAssigned>未指定职位</NoRoleAssigned>
+  <ChildNoRoleAssigned>儿童无法担任职位</ChildNoRoleAssigned>
+  <RemoveRole>移除 {0} 职位</RemoveRole>
+  <ChooseRoleConfirmAssign>你即将将 {ROLE_labelDef} 职位指派给 {PAWN_labelShort}。</ChooseRoleConfirmAssign>
+  <ChooseRoleConfirmAssignPostfix>你确定吗？</ChooseRoleConfirmAssignPostfix>
+  <ChooseRoleConfirmAssignReplace>{PAWN_labelShort} 当前担任此职位，失去它将使 {PAWN_objective} 不满。</ChooseRoleConfirmAssignReplace>
+  <ChooseRoleConfirmAssignHasOtherRole>{PAWN_labelShort} 当前担任 {ROLE_label} 职位，失去它将使 {PAWN_objective} 不满。</ChooseRoleConfirmAssignHasOtherRole>
+  <ChooseRoleConfirmAssignReplaceLeader>领袖只能有一位。这将解除 {PAWN_labelShort} 的 {OTHERROLE_labelDef} 职位，使 {PAWN_objective} 不满。</ChooseRoleConfirmAssignReplaceLeader>
+  <ChooseRoleConfirmUnassign>你即将解除 {PAWN_labelShort} 的 {ROLE_labelIndef} 职位。这会使 {PAWN_objective} 不满。</ChooseRoleConfirmUnassign>
+  <ChooseRoleListAbilities>{PAWN_labelShort} 将获得以下能力</ChooseRoleListAbilities>
+  <ChooseRoleListApparelDemands>{ROLE_label} 职位要求以下服装</ChooseRoleListApparelDemands>
+  <ChooseRoleListWorkTypeRestrictions>{PAWN_labelShort} 将拒绝从事这些工作类型</ChooseRoleListWorkTypeRestrictions>
+  <ChooseRoleHint>在你指定职位之前，有时等到殖民地更加稳固会更好。</ChooseRoleHint>
+  <UnlockedByMeme>解锁自</UnlockedByMeme>
+  <Origin>来源</Origin>
+  <MemeUnlocksRoles>解锁的职位</MemeUnlocksRoles>
+  <MemeUnlocksRituals>解锁的仪式</MemeUnlocksRituals>
+  <ChooseRoleRequiredWorkTagsDisabled>警告：{PAWN_nameDef} 无法从事 {ROLE_label} 职位所需的工作。若你选择将此职位给予 {PAWN_objective}，{PAWN_pronoun} 可能无法使用与 {ROLE_label} 相关的能力。缺失的工作类型为</ChooseRoleRequiredWorkTagsDisabled>
+  <YourLeaderTradeBonus>领袖加成</YourLeaderTradeBonus>
+  <CannotNotAddRoleApparelDueToMeme>模因 {MEME} 阻止向职位添加服装要求。</CannotNotAddRoleApparelDueToMeme>
+  <CannotBeWornWith>无法与 {0_label} 同时穿戴</CannotBeWornWith>
+
+  <AbilityIdeoConvertBreakdownLabel>确信度降低</AbilityIdeoConvertBreakdownLabel>
+  <AbilityIdeoConvertBreakdownUsingAbility>使用 {ABILITY} 能力</AbilityIdeoConvertBreakdownUsingAbility>
+  <AbilityIdeoConvertBreakdownConversionPower>{PAWN_labelShort} 的转化力</AbilityIdeoConvertBreakdownConversionPower>
+  <AbilityIdeoConvertBreakdownIdeoCertaintyReduction>{PAWN_labelShort} 来自 {IDEO_name} 的确信度损失系数</AbilityIdeoConvertBreakdownIdeoCertaintyReduction>
+  <AbilityIdeoConvertBreakdownRole>{PAWN_labelShort} 是 {ROLE_labelDef}</AbilityIdeoConvertBreakdownRole>
+  <AbilityIdeoConvertBreakdownTrait>特性 {TRAIT}</AbilityIdeoConvertBreakdownTrait>
+  <AbilityIdeoConvertBreakdownPercept>戒律 {PRECEPT}</AbilityIdeoConvertBreakdownPercept>
+  <AbilityIdeoConvertBreakdownRelic>地图上安装了 {RELICCOUNT} 件圣物</AbilityIdeoConvertBreakdownRelic>
+  <AbilityIdeoConvertBreakdownSocialSkill>{PAWN_labelShort} 的社交技能</AbilityIdeoConvertBreakdownSocialSkill>
+  <AbilityIdeoConvertBreakdownOpinion>{RECIPIENT_labelShort} 对 {INITIATOR_labelShort} 的看法</AbilityIdeoConvertBreakdownOpinion>
+  <AbilityIdeoConvertBreakdownPawnIdeo>{PAWN_nameDef} 的理念</AbilityIdeoConvertBreakdownPawnIdeo>
+  <AbilityIdeoConvertBreakdownMemeVsTrait>{MEME} 与 {TRAIT} 特性</AbilityIdeoConvertBreakdownMemeVsTrait>
+
+  <AbilityCantApplyAlreadyCounselled>{PAWN_labelShort} 最近已接受过辅导。</AbilityCantApplyAlreadyCounselled>
+
+  <ReformIdeo>改革…</ReformIdeo>
+  <ReformIdeoligion>改革理念</ReformIdeoligion>
+  <ReformIdeoligionDesc>通过更改结构、模因或风格来改革你的理念。</ReformIdeoligionDesc>
+  <ReformIdeoChangeStyles>更改风格</ReformIdeoChangeStyles>
+  <ReformIdeoAddOrRemoveMeme>添加或移除模因</ReformIdeoAddOrRemoveMeme>
+  <ReformIdeoAddMeme>添加模因</ReformIdeoAddMeme>
+  <ReformIdeoChooseOneChange>选择一项</ReformIdeoChooseOneChange>
+  <ReformIdeoChangeStructure>更改结构</ReformIdeoChangeStructure>
+  <ReformIdeoChangeAny>更改以下任意项</ReformIdeoChangeAny>
+  <ReformIdeoRelicHuntQuestEnd>改革此理念后，圣物 {0} 将不再被你的殖民者崇敬。由于任务“{0}”正在寻找此圣物，它将被停用。</ReformIdeoRelicHuntQuestEnd>
+  <ReformIdeoCancelRituals>仪式 {0} 正在进行中，将被取消。</ReformIdeoCancelRituals>
+  <ReformIdeoContinue>你希望继续吗？</ReformIdeoContinue>
+
+  <!-- Slavery -->
+  <CannotAssignBedToSlave>奴隶</CannotAssignBedToSlave>
+  <CannotAssignBedToColonist>殖民者</CannotAssignBedToColonist>
+  <AnySlave>任意奴隶</AnySlave>
+  <NegotiatorWillNotTradeSlaves>{0_nameDef} 根据 {0_possessive} 的信仰拒绝将人卖为奴隶。</NegotiatorWillNotTradeSlaves>
+  <NegotiatorWillNotTradeSlavesTip>由于 {0_nameDef} 对 {1} 的信仰，谈判者不会将人卖为奴隶。\n\n请注意，{0_nameDef} 愿意赎回 {0_possessive} 自己派系的人，但不愿意将人卖给不同派系。</NegotiatorWillNotTradeSlavesTip>
+
+  <LastHumanMeat>上次食用人肉</LastHumanMeat>
+  <LastHumanMeatDesc>由于 {PAWN_possessive} 对 {IDEO_name} 的信仰，若 {PAWN_nameDef} 超过 {DURATION} 天未食用人肉，{PAWN_pronoun} 将会不满。</LastHumanMeatDesc>
+
+  <ExectueNeutralFactionSlave>处决 {PAWN_labelShort} 会对与 {FACTION_name} 的关系产生负面影响。</ExectueNeutralFactionSlave>
+
+  <CaravanMustHaveAtLeastOneNonSlaveColonist>你必须至少指派一名能行走的非奴隶殖民者。</CaravanMustHaveAtLeastOneNonSlaveColonist>
+  <SourceCaravanMustHaveAtLeastOneNonSlaveColonist>你必须至少留下一名能行走的非奴隶殖民者。</SourceCaravanMustHaveAtLeastOneNonSlaveColonist>
+
+  <!-- Style -->
+  <StylePawn>风格</StylePawn>
+  <Hair>发型</Hair>
+  <Beard>胡子</Beard>
+  <TattooFace>面部纹身</TattooFace>
+  <TattooBody>身体纹身</TattooBody>
+  <ApparelColor>服装颜色</ApparelColor>
+  <HairColor>发色</HairColor>
+  <ShowHeadgear>显示头部装备</ShowHeadgear>
+  <ShowApparel>显示服装</ShowApparel>
+  <PawnUnhappyWithStyleItems>{PAWN_nameDef} 会对以下内容不满</PawnUnhappyWithStyleItems>
+  <StyleCategoryDescription>风格类别会影响 {IDEO_memberNamePlural} 制作的某些建筑、服装和武器的外观。若多个类别影响同一物件，则最左侧的适用。</StyleCategoryDescription>
+  <StyleCategoryDescriptionAbstract>风格类别会影响你的殖民地制作的某些建筑、服装和武器的外观。若多个类别影响同一物件，则最左侧的适用。</StyleCategoryDescriptionAbstract>
+  <StyleCategoryDescStyleDominance>若 {IDEO_memberNamePlural} 注意到符合此风格的建筑、地板和艺术品，他们会高兴。</StyleCategoryDescStyleDominance>
+  <StyleCategoryDescStyleDominanceAbstract>若理念成员注意到符合此风格的建筑、地板和艺术品，他们会高兴。</StyleCategoryDescStyleDominanceAbstract>
+  <StyleCategoryDetails>{0} 风格类别影响</StyleCategoryDetails>
+  <OverriddenByStyle>被 {0} 覆盖</OverriddenByStyle>
+  <IdeoMakesBuildingBuildable>新可建造物</IdeoMakesBuildingBuildable>
+  <NoneUsableForPawn>没有可供 {PAWN_nameDef} 使用的</NoneUsableForPawn> 
+  <HairAndBeards>发型与胡子</HairAndBeards>
+  <HairAndBeardsDesc>这些设置决定了每种风格在此理念成员身上出现的频率。</HairAndBeardsDesc>
+  <Tattoos>纹身</Tattoos>
+  <TattoosDesc>这些设置决定了每种纹身在此理念成员身上出现的频率。</TattoosDesc>
+  <StyleItemFrequencyNever>从不</StyleItemFrequencyNever>
+  <StyleItemFrequencyRare>罕见</StyleItemFrequencyRare>
+  <StyleItemFrequencyUncommon>少见</StyleItemFrequencyUncommon>
+  <StyleItemFrequencyNormal>普通</StyleItemFrequencyNormal>
+  <StyleItemFrequencyCommon>常见</StyleItemFrequencyCommon>
+  <StyleItemFrequencyFrequent>频繁</StyleItemFrequencyFrequent>
+  <EditAppearanceItems>编辑外观</EditAppearanceItems>
+  <NumAvailable>{0} 使用中</NumAvailable>
+  <ResetButtonDesc>将所有风格项目重置为默认值。</ResetButtonDesc>
+
+  <!-- Ancient complex mission -->
+  <SendShuttleAnyway>仍要派出穿梭机</SendShuttleAnyway>
+  <ReLoadShuttle>重新装载穿梭机</ReLoadShuttle>
+
+  <!-- Medical settings -->
+  <MedGroupSlaves>奴隶</MedGroupSlaves>
+  <MedGroupSlavesDesc>你殖民地的被奴役成员。</MedGroupSlavesDesc>
+
+  <!-- Dryad upgrades -->
+  <ChangeMode>选择树精种类</ChangeMode>
+  <RequiredMemes>所需模因</RequiredMemes>
+  <RequiredStage>所需种类</RequiredStage>
+  <MissingRequiredMemes>缺少所需模因</MissingRequiredMemes>
+  <MissingRequiredCaste>缺少所需种类</MissingRequiredCaste>
+  <AlreadySelected>已选择</AlreadySelected>
+  <ChooseProductionModeInitialDesc>在这里你可以选择此 {TREE_label} 将产生哪种树精种类。\n\n树精将从树底生长的荚中钻出。树精数量上限取决于 {TREE_definite} 与关联者之间的连接强度。</ChooseProductionModeInitialDesc>
+
+  <!-- Archonexus -->
+  <ChooseColonistsForIdeoTitle>选择谁转化为你的理念</ChooseColonistsForIdeoTitle>
+  <ChooseColonistsForIdeoDesc>在建立新殖民地时，你可以将人们转化为你的主要理念。</ChooseColonistsForIdeoDesc>
+  <ChooseThingsForNewColonyTitle>新殖民地</ChooseThingsForNewColonyTitle>
+  <ChooseThingsForNewColonyDesc>选择将哪些殖民者、动物和圣物带到新殖民地。</ChooseThingsForNewColonyDesc>
+  <ChooseThingsDesc>最多选择 {0} 个 {1}。</ChooseThingsDesc>
+  <ChoosePeopleDesc>最多选择 {0} 人。</ChoosePeopleDesc>
+  <ChooseOnlySlavesInfo>若你只选择奴隶，你将在下一个殖民地中把他们作为殖民者来玩。</ChooseOnlySlavesInfo>
+  <ConfirmDecisionsTitle>确认决定</ConfirmDecisionsTitle>
+  <ShipEscapeWillEndDescription>由 AI（*Name）Charlon Whitestone（/Name）报告的休眠星舰将在新殖民地建立前飞走。届时将不再能通过前往这艘船逃离本星球。</ShipEscapeWillEndDescription>
+  <ArchonexusRelicNotChosen>没有选择任何圣物带到新殖民地。</ArchonexusRelicNotChosen>
+  <ArchonexusItemsNotChosen>在可能的 {1} 件物品中选择了 {0} 件带到新殖民地。</ArchonexusItemsNotChosen>
+  <RemoveEquippedRelicsDescription>殖民地的买家只允许你带走一件圣物。任何其他圣物都将被留下（即使被殖民者装备着），包括：</RemoveEquippedRelicsDescription>
+  <WantToProceed>你想继续吗？过了这一步就无法回头了。</WantToProceed>
+  <ConvertToPlayerIdeoligion>转化</ConvertToPlayerIdeoligion>
+  <RevertToPreviousIdeoligion>还原</RevertToPreviousIdeoligion>
+  <ExistingFollowerOfPlayerIdeoligion>现有信徒</ExistingFollowerOfPlayerIdeoligion>
+  <AbandonArchotechStructuresWarningDialog>你正要放弃一个包含你尚未完全研究的远古科技结构的据点。\n\n你之后可以重新在此定居，但你的殖民地将被清除。</AbandonArchotechStructuresWarningDialog>
+  <ItemQuantityTooltip>可带到新殖民地的 {0} 数量。\n\n允许的最大数量为：{1}</ItemQuantityTooltip>
+  <SoldColonyDescription>你的殖民地已被出售。买家已准备好让你选择下一个降落地。</SoldColonyDescription>
+
+  <ConfirmHackEnemyTerminal>骇入此 {0} 会惊动敌人并使他们发动攻击。你真的想骇入 {0} 吗？</ConfirmHackEnemyTerminal>
+
+  <RelicsSection>圣物</RelicsSection>
+
+  <!-- Food restrictions -->
+  <FoodRestrictionVegetarian>素食</FoodRestrictionVegetarian>
+  <FoodRestrictionCarnivore>肉食</FoodRestrictionCarnivore>
+  <FoodRestrictionCannibal>食人</FoodRestrictionCannibal>
+  <FoodRestrictionInsectMeat>虫肉</FoodRestrictionInsectMeat>
+
+  <StylesInUse>使用中的风格</StylesInUse>
+  <StyleCategoryAddDesc>添加一个风格。</StyleCategoryAddDesc>
+</LanguageData>

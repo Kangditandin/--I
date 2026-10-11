@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AgonyPulse.label>痛苦脉冲</AgonyPulse.label>
+  <AgonyPulse.description>从目标位置发出的一阵灵能痛苦脉冲。</AgonyPulse.description>
+  <ConsumeLeap_Devourer.label>吞噬跳跃</ConsumeLeap_Devourer.label>
+  <ConsumeLeap_Devourer.description>跳向目标并开始消化它。</ConsumeLeap_Devourer.description>
+  <ConsumeLeap_Devourer.verbProperties.label>吞噬跳跃</ConsumeLeap_Devourer.verbProperties.label>
+  <CorrosiveSpray.label>腐蚀喷吐</CorrosiveSpray.label>
+  <CorrosiveSpray.description>使用腐蚀心短距离喷射酸液。心脏将腐蚀性液体泵过手术植入的导管，让食尸鬼能以高速从口中喷出。</CorrosiveSpray.description>
+  <EntitySkip.label>实体跃迁</EntitySkip.label>
+  <EntitySkip.description>传送至目标目的地。</EntitySkip.description>
+  <FleshmelterBolt.label>熔肉电流矢</FleshmelterBolt.label>
+  <FleshmelterBolt.description>发射一枚大型能量矢，产生高温爆炸。</FleshmelterBolt.description>
+  <GhoulFrenzy.label>食尸鬼狂乱</GhoulFrenzy.label>
+  <GhoulFrenzy.description>使用肾上腺心以应激激素与液态能量充满血液，让食尸鬼在短时间内以惊人速度移动与攻击。</GhoulFrenzy.description>
+  <Heatspikes.label>热刺</Heatspikes.label>
+  <Heatspikes.description>发射一阵低精度能量矢。</Heatspikes.description>
+  <MetalbloodInjection.label>金属血注射</MetalbloodInjection.label>
+  <MetalbloodInjection.description>使用金属血心将金属血血清释放到血液中，在短时间内减少受到的伤害。</MetalbloodInjection.description>
+  <PsychicSlaughter.label>灵能屠戮</PsychicSlaughter.label>
+  <PsychicSlaughter.description>使用黑暗灵能力量诱发血肉的混乱重构。这会在数秒内杀死一只血肉生物，并将其身体转化为一堆扭曲的血肉。</PsychicSlaughter.description>
+  <ReleaseDeadlifeDust.label>释放死生尘</ReleaseDeadlifeDust.label>
+  <ReleaseDeadlifeDust.description>释放一团尘埃状物质，它会沉降在附近的尸体上并将其复活为行尸。行尸只会攻击你的敌人。死生尘由纳米级远古微粒构成，它们能在细胞层面穿透并复活死组织。</ReleaseDeadlifeDust.description>
+  <ReleaseDeadlifeDust.verbProperties.label>释放死生尘</ReleaseDeadlifeDust.verbProperties.label>
+  <RevenantInvisibility.label>亡魂隐形</RevenantInvisibility.label>
+  <RevenantInvisibility.description>使用亡魂脊椎暂时隐形。该义体操控附近生物的视觉中枢，让使用者不被察觉地通过。</RevenantInvisibility.description>
+  <ShapeFlesh.label>塑造血肉</ShapeFlesh.label>
+  <ShapeFlesh.description>引导黑暗远古科技将一具尸体重构为一只骇人的肉兽。肉兽会敌视所有人类，包括创造它的人。</ShapeFlesh.description>
+  <SpikeLaunch_Fingerspike.label>尖刺发射</SpikeLaunch_Fingerspike.label>
+  <SpikeLaunch_Fingerspike.description>向目标发射一根骨刺。</SpikeLaunch_Fingerspike.description>
+  <SpikeLaunch_Toughspike.label>尖刺发射</SpikeLaunch_Toughspike.label>
+  <SpikeLaunch_Toughspike.description>向目标发射一根骨刺。</SpikeLaunch_Toughspike.description>
+  <SpineLaunch_Gorehulk.label>脊刺发射</SpineLaunch_Gorehulk.label>
+  <SpineLaunch_Gorehulk.description>向目标发射一根角质脊刺以造成伤害。</SpineLaunch_Gorehulk.description>
+  <TransmuteSteel.label>转化钢</TransmuteSteel.label>
+  <TransmuteSteel.description>在原子层面重构钢，将其变为随机的宝贵材料。可以以钢、钢渣块、钢制建筑或钢制物品为目标。</TransmuteSteel.description>
+  <UnnaturalCorpseSkip.label>实体跃迁</UnnaturalCorpseSkip.label>
+  <UnnaturalCorpseSkip.description>传送至目标目的地。</UnnaturalCorpseSkip.description>
+  <UnnaturalHealing.label>非自然治疗</UnnaturalHealing.label>
+  <UnnaturalHealing.description>使用黑暗灵能影响治疗某人。该过程会止血、恢复失血，甚至能治愈严重伤害。不过，它也可能带来意料之外的副作用。</UnnaturalHealing.description>
+  <VoidTerror.label>虚空恐惧</VoidTerror.label>
+  <VoidTerror.description>以灵能方式诱发恐怖幻觉，使某人惊恐逃窜。</VoidTerror.description>
+  <HellcatBurner.label>地狱猫喷火器</HellcatBurner.label>
+  <HellcatBurner.description>消耗一具加压的生物铁素装药，制造一阵火焰爆发。</HellcatBurner.description>
+  <IncineratorBurner.label>焚化器喷火器</IncineratorBurner.label>
+  <IncineratorBurner.description>消耗一具加压的生物铁素装药，制造一大片锥形火焰。</IncineratorBurner.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <TheAnomaly.scenario.summary>三名研究员与一只食尸鬼调查一座远古巨石碑。</TheAnomaly.scenario.summary>
+  <TheAnomaly.label>异常</TheAnomaly.label>
+  <TheAnomaly.description>你的研究远征队终于抵达了异常信号的源头：一颗遥远星球上的远古科技巨石碑。当你从轨道上勘测这座构造物时，扫描仪的音讯传来含混的音节，一遍遍重复着你自己名字。你的同伴尖叫起来，她的血肉开始流动、重塑。一道刺目的能量束自星球射起，将你的研究船撕成碎片。你惊扰了某种古老而非人的东西。\n\n注意：这是一个困难的情景，不推荐新玩家使用。</TheAnomaly.description>
+  <TheAnomaly.scenario.description>你的研究远征队终于抵达了异常信号的源头：一颗遥远星球上的远古科技巨石碑。当你从轨道上勘测这座构造物时，扫描仪的音讯传来含混的音节，一遍遍重复着你自己名字。你的同伴尖叫起来，她的血肉开始流动、重塑。一道刺目的能量束自星球射起，将你的研究船撕成碎片。你惊扰了某种古老而非人的东西。\n\n注意：这是一个困难的情景，不推荐新玩家使用。</TheAnomaly.scenario.description>
+
+  <TheAnomaly.scenario.name>异常</TheAnomaly.scenario.name>
+  <TheAnomaly.scenario.parts.GameStartDialog.text>远古巨石碑释放了一道能量脉冲，将你的研究船撕成碎片，也让你的船员发生了变异。你们中只有少数人成功登上了逃生舱。\n\n尽管遭遇了这一挫折，你的任务还远未结束。如果你能更多地了解这座巨石碑，也许就能找到将其关闭的办法——甚至驾驭它那非人的力量。</TheAnomaly.scenario.parts.GameStartDialog.text>
+  <TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>开局时拥有一个食尸鬼和三名殖民者。</TheAnomaly.scenario.parts.ConfigurePawnsMutants.customSummary>
+
+</LanguageData>

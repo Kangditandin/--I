@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Bloodfeeders_Revered.label>受崇敬</Bloodfeeders_Revered.label>
+  <Bloodfeeders_Revered.description>噬血者应当受到崇拜。若殖民地中有噬血者，信徒会感到高兴，且不介意被吸血。</Bloodfeeders_Revered.description>
+  <Bloodfeeders_Revered.comps.0.description>噬血者</Bloodfeeders_Revered.comps.0.description>
+  <Bloodfeeders_Revered.comps.2.description>受崇敬的噬血者</Bloodfeeders_Revered.comps.2.description>
+  <Bloodfeeders_Reviled.label>被憎恶</Bloodfeeders_Reviled.label>
+  <Bloodfeeders_Reviled.description>任何靠饮血生存的人都是怪物。</Bloodfeeders_Reviled.description>
+  <Bloodfeeders_Reviled.comps.0.description>传播噬血者基因</Bloodfeeders_Reviled.comps.0.description>
+  <Bloodfeeders_Reviled.comps.1.description>噬血者</Bloodfeeders_Reviled.comps.1.description>
+  <Bloodfeeders_Reviled.comps.3.description>噬血者的自我憎恨</Bloodfeeders_Reviled.comps.3.description>
+  <Bloodfeeders_Reviled.comps.4.description>噬血者在我们之中</Bloodfeeders_Reviled.comps.4.description>
+  <ChildLabor_Disapproved.label>不赞成</ChildLabor_Disapproved.label>
+  <ChildLabor_Disapproved.description>童年是神圣的。我们应当让孩子做孩子。</ChildLabor_Disapproved.description>
+  <ChildLabor_Disapproved.comps.0.description>儿童被分配工作</ChildLabor_Disapproved.comps.0.description>
+  <ChildLabor_Encouraged.label>鼓励</ChildLabor_Encouraged.label>
+  <ChildLabor_Encouraged.description>儿童通过工作塑造品格。每个人都作贡献很重要。</ChildLabor_Encouraged.description>
+  <ChildLabor_Encouraged.comps.0.description>儿童被分配娱乐</ChildLabor_Encouraged.comps.0.description>
+  <GrowthVat_Essential.label>必需</GrowthVat_Essential.label>
+  <GrowthVat_Essential.description>我们拥有更安全分娩与更快童年的技术。信徒在成长舱中会发育更快，但若他们的孩子不在舱中会不开心。</GrowthVat_Essential.description>
+  <GrowthVat_Essential.comps.0.description>自然怀孕</GrowthVat_Essential.comps.0.description>
+  <GrowthVat_Essential.comps.1.description>孩子不在成长舱中</GrowthVat_Essential.comps.1.description>
+  <GrowthVat_Prohibited.label>禁止</GrowthVat_Prohibited.label>
+  <GrowthVat_Prohibited.description>成长舱夺走了孩子们的童年。</GrowthVat_Prohibited.description>
+  <GrowthVat_Prohibited.comps.0.description>建造成长舱</GrowthVat_Prohibited.comps.0.description>
+  <GrowthVat_Prohibited.comps.1.description>殖民地中的成长舱</GrowthVat_Prohibited.comps.1.description>
+  <GrowthVat_Prohibited.comps.2.description>我的孩子在成长舱中</GrowthVat_Prohibited.comps.2.description>
+  <GrowthVat_Prohibited.comps.3.description>孩子不在成长舱中</GrowthVat_Prohibited.comps.3.description>
+  <MechanoidLabor_Enhanced.label>强化</MechanoidLabor_Enhanced.label>
+  <MechanoidLabor_Enhanced.description>既然我们有了机器，为什么还要工作？</MechanoidLabor_Enhanced.description>
+  <ChildBirth.label>分娩</ChildBirth.label>
+  <ChildBirth.description>聚集起来帮助一名孕妇分娩。医生会协助接生。婴儿与母亲的健康取决于母亲年龄、医生的医疗能力以及环境的清洁与设备完善程度等因素。</ChildBirth.description>
+  <PreferredXenotype.label>偏好</PreferredXenotype.label>
+  <PreferredXenotype.description>信徒认为该异种拥有高于其他的道德或精神地位。若他们的殖民地只有偏好异种，他们会感到高兴。然而，拥有任何偏好异种就意味着所有其他异种都被视为不被喜欢，信徒与它们同住会不开心。</PreferredXenotype.description>
+  <PreferredXenotype.comps.0.description>成为非偏好异种</PreferredXenotype.comps.0.description>
+
+</LanguageData>

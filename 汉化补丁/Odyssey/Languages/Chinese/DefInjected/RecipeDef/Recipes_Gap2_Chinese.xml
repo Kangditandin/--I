@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <InstallVacskinGland.label>安装真空皮腺</InstallVacskinGland.label>
+  <InstallVacskinGland.description>在目标身上安装一个真空皮腺。该腺体会释放一种蜡状物质，在皮肤上形成隔热屏障，防止真空灼伤，但会限制行动。它还会调节血氧水平，使人在太空真空中存活更久。</InstallVacskinGland.description>
+  <Make_StoneBlocksVacstone.label>切割真空石砖</Make_StoneBlocksVacstone.label>
+  <Make_StoneBlocksVacstone.description>把真空石切割成可用的砖块。</Make_StoneBlocksVacstone.description>
+  <RemoveVacskinGland.label>移除真空皮腺</RemoveVacskinGland.label>
+  <RemoveVacskinGland.description>移除目标身上的真空皮腺。</RemoveVacskinGland.description>
+  
+</LanguageData>

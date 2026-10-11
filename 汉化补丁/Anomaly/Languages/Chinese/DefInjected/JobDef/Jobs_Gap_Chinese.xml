@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ActivateMonolith.reportString>正在激活TargetA。</ActivateMonolith.reportString>
+  <ActivityDormant.reportString>低活跃休眠</ActivityDormant.reportString>
+  <ActivitySuppression.reportString>正在压制TargetC。</ActivitySuppression.reportString>
+  <BuildCubeSculpture.reportString>正在建造{0}雕塑。</BuildCubeSculpture.reportString>
+  <CarryToEntityHolder.reportString>正在把TargetB运往TargetA。</CarryToEntityHolder.reportString>
+  <CarryToEntityHolderAlreadyHolding.reportString>正在把TargetB运往TargetA。</CarryToEntityHolderAlreadyHolding.reportString>
+  <ChimeraSwitchToAttackMode.reportString>正在攻击。</ChimeraSwitchToAttackMode.reportString>
+  <EntityGoPassive.reportString>正在进入休眠</EntityGoPassive.reportString>
+  <ExecuteEntity.reportString>正在处决TargetA。</ExecuteEntity.reportString>
+  <ExtractBioferrite.reportString>正在从TargetA提取生物铁素。</ExtractBioferrite.reportString>
+  <FleeAndCowerShort.reportString>正在逃跑。</FleeAndCowerShort.reportString>
+  <GoldenCubePlay.reportString>正在把玩金色立方体。</GoldenCubePlay.reportString>
+  <HateChanting.reportString>正在仇恨吟唱。</HateChanting.reportString>
+  <InvestigateMonolith.reportString>正在调查TargetA。</InvestigateMonolith.reportString>
+  <NociosphereDepart.reportString>正在离开</NociosphereDepart.reportString>
+  <PrisonerInterrogateIdentity.reportString>正在审问TargetA。</PrisonerInterrogateIdentity.reportString>
+  <ReleaseEntity.reportString>正在释放TargetB</ReleaseEntity.reportString>
+  <RevenantAttack.reportString>正在潜近TargetA。</RevenantAttack.reportString>
+  <RevenantEscape.reportString>正在逃离</RevenantEscape.reportString>
+  <RevenantSleep.reportString>正在冬眠</RevenantSleep.reportString>
+  <RevenantWander.reportString>正在游荡</RevenantWander.reportString>
+  <SmashThing.reportString>正在砸毁TargetA。</SmashThing.reportString>
+  <TakeBioferriteOutOfHarvester.reportString>正在从TargetA取出生物铁素。</TakeBioferriteOutOfHarvester.reportString>
+  <TalkCreepJoiner.reportString>正在与TargetA交谈。</TalkCreepJoiner.reportString>
+  <TendEntity.reportString>正在照料TargetA。</TendEntity.reportString>
+  <TransferBetweenEntityHolders.reportString>正在把TargetC转移到另一个收容点。</TransferBetweenEntityHolders.reportString>
+  <UnnaturalCorpseAttack.reportString>正在追赶TargetA。</UnnaturalCorpseAttack.reportString>
+  <UnnaturalCorpseSkip.reportString>正在追赶TargetA。</UnnaturalCorpseSkip.reportString>
+  
+</LanguageData>

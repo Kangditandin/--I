@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Blindhealer.label>盲眼治疗者</Blindhealer.label>
+  <CreepDrifter.label>漂泊者</CreepDrifter.label>
+  <CultEscapee.label>教团逃亡者</CultEscapee.label>
+  <DarkScholar.label>黑暗学者</DarkScholar.label>
+  <DealMaker.label>交易者</DealMaker.label>
+  <LeatheryStranger.label>皮革般的外乡人</LeatheryStranger.label>
+  <LoneGenius.label>孤独天才</LoneGenius.label>
+  <TimelessOne.label>永恒者</TimelessOne.label>
+  <Chimera.label>嵌合体</Chimera.label>
+  <Devourer.label>吞噬者</Devourer.label>
+  <FleshmassNucleus.label>肉团核心</FleshmassNucleus.label>
+  <Gorehulk.label>巨魔</Gorehulk.label>
+  <Metalhorror.label>金属恐惧</Metalhorror.label>
+  <Nociosphere.label>夜球</Nociosphere.label>
+  <Noctol.label>夜虫</Noctol.label>
+  <Revenant.label>亡魂</Revenant.label>
+  <Sightstealer.label>窃视者</Sightstealer.label>
+  <Bulbfreak.label>球怪</Bulbfreak.label>
+  <Dreadmeld.label>惧物体</Dreadmeld.label>
+  <Fingerspike.label>指刺</Fingerspike.label>
+  <Toughspike.label>硬刺</Toughspike.label>
+  <Trispike.label>三刺</Trispike.label>
+  <Horaxian_Gunner.label>低等仆从枪手</Horaxian_Gunner.label>
+  <Horaxian_Highthrall.label>高等仆从</Horaxian_Highthrall.label>
+  <Horaxian_Underthrall.label>低等仆从步兵</Horaxian_Underthrall.label>
+  <Ghoul.label>食尸鬼</Ghoul.label>
+  <ShamblerGorehulk.label>巨魔</ShamblerGorehulk.label>
+  <ShamblerSoldier.label>行尸士兵</ShamblerSoldier.label>
+  <ShamblerSwarmer.label>行尸蜂拥者</ShamblerSwarmer.label>
+  <Researcher.label>研究员</Researcher.label>
+
+</LanguageData>

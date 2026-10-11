@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ColdContainmentBonus.label>寒冷收容加成</ColdContainmentBonus.label>
+  <ColdContainmentBonus.description>若将该实体关押在极为寒冷的房间中，其逃脱的可能性会降低。</ColdContainmentBonus.description>
+  <ContainmentStrength.label>收容强度</ContainmentStrength.label>
+  <ContainmentStrength.description>此处能多稳固地收容实体。更强的墙壁与门、更充足的光照、房间内更少的其他实体以及专用收容设备都能提升此数值。某些实体在低温下更易收容。</ContainmentStrength.description>
+  <MinimumContainmentStrength.label>最低收容强度</MinimumContainmentStrength.label>
+  <MinimumContainmentStrength.description>妥善收容该实体所需的收容强度。若某实体所处收容室的收容强度低于其最低收容强度，该实体将有极高几率逃脱。</MinimumContainmentStrength.description>
+  <ActivitySuppressionRate.label>活动抑制速度</ActivitySuppressionRate.label>
+  <ActivitySuppressionRate.description>该人员抑制非自然实体的速度。速度越高，抑制每个实体所需的时间越短。</ActivitySuppressionRate.description>
+  <EntityStudyRate.label>实体研究速率</EntityStudyRate.label>
+  <EntityStudyRate.description>该人员通过研究非自然实体产生知识的速率。</EntityStudyRate.description>
+  <StudyEfficiency.label>研究效率</StudyEfficiency.label>
+  <StudyEfficiency.description>人员在研究非自然实体时所获知识的倍率。</StudyEfficiency.description>
+  <PsychicRitualQuality.label>灵能仪式质量</PsychicRitualQuality.label>
+  <PsychicRitualQuality.description>附近建筑对在此处举行的灵能仪式质量的提升程度。</PsychicRitualQuality.description>
+  <PsychicRitualQualityOffset.label>灵能仪式质量偏移</PsychicRitualQualityOffset.label>
+  <PsychicRitualQualityOffset.description>此人员参与时对灵能仪式质量的偏移量。总质量偏移量会除以参与者总数。</PsychicRitualQualityOffset.description>
+
+</LanguageData>

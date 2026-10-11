@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AllowCorpsesMechEnemy.label>允许敌方机械体尸体</AllowCorpsesMechEnemy.label>
+  <AllowCorpsesMechEnemy.description>允许收录敌方机械体的尸体。</AllowCorpsesMechEnemy.description>
+  <AllowCorpsesMechFriendly.label>允许友方机械体尸体</AllowCorpsesMechFriendly.label>
+  <AllowCorpsesMechFriendly.description>允许收录友方机械体的尸体。</AllowCorpsesMechFriendly.description>
+
+</LanguageData>

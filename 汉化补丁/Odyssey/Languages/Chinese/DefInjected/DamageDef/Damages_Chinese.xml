@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <PorcupineBite.label>咬</PorcupineBite.label>
+  <PorcupineScratch.label>抓挠</PorcupineScratch.label>
+  <MiningBomb.label>炸弹</MiningBomb.label>
+  <VacuumBurn.label>真空灼伤</VacuumBurn.label>
+  <BeamBypassShields.label>光束</BeamBypassShields.label>
+  <Bullet_TraitIncendiary.label>子弹</Bullet_TraitIncendiary.label>
+  <Bullet_TraitTox.label>子弹</Bullet_TraitTox.label>
+
+</LanguageData>

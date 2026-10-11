@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ActivitySuppression.label>抑制实体活动</ActivitySuppression.label>
+  <DoBillsBioferriteShaper.label>在生物铁素塑形台制作物品</DoBillsBioferriteShaper.label>
+  <DoBillsSerumCentrifuge.label>在血清实验室制作物品</DoBillsSerumCentrifuge.label>
+  <DoctorTendToEntities.label>照料实体</DoctorTendToEntities.label>
+  <ExecuteEntity.label>处决实体</ExecuteEntity.label>
+  <ExtractBioferrite.label>从实体提取生物铁素</ExtractBioferrite.label>
+  <InterrogatePrisoner.label>审问身份</InterrogatePrisoner.label>
+  <ReleaseEntity.label>释放实体</ReleaseEntity.label>
+  <StudyInteract.label>研究</StudyInteract.label>
+  <TakeBioferriteOutOfHarvester.label>从生物铁素采集器取出生物铁素</TakeBioferriteOutOfHarvester.label>
+  <TakeEntityToHoldingPlatform.label>捕获实体</TakeEntityToHoldingPlatform.label>
+  <TransferEntity.label>转移实体</TransferEntity.label>
+
+</LanguageData>

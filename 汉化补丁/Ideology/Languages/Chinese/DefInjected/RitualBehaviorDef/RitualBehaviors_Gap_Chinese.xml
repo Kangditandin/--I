@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <DateRitual.label>演讲者</DateRitual.label>
+  <LeaderSpeech.letterText>{SPEAKER_labelShort}正在举行{RITUAL_labelIndef}。\n      \n如果一切顺利，听众会受到鼓舞，并对{SPEAKER_labelShort}产生敬意。若进行得不顺利，这场演讲会造成社交伤害。非{IDEOMEMBERS}的正面效果会减弱。</LeaderSpeech.letterText>
+  <SacrificeAnimal.label>献祭</SacrificeAnimal.label>
+  <SacrificePrisoner.label>献祭</SacrificePrisoner.label>
+  
+</LanguageData>

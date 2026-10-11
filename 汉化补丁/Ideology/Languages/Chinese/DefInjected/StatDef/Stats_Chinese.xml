@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <SlaveSuppressionOffset.label>奴隶压制度偏移</SlaveSuppressionOffset.label>
+  <SlaveSuppressionOffset.description>施加于穿戴者奴隶压制度的偏移。更高的数值能让奴隶被压制更久，更低的数值则使奴隶更常叛乱。</SlaveSuppressionOffset.description>
+  <TerrorSource.label>恐怖</TerrorSource.label>
+  <TerrorSource.description>该物体被看到时引发的恐怖强度。</TerrorSource.description>
+  <BiosculpterPodSpeedFactor.label>生物雕塑舱速度系数</BiosculpterPodSpeedFactor.label>
+  <BiosculpterPodSpeedFactor.description>生物雕塑舱速度的倍率。这受房间清洁度影响——更干净的房间会有更快的生物雕塑循环。</BiosculpterPodSpeedFactor.description>
+  <StyleDominance.label>风格支配</StyleDominance.label>
+  <StyleDominance.description>该物体对一个区域内整体风格支配的贡献程度。</StyleDominance.description>
+  <Terror.label>恐怖</Terror.label>
+  <Terror.description>此人正在经历的恐怖强度。</Terror.description>
+  <BiosculpterOccupantSpeed.label>生物雕塑舱内者速度</BiosculpterOccupantSpeed.label>
+  <BiosculpterOccupantSpeed.description>此人完成生物雕塑舱循环快慢的倍率。</BiosculpterOccupantSpeed.description>
+  <CertaintyLossFactor.label>全局确信丧失系数</CertaintyLossFactor.label>
+  <CertaintyLossFactor.description>当他人试图使此人背离其理念时，此人丧失确信快慢的倍率。</CertaintyLossFactor.description>
+  <ConversionPower.label>转化力</ConversionPower.label>
+  <ConversionPower.description>此人将他人的理念转化为自己理念的效果。当此人试图转化他人时，该数值会乘算对方丧失的确信量。</ConversionPower.description>
+  <MeleeDodgeChanceIndoorsDarkOffset.label>室内黑暗中近战闪避几率</MeleeDodgeChanceIndoorsDarkOffset.label>
+  <MeleeDodgeChanceIndoorsDarkOffset.description>若目标处于黑暗室内，对近战闪避几率的偏移。</MeleeDodgeChanceIndoorsDarkOffset.description>
+  <MeleeDodgeChanceIndoorsLitOffset.label>室内明亮中近战闪避几率</MeleeDodgeChanceIndoorsLitOffset.label>
+  <MeleeDodgeChanceIndoorsLitOffset.description>若目标处于明亮室内，对近战闪避几率的偏移。</MeleeDodgeChanceIndoorsLitOffset.description>
+  <MeleeDodgeChanceOutdoorsDarkOffset.label>室外夜间近战闪避几率</MeleeDodgeChanceOutdoorsDarkOffset.label>
+  <MeleeDodgeChanceOutdoorsDarkOffset.description>若目标处于夜间室外，对近战闪避几率的偏移。</MeleeDodgeChanceOutdoorsDarkOffset.description>
+  <MeleeDodgeChanceOutdoorsLitOffset.label>室外白天近战闪避几率</MeleeDodgeChanceOutdoorsLitOffset.label>
+  <MeleeDodgeChanceOutdoorsLitOffset.description>若目标处于白天室外，对近战闪避几率的偏移。</MeleeDodgeChanceOutdoorsLitOffset.description>
+  <MeleeHitChanceIndoorsDarkOffset.label>室内黑暗中近战命中几率</MeleeHitChanceIndoorsDarkOffset.label>
+  <MeleeHitChanceIndoorsDarkOffset.description>若目标处于黑暗室内，对近战命中几率的偏移。</MeleeHitChanceIndoorsDarkOffset.description>
+  <MeleeHitChanceIndoorsLitOffset.label>室内明亮中近战命中几率</MeleeHitChanceIndoorsLitOffset.label>
+  <MeleeHitChanceIndoorsLitOffset.description>若目标处于明亮室内，对近战命中几率的偏移。</MeleeHitChanceIndoorsLitOffset.description>
+  <MeleeHitChanceOutdoorsDarkOffset.label>室外夜间近战命中几率</MeleeHitChanceOutdoorsDarkOffset.label>
+  <MeleeHitChanceOutdoorsDarkOffset.description>若目标处于夜间室外，对近战命中几率的偏移。</MeleeHitChanceOutdoorsDarkOffset.description>
+  <MeleeHitChanceOutdoorsLitOffset.label>室外白天近战命中几率</MeleeHitChanceOutdoorsLitOffset.label>
+  <MeleeHitChanceOutdoorsLitOffset.description>若目标处于白天室外，对近战命中几率的偏移。</MeleeHitChanceOutdoorsLitOffset.description>
+  <ShootingAccuracyIndoorsDarkOffset.label>室内黑暗中射击精度</ShootingAccuracyIndoorsDarkOffset.label>
+  <ShootingAccuracyIndoorsDarkOffset.description>若目标处于黑暗室内，对射击精度的偏移。</ShootingAccuracyIndoorsDarkOffset.description>
+  <ShootingAccuracyIndoorsLitOffset.label>室内明亮中射击精度</ShootingAccuracyIndoorsLitOffset.label>
+  <ShootingAccuracyIndoorsLitOffset.description>若目标处于明亮室内，对射击精度的偏移。</ShootingAccuracyIndoorsLitOffset.description>
+  <ShootingAccuracyOutdoorsDarkOffset.label>室外夜间射击精度</ShootingAccuracyOutdoorsDarkOffset.label>
+  <ShootingAccuracyOutdoorsDarkOffset.description>若目标处于夜间室外，对射击精度的偏移。</ShootingAccuracyOutdoorsDarkOffset.description>
+  <ShootingAccuracyOutdoorsLitOffset.label>室外白天射击精度</ShootingAccuracyOutdoorsLitOffset.label>
+  <ShootingAccuracyOutdoorsLitOffset.description>若目标处于白天室外，对射击精度的偏移。</ShootingAccuracyOutdoorsLitOffset.description>
+  <SocialIdeoSpreadFrequencyFactor.label>理念传播几率</SocialIdeoSpreadFrequencyFactor.label>
+  <SocialIdeoSpreadFrequencyFactor.description>此人试图将他人转化为自己理念几率的倍率。</SocialIdeoSpreadFrequencyFactor.description>
+  <AnimalProductsSellImprovement.label>动物产品售价提升</AnimalProductsSellImprovement.label>
+  <AnimalProductsSellImprovement.description>当此人出售肉、皮革或毛时，价格按该百分比提升。</AnimalProductsSellImprovement.description>
+  <SlaveSuppressionFallRate.label>奴隶压制度下降速率</SlaveSuppressionFallRate.label>
+  <SlaveSuppressionFallRate.description>奴隶压制度下降的速率。</SlaveSuppressionFallRate.description>
+  <PruningSpeed.label>修剪速度</PruningSpeed.label>
+  <PruningSpeed.description>此人修剪高兰树以维持与它连接快慢的倍率。\n\n修剪更像是沉思性的灵能任务而非体力任务，因此视力等健康因素在这里并不重要。</PruningSpeed.description>
+  <SuppressionPower.label>压制力</SuppressionPower.label>
+  <SuppressionPower.description>狱警压制奴隶能力的倍率。</SuppressionPower.description>
+
+</LanguageData>

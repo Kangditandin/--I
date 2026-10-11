@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <GauranlenPodSpawn.letterLabel>高兰荚冒芽</GauranlenPodSpawn.letterLabel>
+  <GauranlenPodSpawn.letterText>附近冒出了一个高兰荚！\n\n收获它就能得到一颗高兰种子。这颗特殊的种子可用于种下雄伟的高兰树。\n\n你的殖民者可以与高兰树相连，让它们产出资源，以及为你工作或战斗的有用树精。</GauranlenPodSpawn.letterText>
+  <GiveQuest_Beggars.letterLabel>乞丐到来</GiveQuest_Beggars.letterLabel>
+  <GiveQuest_EndGame_ArchonexusVictory.letterLabel>远古枢纽胜利</GiveQuest_EndGame_ArchonexusVictory.letterLabel>
+  <GiveQuest_ReliquaryPilgrims.letterLabel>朝圣者到来</GiveQuest_ReliquaryPilgrims.letterLabel>
+  <GiveQuest_WorkSite.letterLabel>工作地点</GiveQuest_WorkSite.letterLabel>
+  <Infestation_Jelly.letterLabel>虫胶</Infestation_Jelly.letterLabel>
+  <Infestation_Jelly.letterText>巨型昆虫从地下挖掘上来，在地表留下了一些多余的虫胶。</Infestation_Jelly.letterText>
+  <WanderersSkylantern.letterLabel>友善的访客</WanderersSkylantern.letterLabel>
+  <WanderersSkylantern.letterText>你的天灯吸引了一些友善的旅人。旅人们为你们营造的奇观惊叹，希望下次也能参与其中。\n\n他们会前来拜访并留下一份礼物。</WanderersSkylantern.letterText>
+  
+</LanguageData>

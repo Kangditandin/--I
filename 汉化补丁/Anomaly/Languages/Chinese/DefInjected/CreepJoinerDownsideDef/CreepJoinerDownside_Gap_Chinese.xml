@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Aggressive.letterDesc>{PAWN_nameDef}的神态突然变了。一抹威胁的狞笑撕开了{PAWN_possessive}脸。\n\n{PAWN_nameDef}已变得敌对。</Aggressive.letterDesc>
+  <Aggressive.letterLabel>{PAWN_nameDef}敌对</Aggressive.letterLabel>
+  <Leaves.letterDesc>{PAWN_nameDef}感谢你的款待，但说{PAWN_objective}该继续上路了。</Leaves.letterDesc>
+  <Leaves.letterLabel>{PAWN_nameDef}离去</Leaves.letterLabel>
+  <PsychicAgony.letterDesc>{PAWN_nameDef}不由自主地释放出了一波灵能痛苦！{PAWN_pronoun}试图阻止，却无能为力。\n\n附近的生物将感受到剧烈的疼痛。这种影响会持续数日。</PsychicAgony.letterDesc>
+  <PsychicAgony.letterLabel>灵能痛苦</PsychicAgony.letterLabel>
+  
+</LanguageData>

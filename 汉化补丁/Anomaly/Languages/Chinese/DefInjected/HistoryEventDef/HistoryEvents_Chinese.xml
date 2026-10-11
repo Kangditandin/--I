@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BecameMutant.label>发生变异</BecameMutant.label>
+  <DestroyedVoidMonolith.label>摧毁虚空巨石碑</DestroyedVoidMonolith.label>
+  <GhoulInfusionPerformed.label>实施食尸鬼注入</GhoulInfusionPerformed.label>
+  <InvolvedInPsychicRitual.label>参与灵能仪式</InvolvedInPsychicRitual.label>
+  <PsychicRitualPerformed.label>举行灵能仪式</PsychicRitualPerformed.label>
+  <WasPsychicRitualTarget.label>成员成为仪式目标</WasPsychicRitualTarget.label>
+
+</LanguageData>

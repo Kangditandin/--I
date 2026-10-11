@@ -1,0 +1,7 @@
+# 大体积打包文件，不入库
+*.zip
+RimWorldCore_汉化包.zip
+
+# 系统
+.DS_Store
+Thumbs.db

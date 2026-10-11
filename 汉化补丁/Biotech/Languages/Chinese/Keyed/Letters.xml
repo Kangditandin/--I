@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Mechanitor -->
+  <LetterLabelMechsFeral>机械体已野化</LetterLabelMechsFeral>
+  <LetterMechsFeral>一些无人监督而四处游荡的机械体连接上了古代的全行星机械控制信号。它们加入了 {0} 并转为敌对，似乎试图杀出地图。\n\n野化的机械体被杀死后无法在孕育器中复活。\n\n涉及的机械体如下：\n\n{1}</LetterMechsFeral>
+  <LetterLabelMechlinkInstalled>机械链接已安装</LetterLabelMechlinkInstalled>
+  <LetterMechlinkInstalled>{PAWN_labelShort} 安装了一个机械链接！{PAWN_pronoun} 现在是一名机械师，可以创造并控制机械体。\n\n研究基础机械科技以开始。\n\n(*SectionTitle)创造机械体：(/SectionTitle) 你的机械师可以在名为机械孕育器的生产建筑中创造机械体。\n\n(*SectionTitle)关于带宽：(/SectionTitle) 机械师能控制的机械体数量取决于其总带宽。选中 {PAWN_labelShort} 并查看 {PAWN_possessive} 的“带宽”读数，即可了解 {PAWN_pronoun} 当前使用了多少带宽以及还剩多少。带宽可以通过某些服装和建造带宽节点建筑来提升。\n\n(*SectionTitle)关于控制编组：(/SectionTitle) 机械师以编组方式控制机械体。每个控制编组可设为以下模式之一：\n\n- 工作\n- 护送\n- 充能\n- 休眠自充\n\n要了解每种模式的作用，请选中 {PAWN_labelShort} 某个控制编组上的工作模式图标，并将鼠标悬停在不同的工作指令上。控制编组的最大数量可以通过服装和植入体提升。\n\n(*SectionTitle)关于召唤威胁：(/SectionTitle) 机械师可以发信号引来古代首领机械体发动攻击，以从其身上获取稀有物品。你必须这样做才能让机械师突破某些限制，但要当心危险。</LetterMechlinkInstalled>
+
+  <MentalStateReason_Gene>这是由于</MentalStateReason_Gene>
+
+  <LetterLabelBossgroupSummoned>{0} 已召唤</LetterLabelBossgroupSummoned>
+  <LetterBossgroupSummoned>你的机械频段信号吸引了注意，一台来自 {0} 的超重型机械体即将抵达。做好准备。</LetterBossgroupSummoned>
+
+  <LetterLabelBossgroupArrived>{0} 已抵达</LetterLabelBossgroupArrived>
+  <LetterBossgroupArrived>一台来自 {0} 的超重型机械体带着护卫前来扫灭你。\n\n{1}\n\n攻击部队由以下 {3} 组成：\n\n{4}\n\n它们会准备一段时间后再发动攻击。</LetterBossgroupArrived>
+
+  <LetterLabelCommsConsoleSpawned>可召唤 {LEADER_label}</LetterLabelCommsConsoleSpawned>
+  <LetterCommsConsoleSpawned>机械师可以使用 {PARENT_label} 召唤危险且敌对的 {LEADER_label} 机械体。做好准备，{LEADER_label} 机械体极其强大。\n\n若你击败 {LEADER_label}，它会掉落以下物品：\n\n{REWARDSLIST}</LetterCommsConsoleSpawned>
+
+  <LetterLabelBossgroupCallerUnlocked>可以召唤 {LEADER_label} 了</LetterLabelBossgroupCallerUnlocked>
+  <LetterBossgroupCallerUnlocked>你现在可以建造 {PARENT_label}，由机械师用它来召唤 {LEADER_label}。若你击败 {LEADER_label}，它会掉落以下物品：\n\n{REWARDSLIST}</LetterBossgroupCallerUnlocked>
+
+  <LetterLabelMechanitorCasketOpened>{PAWN_nameDef} 的机械链接可用</LetterLabelMechanitorCasketOpened>
+  <LetterMechanitorCasketOpened>你发现了一名古代机械师的尸体！\n\n选中一名殖民者并右键点击尸体以取出 {PAWN_possessive} 机械链接。</LetterMechanitorCasketOpened>
+  <LetterLabelMechanitorCasketFound>发现机械师棺</LetterLabelMechanitorCasketFound>
+  <LetterMechanitorCasketFound>你发现了一个机械师的低温休眠棺！\n\n打开它就能看到里面的人。</LetterMechanitorCasketFound>
+  
+  <!-- Pawns lost because map closed (including mechs) -->
+  <LetterPawnsLostIncMechsBecauseMapClosed_Caravan>你的商队已失踪。以下人员、动物和机械体也随之失踪</LetterPawnsLostIncMechsBecauseMapClosed_Caravan>
+  <LetterPawnsLostIncMechsBecauseMapClosed_Home>以下人员、动物和机械体已被遗弃</LetterPawnsLostIncMechsBecauseMapClosed_Home>
+  
+
+  <!-- Children -->
+  <LetterLabelBecameChild>{0_nameDef} 成为了儿童</LetterLabelBecameChild>
+  <LetterLabelBecameAdult>{0_nameDef} 成为了成人</LetterLabelBecameAdult>
+  <LetterBecameChild>婴儿 {0_nameDef} 长大了，成为了儿童！{0_pronoun} 现在已大到可以从事以下工作：</LetterBecameChild>
+  <LetterBecameChildChanges>儿童能从事多种工作。随着年龄增长，他们能从事的工作类型会更多。\n\n他们也会进行多种儿童专属的娱乐活动。\n\n儿童需要穿特制的儿童尺寸服装。</LetterBecameChildChanges>
+  <LetterChildLegalStatus>按照传统，{0_nameDef}，{0_parentage}，是一名{0_legalStatus}，但可以例外……{0_nameDef} 应继续作为{0_legalStatus}吗？</LetterChildLegalStatus>
+  <LetterChildFollowIdeo>{0_labelShort} 决定成为理念 {1_name} 的信徒。</LetterChildFollowIdeo>
+  <CannotChangeChildStatusReason>{0_nameDef} 的奴隶身份自 {0_possessive} 生日后已经变更。</CannotChangeChildStatusReason>
+  <Enslave>奴役</Enslave>
+  <Emancipate>解放</Emancipate>
+  <RemainX>保持为{0}</RemainX>
+  <LetterLabelAdopted>{BABY_nameDef} 已被领养</LetterLabelAdopted>
+  <LetterTextAdopted>婴儿 {BABY_nameDef} 已被你的殖民地领养。你可能需要将殖民者指派到“育儿”工作类型来照顾 {BABY_objective}。</LetterTextAdopted>
+
+  <LetterLabelThirdTrimester>{0_nameDef} 的产前准备</LetterLabelThirdTrimester>
+  <LetterTextThirdTrimester>{0_nameDef} 将在不到 6 天内分娩。你可以为婴儿做准备：\n\n- 建造一间铺有干净地板和好床的分娩室。\n- 备好一名熟练医生。\n- 在工作页签中，至少将一人指派到育儿工作\n- 为婴儿准备食物。{0_nameDef} 可以母乳喂养婴儿，或你可以喂婴儿食物、奶或虫胶。\n- 建造一张婴儿床。高品质的婴儿床会让婴儿开心。\n\n你可以在火炉或营火上制作婴儿食物。</LetterTextThirdTrimester>
+
+  <LetterVatBirth>{0} 舱内出生</LetterVatBirth>
+  <LetterVatHealthyBaby>{0_nameDef} 和 {1_nameDef} 的胚胎已在生长舱中孕育完成，成为一个健康的婴儿！</LetterVatHealthyBaby>
+  <LetterVatHealthyBabyNoParents>一个胚胎已在生长舱中孕育完成，成为一个健康的婴儿！</LetterVatHealthyBabyNoParents>
+  <LetterVatInfantIllness>{0_nameDef} 和 {1_nameDef} 的胚胎已在生长舱中孕育完成，成为一个婴儿。不幸的是，这个婴儿生病了。</LetterVatInfantIllness>
+  <LetterVatInfantIllnessNoParents>一个胚胎已在生长舱中孕育完成，成为一个婴儿。不幸的是，这个婴儿生病了。</LetterVatInfantIllnessNoParents>
+  <LetterVatStillborn>由 {0_nameDef} 和 {1_nameDef} 的胚胎在生长舱中形成的婴儿是死胎。</LetterVatStillborn>
+  <LetterVatSillbornNoParents>在生长舱中形成的婴儿是死胎。</LetterVatSillbornNoParents>
+  <LetterColonistPregnancyLaborLabel>{0_labelShort} 正在分娩！</LetterColonistPregnancyLaborLabel>
+  <LetterColonistPregnancyLabor>{0_labelShort} 即将分娩！她会先经历几小时的宫缩，然后才会生下婴儿。分娩可能会经历几个不同难度和危险程度的阶段。\n\n为提高婴儿的存活几率，请召集一名医生和其他人来帮忙分娩。选中 {0_labelShort} 并按下“召集分娩”以开始程序。</LetterColonistPregnancyLabor>
+  <LetterPartColonistDiedAfterChildbirth>{0_labelShort} 因产后并发症而死亡。</LetterPartColonistDiedAfterChildbirth>
+  <LetterPartSurrogacy>这个婴儿由体外受精创造，拥有 {0_labelShort} 和 {1_labelShort} 的基因组成。</LetterPartSurrogacy>
+  <InbredBabyBorn>由于近亲繁殖，这个婴儿表现出遗传异常的迹象。</InbredBabyBorn>
+
+  <BabyAlreadyNamed>{0_nameDef} 已经取过名字了。</BabyAlreadyNamed>
+  <NameBaby>为婴儿取名</NameBaby>
+  <Immediately>立即</Immediately>
+  <Within>在……内</Within>
+  <LetterPartTempBabyName>这个婴儿被临时命名为 {0_nameFull}。</LetterPartTempBabyName>
+  <LetterPartLiveBirthNameDeadline>你可以在出生后 {0} 内更改它。</LetterPartLiveBirthNameDeadline>
+  <LetterPartStillbirthNameDeadline>你想给这个婴儿另取一个名字吗？</LetterPartStillbirthNameDeadline>
+  <LetterPartNameBabyAdopt>这个婴儿被临时命名为 {0_nameFull}。只要婴儿还未满 {1} 岁，你就可以更改它。</LetterPartNameBabyAdopt>
+
+  <BirthdayGrowthMoment>{PAWNNAME} 的成长时刻</BirthdayGrowthMoment>
+  <BirthdayBiologicalGrowthMoment>{0_nameFull} 达到了 {1} 岁的生理年龄，经历了成长时刻！</BirthdayBiologicalGrowthMoment>
+  <BirthdayBiologicalAgeWorkTypes>{0_nameDef} 现在已大到可以从事以下工作</BirthdayBiologicalAgeWorkTypes>
+  <BirthdayPickPassion>选择 1 项技能，提升 {0_nameDef} 对其的激情</BirthdayPickPassion>
+  <BirthdayPickPassions>选择 {1} 项技能，提升 {0_nameDef} 对它们的激情</BirthdayPickPassions>
+  <BirthdayPickTrait>选择 {0_nameDef} 将获得的特性</BirthdayPickTrait>
+  <BirthdayGrowthTier>在此成长时刻发生时，{0_nameDef} 处于成长层级 {1}。成长层级更高的儿童拥有更多特性与激情选项，总体激情也更多。满足学习需求能帮助儿童更快地提升成长层级。每次成长时刻后，成长层级会重置。</BirthdayGrowthTier>
+  <BirthdayChooseHowPawnWillGrow>打开此信件以选择 {0_nameDef} 如何成长。</BirthdayChooseHowPawnWillGrow>
+
+  <BirthdayPassionArchive>{0} 的激情已提升。</BirthdayPassionArchive>
+  <BirthdayTraitArchive>获得了特性 {0}。</BirthdayTraitArchive>
+  <BirthdayNoTraitChoice>不选特性</BirthdayNoTraitChoice>
+  <BirthdayNoTraitChoiceTooltip>{0} 不获得特性。</BirthdayNoTraitChoiceTooltip>
+
+  <BirthdayMakeChoices>做出选择以关闭</BirthdayMakeChoices>
+  <BirthdayNickname>{0} 获得了昵称 {1}。</BirthdayNickname>
+  <SelectATrait>请选择一个特性。</SelectATrait>
+  <SelectPassionSingular>请选择一项激情。</SelectPassionSingular>
+  <SelectPassionsPlural>请选择 {0} 项激情。</SelectPassionsPlural>
+  <Later>稍后</Later>
+  
+  <LetterLabelMechlinkAvailable>机械链接可用</LetterLabelMechlinkAvailable>
+  <LetterMechlinkAvailable>通过任务“{0}”，你获得了一个获取独特机械链接植入体的机会。\n\n安装机械链接会将一名殖民者变成机械师。机械师可以创造、控制并操纵机械族，用于工作和战斗。</LetterMechlinkAvailable>
+
+  <!-- Genes -->
+  <LetterLabelXenogermOrderedImplanted>已下令植入异种胚芽</LetterLabelXenogermOrderedImplanted>
+  <LetterXenogermOrderedImplanted>你已下令将异种胚芽植入 {PAWN_nameDef}。此程序需要一张医疗床和 {MEDICINENEEDED} 药物。{BEDINFO}{MEDICINEINFO}\n\n你可以前往 {PAWN_nameDef} 的健康 -> 手术页签取消此程序。</LetterXenogermOrderedImplanted>
+  <XenogermOrderedImplantedBedNeeded>\n\n你没有可供 {PAWN_nameDef} 使用的医疗床。请考虑将一张床标记为医疗用。</XenogermOrderedImplantedBedNeeded>
+  <XenogermOrderedImplantedMedicineNeeded>\n\n你没有足够的药物来植入异种胚芽。在获得 {MEDICINENEEDED} 药物之前无法开始植入。</XenogermOrderedImplantedMedicineNeeded>
+  <LetterLabelInvoluntaryDeathrest>非自愿死眠</LetterLabelInvoluntaryDeathrest>
+  <LetterLabelRegenerationComa>再生昏迷</LetterLabelRegenerationComa>
+  <LetterTextInvoluntaryDeathrestOrComa>{PAWN_nameDef} 的不死基因阻止了 {PAWN_objective} 死亡。{HEDIFFINFO}</LetterTextInvoluntaryDeathrestOrComa>
+  <LetterTextDeathrest>取而代之，{PAWN_pronoun} 陷入了死眠。</LetterTextDeathrest>
+  <LetterTextRegenerationComa>取而代之，{PAWN_pronoun} 陷入了再生昏迷。</LetterTextRegenerationComa>
+  <DeathrestLostSkill>由于创伤性死眠的神经冲击，{PAWN_nameDef} 在 {PAWN_possessive} 的 {SKILL} 技能上失去了 {XPLOSS} 点经验。</DeathrestLostSkill>
+  <DeathrestLethalDamage>受到致命伤害。</DeathrestLethalDamage>
+
+  <LetterLabelSanguophageWaitingToReimplant>异种胚芽植入</LetterLabelSanguophageWaitingToReimplant>
+  <LetterTextSanguophageWaitingToReimplant>作为允许 {PAWN_objective} 及其噬血者同伴在此聚会的酬谢，{PAWN_nameDef} 愿意将 {PAWN_possessive} 异种胚芽的副本分享给你的一名殖民者。这会将你的殖民者变成噬血者。\n\n要接受，请选中一名殖民者并右键点击 {PAWN_nameDef}。\n\n若在 {DURATION} 内没有殖民者领取奖励，噬血者将会离开。</LetterTextSanguophageWaitingToReimplant>
+
+  <LetterLabelGenesImplanted>基因已重新植入</LetterLabelGenesImplanted>
+  <LetterTextGenesImplanted>{CASTER_nameDef} 已将 {CASTER_possessive} 的异种胚芽副本植入 {TARGET_nameDef}，将所有异种基因传给 {TARGET_objective}。\n\n{TARGET_nameDef} 将在接下来的 {COMADURATION} 内处于异种胚芽植入昏迷，同时 {TARGET_possessive} 身体适应这些变化。\n\n{CASTER_nameDef} 将在接下来的 {SHOCKDURATION} 内遭受基因失去休克。{CASTER_possessive} 的基因也需要重新生长。这一过程需要时间。若 {CASTER_nameDef} 在 {CASTER_possessive} 基因再生前再次植入 {CASTER_possessive} 的异种胚芽，{CASTER_pronoun} 将会死亡。</LetterTextGenesImplanted>
+  
+  <RefugeePodCrashBaby>一名名为 {PAWN_nameDef}、来自 {PAWN_factionName} 的婴儿正随运输舱在附近坠毁。\n\n你可以选择用“领养”指令收养 {PAWN_objective}，或忽略 {PAWN_objective}。</RefugeePodCrashBaby>
+  <RefugeePodCrashBabyHasParent>运输舱内还装着 {PAWN_nameDef} 已故父母的遗体。</RefugeePodCrashBabyHasParent>
+
+  <LetterPsychicBondCreated>本能地寻觅伴侣，{BONDPAWN_nameDef} 与 {OTHERPAWN_nameDef} 建立了灵能羁绊的恋爱关系。{OTHERPAWN_nameDef} 将因与 {BONDPAWN_nameDef} 的连接而在心理上受益，但若他们被分到不同的世界地块，双方都会遭受灵能压力。若其中一人死亡，另一人将陷入疯狂。</LetterPsychicBondCreated>
+
+  <LetterPsychicBondCreatedLovinLabel>灵能羁绊</LetterPsychicBondCreatedLovinLabel>
+  <LetterPsychicBondCreatedLovinText>{BONDPAWN_nameDef} 与 {OTHERPAWN_nameDef} 建立了灵能羁绊的恋爱关系。{OTHERPAWN_nameDef} 将因与 {BONDPAWN_nameDef} 的连接而在心理上受益，但若他们被分到不同的世界地块，双方都会遭受灵能压力。若其中一人死亡，另一人将陷入疯狂。</LetterPsychicBondCreatedLovinText>
+
+</LanguageData>

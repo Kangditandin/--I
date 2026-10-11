@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ThroneSpeech.letterText>{ORGANIZER_labelShort}正在王座上发表演讲。\n\n如果一切顺利，听众会受到鼓舞，并对{ORGANIZER_labelShort}产生敬意。若进行得不顺利，这场演讲会造成社交伤害。结果取决于{ORGANIZER_labelShort}的社交能力。</ThroneSpeech.letterText>
+  
+</LanguageData>

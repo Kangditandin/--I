@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <JumpRange.label>跳跃距离</JumpRange.label>
+  <JumpRange.description>最大跳跃距离。</JumpRange.description>
+  <MeditationPlantGrowthOffset.label>冥想植物生长偏移</MeditationPlantGrowthOffset.label>
+  <MeditationPlantGrowthOffset.description>冥想对植物（如灵草）生长速率施加的偏移。此数值会随附近人造建筑的数量而变化。</MeditationPlantGrowthOffset.description>
+  <PsychicEntropyGain.label>心灵熵获取</PsychicEntropyGain.label>
+  <PsychicEntropyGain.description>从任何来源获得的心灵熵的倍率。</PsychicEntropyGain.description>
+
+</LanguageData>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <KnowledgeFromStudy>研究获得的知识</KnowledgeFromStudy>
+  <KnowledgeFromStudyDesc>研究此实体时可获得的异象知识的类型与数量。更复杂的实体可解锁更高级的异象研究项目。</KnowledgeFromStudyDesc>
+  <Stat_Knowledge>{0} {1}</Stat_Knowledge>
+  <StudyFrequency>研究间隔</StudyFrequency>
+  <StudyFrequencyDesc>此实体可供研究的时间间隔。</StudyFrequencyDesc>
+  
+  <Stat_Hediff_Regeneration_Name>治愈</Stat_Hediff_Regeneration_Name>
+  <Stat_Hediff_Regeneration_Desc>每天固定的治愈量。</Stat_Hediff_Regeneration_Desc>
+  <Stat_Hediff_Regeneration_Stat>{0} 生命/天</Stat_Hediff_Regeneration_Stat>
+
+  <Stat_ContainmentStrength_AverageLighting>平均光照</Stat_ContainmentStrength_AverageLighting>
+  <Stat_ContainmentStrength_AverageWallHp>平均墙壁生命</Stat_ContainmentStrength_AverageWallHp>
+  <Stat_ContainmentStrength_AverageDoorHp>平均门生命</Stat_ContainmentStrength_AverageDoorHp>
+  <Stat_ContainmentStrength_OtherHoldingPlatforms>多个（{0}）收容平台</Stat_ContainmentStrength_OtherHoldingPlatforms>
+  <Stat_ContainmentStrength_MapwideOffset>全地图加成</Stat_ContainmentStrength_MapwideOffset>
+  <Stat_ContainmentStrength_DoorForcedOpen>门被打开</Stat_ContainmentStrength_DoorForcedOpen>
+  <Stat_ContainmentStrength_NotFullyRoofed>屋顶不完整</Stat_ContainmentStrength_NotFullyRoofed>
+  <Stat_ContainmentStrength_Flooring>地板</Stat_ContainmentStrength_Flooring>
+  <Stat_ContainmentStrength_Platform>建筑</Stat_ContainmentStrength_Platform>
+
+  <StatsReport_BioferriteGeneration>生物铁素产出</StatsReport_BioferriteGeneration>
+  <StatsReport_BioferriteGeneration_Desc>此实体连接到生物铁素采集器时每天产出多少生物铁素。</StatsReport_BioferriteGeneration_Desc>
+  <StatsReport_BioferriteDensityMultiplier>生物铁素密度倍率</StatsReport_BioferriteDensityMultiplier>
+  <StatsReport_BioferriteExtractedMultiplier>近期已提取生物铁素倍率</StatsReport_BioferriteExtractedMultiplier>
+
+  <StatsReport_Offering>祭品</StatsReport_Offering>
+  <StatsReport_Offering_Desc>举行此灵能仪式所需的祭品。</StatsReport_Offering_Desc>
+
+  <StatsReport_RitualDuration>仪式时长</StatsReport_RitualDuration>
+  <StatsReport_RitualDuration_Desc>举行此仪式所需的时间。</StatsReport_RitualDuration_Desc>
+
+  <StatsReport_RitualCooldown>冷却</StatsReport_RitualCooldown>
+  <StatsReport_RitualCooldown_Desc>仪式举行后，会在一段时间内扰乱周围的灵能能量。在此期间无法再次举行该仪式。</StatsReport_RitualCooldown_Desc>
+
+  <StatsReport_ContainmentStrengthOffset>收容加成</StatsReport_ContainmentStrengthOffset>
+  <StatsReport_ContainmentStrengthOffset_Desc>这对收容平台束缚实体的能力有多大影响。收容得更好的实体更不容易逃脱，被研究时也能提供更多知识。​</StatsReport_ContainmentStrengthOffset_Desc>
+
+  <StatsReport_SerumDuration>持续时间</StatsReport_SerumDuration>
+  <StatsReport_SerumDuration_Desc>血清效果持续多久。</StatsReport_SerumDuration_Desc>
+  
+  <StatsReport_Occupied>已占用</StatsReport_Occupied>
+  <MeditationFocusPerBuilding>每座附近的 {BUILDING_label} 提供 {2}（{0} / {1}）</MeditationFocusPerBuilding>
+  <MeditationFocusPerBuildingAbstract>每座附近的 {BUILDING_label} 提供 {1}（最多 {0}）</MeditationFocusPerBuildingAbstract>
+
+</LanguageData>

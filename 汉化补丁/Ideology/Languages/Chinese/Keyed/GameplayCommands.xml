@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <CommandBedSetForSlavesLabel>奴隶使用</CommandBedSetForSlavesLabel>
+  <CommandBedSetForColonistsLabel>殖民者使用</CommandBedSetForColonistsLabel>
+  <CommandBedSetForOwnerTypeDesc>此房间内的床应由殖民者、囚犯还是奴隶使用。</CommandBedSetForOwnerTypeDesc>
+
+  <CommandNeuralSuperchargerNoAutoUse>不自动使用</CommandNeuralSuperchargerNoAutoUse>
+  <CommandNeuralSuperchargerNoAutoUseDescription>你的人不会自动使用此神经强化器。</CommandNeuralSuperchargerNoAutoUseDescription>
+  <CommandNeuralSuperchargerAutoUseWithDesire>按意愿自动使用</CommandNeuralSuperchargerAutoUseWithDesire>
+  <CommandNeuralSuperchargerAutoUseWithDesireDescription>若你的人因其信仰而愿意，他们可能会自动使用此神经强化器。</CommandNeuralSuperchargerAutoUseWithDesireDescription>
+  <CommandNeuralSuperchargerAutoForEveryone>所有人自动使用</CommandNeuralSuperchargerAutoForEveryone>
+  <CommandNeuralSuperchargerAutoForEveryoneDescription>你所有的人只要有机会就会使用此神经强化器。</CommandNeuralSuperchargerAutoForEveryoneDescription>
+  <CommandNeuralSuperchargerAllowGuests>允许客人</CommandNeuralSuperchargerAllowGuests>
+  <CommandNeuralSuperchargerAllowGuestsDescription>允许临时派系成员使用此神经强化器。</CommandNeuralSuperchargerAllowGuestsDescription>
+
+  <CommandSelectConnectedTree>选中关联的树</CommandSelectConnectedTree>
+  <CommandHealInHealingPod>创建治疗茧</CommandHealInHealingPod>
+  <CommandHealInHealingPodDesc>若此生物受伤，它会回到关联的高兰树并进入一个木质治疗茧。{DAYS} 天后，树精会带着治愈的伤口钻出。</CommandHealInHealingPodDesc>
+</LanguageData>

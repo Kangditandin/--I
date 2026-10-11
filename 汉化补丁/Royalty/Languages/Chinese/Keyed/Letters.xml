@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Royal titles -->
+  <LetterLabelLostRoyalTitle>失去 {TITLE} 头衔：{PAWN_labelShort}</LetterLabelLostRoyalTitle>
+  <LetterLabelGainedRoyalTitle>获得 {TITLE} 头衔：{PAWN_labelShort}</LetterLabelGainedRoyalTitle>
+
+  <PermitPointsAwarded>已获得许可点：{0}。</PermitPointsAwarded>
+
+  <LetterRoyalTitleApparelQualityRequirement>此头衔要求品质为 {1} 或更高的服装。</LetterRoyalTitleApparelQualityRequirement>
+  <LetterRoyalTitleApparelRequirement>此头衔要求与 {PAWN_possessive} 头衔相称的服装：</LetterRoyalTitleApparelRequirement>
+  <LetterRoyalTitleExpectation>{PAWN_possessive} 的期望值将永远不低于 {1}。</LetterRoyalTitleExpectation>
+  
+  <LetterRoyalTitleConceitedTrait>由于 {PAWN_labelShort} 具有 {1}，{PAWN_pronoun} 将要求此头衔的特权被完全尊重。{PAWN_pronoun} 可能拒绝某些工作类型、拒绝食用低等食物，并会颁布法令。</LetterRoyalTitleConceitedTrait>
+
+  <LetterGainedRoyalTitle>{PAWN_labelShort} 从 {FACTION_name} 处获得了 {TITLE} 头衔！</LetterGainedRoyalTitle>
+  <LetterLostRoyalTitle>{PAWN_labelShort} 不再拥有 {FACTION_name} 的 {TITLE} 头衔。</LetterLostRoyalTitle>
+  <LetterLabelRewardsForNewTitle>头衔奖励</LetterLabelRewardsForNewTitle>
+  <LetterRewardsForNewTitle>为表彰 {PAWN_labelShort} 晋升至 {TITLE} 头衔，{FACTION_name} 已向其送出了以下奖励：</LetterRewardsForNewTitle>
+  <LetterRewardsForNewTitleDeliveryBase>奖励已通过运输舱送达你的殖民地。</LetterRewardsForNewTitleDeliveryBase>
+  <LetterRewardsForNewTitleDeliveryDirect>奖励已直接送入 {PAWN_labelShort} 的物品栏。</LetterRewardsForNewTitleDeliveryDirect>
+
+  <LetterRoyalTitlePermits>{PAWN_pronoun} 拥有以下权限：</LetterRoyalTitlePermits>
+  <LetterRoyalTitleLostPermits>{PAWN_pronoun} 失去了以下权限：</LetterRoyalTitleLostPermits>
+
+  <LetterRoyalTitleDisabledWorkTag>{PAWN_pronoun} 不愿意从事这些工作类型：\n{1}</LetterRoyalTitleDisabledWorkTag>
+
+  <LetterRoyalTitleEnabledJoyKind>{PAWN_pronoun} 现在可以使用这种娱乐方式：</LetterRoyalTitleEnabledJoyKind>
+  <LetterRoyalTitleDisabledJoyKind>此头衔禁止使用这种娱乐方式：</LetterRoyalTitleDisabledJoyKind>
+
+  <LetterRoyalTitleAllowedImplants>{PAWN_pronoun} 被允许使用这些植入体：{1}</LetterRoyalTitleAllowedImplants>
+  <LetterRoyalTitleImplantsMustBeRemoved>{PAWN_pronoun} 不再被允许使用这些植入体：{1}</LetterRoyalTitleImplantsMustBeRemoved>
+  <LetterRoyalTitleImplantGracePeriod>必须在五天的宽限期内取出这些植入体，以避免外交后果。</LetterRoyalTitleImplantGracePeriod>
+  <LetterRoyalTitleSpeechAbilityGained>{PAWN_pronoun} 现在可以在王座上发表演讲。若进行顺利，听众会受到鼓舞；若进行不顺，演讲将造成社交损害。结果取决于 {PAWN_labelShort} 的社交能力。</LetterRoyalTitleSpeechAbilityGained>
+  <LetterRoyalTitleThroneroomRequirements>此头衔要求王座厅满足以下条件：{1}</LetterRoyalTitleThroneroomRequirements>
+  <LetterRoyalTitleBedroomRequirements>此头衔要求卧室满足以下条件：{1}</LetterRoyalTitleBedroomRequirements>
+  <LetterRoyalTitleFoodRequirements>此头衔规定 {PAWN_pronoun} 只应食用这些食物：{1}</LetterRoyalTitleFoodRequirements>
+
+  <LetterRoyalTitleRewardGranted>{PAWN_pronoun} 将通过运输舱收到以下物品：{1}</LetterRoyalTitleRewardGranted>
+  <PeaceTalksRoyalFavorGain>{PAWN_labelShort} 从 {FACTION_name} 处获得了 {1} {FACTION_royalFavorLabel}。</PeaceTalksRoyalFavorGain>
+
+  <!-- Royal heritage-->
+  <LetterRoyalTitleHeir>若 {PAWN_pronoun} 死亡，此头衔将由 {HEIR_nameFull} 继承。</LetterRoyalTitleHeir>
+  <LetterRoyalTitleNoHeir>若 {PAWN_pronoun} 死亡，将无人继承此头衔。</LetterRoyalTitleNoHeir>
+  <LetterRoyalTitleHeirFactionWarning>{PAWN_nameFull} 是 {FACTION_name} 的成员。</LetterRoyalTitleHeirFactionWarning>
+  <LetterRoyalTitleChangingHeir>可通过通讯台联系 {FACTION_name} 来选定新的继承人。</LetterRoyalTitleChangingHeir>
+  <LetterTitleHeirLostLabel>继承人已失去</LetterTitleHeirLostLabel>
+  <LetterTitleHeirLost>{HEIR_nameFull} 已死亡，使 {HOLDER_labelShort} 从 {FACTION_name} 处获得的头衔没有继承人。你可以通过通讯台联系 {FACTION_name} 以指定新的继承人。</LetterTitleHeirLost>
+  <LetterRoyalTitleCantBeInherited>{TITLE} 头衔无法被继承。</LetterRoyalTitleCantBeInherited>
+
+
+  <LetterTitleInheritance>头衔继承</LetterTitleInheritance>
+  <LetterTitleInheritance_Base>由于 {PAWN_nameFull} 已死亡，{PAWN_possessive} 头衔将转移给 {PAWN_possessive} 的继承人。</LetterTitleInheritance_Base>
+  <LetterTitleInheritance_AsReplacement>根据 {FACTION_name} 的继承法，{PAWN_possessive} 的 {TITLE} 头衔已由 {HEIR_nameFull} 继承。在授勋仪式完成后，它将取代 {HEIR_possessive} 的 {REPLACEDTITLE} 头衔。</LetterTitleInheritance_AsReplacement>
+  <LetterTitleInheritance_NoEffectHigherTitle>根据 {FACTION_name} 的继承法，{PAWN_possessive} 的 {TITLE} 头衔本应由 {HEIR_nameFull} 继承，但 {HEIR_pronoun} 已拥有 {HIGHERTITLE} 头衔。</LetterTitleInheritance_NoEffectHigherTitle>
+  <LetterTitleInheritance_WasInherited>根据 {FACTION_name} 的继承法，在授勋仪式完成后，{PAWN_possessive} 的 {TITLE} 头衔将由 {HEIR_nameFull} 继承。</LetterTitleInheritance_WasInherited>
+  <LetterTitleInheritance_NoHeirFound>{PAWN_possessive} 的 {TITLE} 头衔未被任何人继承，因为 {PAWN_pronoun} 未为此头衔指定继承人。</LetterTitleInheritance_NoHeirFound>
+
+  <!-- Royal implant violations -->
+  <LetterLawViolationDetectedLabel>违法者：{PAWN_labelShort}</LetterLawViolationDetectedLabel>
+  <LetterLawViolationDetectedForbiddenThingUse>{FACTION_name} 已探测到 {PAWN_labelShort} 非法使用：{CULPRIT}（探测几率 {CHANCE}）。\n\n根据 {FACTION_name} 的法律，只有拥有 {TITLE} 头衔者才被允许使用 {CULPRIT}。\n\n作为惩罚，你与他们的派系关系下降了 {GOODWILL}。</LetterLawViolationDetectedForbiddenThingUse>
+
+  <!-- Wild decree mental break -->
+  <WildDecree>狂放法令</WildDecree>
+  <LetterLabelRandomDecree>{0_nameIndef} 颁布了法令</LetterLabelRandomDecree>
+  <LetterDecreeMentalBreak>{0_nameIndef} 为了释放 {0_possessive} 的压力，颁布了一道狂放的皇室法令，并正在要求将其执行。\n\n若未能及时执行，{0_nameIndef} 将会非常不满。</LetterDecreeMentalBreak>
+  <LetterRandomDecree>{0_nameIndef} 为了彰显 {0_possessive} 的 {0_bestRoyalTitleIndef} 头衔，颁布了一道法令，并正在要求将其执行。\n\n若未能及时执行，{0_nameIndef} 将会非常不满。</LetterRandomDecree>
+  <LetterDecree_Quest>该法令的标题为“{0}”。</LetterDecree_Quest>
+  
+  <!-- Lent colonist died -->
+  <LentColonistDied>{PAWN_nameDef} 被借给了 {FACTION}。他们不久后将归还 {PAWN_nameDef} 的遗体。</LentColonistDied>  
+
+  <!-- Psylink -->
+  <LetterLabelPsylinkLevelGained>获得灵能链接</LetterLabelPsylinkLevelGained>
+  <LetterPsylinkLevelGained_First>{USER_labelShort} 获得了 {USER_possessive} 的第一级灵能链接！{USER_pronoun} 现在是一名灵能者。\n\n要使用灵能，{USER_labelShort} 必须通过冥想积累灵能聚焦。若冥想时能将注意力集中在特定的物体上，冥想效果会更好。\n\n不同的人可以聚焦于不同的物体，取决于其背景故事、特性和头衔。例如：\n\n- 拥有贵族头衔的灵能者冥想着他们的王座。\n- 拥有部落童年背景的灵能者冥想着灵能树和自然神龛。\n- 苦修者灵能者冥想着空白的墙壁。\n- 精神病态灵能者冥想着坟墓，最好是里面躺着挚爱之人。\n\n你可以通过点击“i”按钮查看信息卡，了解某人的冥想聚焦类型。</LetterPsylinkLevelGained_First>
+  <LetterPsylinkLevelGained_NotFirst>{USER_labelShort} 获得了新的灵能链接等级！{USER_pronoun} 现在可以使用该更高等级的灵能，但需要先学会它们。</LetterPsylinkLevelGained_NotFirst>
+  <LetterPsylinkLevelGained_PsycastLearned>在获得新的灵能链接等级时，{USER_labelShort} 自动学会了以下灵能：{2}</LetterPsylinkLevelGained_PsycastLearned>
+  
+  <!-- Abilities -->
+  <LetterPsychicInspiration>多亏了 {CASTER_nameIndef} 的灵能暗示，{PAWN_nameIndef} 产生了灵感！</LetterPsychicInspiration>
+
+  <LetterLabelBestowingCeremonyExpired>授勋仪式已过期</LetterLabelBestowingCeremonyExpired>
+  <LetterTextBestowingCeremonyExpired>{TARGET_definite} 未出席授勋仪式。仪式已取消。</LetterTextBestowingCeremonyExpired>
+
+  <LetterLabelBestowingCeremonyTitleUpdated>{TARGET_definite} 的头衔已变更</LetterLabelBestowingCeremonyTitleUpdated>
+  <LetterTextBestowingCeremonyTitleUpdated>自授勋仪式安排以来，{TARGET_definite} 获得了新头衔。为使授勋与新头衔相符，不久后将安排另一次仪式。\n\n新的授勋仪式将包含所有尚未授予头衔的灵能链接奖励。</LetterTextBestowingCeremonyTitleUpdated>
+  
+  <LetterPartBestowingExtraHonor>因召集了 {3} 名观众，{PAWN_labelShort} 获得了 {1} 点荣誉，作为来自 {FACTION_name} 的敬意。</LetterPartBestowingExtraHonor>
+  <LetterPartNoExtraHonor>由于观众不多，{PAWN_labelShort} 未获得额外荣誉。</LetterPartNoExtraHonor>
+  <LetterPartMoodBonus>所有观礼者都获得了心情加成。</LetterPartMoodBonus>
+
+  <LetterTextHonorAward_BanditCamp>击败强盗营地所得的 {0} 应记在谁名下？</LetterTextHonorAward_BanditCamp>
+
+  <!-- Shuttle crash -->
+  <LetterLabelShuttleCrashed>穿梭机坠毁</LetterLabelShuttleCrashed>
+  <LetterTextShuttleCrashed>一架穿梭机在附近坠毁</LetterTextShuttleCrashed>
+
+  <!-- Wanderer joins -->
+  <LetterLabelWandererJoinsAbasia>运输舱坠毁：{0_nameDef}</LetterLabelWandererJoinsAbasia>
+  <LetterTextWandererJoinsAbasia>一名 {0_title}（名叫 {0_nameDef}）正随运输舱在附近坠毁。\n\n{0_nameDef} 患有 {1_label}，将无法行走。\n\n{0_pronoun} 将在许多天后自然康复，也有可能幸运地迅速康复。{1_label} 也可以通过一项需要大量闪耀世界药物的特殊手术治愈。\n\n{0_pronoun} 康复后愿意做出贡献，但不会主动离开。如果你不想要 {0_nameDef}，你可以放逐 {0_objective}、将其卖为奴隶，或任其死亡。不过，你的其他殖民者可能会对此感到不安。</LetterTextWandererJoinsAbasia>
+
+</LanguageData>

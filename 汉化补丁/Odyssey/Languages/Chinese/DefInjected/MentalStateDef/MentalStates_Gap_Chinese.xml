@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Terror.baseInspectLine>精神状态：惊恐逃窜</Terror.baseInspectLine>
+  <Terror.beginLetter>{0}正在惊恐地逃窜。</Terror.beginLetter>
+  <Terror.beginLetterLabel>惊恐逃窜</Terror.beginLetterLabel>
+  <Terror.recoveryMessage>{0}不再惊恐逃窜了。</Terror.recoveryMessage>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Salvagers.label>太空打捞者</Salvagers.label>
+  <Salvagers.description>一个无情的轨道拾荒者阵营，他们在太空中搜寻废弃飞船与有价值的残骸。打捞者完全在太空中活动。</Salvagers.description>
+  <TradersGuild.label>商人公会</TradersGuild.label>
+  <TradersGuild.description>一个由轨道商人组成的松散联盟。他们共同组成一个轨道市场，买卖来自星球各地的货物。轨道商人也会从偶尔来访的行星际贸易船那里收购货物，这让他们得以接触稀有技术。\n\n这些商人很少在星球本体上出现，他们更愿意生活在安全的轨道平台上。</TradersGuild.description>
+  <GravshipCrew.label>引力船船员</GravshipCrew.label>
+  <GravshipCrew.description>一艘引力船的船员。</GravshipCrew.description>
+
+</LanguageData>

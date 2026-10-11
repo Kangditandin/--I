@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Convert.label>转化</Convert.label>
+  <Convert.description>狱警将尝试把囚犯转化为他们的理念。</Convert.description>
+  <Enslave.label>奴役</Enslave.label>
+  <Enslave.description>狱警将威胁囚犯以削弱其意志。一旦其意志耗尽，狱警就会将他们奴役。</Enslave.description>
+  <ReduceWill.label>仅削弱意志</ReduceWill.label>
+  <ReduceWill.description>狱警将威胁囚犯以削弱其意志，但不会奴役他们。</ReduceWill.description>
+
+</LanguageData>

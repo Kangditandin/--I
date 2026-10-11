@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <InstallBloodWarmer.label>植入血液加温器</InstallBloodWarmer.label>
+  <InstallBloodWarmer.description>植入血液加温器。</InstallBloodWarmer.description>
+  <InstallPilotAssistant.label>植入驾驶辅助器</InstallPilotAssistant.label>
+  <InstallPilotAssistant.description>植入驾驶辅助器。</InstallPilotAssistant.description>
+  <RemovePilotAssistant.label>移除驾驶辅助器</RemovePilotAssistant.label>
+  <RemovePilotAssistant.description>移除驾驶辅助器。</RemovePilotAssistant.description>
+  <Cyclops.label>孕育独眼巨兽</Cyclops.label>
+  <Cyclops.description>孕育一只独眼巨兽。</Cyclops.description>
+  <Make_BeamGraser.label>制作光束伽马射线枪</Make_BeamGraser.label>
+  <Make_BeamGraser.description>制作一把光束伽马射线枪。</Make_BeamGraser.description>
+  <RemovePorcupineQuill.label>移除豪猪刺</RemovePorcupineQuill.label>
+  <RemovePorcupineQuill.description>移除豪猪刺。</RemovePorcupineQuill.description>
+  <Make_StoneBlocksStellite.label>制作星岩石砖</Make_StoneBlocksStellite.label>
+  <Make_StoneBlocksStellite.description>将星岩块切割成可用的砖块。</Make_StoneBlocksStellite.description>
+
+</LanguageData>

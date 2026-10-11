@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Acolyte.label>侍从</Acolyte.label>
+  <Acolyte.description>侍从的头衔是贵族职责的第一个头衔，涵盖范围广泛的实务职位。有些侍从纯粹是学生，在专门学校里学习统率部队、管理社会或使用灵能施放。另一些出自富裕家庭，可能拥有城中建筑或农场综合体。\n\n战时，侍从可能指挥一个排的部队、担任小型护卫舰的舰长，或作为顾问侍奉其领主。\n\n他们在贵族中的低位，反而使他们作为外交官不如自耕农有用。派一位低阶侍从前去谈判本身就可能被视为侮辱，而非贵族的自耕农谈判者则只被视为其领主的传声筒。</Acolyte.description>
+  <Baron.label>男爵</Baron.label>
+  <Baron.description>男爵的头衔是中层贵族中最低的。较低的头衔侧重在领主治下的战争或贸易中个人服役，而男爵则持有半独立统治者的头衔。每位男爵都从属于其宗主领主，但其义务主要在于提供财富与军队，而非个人服役。\n\n在帝国中，男爵通常拥有一座城市区域、采矿殖民地或类似产业。战时，男爵可能名义上担任主力舰的舰长，或控制一个团。</Baron.description>
+  <Baron.labelFemale>男爵夫人</Baron.labelFemale>
+  <Consul.label>执政官</Consul.label>
+  <Consul.description>帝国的执政官头衔属于高等贵族中的较低层级。\n\n在帝国中，执政官控制行星。战时，一位执政官通常能投入一支由多个师组成的集团军级部队，并由数支舰队支援。有些人从超级主力舰上指挥，或控制太空中的巨型结构。</Consul.description>
+  <Count.label>伯爵</Count.label>
+  <Count.description>伯爵的头衔是中层贵族中的中级。\n\n和平时期，伯爵持有一座城市或殖民地的头衔，并可能拥有一支小型私人舰队，其中或包含主力舰。</Count.description>
+  <Count.labelFemale>伯爵夫人</Count.labelFemale>
+  <Duke.label>公爵</Duke.label>
+  <Duke.description>帝国的公爵头衔是中层贵族中最高级。\n\n在帝国中，公爵控制行省、巨型城市或卫星。战时，一位公爵能投入一支师级部队，或一支拥有主力舰与数十艘支援舰的舰队。</Duke.description>
+  <Duke.labelFemale>公爵夫人</Duke.labelFemale>
+  <Emperor.label>皇帝</Emperor.label>
+  <Emperor.description>帝国的皇帝头衔意味着对整个帝国及其所有人民、行星与舰队的至高统治权。所有其他领主都向一位高领主宣誓效忠，而皇帝不向任何人效忠。然而，即使皇帝也要依赖低阶贵族的支持才能维持权力。</Emperor.description>
+  <Emperor.labelFemale>女皇</Emperor.labelFemale>
+  <Freeholder.label>自由民</Freeholder.label>
+  <Freeholder.description>帝国的自由民头衔被帝国用来标示一个受到完全尊重的人。大多数帝国公民在年轻时通过志愿工作或兵役获得它。该头衔也会授予那些在帝国眼中行为荣誉的外人。</Freeholder.description>
+  <Knight.label>骑士</Knight.label>
+  <Knight.description>骑士的头衔由基本完成训练、但尚未升任更高领导职位的贵族持有。许多骑士终生不再晋升，作为受尊敬的经理、顾问或战士度过一生。\n\n大多数骑士拥有一定财富，但少数仍相当贫穷，另一些则可能非常富有。\n\n和平时期，骑士可能管理一座工厂综合体、商业区或小型农区。战时，一些骑士指挥连级部队与突击中队，而专注于灵能的骑士则从事间谍、破坏与战场灵能作战。</Knight.description>
+  <Knight.labelFemale>女爵士</Knight.labelFemale>
+  <Praetor.label>禁卫官</Praetor.label>
+  <Praetor.description>禁卫官的头衔是下方侧重服役的低阶头衔与上方掌握权力的贵族之间的桥梁。\n\n和平时期，禁卫官通常管理一个城市区域、小行星片区或农业区域。战时，他们取得对最小独立作战单位的管辖权——地面步兵大队，或太空中的驱逐舰或战斗群。</Praetor.description>
+  <Stellarch.label>星主</Stellarch.label>
+  <Stellarch.description>帝国的星主头衔代表对整个恒星系的统治权。\n\n在帝国中，由于星际旅行时间长达数年，星主以极大的独立性统治他们的星系。他们各自向皇帝宣誓效忠，但由于皇帝可能在许多光年之外，一位星主可能数年或数十年都不与他互动。</Stellarch.description>
+  <Yeoman.label>自耕农</Yeoman.label>
+  <Yeoman.description>帝国的自耕农头衔由那些以重要、特定的方式侍奉一位贵族领主的人持有。虽然它不是贵族头衔，但它确实赋予持有者使用低阶灵能能力的权利。\n\n该头衔常由资深士兵、战舰飞行员、间谍、顾问、外交官、入侵行动人员及其他关键人物持有。许多重要人物终生作为自耕农，在贵族制度约束之外寻求成功。</Yeoman.description>
+
+</LanguageData>

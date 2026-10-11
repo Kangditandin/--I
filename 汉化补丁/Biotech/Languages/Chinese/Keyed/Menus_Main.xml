@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <Difficulty_BabiesAreHealthy_Label>婴儿总是健康</Difficulty_BabiesAreHealthy_Label>
+  <Difficulty_BabiesAreHealthy_Info>人类婴儿总是健康出生。母亲不会在分娩时死亡，也不会流产。</Difficulty_BabiesAreHealthy_Info>
+  <Difficulty_NoBabiesOrChildren_Label>禁用儿童</Difficulty_NoBabiesOrChildren_Label>
+  <Difficulty_NoBabiesOrChildren_Info>人类无法怀孕。除非你将他们选作开局殖民者，否则不会出现人类婴儿与儿童。</Difficulty_NoBabiesOrChildren_Info>
+  <Difficulty_ChildAgingRate_Label>儿童成长速率</Difficulty_ChildAgingRate_Label>
+  <Difficulty_ChildAgingRate_Info>调整婴儿与儿童的成长速率。在 11 岁至 20 岁之间，儿童的成长速率会平滑过渡到成人成长速率。</Difficulty_ChildAgingRate_Info>
+  <Difficulty_AdultAgingRate_Label>成人成长速率</Difficulty_AdultAgingRate_Label>
+  <Difficulty_AdultAgingRate_Info>调整成人的成长速率。</Difficulty_AdultAgingRate_Info>
+  <Difficulty_WastepackInfestationChanceFactor_Label>废料包茧虫入侵</Difficulty_WastepackInfestationChanceFactor_Label>
+  <Difficulty_WastepackInfestationChanceFactor_Info>调整溶解的废料包触发虫茧到来的几率。</Difficulty_WastepackInfestationChanceFactor_Info>
+  <Difficulty_ChildRaidersAllowed_Label>儿童袭击者</Difficulty_ChildRaidersAllowed_Label>
+  <Difficulty_ChildRaidersAllowed_Info>敌对袭击有时会包含儿童。</Difficulty_ChildRaidersAllowed_Info>
+
+  <BabiesAreHealthyDisableReason>因另一项设置阻止人类生育而禁用。</BabiesAreHealthyDisableReason>
+
+  <DifficultyChildrenSection>儿童</DifficultyChildrenSection>
+
+  <!-- Create/review world -->
+  <PlanetPollution>污染</PlanetPollution>
+  
+</LanguageData>

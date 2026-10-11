@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Misc -->
+  <MissingRequiredMechanitor>需要机械师殖民者</MissingRequiredMechanitor>
+  <NotStudied>{0} 尚未研究</NotStudied>
+  <StudyRequirements>需要研究</StudyRequirements>
+  <PreferredXenotypes>偏好的异种型</PreferredXenotypes>
+
+  <!-- Work tab -->
+  <WorkDisabledAge>{0_nameDef} 只有 {1} 岁。{2} 工作只有从 {3} 岁起才能从事</WorkDisabledAge>
+  <ClickToChangeWorkMode>点击更改工作模式。</ClickToChangeWorkMode>
+
+</LanguageData>

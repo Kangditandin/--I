@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BlissLobotomy.jobString>正在对TargetA进行脑叶切除。</BlissLobotomy.jobString>
+  <ExtractBioferrite.jobString>正在从尸体中培育生物铁素。</ExtractBioferrite.jobString>
+  <GhoulInfusion.jobString>正在把TargetA食尸鬼化。</GhoulInfusion.jobString>
+  <InstallAdrenalHeart.jobString>正在安装肾上腺心。</InstallAdrenalHeart.jobString>
+  <InstallCorrosiveHeart.jobString>正在安装腐蚀心。</InstallCorrosiveHeart.jobString>
+  <InstallGhoulBarbs.jobString>正在安装食尸鬼倒钩。</InstallGhoulBarbs.jobString>
+  <InstallGhoulPlating.jobString>正在安装食尸鬼装甲板。</InstallGhoulPlating.jobString>
+  <InstallMetalbloodHeart.jobString>正在安装金属血心。</InstallMetalbloodHeart.jobString>
+  <InstallRevenantVertebrae.jobString>正在安装亡魂脊椎。</InstallRevenantVertebrae.jobString>
+  <SurgicalInspection.jobString>正在对TargetA进行外科检查。</SurgicalInspection.jobString>
+  
+</LanguageData>

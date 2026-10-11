@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ClimateAdjuster.label>气候调节器</ClimateAdjuster.label>
+  <ClimateAdjuster.description>一台气候调节器。</ClimateAdjuster.description>
+  <EMIDynamo.label>电磁干扰发电机</EMIDynamo.label>
+  <EMIDynamo.description>一台电磁干扰发电机。</EMIDynamo.description>
+  <PsychicDroner.label>心灵干扰器</PsychicDroner.label>
+  <PsychicDroner.description>一台心灵干扰器。</PsychicDroner.description>
+  <PsychicSuppressor.label>心灵压制器</PsychicSuppressor.label>
+  <PsychicSuppressor.description>一台心灵压制器。</PsychicSuppressor.description>
+  <SmokeSpewer.label>喷烟器</SmokeSpewer.label>
+  <SmokeSpewer.description>一台喷烟器。</SmokeSpewer.description>
+  <SunBlocker.label>遮阳机</SunBlocker.label>
+  <SunBlocker.description>一台使天空变得不透明的遮阳机。</SunBlocker.description>
+  <ToxicSpewer.label>毒性喷吐器</ToxicSpewer.label>
+  <ToxicSpewer.description>一台毒性喷吐器。</ToxicSpewer.description>
+  <WeatherController.label>天气控制器</WeatherController.label>
+  <WeatherController.description>一台天气控制器。</WeatherController.description>
+  <MechCluster.label>机械集群</MechCluster.label>
+  <MechCluster.description>一个机械体作战集群。</MechCluster.description>
+  <MechClusterForceNoConditionCauser.label>机械集群</MechClusterForceNoConditionCauser.label>
+  <MechClusterForceNoConditionCauser.description>一个机械体作战集群。</MechClusterForceNoConditionCauser.description>
+  <RaidSource.label>袭击源头</RaidSource.label>
+  <RaidSource.description>一处有守卫的军事集结地，会定期派出袭击。</RaidSource.description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <MoveSpeed_Space.label>低重力适应</MoveSpeed_Space.label>
+  <MoveSpeed_Space.description>携带此基因者在低重力环境中移动和工作更为轻松。然而，在行星表面时他们行动更慢、效率更低。</MoveSpeed_Space.description>
+  <MoveSpeed_Space.labelShortAdj>低重力适应</MoveSpeed_Space.labelShortAdj>
+  <VacuumResistance_Partial.labelShortAdj>抗真空</VacuumResistance_Partial.labelShortAdj>
+  <VacuumResistance_Total.labelShortAdj>无息</VacuumResistance_Total.labelShortAdj>
+  
+</LanguageData>

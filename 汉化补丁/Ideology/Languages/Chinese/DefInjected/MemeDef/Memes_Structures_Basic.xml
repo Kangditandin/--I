@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animist -->
+  <Structure_Animist.label>万物有灵论</Structure_Animist.label>
+  <!-- EN: Spirits live in everything around us. In the plants and animals, rivers and trees, sky and stars. The moral structure of the universe springs from the necessity of respecting them. -->
+  <Structure_Animist.description>精灵存在于我们周围的一切之中。在植物与动物、河流与树木、天空与星辰之中。宇宙的道德结构源于对它们的敬畏之必要。</Structure_Animist.description>
+  <Structure_Animist.generalRules.rulesStrings>
+    <li>memeLeaderNoun->司祭</li>
+    <li>memeLeaderNoun->传道者</li>
+    <li>memeLeaderAdjective->寰宇</li>
+    <li>memeLeaderAdjective->灵性</li>
+    <li>memeLeaderAdjective->元气</li>
+    <li>memeHyphenPrefix->灵</li>
+    <li>memeMoralist->萨满</li>
+    <li>memeMoralist->祭司</li>
+    <li>memeMoralist->长老</li>
+  </Structure_Animist.generalRules.rulesStrings>
+  <!-- EN: animist -->
+  <Structure_Animist.symbolPacks.0.adjective>万物有灵的</Structure_Animist.symbolPacks.0.adjective>
+  <!-- EN: animist -->
+  <Structure_Animist.symbolPacks.0.member>万物有灵信徒</Structure_Animist.symbolPacks.0.member>
+  <!-- EN: animism -->
+  <Structure_Animist.symbolPacks.0.theme>万物有灵论</Structure_Animist.symbolPacks.0.theme>
+  <!-- EN: spiritist -->
+  <Structure_Animist.symbolPacks.1.adjective>唯灵论的</Structure_Animist.symbolPacks.1.adjective>
+  <!-- EN: spiritist -->
+  <Structure_Animist.symbolPacks.1.member>唯灵论者</Structure_Animist.symbolPacks.1.member>
+  <!-- EN: spiritism -->
+  <Structure_Animist.symbolPacks.1.theme>唯灵论</Structure_Animist.symbolPacks.1.theme>
+  <!-- EN: temple -->
+  <Structure_Animist.worshipRoomLabel>神殿</Structure_Animist.worshipRoomLabel>
+  
+  <!-- EN: archist -->
+  <Structure_Archist.label>远古科技崇拜</Structure_Archist.label>
+  <!-- EN: Archotechs are the true gods. They know the moral structure of the universe, and serving them is how we will connect with it. -->
+  <Structure_Archist.description>远古科技才是真正的神祇。它们知晓宇宙的道德结构，侍奉它们就是我们与之相连的方式。</Structure_Archist.description>
+  <Structure_Archist.generalRules.rulesStrings>
+    <li>memeAdjective->远古的</li>
+    <li>memeAdjective->远古科技的</li>
+    <li>memeAdjective->圣典的</li>
+    <li>memeHyphenPrefix->古</li>
+    <li>memeHyphenPrefix->远古</li>
+    <li>memeLeaderNoun->远古信徒</li>
+    <li>memeLeaderNoun->远古技士</li>
+    <li>memeLeaderAdjective->远古的</li>
+    <li>memeLeaderAdjective->异色体的</li>
+    <li>memeMoralist->祭司</li>
+    <li>memeMoralist->教士</li>
+    <li>memeMoralist->院长</li>
+    <li>memeMoralist->修院院长</li>
+  </Structure_Archist.generalRules.rulesStrings>
+  <!-- EN: archotechnic -->
+  <Structure_Archist.symbolPacks.0.adjective>远古科技的</Structure_Archist.symbolPacks.0.adjective>
+  <!-- EN: Archotechnics -->
+  <Structure_Archist.symbolPacks.0.ideoName>远古科技教</Structure_Archist.symbolPacks.0.ideoName>
+  <!-- EN: archotechnist -->
+  <Structure_Archist.symbolPacks.0.member>远古技士</Structure_Archist.symbolPacks.0.member>
+  <!-- EN: archotechnology -->
+  <Structure_Archist.symbolPacks.0.theme>远古科技</Structure_Archist.symbolPacks.0.theme>
+  <!-- EN: archist -->
+  <Structure_Archist.symbolPacks.1.adjective>远古的</Structure_Archist.symbolPacks.1.adjective>
+  <!-- EN: Archism -->
+  <Structure_Archist.symbolPacks.1.ideoName>远古崇拜</Structure_Archist.symbolPacks.1.ideoName>
+  <!-- EN: archist -->
+  <Structure_Archist.symbolPacks.1.member>远古信徒</Structure_Archist.symbolPacks.1.member>
+  <!-- EN: archism -->
+  <Structure_Archist.symbolPacks.1.theme>远古崇拜</Structure_Archist.symbolPacks.1.theme>
+  <!-- EN: shrine -->
+  <Structure_Archist.worshipRoomLabel>圣所</Structure_Archist.worshipRoomLabel>
+  
+  <!-- EN: ideological -->
+  <Structure_Ideological.label>世俗理念</Structure_Ideological.label>
+  <!-- EN: There are no gods. The moral structure of the universe is found in our grand narrative of social forces. -->
+  <Structure_Ideological.description>没有神祇。宇宙的道德结构存在于我们关于社会力量的宏大叙事之中。</Structure_Ideological.description>
+  <Structure_Ideological.generalRules.rulesStrings>
+    <li>memeHyphenPrefix->理念</li>
+    <li>memeLeaderNoun->智者</li>
+    <li>memeLeaderNoun->决断者</li>
+    <li>memeLeaderNoun->领袖</li>
+    <li>memeLeaderAdjective->伦理的</li>
+    <li>memeLeaderAdjective->道德的</li>
+    <li>memeLeaderAdjective->觉醒的</li>
+    <li>memeMoralist->顾问</li>
+    <li>memeMoralist->伦理学家</li>
+    <li>memeMoralist->道德家</li>
+    <li>memeMoralist->哲学家</li>
+    <li>memeMoralist->思想家</li>
+    <li>memeMoralist->学者</li>
+    <li>memeMoralist->诡辩家</li>
+  </Structure_Ideological.generalRules.rulesStrings>
+  <!-- EN: ethical -->
+  <Structure_Ideological.symbolPacks.0.adjective>伦理的</Structure_Ideological.symbolPacks.0.adjective>
+  <!-- EN: Ethics -->
+  <Structure_Ideological.symbolPacks.0.ideoName>伦理</Structure_Ideological.symbolPacks.0.ideoName>
+  <!-- EN: ethicist -->
+  <Structure_Ideological.symbolPacks.0.member>伦理家</Structure_Ideological.symbolPacks.0.member>
+  <!-- EN: ethics -->
+  <Structure_Ideological.symbolPacks.0.theme>伦理学</Structure_Ideological.symbolPacks.0.theme>
+  <!-- EN: ideological -->
+  <Structure_Ideological.symbolPacks.1.adjective>理念的</Structure_Ideological.symbolPacks.1.adjective>
+  <!-- EN: Ideology -->
+  <Structure_Ideological.symbolPacks.1.ideoName>理念</Structure_Ideological.symbolPacks.1.ideoName>
+  <!-- EN: ideologist -->
+  <Structure_Ideological.symbolPacks.1.member>理念家</Structure_Ideological.symbolPacks.1.member>
+  <!-- EN: ideology -->
+  <Structure_Ideological.symbolPacks.1.theme>理念论</Structure_Ideological.symbolPacks.1.theme>
+  <!-- EN: just -->
+  <Structure_Ideological.symbolPacks.2.adjective>公正的</Structure_Ideological.symbolPacks.2.adjective>
+  <!-- EN: Justice -->
+  <Structure_Ideological.symbolPacks.2.ideoName>公理</Structure_Ideological.symbolPacks.2.ideoName>
+  <!-- EN: justicar -->
+  <Structure_Ideological.symbolPacks.2.member>公理家</Structure_Ideological.symbolPacks.2.member>
+  <!-- EN: justice -->
+  <Structure_Ideological.symbolPacks.2.theme>公正</Structure_Ideological.symbolPacks.2.theme>
+  <!-- EN: sanctuary -->
+  <Structure_Ideological.worshipRoomLabel>庇护所</Structure_Ideological.worshipRoomLabel>
+  
+  <!-- EN: abstract theist -->
+  <Structure_TheistAbstract.label>抽象有神论</Structure_TheistAbstract.label>
+  <!-- EN: The god(s) do not have physical form, but are everywhere at once. They know all, and can do anything. Their will defines the moral structure of the universe. -->
+  <Structure_TheistAbstract.description>神（们）没有实体形态，却同时无处不在。他们全知全能。他们的意志定义了宇宙的道德结构。</Structure_TheistAbstract.description>
+  <Structure_TheistAbstract.generalRules.rulesStrings>
+    <li>memeCreed->神殿</li>
+    <li>memeCreed->教派</li>
+    <li>memeCreed->教团</li>
+    <li>memeCreed->信仰</li>
+    <li>memeHyphenPrefix->神</li>
+    <li>memeConcept->创世</li>
+    <li>memeConcept->生命</li>
+    <li>memeLeaderNoun->主教</li>
+    <li>memeLeaderNoun->枢机</li>
+    <li>memeLeaderNoun->教宗</li>
+    <li>memeLeaderNoun->圣者</li>
+    <li>memeLeaderAdjective->神圣的</li>
+    <li>memeLeaderAdjective->天赐的</li>
+    <li>memeMoralist->祭司</li>
+    <li>memeMoralist->牧师</li>
+    <li>memeMoralist->教士</li>
+    <li>memeMoralist->布道者</li>
+    <li>memeMoralist->院长</li>
+    <li>memeMoralist->修院院长</li>
+  </Structure_TheistAbstract.generalRules.rulesStrings>
+  <!-- EN: spiritual -->
+  <Structure_TheistAbstract.symbolPacks.0.adjective>唯灵的</Structure_TheistAbstract.symbolPacks.0.adjective>
+  <!-- EN: Spiritism -->
+  <Structure_TheistAbstract.symbolPacks.0.ideoName>唯灵论</Structure_TheistAbstract.symbolPacks.0.ideoName>
+  <!-- EN: spiritist -->
+  <Structure_TheistAbstract.symbolPacks.0.member>唯灵论者</Structure_TheistAbstract.symbolPacks.0.member>
+  <!-- EN: spiritualism -->
+  <Structure_TheistAbstract.symbolPacks.0.theme>唯灵论</Structure_TheistAbstract.symbolPacks.0.theme>
+  <!-- EN: faithful -->
+  <Structure_TheistAbstract.symbolPacks.1.adjective>虔信的</Structure_TheistAbstract.symbolPacks.1.adjective>
+  <!-- EN: Faith -->
+  <Structure_TheistAbstract.symbolPacks.1.ideoName>信条</Structure_TheistAbstract.symbolPacks.1.ideoName>
+  <!-- EN: faithholder -->
+  <Structure_TheistAbstract.symbolPacks.1.member>信士</Structure_TheistAbstract.symbolPacks.1.member>
+  <!-- EN: faith -->
+  <Structure_TheistAbstract.symbolPacks.1.theme>信仰</Structure_TheistAbstract.symbolPacks.1.theme>
+  <!-- EN: divinist -->
+  <Structure_TheistAbstract.symbolPacks.2.adjective>神性的</Structure_TheistAbstract.symbolPacks.2.adjective>
+  <!-- EN: Divinism -->
+  <Structure_TheistAbstract.symbolPacks.2.ideoName>神性论</Structure_TheistAbstract.symbolPacks.2.ideoName>
+  <!-- EN: divinist -->
+  <Structure_TheistAbstract.symbolPacks.2.member>神性论者</Structure_TheistAbstract.symbolPacks.2.member>
+  <!-- EN: divinity -->
+  <Structure_TheistAbstract.symbolPacks.2.theme>神性</Structure_TheistAbstract.symbolPacks.2.theme>
+  <!-- EN: holyist -->
+  <Structure_TheistAbstract.symbolPacks.3.adjective>圣洁的</Structure_TheistAbstract.symbolPacks.3.adjective>
+  <!-- EN: Holyism -->
+  <Structure_TheistAbstract.symbolPacks.3.ideoName>圣洁论</Structure_TheistAbstract.symbolPacks.3.ideoName>
+  <!-- EN: holyist -->
+  <Structure_TheistAbstract.symbolPacks.3.member>圣洁者</Structure_TheistAbstract.symbolPacks.3.member>
+  <!-- EN: holiness -->
+  <Structure_TheistAbstract.symbolPacks.3.theme>圣洁</Structure_TheistAbstract.symbolPacks.3.theme>
+  <!-- EN: temple -->
+  <Structure_TheistAbstract.worshipRoomLabel>神殿</Structure_TheistAbstract.worshipRoomLabel>
+  
+  <!-- EN: embodied theist -->
+  <Structure_TheistEmbodied.label>具象有神论</Structure_TheistEmbodied.label>
+  <!-- EN: The god(s) walk the planets like us, yet they are powerful and immortal as we are not. They decide the moral structure of the universe. -->
+  <Structure_TheistEmbodied.description>神（们）像我们一样行走于行星之上，但他们强大而不朽，与我们不同。他们决定了宇宙的道德结构。</Structure_TheistEmbodied.description>
+  <Structure_TheistEmbodied.generalRules.rulesStrings>
+    <li>memeCreed->教派</li>
+    <li>memeCreed->教团</li>
+    <li>memeCreed->神殿</li>
+    <li>memeCreed->信仰</li>
+    <li>memeHyphenPrefix->神</li>
+    <li>memeConcept->创世</li>
+    <li>memeConcept->生命</li>
+    <li>memeLeaderNoun->圣殿骑士</li>
+    <li>memeLeaderAdjective->天赐的</li>
+    <li>memeMoralist->祭司</li>
+    <li>memeMoralist->教士</li>
+  </Structure_TheistEmbodied.generalRules.rulesStrings>
+  <!-- EN: spiritual -->
+  <Structure_TheistEmbodied.symbolPacks.0.adjective>唯灵的</Structure_TheistEmbodied.symbolPacks.0.adjective>
+  <!-- EN: Spiritism -->
+  <Structure_TheistEmbodied.symbolPacks.0.ideoName>唯灵论</Structure_TheistEmbodied.symbolPacks.0.ideoName>
+  <!-- EN: spiritist -->
+  <Structure_TheistEmbodied.symbolPacks.0.member>唯灵论者</Structure_TheistEmbodied.symbolPacks.0.member>
+  <!-- EN: spiritualism -->
+  <Structure_TheistEmbodied.symbolPacks.0.theme>唯灵论</Structure_TheistEmbodied.symbolPacks.0.theme>
+  <!-- EN: faithful -->
+  <Structure_TheistEmbodied.symbolPacks.1.adjective>虔信的</Structure_TheistEmbodied.symbolPacks.1.adjective>
+  <!-- EN: Faith -->
+  <Structure_TheistEmbodied.symbolPacks.1.ideoName>信条</Structure_TheistEmbodied.symbolPacks.1.ideoName>
+  <!-- EN: faithholder -->
+  <Structure_TheistEmbodied.symbolPacks.1.member>信士</Structure_TheistEmbodied.symbolPacks.1.member>
+  <!-- EN: faith -->
+  <Structure_TheistEmbodied.symbolPacks.1.theme>信仰</Structure_TheistEmbodied.symbolPacks.1.theme>
+  <!-- EN: pantheon -->
+  <Structure_TheistEmbodied.worshipRoomLabel>万神殿</Structure_TheistEmbodied.worshipRoomLabel>
+  
+</LanguageData>

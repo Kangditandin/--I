@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Inhumanization -->
+  <ReHumanizedLabel>已恢复人性</ReHumanizedLabel>
+  <ReHumanizedText>{0_nameDef} 重新找回了与人性的联系。{0_nameDef} 的“非人化”健康状态已被移除。</ReHumanizedText>
+  <WarningFromLabel>来自 {0_nameDef} 的警告</WarningFromLabel>
+
+  <!-- Hate chanters -->
+  <HateChantersLabel>邪教徒仇恨吟唱者</HateChantersLabel>
+  <HateChantersText>邪教徒仇恨吟唱者已经抵达。他们打算举行仇恨吟唱仪式，向你的殖民者强行注入灵能愤怒并使他们发疯。吟唱会越来越响亮，直到邪教徒被阻止。</HateChantersText>
+  <HateChantersAttackingLabel>邪教徒正在攻击</HateChantersAttackingLabel>
+  <HateChantersAttackingText>邪教徒已结束仇恨吟唱，开始从仪式恍惚中醒来。\n\n准备防卫。</HateChantersAttackingText>
+
+  <!-- Psychic rituals -->
+  <PsychicRitualCompleteLabel>{0} 完成</PsychicRitualCompleteLabel>
+
+  <VoidProvocationCompletedText>{INVOKER_nameDef} 已完成 {RITUAL_definite} 仪式，发出了一道会吸引实体的灵能脉冲。</VoidProvocationCompletedText>
+  <VoidProvocationSucceeded>为接下来的一切做好准备。</VoidProvocationSucceeded>
+  <VoidProvocationFailed>不幸的是，你的呼唤没有得到回应。</VoidProvocationFailed>
+  <VoidProvocationDarkPsychicShock>在此过程中，{INVOKER_nameDef} 瞥见了人类无法理解的恐怖之物。灵能的黑暗冲击使 {INVOKER_objective} 陷入了短时间的昏迷。</VoidProvocationDarkPsychicShock>
+  <PhilophagyCompleteText>{INVOKER_nameDef} 已完成 {RITUAL_definite} 仪式，吸收了 {TARGET_nameDef} 的技能与记忆。</PhilophagyCompleteText>
+  <PawnGainedXPInSkill>{0_nameDef} 在 {2_label} 上获得了 {1} 点经验</PawnGainedXPInSkill>
+  <PawnLostXPInSkill>{0_nameDef} 在 {2_label} 上失去了 {1} 点经验</PawnLostXPInSkill>
+  <PhilophagySkillLevelGained>从技能等级 {0} 提升到 {1}。</PhilophagySkillLevelGained>
+  <PhilophagySkillLevelLost>从技能等级 {0} 降至 {1}。</PhilophagySkillLevelLost>
+  <PhilophagySkillLevelRemains>仍为技能等级 {0}。</PhilophagySkillLevelRemains>
+  <PhilophagyDamagedTarget>该过程损伤了 {TARGET_nameDef} 的大脑，使 {TARGET_objective} 陷入昏迷。</PhilophagyDamagedTarget>
+
+  <ImbueDeathRefuralCompleteText>{0_nameDef} 已被注入拒死之力。{0_pronoun} 现在可以在死亡后自我复活。\n\n该过程使 {0_nameDef} 的大脑萎缩，导致 {0_objective} 在各项技能上共失去 {1} 点经验。</ImbueDeathRefuralCompleteText>
+
+  <SummonAnimalsSuccessText>{0_nameDef} 已完成 {RITUAL_definite} 仪式。很快就会有一群动物到来。</SummonAnimalsSuccessText>
+  <SummonAnimalsFailureText>{0_nameDef} 已完成 {RITUAL_definite} 仪式，但出了可怕的问题！仪式引来了感染狂犬病的猎杀动物。准备迎接它们的到来！</SummonAnimalsFailureText>
+  
+  <SummonShamblersCompleteText>{0_nameDef} 已成功完成 {RITUAL_definite} 仪式。准备迎接它们的到来。</SummonShamblersCompleteText>
+
+  <AttackingFromMultipleDirections>他们正从多个方向发起攻击。</AttackingFromMultipleDirections> 
+
+  <ChronophagyCompleteText>{0_nameDef} 已成功完成 {RITUAL_definite} 仪式。仪式产生了以下效果：</ChronophagyCompleteText>
+  <ChronophagyTargetAged>{0_nameDef} 老了 {1} 岁</ChronophagyTargetAged>
+  <ChronophagyInvokerRejuvenated>{0_nameDef} 年轻了 {1} 岁</ChronophagyInvokerRejuvenated>
+  <ChronophagyTargetDiedOfOldAge>{0_nameDef} 无法承受噬时仪式带来的衰老而因年老死亡。</ChronophagyTargetDiedOfOldAge>
+  <ChronophagyTargetOldAgeDiseases>虽然 {0_nameDef} 在噬时仪式中幸存，但 {0_pronoun} 出现了以下状况</ChronophagyTargetOldAgeDiseases>
+  <ChronophagyInvokerCuredDiseases>此外，该过程已治愈 {0_nameDef} 的以下病症：</ChronophagyInvokerCuredDiseases>
+  <ChronophagyCurrentAge>现在为 {0} 岁</ChronophagyCurrentAge>
+
+  <PleasurePulseCompleteText>{0_nameDef} 已完成 {RITUAL_definite} 仪式。在接下来的 {1} 内，受 {RITUAL_definite} 影响的所有人都会更快乐，但工作更慢。</PleasurePulseCompleteText>
+
+  <NeurosisPulseCompleteText>{0_nameDef} 已完成 {RITUAL_definite} 仪式。在接下来的 {1} 内，所有听到该脉冲的人都会工作更快，但更易怒。</NeurosisPulseCompleteText>
+
+  <BloodRainCompleteText>{0_nameDef} 已完成 {RITUAL_definite} 仪式。浓稠的红色雨滴开始从天而降。让所有人留在室内，以免他们陷入狂暴。</BloodRainCompleteText>
+
+  <BrainwipeCompleteText>{INVOKER_nameDef} 已完成 {RITUAL_definite} 仪式，混乱地抹除了 {TARGET_nameDef} 的记忆。</BrainwipeCompleteText>
+  <BrainwipeTargetComa>{TARGET_pronoun} 将昏迷 {1}。</BrainwipeTargetComa>
+  <BrainwipeUnwaveringlyLoyal>{TARGET_nameDef} 不再绝对忠诚。</BrainwipeUnwaveringlyLoyal>
+  <BrainwipeRehumanized>{TARGET_nameDef} 已恢复人性。</BrainwipeRehumanized>
+
+  <PsychophagyCompleteText>{INVOKER_nameDef} 已完成 {RITUAL_definite} 仪式，吞噬了 {TARGET_nameDef} 的灵能存在。</PsychophagyCompleteText>
+  <PsychophagyTargetSurvived>{TARGET_nameDef} 现在灵能失聪。该过程损伤了 {TARGET_nameDef} 的大脑，使 {TARGET_objective} 陷入昏迷。</PsychophagyTargetSurvived>
+  
+  <PsychicRitualTargetBrainLiquified>该过程液化了 {TARGET_nameDef} 的大脑，导致 {TARGET_objective} 死亡。</PsychicRitualTargetBrainLiquified>
+
+  <SummonFleshbeastsPlayerCompleteText>{0_nameDef} 已完成 {RITUAL_definite} 仪式。肉兽正从地下涌出！</SummonFleshbeastsPlayerCompleteText>
+
+  <GhoulInfusionCompleteText>{INVOKER_nameDef} 已完成向 {TARGET_nameDef} 注入生物铁素。仪式扭曲了 {TARGET_nameDef} 的心智并使其躯体变异，造就出一种被称为食尸鬼的恐怖生物。{INVOKER_nameDef} 与 {TARGET_nameDef} 共享灵能链接，使 {INVOKER_objective} 得以控制 {TARGET_nameDef}。\n\n食尸鬼靠吃生肉存活。若它们挨饿，可能会转为敌对。</GhoulInfusionCompleteText>
+  
+  <AttackersMayCastRitualMultipleTimes>他们可能会多次举行仪式。你必须去阻止他们。</AttackersMayCastRitualMultipleTimes>
+
+  <SkipAbductionPlayerCompleteText>{INVOKER_nameDef} 已完成 {RITUAL_definite} 仪式。通过操纵空间与时间，{INVOKER_nameDef} 绑架了 {FACTION_name} 派系的 {TARGET_nameDef}。仪式的恐怖性质使 {TARGET_nameDef} 陷入了短时间的昏迷。</SkipAbductionPlayerCompleteText>
+
+  <FleshmassResponseLabel>肉团反应</FleshmassResponseLabel> 
+  <FleshmassResponseText>肉团的死亡引发了激烈的反应！肉团颤动着，孕育出新的肉兽来保护自己。</FleshmassResponseText> 
+
+  <!-- Void awakening -->
+  <VoidAwakeningStageOneStructuresActivatedLabel>天空变暗</VoidAwakeningStageOneStructuresActivatedLabel>
+  <VoidAwakeningStageTwoStructuresActivatedLabel>结构已激活</VoidAwakeningStageTwoStructuresActivatedLabel>
+  <VoidAwakeningStageOneStructuresActivatedText>随着第二个结构被激活，黑暗开始加剧。非自然的黑暗很快就会降临。确保你的殖民地做好准备。储备资源、建造灯具、制作干扰弹，并加固防御。只有在光中的人才会安全。\n\n很快会出现更多扭曲的结构。</VoidAwakeningStageOneStructuresActivatedText>
+  <VoidAwakeningStageTwoStructuresActivatedText>所有虚空结构都已激活。虚空巨石碑周围的空间开始闪烁。做好准备。</VoidAwakeningStageTwoStructuresActivatedText> 
+  <VoidAwakeningFinalStructuresActivatedLabel>{STUDIER_nameDef} 被传送</VoidAwakeningFinalStructuresActivatedLabel> 
+  <VoidAwakeningFinalStructuresActivatedText>{STUDIER_nameDef} 激活了巨石碑，被从我们的时空扯入另一个地方。\n\n{STUDIER_pronoun} 发现自己身处一个布满锯齿状金属尖刺的房间。每个表面都覆着光滑的黑色液体，空气因力量而震动。\n\n这金属地狱是通往某种非人超智能的连接通道。</VoidAwakeningFinalStructuresActivatedText> 
+  <VoidAwakeningShamblerArrivalLabel>行尸强攻</VoidAwakeningShamblerArrivalLabel>
+  <VoidAwakeningShamblerArrivalText>一群行尸被虚空结构吸引而来。做好准备！</VoidAwakeningShamblerArrivalText>
+  <VoidAwakeningFleshbeastBurrowLabel>肉兽掘进</VoidAwakeningFleshbeastBurrowLabel>
+  <VoidAwakeningFleshbeastBurrowText>巨石碑发出了一道强大的灵能脉冲，吸引了附近的实体。\n\n在地面之下，你能听到肉质的尖叫声和爪子的抓挠声。肉兽正朝你掘进。做好准备！</VoidAwakeningFleshbeastBurrowText>
+  <VoidAwakeningMetalhorrorArrivalLabel>金属恐惧袭击</VoidAwakeningMetalhorrorArrivalLabel>
+  <VoidAwakeningMetalhorrorArrivalText>金属恐惧正出现在虚空巨石碑附近。做好准备！</VoidAwakeningMetalhorrorArrivalText>
+  <VoidAwakeningEntityArrivalLabel>实体袭击</VoidAwakeningEntityArrivalLabel> 
+  <VoidAwakeningEntityArrivalText>被激活的虚空结构产生了一道扭曲的灵能脉冲，吸引了附近的实体。做好准备！</VoidAwakeningEntityArrivalText>
+  <VoidAwakeningBreadcrumbLetterLabel>拥抱虚空</VoidAwakeningBreadcrumbLetterLabel>
+  <VoidAwakeningBreadcrumbLetterText>在与虚空结构互动时，{PAWN_nameDef} 看到了虚空的幻象。有那么一瞬间，{PAWN_pronoun} 游弋于深不可测的黑色海洋，感受到了它无边的非人力量。\n\n{PAWN_nameDef} 认为也许有办法通过拥抱虚空来掌控那份力量。如果你不关闭，而是永久打开通往虚空的通道，它或许能带来难以估量的可能。</VoidAwakeningBreadcrumbLetterText>
+
+  <!-- Void node -->
+  <VoidNodeReturnedLabel>{PAWN_nameDef} 归来</VoidNodeReturnedLabel>
+  <VoidNodeReturnedMessage>{PAWN_nameDef} 已重新出现。</VoidNodeReturnedMessage>
+  <EmbracedVoidText>{PAWN_nameDef} 已重新出现。\n\n{PAWN_pronoun} 看上去被虚空那非人的思维模式所侵蚀。{PAWN_possessive} 眼中已无任何人性。\n\n{PAWN_nameDef} 的身心现已永久连接到那片非人愤怒的黑暗虚空。凭这股新的连接带来的力量，{PAWN_nameDef} 不再需要舒适或睡眠等凡人需求。{PAWN_pronoun} 获得了利用虚空之力使他人感到恐惧的能力。\n\n巨石碑已被唤醒。随着 {PAWN_nameDef} 的归来，它嗡鸣得更响，提醒着人们：它与虚空的连接已被打开并永久化。</EmbracedVoidText>
+  <DisruptedLinkText>{PAWN_nameDef} 已重新出现。{PAWN_pronoun} 因努力而疲惫，但其他方面健康。\n\n通过关闭通往虚空的通道，{PAWN_nameDef} 阻止了更多非自然现象进入我们的世界。区域内的敌对实体全部倒地，毫无生气。\n\n{PAWN_possessive} 英雄事迹必将广为传颂。</DisruptedLinkText>
+  <RewardFleshcraftingAbility>血肉塑造</RewardFleshcraftingAbility>
+  <RewardSlaughterAbility>屠戮</RewardSlaughterAbility>
+  <RewardShamblerControlAbility>行尸操控</RewardShamblerControlAbility>
+
+  <!-- Duplicate sickness -->
+  <DuplicateSicknessLabel>复制体疾病</DuplicateSicknessLabel>
+  <DuplicateSicknessText>{0_nameDef} 和 {0_possessive} 的复制体都感到不适。他们的状况似乎与复制过程有关，并且正在恶化。维系他们的灵能连接使他们逐渐失去意识。除非其中一人死亡，否则状况不会好转。</DuplicateSicknessText>
+
+  <!-- Frenzied animals -->
+  <FrenziedAnimalsLabel>狂乱动物</FrenziedAnimalsLabel>
+  <FrenziedAnimalsText>一群猎杀人的 {0} 进入了此区域！它们是被你的仪式吸引而来的。它们会在该地区游荡，猎食人形生物的肉。\n\n除非看到有人穿过门，否则它们不会攻击门。躲在室内就安全了。它们也不会攻击断电的炮塔，所以关掉炮塔以保住它们。\n\n这些 {0} 会在一两天内离开该区域。你可以躲起来等它们离开，也可以与它们战斗。</FrenziedAnimalsText>
+
+  <!-- Ghouls -->
+  <GhoulBetrayalLabel>食尸鬼叛变</GhoulBetrayalLabel>
+  <GhoulBetrayalText>{PAWN_nameDef} 被 {PAWN_possessive} 对生肉的贪婪饥饿逼疯了！</GhoulBetrayalText>
+  
+  <!-- Distress signal -->
+  <DistressSignalLabel>遇险信号</DistressSignalLabel>
+  <DistressSignalText>你截获了来自附近 {FACTION_name} 营地的一段遇险信号。\n\n那个慌乱的声音哀求立即支援以抵御威胁。作为回报，他们愿意献出营地中的一切，包括强大的远古科技碎片。\n\n当那个声音试图说明威胁的性质时，信号中断了。</DistressSignalText>
+  <DistressSignalAmbushLabel>埋伏</DistressSignalAmbushLabel>
+  <DistressSignalAmbushText>肉兽正从附近的坑洞中涌出！</DistressSignalAmbushText>
+
+  <!-- Chimeras -->
+  <ChimeraAssaultLabel>奇美拉接近</ChimeraAssaultLabel>
+  <ChimeraAssaultText>一群扭曲的、类似动物的奇美拉怪物出现在附近。\n\n这些畸形野兽会盯着你的殖民地，伺机发动攻击。它们很容易受惊，若被挑衅可能会进行报复。</ChimeraAssaultText>
+
+  <!-- Unnatural darkness -->
+  <DarknessLiftingEarlyLetterLabel>黑暗消退</DarknessLiftingEarlyLetterLabel>
+  <DarknessLiftingEarlyLetterText>最后一根噩梦般的柱体已经倒塌。非自然的黑暗开始消散。殖民者们在清朗的空气中松了一口气。</DarknessLiftingEarlyLetterText>
+  <PawnAttackedInDarknessLabel>{0_nameDef} 遭到袭击</PawnAttackedInDarknessLabel>
+  <PawnAttackedInDarknessText>黑暗中的某种东西袭击了 {0_nameDef}！\n\n在 {0_pronoun} 安全抵达光明之前，这些袭击会持续下去。</PawnAttackedInDarknessText>
+  <NoctolAttackLetterLabel>夜虫袭击</NoctolAttackLetterLabel>
+  <NoctolAttackLetterText>黑暗开始涌动。墨水般的漆黑中某处传来了非人的虫鸣。\n\n黑色的、类似昆虫的夜虫很快就会从黑暗中出现并发动攻击。</NoctolAttackLetterText>
+  <DarknessWarningLetterLabel>黑暗将至</DarknessWarningLetterLabel>
+  <DarknessWarningLetterText>黑暗即将来临。只有处于灯具、火把或干扰弹直接照射下的人才会安全。\n\n要让殖民者待在光中，你可以在“管制”页签中通过指定活动区域来限制他们的活动范围。</DarknessWarningLetterText>
+  <DarknessWaveringLetterLabel>黑暗动摇</DarknessWaveringLetterLabel>
+  <DarknessWaveringLetterText>随着夜石被摧毁，黑暗中浮现出一道浅浅的裂缝，随后又被更多的黑烟填满。\n\n摧毁剩余的夜石以终结这场非自然的黑暗。</DarknessWaveringLetterText>
+
+  <!-- Shambler Swarms -->
+  <LetterLabelShamblerSwarmArrived>行尸接近</LetterLabelShamblerSwarmArrived>
+  <LetterLabelShamblerArrived>行尸接近</LetterLabelShamblerArrived>
+  <LetterShamblerSwarmArrived>一群 {0} 具蹒跚腐烂的尸体正在接近。某种非人的力量复活了这些没有生命的躯体，并驱使他们去杀戮。\n\n它们会在区域内游荡。若看到人类就会攻击；若没有，几天后就会离开。\n\n如果你能捕获一只，就可以研究它来获取异象知识。</LetterShamblerSwarmArrived>
+  <LetterShamblerArrived>一具蹒跚腐烂的尸体正在接近。某种非人的力量复活了这具没有生命的躯体，并驱使它去杀戮。\n\n它会在区域内游荡。若看到人类就会攻击；若没有，几天后就会离开。\n\n如果你能捕获它，就可以研究它来获取异象知识。</LetterShamblerArrived>
+  <LetterLabelShamblerAnimalsArrived>{ANIMALKIND_label} 行尸</LetterLabelShamblerAnimalsArrived>
+  <LetterShamblerAnimalsArrived>一群蹒跚腐烂的 {ANIMALKIND_label} 尸体正在接近。某种非人的力量复活了这些没有生命的躯体，并驱使他们去杀戮。\n\n它们会在区域内游荡。若看到人类就会攻击；若没有，几天后就会离开。\n\n如果你能捕获一只，就可以研究它来获取异象知识。</LetterShamblerAnimalsArrived>
+
+  <!-- Ghoul pod crash -->
+  <GhoulPodCrashLabel>运输舱坠毁</GhoulPodCrashLabel>
+  <GhoulPodCrashText>一个载着饥饿的敌对食尸鬼的运输舱在附近着陆了。\n\n这只食尸鬼目前处于休克状态，但很快就会恢复，并攻击它看到的任何人。可以把它捕获到收容平台上作进一步研究。\n\n在它醒来之前捕获或杀死它。</GhoulPodCrashText>
+  <GhoulPodCrashStartingPawnText>一个载着饥饿的敌对食尸鬼的运输舱在附近着陆了。仔细一看，它似乎是 {PAWN_nameDef}，你团队的前成员。\n\n这只食尸鬼目前处于休克状态，但很快就会恢复，并攻击它看到的任何人。可以把它捕获到收容平台上作进一步研究。\n\n在它醒来之前捕获或杀死它。</GhoulPodCrashStartingPawnText>
+
+  <!-- Entity codex -->
+  <LetterLabelEntityDiscovery>出现新的可研究项目</LetterLabelEntityDiscovery>
+  <LetterTextEntityDiscoveryResearch>你对 {ENTITY_definite} 的发现带来了新的见解。你现在可以研究以下异象项目</LetterTextEntityDiscoveryResearch>
+
+  <!-- Nociosphere -->
+  <NociosphereDefeatedLabel>夜球已被击败</NociosphereDefeatedLabel>
+  <NociosphereDefeatedText>夜球已被摧毁，留下了一些珍贵的资源。</NociosphereDefeatedText>
+  <NociosphereBecomingUnstableLabel>夜球正在失稳</NociosphereBecomingUnstableLabel> 
+  <NociosphereBecomingUnstableText>夜球的能量模式已开始变化与适应。在 10 天内，它将不再对压制做出反应。\n\n若不压制，夜球将会激活。</NociosphereBecomingUnstableText> 
+  <NociosphereBecomingUnstableTextExtraSendable>将夜球派去攻击一支庞大的敌对部队以将其处理掉。一旦它的攻势结束，它将永久离开。</NociosphereBecomingUnstableTextExtraSendable>
+  <NociosphereBecomingUnstableTextExtraNotSendable>研究夜球以找到处理它的方法。</NociosphereBecomingUnstableTextExtraNotSendable>
+  <NociosphereUnstableLabel>夜球已失稳</NociosphereUnstableLabel>
+  <NociosphereUnstableText>夜球已失稳，不再对压制做出反应。当它的活动水平达到 100% 时，它将会苏醒。</NociosphereUnstableText>
+  <NociosphereUnstableTextExtraSendable>将夜球派去攻击一支庞大的敌对部队以将其处理掉。一旦它的攻势结束，它将永久离开。</NociosphereUnstableTextExtraSendable> 
+  <NociosphereUnstableTextExtraNotSendable>准备迎接夜球的攻势。</NociosphereUnstableTextExtraNotSendable>
+
+  <UnnaturalCorpseArrivalLabel>奇怪的尸体</UnnaturalCorpseArrivalLabel>
+  <UnnaturalCorpseArrivalText>一具非自然的人类尸体凭空出现了。\n\n仔细查看，这具尸体看上去和 {PAWN_nameDef} 一模一样。它的皮肤摸上去像蜡一样，而且是温热的。\n\n研究这具尸体以了解更多。</UnnaturalCorpseArrivalText>
+
+  <GoldenCubeArrivalLabel>金色方块</GoldenCubeArrivalLabel>
+  <GoldenCubeArrivalText>一个奇怪的方块落在附近。它像黄金一样闪耀，却无法被划伤。它很轻，摸上去是温热的。光线在其表面流动的样子令人着迷。\n\n{PAWN_nameDef} 对那方块有种难以言说的向往。\n\n研究这个方块以了解更多。</GoldenCubeArrivalText>
+
+  <VoidCuriosityLabel>虚空求知欲</VoidCuriosityLabel>
+  <VoidCuriosityText_Researched>{PAWN_nameDef} 开始痴迷于虚空，并希望用“虚空挑衅”仪式来探究它。\n\n使用“虚空挑衅”仪式来发现并捕获实体。被捕获的实体可被研究以完成异象研究项目，或连接到生物铁素采集器以产出生物铁素。\n\n放置一个灵能仪式点以举行“虚空挑衅”仪式。</VoidCuriosityText_Researched>
+  <VoidCuriosityText_NotResearched>{PAWN_nameDef} 开始痴迷于虚空，并希望用“虚空挑衅”仪式来探究它。\n\n使用“虚空挑衅”仪式来发现并捕获实体。被捕获的实体可被研究以完成异象研究项目，或连接到生物铁素采集器以产出生物铁素。\n\n研究“虚空挑衅”，然后放置一个灵能仪式点以举行仪式。</VoidCuriosityText_NotResearched>
+
+</LanguageData>

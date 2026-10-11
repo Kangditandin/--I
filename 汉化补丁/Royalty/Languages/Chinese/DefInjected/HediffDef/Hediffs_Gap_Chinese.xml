@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Abasia.descriptionShort>一种使人无法行走的神经性病症。患者会自然康复，但过程缓慢。</Abasia.descriptionShort>
+  <AestheticNose.labelNoun>一个美容鼻</AestheticNose.labelNoun>
+  <AestheticShaper.labelNoun>一个美容塑形器</AestheticShaper.labelNoun>
+  <ArmorskinGland.labelNoun>一个装甲皮腺</ArmorskinGland.labelNoun>
+  <BloodRot.descriptionShort>一种缓慢生长的细菌性疾病。一旦达到完全饱和，就会杀死患者。</BloodRot.descriptionShort>
+  <CircadianAssistant.labelNoun>一个昼夜节律辅助器</CircadianAssistant.labelNoun>
+  <CircadianHalfCycler.labelNoun>一个昼夜节律半循环器</CircadianHalfCycler.labelNoun>
+  <Coagulator.labelNoun>一个凝血器</Coagulator.labelNoun>
+  <DetoxifierStomach.labelNoun>一个灭菌胃</DetoxifierStomach.labelNoun>
+  <DrillArm.labelNoun>一条钻臂</DrillArm.labelNoun>
+  <ElbowBlade.labelNoun>一片肘刃</ElbowBlade.labelNoun>
+  <FieldHand.labelNoun>一只田间手</FieldHand.labelNoun>
+  <GastroAnalyzer.labelNoun>一个胃部分析仪</GastroAnalyzer.labelNoun>
+  <HandTalon.labelNoun>一只爪手</HandTalon.labelNoun>
+  <HealingEnhancer.labelNoun>一个愈合强化器</HealingEnhancer.labelNoun>
+  <Immunoenhancer.labelNoun>一个免疫强化器</Immunoenhancer.labelNoun>
+  <KneeSpike.labelNoun>一个膝钉</KneeSpike.labelNoun>
+  <LearningAssistant.labelNoun>一个学习辅助器</LearningAssistant.labelNoun>
+  <LoveEnhancer.labelNoun>一个爱情强化器</LoveEnhancer.labelNoun>
+  <Mindscrew.labelNoun>一个脑螺钉</Mindscrew.labelNoun>
+  <Neurocalculator.labelNoun>一个神经计算器</Neurocalculator.labelNoun>
+  <NuclearStomach.labelNoun>一个核能胃</NuclearStomach.labelNoun>
+  <PsychicEntropy.descriptionShort>使用灵能时在脑中积聚的混乱能量。若超出正常限度，可能导致灵能崩溃和昏迷。</PsychicEntropy.descriptionShort>
+  <PsychicHarmonizer.labelNoun>一个灵能协调器</PsychicHarmonizer.labelNoun>
+  <PsychicReader.labelNoun>一个灵能读取器</PsychicReader.labelNoun>
+  <PsychicSensitizer.labelNoun>一个灵能敏化器</PsychicSensitizer.labelNoun>
+  <ReprocessorStomach.labelNoun>一个再处理胃</ReprocessorStomach.labelNoun>
+  <StoneskinGland.labelNoun>一个石肤腺</StoneskinGland.labelNoun>
+  <ToughskinGland.labelNoun>一个韧皮腺</ToughskinGland.labelNoun>
+  <VenomFangs.labelNoun>一副毒牙</VenomFangs.labelNoun>
+  <VenomTalon.labelNoun>一只毒爪</VenomTalon.labelNoun>
+  
+</LanguageData>

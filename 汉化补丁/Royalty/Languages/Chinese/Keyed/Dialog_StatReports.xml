@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <Stat_Thing_MinimumRoyalTitle_Name>最低头衔（{FACTION_name}）</Stat_Thing_MinimumRoyalTitle_Name>
+  <Stat_Thing_MinimumRoyalTitle_Desc>{FACTION_name} 的法律规定，此植入体的使用仅限于拥有特定头衔者。仅仅植入并不会被察觉，但一旦使用，就有几率被他们探测到灵能辐射。这将引发外交后果。</Stat_Thing_MinimumRoyalTitle_Desc>
+  <Stat_Thing_Weapon_MinimumRoyalTitle_Desc>{FACTION_name} 的法律规定，此武器的使用仅限于拥有特定头衔者。每次以此武器攻击时，都有几率被他们探测到灵能辐射。这将引发外交后果。</Stat_Thing_Weapon_MinimumRoyalTitle_Desc>
+  <Stat_Thing_MinimumRoyalTitle_Level_Desc>此植入体的每一级升级都需要 {FACTION_name} 中相应的头衔才能合法使用。</Stat_Thing_MinimumRoyalTitle_Level_Desc>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle>可满足的最高头衔</Stat_Thing_Apparel_MaxSatisfiedTitle>
+  <Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>此物品能为其服装要求提供满足的最高贵族头衔。</Stat_Thing_Apparel_MaxSatisfiedTitle_Desc>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle>可满足的最高头衔</Stat_Thing_Ingestible_MaxSatisfiedTitle>
+  <Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>其食物要求能被此物品满足的最高贵族头衔。</Stat_Thing_Ingestible_MaxSatisfiedTitle_Desc>
+
+  <Stat_Thing_PersonaWeaponTrait_Label>特性</Stat_Thing_PersonaWeaponTrait_Label>
+  <Stat_Thing_PersonaWeaponTrait_Desc>此武器的专属特性。</Stat_Thing_PersonaWeaponTrait_Desc>
+
+  <StatsReport_Pain>疼痛倍率</StatsReport_Pain>
+  
+</LanguageData>

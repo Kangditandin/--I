@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodRain.label>血雨</BloodRain.label>
+  <BloodRain.description>一种黏稠的、类似血液的灵能液，从天而降。任何暴露其中的人都会感到怒火渐涨，最终化为狂暴。</BloodRain.description>
+  <Chimera.label>嵌合体</Chimera.label>
+  <CorruptedObelisk.label>腐化方尖碑</CorruptedObelisk.label>
+  <Deathpall.label>死亡之幕</Deathpall.label>
+  <Deathpall.description>一团尸灰色的云，由某种未知超级智能创造的微观自供能远古微粒构成。当它们落到死肉上时，会进入尸体并将其复活，造出会蹒跚而行的生命拟态。</Deathpall.description>
+  <Devourer.label>吞噬者</Devourer.label>
+  <Dreadmeld.label>惧物体</Dreadmeld.label>
+  <Fleshbeasts.label>肉兽</Fleshbeasts.label>
+  <Fleshbeasts.description>由癌变血肉团构成的丑陋生物。有些含有多个神经系统，使它们能分裂成更小的肉兽。</Fleshbeasts.description>
+  <FleshmassHeart.label>肉团之心</FleshmassHeart.label>
+  <FleshmassNucleus.label>肉团核心</FleshmassNucleus.label>
+  <Ghoul.label>食尸鬼</Ghoul.label>
+  <Ghoul.description>一个被植入远古科技碎片、并被黑暗灵能影响扭曲成不停抽搐的杀戮机器的人。</Ghoul.description>
+  <GoldenCube.label>金色方块</GoldenCube.label>
+  <Gorehulk.label>巨魔</Gorehulk.label>
+  <HarbingerTree.label>先驱之树</HarbingerTree.label>
+  <Metalhorror.label>金属恐惧</Metalhorror.label>
+  <Nociosphere.label>夜球</Nociosphere.label>
+  <Noctol.label>夜虫</Noctol.label>
+  <Noctolith.label>夜石</Noctolith.label>
+  <PitGate.label>坑门</PitGate.label>
+  <Revenant.label>亡魂</Revenant.label>
+  <Shambler.label>行尸</Shambler.label>
+  <Shambler.description>被微观远古微粒复活的尸体。行尸缓慢、毫无心智，且会无情地攻击。除非被捕获，行尸会在数天后因代谢耗竭而死亡。</Shambler.description>
+  <Sightstealer.label>窃视者</Sightstealer.label>
+  <TwistedObelisk.label>扭曲方尖碑</TwistedObelisk.label>
+  <UnnaturalCorpse.label>非自然尸体</UnnaturalCorpse.label>
+  <UnnaturalCorpse.description>一具奇怪的尸体，摸起来像蜡一样且温热。它让人深感不安。</UnnaturalCorpse.description>
+  <VoidMonolith.label>虚空巨石碑</VoidMonolith.label>
+  <VoidNode.label>虚空节点</VoidNode.label>
+  <VoidStructure.label>虚空结构</VoidStructure.label>
+  <WarpedObelisk.label>扭曲方尖碑</WarpedObelisk.label>
+
+</LanguageData>

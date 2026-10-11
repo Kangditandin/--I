@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Assembler69.description>[PAWN_nameDef]在工厂装配线上工作，借助机器人组装产品。</Assembler69.description>
+  <BalletDancer81.description>[PAWN_nameDef]是一个传统芭蕾舞团的舞者。[PAWN_pronoun]精通了那些古老的舞步，并娱乐了成千上万人。</BalletDancer81.description>
+  <Builder96.description>[PAWN_nameDef]在建筑工地工作，按老板的指示建造日常结构。</Builder96.description>
+  <ChurchPsychic98.description>[PAWN_nameDef]是帝国教会心灵学派的一名灵能者。\n\n[PAWN_nameDef]训练[PAWN_possessive]心智去感知人们的集体情绪与印象。这是一种触及帝国精神的方式。这也是一种铲除思想中异端倾向的方式。</ChurchPsychic98.description>
+  <CorporateDrone10.description>[PAWN_nameDef]在一座极大的办公综合体里工作，与数千名同样身穿正装的“工蜂”一起。\n\n工作本身由无尽的组织琐事与毫无意义的会议组成，偶尔夹杂一次绩效评审。</CorporateDrone10.description>
+  <CorporateFixer36.description>[PAWN_nameDef]是一家能源公司的“处理人”。[PAWN_pronoun]的工作要求懂得何时施压、何时收手、何时退让、何时出击。这份工作很适合[PAWN_possessive]天生缺乏的同理心。\n\n虽然暴力并不常见，[PAWN_nameDef]始终准备应对一切。</CorporateFixer36.description>
+  <HeadButler50.description>[PAWN_nameDef]是一个贵族宅邸的管家长。\n\n[PAWN_pronoun]管理其他仆人，确保领主的意愿得以实现——甚至在领主自己知道那意愿之前。</HeadButler50.description>
+  <HouseServant86.description>[PAWN_nameDef]是一个贵族宅邸的低级仆人。\n\n[PAWN_pronoun]按资深仆役的指示打扫房间、搬动物品，同时尽量对宅邸的领主与夫人们保持隐形。</HouseServant86.description>
+  <ImperialInquisitor53.description>[PAWN_nameDef]是帝国教会反异端学派的一名审判官。\n\n[PAWN_nameDef]在一切可能找到非正统思想的地方猎捕它——艺术、音乐、代码，甚至私人谈话。一旦发现异端，[PAWN_pronoun]便将其揭发，以招致集体的惩罚。而只要[PAWN_pronoun]看得够仔细，[PAWN_pronoun]总能找到异端。</ImperialInquisitor53.description>
+  <ImperialPriest24.description>[PAWN_nameDef]是帝国教会的一名祭司。\n\n[PAWN_pronoun]把一半时间用于研读书籍，以理解神的各种面向与[PAWN_possessive]社会的各个层面之间的关系。另一半时间则用于宣讲懒惰与酗酒的邪恶。</ImperialPriest24.description>
+  <Mailman2.description>[PAWN_nameDef]在[PAWN_possessive]被分配的线路上送信。有时[PAWN_pronoun]甚至会被派去向时髦的公司办公室或宅邸投送特殊包裹。\n\n[PAWN_nameDef]在躲避并击退恶犬方面变得相当拿手。</Mailman2.description>
+  <MenagerieKeeper1.description>[PAWN_nameDef]在某个权势家族的庄园里管理他们的皇家动物展览园。\n\n[PAWN_nameDef]的工作让[PAWN_pronoun]喂养大象、麻醉狮子，并训练鸟类向有头衔的访客展示它们的羽毛。</MenagerieKeeper1.description>
+  <OrnamentMaker56.description>[PAWN_nameDef]为皇家主顾制作怀表、勋章、机加工珠宝及其他复杂玩物。</OrnamentMaker56.description>
+  <PlanetaryMiner64.description>[PAWN_nameDef]是一家大型行星采矿公司的采矿工程师。[PAWN_pronoun]的工作让[PAWN_objective]一次在地下待上数周，[PAWN_pronoun]逐渐爱上了黑暗。</PlanetaryMiner64.description>
+  <RoyalCook18.description>[PAWN_nameDef]为[PAWN_possessive]贵族主顾做菜。\n\n只有最好的食物才可接受，因此[PAWN_nameDef]在宅邸园地上照料一小片园子，以获得最新鲜的香草与蔬菜。[PAWN_pronoun]爱上了[PAWN_objective]自己的食物。</RoyalCook18.description>
+  <RoyalMasseuse43.description>[PAWN_nameDef]是一个大家族宅邸的按摩师。[PAWN_pronoun]服务过许多王室成员及他们的客人。\n\n若领主或夫人有兴致，[PAWN_nameDef]偶尔会提供一些额外服务。在这行晋升意味着要具备精炼的社交技巧。</RoyalMasseuse43.description>
+  <RoyalBastard64.description>[PAWN_nameDef]是一位领主与一名妓女的孩子。\n\n[PAWN_possessive]父亲的家系牢靠，产业雄厚。从来没有人来找[PAWN_nameDef]支持争夺头衔。[PAWN_pronoun]靠打扫妓院谋生，但总觉得[PAWN_pronoun]配得上多得多的东西。</RoyalBastard64.description>
+  <ServingBoy97.description>[PAWN_nameDef]是府中仆人的孩子，被培养去继承家中的职责。\n\n[PAWN_pronoun]搬东西、擦银器，但从不被允许进入宅邸中领主们的区域。</ServingBoy97.description>
+  <WarBastard60.description>[PAWN_nameDef]在[PAWN_possessive]母亲所在城镇被敌兵攻陷九个月后出生。作为没有公认父亲的暴力之子，[PAWN_nameDef]在社会金字塔的底部长大。\n\n[PAWN_possessive]母亲将她对男人与战争的怨恨灌输给了[PAWN_nameDef]。[PAWN_possessive]宠物兔给予的温暖比[PAWN_possessive]生命中任何人类都多。</WarBastard60.description>
+  <Artilleryman28.description>[PAWN_nameDef]装填炮弹并瞄准火炮，从远处轰击[PAWN_possessive]军队的敌人。</Artilleryman28.description>
+  <BrokenSoldier29.description>[PAWN_pronoun]是一场漫长王位继承战争中的一名强健士兵。在[PAWN_possessive]最后一战中，[PAWN_possessive]所在单位被牺牲以掩护撤退。[PAWN_nameDef]看着[PAWN_possessive]战友死去，是唯一的幸存者。\n\n这段经历击碎了[PAWN_objective]的内心，使[PAWN_objective]失去了调节[PAWN_possessive]情绪的应对方式。\n\n[PAWN_nameDef]在医院里学会了画画。</BrokenSoldier29.description>
+  <Demolitionist39.description>[PAWN_nameDef]制造并埋设用于突破敌方防御的炸药。每天与炸药打交道教会了[PAWN_objective]保持冷静头脑与稳健双手。</Demolitionist39.description>
+  <Deserter65.description>在为一项[PAWN_pronoun]并不相信的事业打了无数场仗之后，[PAWN_nameDef]扔掉[PAWN_possessive]武器逃走了。[PAWN_nameDef]过着与世隔绝的生活，被[PAWN_pronoun]所背弃的人追捕。</Deserter65.description>
+  <DisgracedOfficer19.description>[PAWN_nameDef]是帝国一个营的军官。[PAWN_pronoun]练就了胜任[PAWN_possessive]工作的社交与战斗技能，并受到士兵们的尊敬。\n\n当[PAWN_possessive]部队第一次遭到直射火力时，[PAWN_nameDef]逃到一座碉堡里躲了起来。[PAWN_pronoun]被降职，从未摆脱这份耻辱。</DisgracedOfficer19.description>
+  <Firebomber51.description>[PAWN_nameDef]驾驶一种小型战斗轰炸机，专精于向易燃目标散布燃烧凝胶。\n\n被训练得热爱看到目标燃起的样子，[PAWN_pronoun]爱上了火焰的一切形式——战争、烹饪，甚至医院里用来灼烧止血伤口。</Firebomber51.description>
+  <InfantryEngineer46.description>尽管身处步兵营，[PAWN_nameDef]极少开枪。[PAWN_possessive]专长是迅速建造防御工事、陷阱、防御设施与坑道。</InfantryEngineer46.description>
+  <InfantryMedic6.description>[PAWN_nameDef]治疗[PAWN_possessive]倒下战友的战斗创伤。</InfantryMedic6.description>
+  <InfantryOfficer49.description>[PAWN_nameDef]是帝国一个营的军官。[PAWN_pronoun]练就了胜任[PAWN_possessive]工作的社交与战斗技能，并受到士兵们的尊敬。</InfantryOfficer49.description>
+  <IntelligenceAgent21.description>[PAWN_nameDef]是一名高级反情报人员，任务挫败敌方间谍。</IntelligenceAgent21.description>
+  <LineInfanteer20.description>[PAWN_nameDef]是帝国一个营里的普通步兵。\n\n[PAWN_nameDef]年少时被征召以补充兵员，学会了足以让[PAWN_possessive]军官满意的作战方法。然而，[PAWN_pronoun]从未真正理解[PAWN_objective]周围发生的事情，以至于无法真正相信它。</LineInfanteer20.description>
+
+</LanguageData>

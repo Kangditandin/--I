@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BabyPlay.label>玩耍</BabyPlay.label>
+  <LessonAnimals.label>动物课</LessonAnimals.label>
+  <LessonArtistic.label>艺术课</LessonArtistic.label>
+  <LessonConstruction.label>建造课</LessonConstruction.label>
+  <LessonCooking.label>烹饪课</LessonCooking.label>
+  <LessonCrafting.label>制作课</LessonCrafting.label>
+  <LessonGeneric.label>授课</LessonGeneric.label>
+  <LessonIntellectual.label>智识课</LessonIntellectual.label>
+  <LessonMedicine.label>医疗课</LessonMedicine.label>
+  <LessonMelee.label>格斗课</LessonMelee.label>
+  <LessonMining.label>采矿课</LessonMining.label>
+  <LessonPlants.label>种植课</LessonPlants.label>
+  <LessonShooting.label>射击课</LessonShooting.label>
+  <LessonSocial.label>社交课</LessonSocial.label>
+  <SanguophageChat.label>噬血者交谈</SanguophageChat.label>
+
+</LanguageData>

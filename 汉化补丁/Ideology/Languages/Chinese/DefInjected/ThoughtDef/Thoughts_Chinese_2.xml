@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <HasProsthetic_Approved.stages.transhumanist_transformed.description>仿佛我已把脆弱的肉体抛在身后。</HasProsthetic_Approved.stages.transhumanist_transformed.description>
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.label>人工强化</HasProsthetic_Disapproved.stages.artificial_enhancement.label>
+  <HasProsthetic_Disapproved.stages.artificial_enhancement.description>我有人工身体强化。我不认为这种事是可以接受的。</HasProsthetic_Disapproved.stages.artificial_enhancement.description>
+  <HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>人工强化</HasProsthetic_Disapproved_Social.stages.artificial_enhancement.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>植入了强化</InstalledProsthetic_Abhorrent.stages.installed_enhancement.label>
+  <InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>我不得不植入一项人工身体强化。这深深冒犯了我的信仰。</InstalledProsthetic_Abhorrent.stages.installed_enhancement.description>
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.label>植入了强化</InstalledProsthetic_Disapproved.stages.installed_enhancement.label>
+  <InstalledProsthetic_Disapproved.stages.installed_enhancement.description>我不得不植入一项人工身体强化。这明显违反了我的信仰。</InstalledProsthetic_Disapproved.stages.installed_enhancement.description>
+  <InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>植入了强化</InstalledProsthetic_Know_Abhorrent.stages.installed_enhancement.label>
+  <InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>植入了强化</InstalledProsthetic_Know_Disapproved.stages.installed_enhancement.label>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Abhorrent.stages.ate_human_meat.description>我不得不吃人肉。这是对我所信奉的一切的冒犯。</AteHumanMeat_Abhorrent.stages.ate_human_meat.description>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Disapproved.stages.ate_human_meat.description>我不得不吃人肉。我认为这种行为是错的。</AteHumanMeat_Disapproved.stages.ate_human_meat.description>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Horrible.stages.ate_human_meat.label>
+  <AteHumanMeat_Horrible.stages.ate_human_meat.description>我不得不吃人肉。这是件可怕的事。</AteHumanMeat_Horrible.stages.ate_human_meat.description>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Preferred.stages.ate_human_meat.label>
+  <AteHumanMeat_Preferred.stages.ate_human_meat.description>我吃了人肉。它让我感到高贵而强大。</AteHumanMeat_Preferred.stages.ate_human_meat.description>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>我吃了人肉！世界是正道，我如我所应然。</AteHumanMeat_RequiredRavenous.stages.ate_human_meat.description>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_RequiredStrong.stages.ate_human_meat.label>
+  <AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>我吃了人肉，如同每个真正的人类都应做的那样。</AteHumanMeat_RequiredStrong.stages.ate_human_meat.description>
+  <AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Know_Abhorrent.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Know_Disapproved.stages.ate_human_meat.label>
+  <AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>吃了人肉</AteHumanMeat_Know_Horrible.stages.ate_human_meat.label>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>吃了非食人食物</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>我不得不吃并非取自人体的食物。这绝对违反我的信仰。</AteNonCannibalFood_Abhorrent.stages.ate_noncannibal_food.description>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>吃了非食人食物</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>我不得不吃并非取自人体的食物。我的信仰严格禁止这种事。</AteNonCannibalFood_Horrible.stages.ate_noncannibal_food.description>
+  <AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>吃了非食人食物</AteNonCannibalFood_Know_Abhorrent.stages.ate_noncannibal_food.label>
+  <AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>吃了非食人食物</AteNonCannibalFood_Know_Horrible.stages.ate_noncannibal_food.label>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>我屠宰了人形</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>我屠宰了一个人。这是对我所信奉的一切的冒犯。</ButcheredHuman_Abhorrent.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>我屠宰了人形</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>我屠宰了一个人。我认为这种行为是错的。</ButcheredHuman_Disapproved.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>我屠宰了人形</ButcheredHuman_Horrible.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>我屠宰了一个人。这是件可怕的事。</ButcheredHuman_Horrible.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Know_Abhorrent.stages.I_butchered_humanlike.label>我们屠宰了人形</ButcheredHuman_Know_Abhorrent.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent.stages.I_butchered_humanlike.description>我们中的某人屠宰了一个人。这是对我所信奉的一切的冒犯。</ButcheredHuman_Know_Abhorrent.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Know_Disapproved.stages.I_butchered_humanlike.label>我们屠宰了人形</ButcheredHuman_Know_Disapproved.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved.stages.I_butchered_humanlike.description>我们中的某人屠宰了一个人。我认为这种行为是错的。</ButcheredHuman_Know_Disapproved.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Know_Horrible.stages.I_butchered_humanlike.label>我们屠宰了人形</ButcheredHuman_Know_Horrible.stages.I_butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible.stages.I_butchered_humanlike.description>我们中的某人屠宰了一个人。这是件可怕的事。</ButcheredHuman_Know_Horrible.stages.I_butchered_humanlike.description>
+  <ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>屠宰了人形</ButcheredHuman_Know_Abhorrent_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>屠宰了人形</ButcheredHuman_Know_Disapproved_Opinion.stages.butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>屠宰了人形</ButcheredHuman_Know_Horrible_Opinion.stages.butchered_humanlike.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.label>人皮{0}</HumanLeatherApparel_Abhorrent.stages.human_leather.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather.description>穿着人皮令人不安。谁能做出这种事？</HumanLeatherApparel_Abhorrent.stages.human_leather.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>人皮{0}（+1）</HumanLeatherApparel_Abhorrent.stages.human_leather_1.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>我穿得像个疯子。</HumanLeatherApparel_Abhorrent.stages.human_leather_1.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>人皮{0}（+2）</HumanLeatherApparel_Abhorrent.stages.human_leather_2.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>我觉得我的衣服上可能有张脸。哦，不……我的衣服*就是*一张脸。</HumanLeatherApparel_Abhorrent.stages.human_leather_2.description>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>人皮{0} 等</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>我看起来像恐怖片里的怪人，而我也感觉自己正身处恐怖片之中。</HumanLeatherApparel_Abhorrent.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather.label>人皮{0}</HumanLeatherApparel_Disapproved.stages.human_leather.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather.description>我不该穿着人皮衣物。</HumanLeatherApparel_Disapproved.stages.human_leather.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.label>人皮{0}（+1）</HumanLeatherApparel_Disapproved.stages.human_leather_1.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_1.description>我穿着人皮。我不喜欢这样。</HumanLeatherApparel_Disapproved.stages.human_leather_1.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.label>人皮{0}（+2）</HumanLeatherApparel_Disapproved.stages.human_leather_2.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_2.description>我为什么要穿这么多人皮衣物？我们应该有别的衣服给我穿……</HumanLeatherApparel_Disapproved.stages.human_leather_2.description>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>人皮{0} 等</HumanLeatherApparel_Disapproved.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>我真该穿非人皮的衣物。我看起来像个疯子。</HumanLeatherApparel_Disapproved.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather.label>人皮{0}</HumanLeatherApparel_Horrible.stages.human_leather.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather.description>穿着人皮是错的。</HumanLeatherApparel_Horrible.stages.human_leather.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.label>人皮{0}（+1）</HumanLeatherApparel_Horrible.stages.human_leather_1.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_1.description>穿着这一身人皮衣物让我真的非常不适。</HumanLeatherApparel_Horrible.stages.human_leather_1.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.label>人皮{0}（+2）</HumanLeatherApparel_Horrible.stages.human_leather_2.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_2.description>我为什么穿着这么多人皮？这太可怕了！</HumanLeatherApparel_Horrible.stages.human_leather_2.description>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.label>人皮{0} 等</HumanLeatherApparel_Horrible.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Horrible.stages.human_leather_etc.description>我看起来像个怪人，这太骇人了！</HumanLeatherApparel_Horrible.stages.human_leather_etc.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather.label>人皮{0}</HumanLeatherApparel_Preferred.stages.human_leather.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather.description>穿着人皮衣物让我感觉很好。</HumanLeatherApparel_Preferred.stages.human_leather.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.label>人皮{0}（+1）</HumanLeatherApparel_Preferred.stages.human_leather_1.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_1.description>我享受穿着他人皮肤的感觉。</HumanLeatherApparel_Preferred.stages.human_leather_1.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.label>人皮{0}（+2）</HumanLeatherApparel_Preferred.stages.human_leather_2.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_2.description>我穿着敌人的面孔。这让我很开心。</HumanLeatherApparel_Preferred.stages.human_leather_2.description>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.label>人皮{0} 等</HumanLeatherApparel_Preferred.stages.human_leather_etc.label>
+  <HumanLeatherApparel_Preferred.stages.human_leather_etc.description>我看起来像个真正的食人族。谁能质疑我？</HumanLeatherApparel_Preferred.stages.human_leather_etc.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>人皮{0}</HumanLeatherApparel_RequiredRavenous.stages.human_leather.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>我享受穿着他人的苦难。</HumanLeatherApparel_RequiredRavenous.stages.human_leather.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>人皮{0}（+1）</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>这会吓住他们。所有人都会知道我的力量。</HumanLeatherApparel_RequiredRavenous.stages.human_leather_1.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>人皮{0}（+2）</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>我衣服上的面孔并没有微笑，但它们让*我*开心。</HumanLeatherApparel_RequiredRavenous.stages.human_leather_2.description>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>人皮{0} 等</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>血肉！血肉昭示着我的胜利！</HumanLeatherApparel_RequiredRavenous.stages.human_leather_etc.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.label>人皮{0}</HumanLeatherApparel_RequiredStrong.stages.human_leather.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather.description>我享受穿着他人的面孔。</HumanLeatherApparel_RequiredStrong.stages.human_leather.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>人皮{0}（+1）</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>这会吓住他们。所有人都会知道我的力量。</HumanLeatherApparel_RequiredStrong.stages.human_leather_1.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>人皮{0}（+2）</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>我衣服上的面孔并没有微笑，但它们让*我*开心。</HumanLeatherApparel_RequiredStrong.stages.human_leather_2.description>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>人皮{0} 等</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.label>
+  <HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>血肉！血肉昭示着我的胜利！</HumanLeatherApparel_RequiredStrong.stages.human_leather_etc.description>
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.label>渴望人肉</NoRecentHumanMeat_Preferred.stages.want_human_meat.label>
+  <NoRecentHumanMeat_Preferred.stages.want_human_meat.description>我已经太久没有食用人肉了。这感觉不对。</NoRecentHumanMeat_Preferred.stages.want_human_meat.description>
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>渴望人肉</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>饥肠辘辘！我已太久没有尝到真正的血肉。这不对！</NoRecentHumanMeat_RequiredRavenous.stages.want_human_meat.description>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>渴望人肉</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.label>
+  <NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>我已太久没有食用人肉了。我早该进食了。</NoRecentHumanMeat_RequiredStrong.stages.want_human_meat.description>
+
+</LanguageData>

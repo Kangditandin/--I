@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <Crab.customLabel>左眼</Crab.customLabel>
+  <Cyclops.customLabel>左视觉传感器</Cyclops.customLabel>
+  <DroneWithThreeLegs.customLabel>中腿</DroneWithThreeLegs.customLabel>
+  <DroneWithTreads.customLabel>左前履带</DroneWithTreads.customLabel>
+  <Larva.customLabel>左眼</Larva.customLabel>
+  <Pinniped.customLabel>左肺</Pinniped.customLabel>
+  <PinnipedWithTusks.customLabel>左肺</PinnipedWithTusks.customLabel>
+  <Snail.customLabel>左肾管</Snail.customLabel>
+  
+</LanguageData>

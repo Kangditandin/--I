@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <RoyaltyTips.TitleMilitaryAid>某些头衔特许权允许持有者请求军事援助。这能在危急时刻救你一命。</RoyaltyTips.TitleMilitaryAid>
+  <RoyaltyTips.NoblesDemandPrivileges>来自帝国的贵族会索要其头衔所应得的全部特权。你自己拥有头衔的殖民者则会更加灵活，除非他们贪婪或善妒。</RoyaltyTips.NoblesDemandPrivileges>
+  <RoyaltyTips.RoyalArmor>威荣装甲和灵质服装也能满足贵族头衔的着装要求。</RoyaltyTips.RoyalArmor>
+  <RoyaltyTips.TitleInheritance>若头衔持有者死亡，其头衔将传给其选定的继承人。</RoyaltyTips.TitleInheritance>
+  <RoyaltyTips.ChangeHeir>你可以通过通讯台更改头衔持有者的继承人。但这需要完成一场仪式。</RoyaltyTips.ChangeHeir>
+  <RoyaltyTips.FreePsychicAmplifier>帝国会向任何获得相应头衔的人免费赠予一级灵能链接。</RoyaltyTips.FreePsychicAmplifier>
+  <RoyaltyTips.IllegalImplantUse>灵能链接神经塑造器可以通过任务获得。这些装置能让一个人获得灵能。</RoyaltyTips.IllegalImplantUse>
+  <RoyaltyTips.InstallingPsychicAmplifier>每获得一级新的灵能链接，就能随机习得一种灵能。</RoyaltyTips.InstallingPsychicAmplifier>
+  <RoyaltyTips.PsycastAdvantage>灵能在战斗中能为你带来显著优势。</RoyaltyTips.PsycastAdvantage>
+  <RoyaltyTips.PsycastFactionRelations>对盟友使用灵能会损害派系关系——但仅当该灵能产生了负面效果时才会如此。</RoyaltyTips.PsycastFactionRelations>
+  <RoyaltyTips.PsycastInvisibility>灵能隐形在你攻击时不会失效。</RoyaltyTips.PsycastInvisibility>
+  <RoyaltyTips.PsychicEntropyLimit>超出心灵熵上限能在绝境中救你一命——但随之而来的灵能崩溃会持续一段时间。</RoyaltyTips.PsychicEntropyLimit>
+  <RoyaltyTips.PsycastSensitivity>心灵敏感度更高的生物受灵能影响更大。</RoyaltyTips.PsycastSensitivity>
+  <RoyaltyTips.EltexGear>让你的灵能使用者穿上灵质装备，可以提升他们的心灵熵上限与消散速率。</RoyaltyTips.EltexGear>
+  <RoyaltyTips.MechClusterPowercell>与机械集群作战时，试着射击它们的能量电池。它们会爆炸，对周围的生物和建筑造成重创。</RoyaltyTips.MechClusterPowercell>
+  <RoyaltyTips.MechClusterDormant>有些机械集群在被惊动前会一直保持休眠状态。利用这段时间准备你的进攻。</RoyaltyTips.MechClusterDormant>
+  <RoyaltyTips.RoyalTributeCollector>帝国皇家贡品收集者每年到访两次，接受囚犯和黄金，以换取荣誉。</RoyaltyTips.RoyalTributeCollector>
+  <RoyaltyTips.MechClusterDormantTrigger>你可以安全地从休眠的机械集群旁走过，只要你不攻击它或触发接近激活器。</RoyaltyTips.MechClusterDormantTrigger>
+  <RoyaltyTips.SkipPsycastsMultiuse>灵能「闪现」可以对自身、盟友、敌人甚至物品使用。它的战术可能性无穷无尽。</RoyaltyTips.SkipPsycastsMultiuse>
+  <RoyaltyTips.JumpPackRescue>你可以在使用跳跃背包的同时背负倒地的盟友。空中救援能挽救生命。</RoyaltyTips.JumpPackRescue>
+  
+</LanguageData>

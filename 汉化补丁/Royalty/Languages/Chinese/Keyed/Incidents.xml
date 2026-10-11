@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <LetterLabelTributeCollectorArrival>皇室贡品征收者</LetterLabelTributeCollectorArrival>
+  <LetterTributeCollectorArrival>一名来自 {FACTION_name} 的皇室贡品征收者正在接近。\n\n他们会接受你献上的任何囚犯和黄金作为贡品。献上贡品的人将因履行传统并支持上等家族而获得 {FACTION_royalFavorLabel}。\n\n只要你不与 {FACTION_name} 为敌，大约每年会遇到两次贡品征收者。</LetterTributeCollectorArrival>
+  
+</LanguageData>

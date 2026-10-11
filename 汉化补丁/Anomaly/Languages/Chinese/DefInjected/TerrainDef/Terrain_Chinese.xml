@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BioferritePlate.label>生物铁素地板</BioferritePlate.label>
+  <BioferritePlate.description>由打磨过的生物铁素制成的厚重地板。虽然难看且略易燃，但它易于清洁，并能提升附近收容平台的收容强度。</BioferritePlate.description>
+  <Voidmetal.label>虚空金属</Voidmetal.label>
+  <Voidmetal.description>这种油亮的深色表面看上去令人迷失。几乎毫无特征的表面似乎不断变幻，但触感冰冷坚硬。它让人感到有种恶意的力量潜伏在表层之下，等待着伸手将你拖入深渊。</Voidmetal.description>
+  <BurnedBioferritePlate.label>烧毁的生物铁素地板</BurnedBioferritePlate.label>
+  <BurnedBioferritePlate.description>烧毁的生物铁素地板。</BurnedBioferritePlate.description>
+  <Flesh.label>血肉</Flesh.label>
+  <Flesh.description>一层厚实的有机血肉，松散地附着在地面上。</Flesh.description>
+  <GraySurface.label>灰色地表</GraySurface.label>
+  <GraySurface.description>一片非自然的灰色地面。毫无特征且光滑。它不是混凝土、金属，也不是任何可辨识的建筑材料。</GraySurface.description>
+
+</LanguageData>

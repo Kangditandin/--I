@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AwokenCorpse.label>觉醒尸</AwokenCorpse.label>
+  <Ghoul.label>食尸鬼</Ghoul.label>
+  <Ghoul.description>一个被转化为食尸鬼的人。\n\n关于食尸鬼：食尸鬼是被黑暗心灵影响扭曲而成的杀戮机器。\n\n食尸鬼在近战中极其危险。然而，其转化过程使他们丧失了更高层次的思维能力，无法持握武器或工具。他们无法工作，战斗之外只会在半昏迷状态中游荡。\n\n许多人觉得食尸鬼不断的抽搐令人不安。更令人不安的是它们对生肉的依赖。一旦饥饿，它们就会变得敌对，甚至攻击自己的创造者来充饥。</Ghoul.description>
+  <Ghoul.tools.teeth.label>牙齿</Ghoul.tools.teeth.label>
+  <Ghoul.tools.left_claw.label>左爪</Ghoul.tools.left_claw.label>
+  <Ghoul.tools.right_claw.label>右爪</Ghoul.tools.right_claw.label>
+  <Shambler.label>行尸</Shambler.label>
+  <Shambler.description>一种被腐化的纳米级远古微粒从死亡中复生的生物。\n\n关于行尸：行尸是被远古科技复活的尸体。它们无情地攻击活物，且因对疼痛免疫而难以杀死。然而，驱动它们的远古微粒无法长时间维持腐败的躯体，因此行尸在活动数日后便会消亡。\n\n有办法培育你自己的行尸，并让自己对它们隐形，使它们只攻击外人。</Shambler.description>
+  <Shambler.tools.teeth.label>牙齿</Shambler.tools.teeth.label>
+  <Shambler.tools.left_hand.label>左手</Shambler.tools.left_hand.label>
+  <Shambler.tools.right_hand.label>右手</Shambler.tools.right_hand.label>
+
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Fishing -->
+  <FishRepeatMode_RepeatCount>重复 X 次</FishRepeatMode_RepeatCount>
+  <FishRepeatMode_TargetCount>做到数量达到 X</FishRepeatMode_TargetCount>
+  <FishRepeatMode_Forever>一直进行</FishRepeatMode_Forever>
+  <FishPopulation>鱼类数量</FishPopulation>
+  <FishPopulationDesc>此水域中有多少鱼。水域越大，鱼越多，鱼类数量恢复也越快。</FishPopulationDesc>
+  <MinimumPopulation>最低数量</MinimumPopulation>
+  <MinimumPopulationDesc>若鱼类数量低于此上限，殖民者将不会钓鱼。当鱼少于 300 条时，钓鱼收获会降低。</MinimumPopulationDesc>
+  <Uncommon>少见</Uncommon>
+  <ToggleFishAvoid>关闭后，殖民者会避免捕获这种鱼。</ToggleFishAvoid>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>我们屠宰了人形</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>我们中的某人屠宰了一个人。这是对我所信奉的一切的冒犯。</ButcheredHuman_Know_Abhorrent.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>我们屠宰了人形</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>我们中的某人屠宰了一个人。我认为这种行为是错的。</ButcheredHuman_Know_Disapproved.stages.we_butchered_humanlike.description>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>我们屠宰了人形</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.label>
+  <ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>我们中的某人屠宰了一个人。这是件可怕的事。</ButcheredHuman_Know_Horrible.stages.we_butchered_humanlike.description>
+
+</LanguageData>

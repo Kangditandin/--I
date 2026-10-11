@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SelfShutdown>休眠自充</SelfShutdown>
+  <CarryToRecharger>搬到充能器</CarryToRecharger>
+  <MustBeCarriedToRecharger>必须被搬到充能器。</MustBeCarriedToRecharger>
+  <Danger>危险</Danger>
+  <DamageType>{0} 伤害</DamageType>
+  <ContainedThings>已收容的 {0_labelPlural}</ContainedThings>
+  <DurationUntilNextAtomization>距下次原子化的时间</DurationUntilNextAtomization>
+  <FinishesIn>完成于</FinishesIn>
+  <WithLower>拥有</WithLower>
+  <TilesLower>格</TilesLower>
+  <CaravanMech>1 台机械体</CaravanMech>
+  <CaravanMechsCount>{0} 台机械体</CaravanMechsCount>
+  <BossWithApparel>{BOSS} 带有 {APPAREL}</BossWithApparel>
+  <ComesFromGene>源于基因</ComesFromGene>
+
+  <!-- Job reports -->
+  <ReportRemovingMechlink>正在取出 {0}。</ReportRemovingMechlink>
+  <ReportTakingLessonFrom>向 {TEACHER_labelShort} 学习</ReportTakingLessonFrom>
+
+  <!-- Areas -->
+  <PollutionClear>污染清理</PollutionClear>
+
+  <!-- Mechanitor -->
+  <Overseer>监督者</Overseer>
+  <OverseerNone>无（未受控制）</OverseerNone>
+  <MayGoFeral>随时可能野化</MayGoFeral>
+  <Bandwidth>带宽</Bandwidth>
+  <BandwidthLower>带宽</BandwidthLower>
+  <BandwidthGizmoTip>机械师只有在带宽足够时才能监督机械体。每台机械体消耗的带宽各不相同。\n\n通过建造带宽节点并将机械师与其调谐，或装备特殊的机械师服装，可以获得更多带宽。</BandwidthGizmoTip>
+  <ControlGroup>控制编组</ControlGroup>
+  <CurrentMechWorkMode>当前模式</CurrentMechWorkMode>
+  <AssignedMechs>已分配的机械体</AssignedMechs>
+  <BandNodeTunedTo>已调谐至</BandNodeTunedTo>
+  <BandNodeTuneTo>调谐至</BandNodeTuneTo>
+  <BandNodeTuningTo>正在调谐至</BandNodeTuningTo>
+  <BandNodeRetuneTo>重新调谐</BandNodeRetuneTo>
+  <BandNodeTuningDesc>将此带宽节点调谐至一名机械师。调谐将花费 {0}。</BandNodeTuningDesc>
+  <BandNodeRetuningDesc>将此带宽节点重新调谐至另一名机械师。重新调谐将花费 {0}。</BandNodeRetuningDesc>
+  <DropThingBandwidthApparel>移除 {0} 会使 {1_labelShort} 的带宽从 {2} 变为 {3}。这意味着以下机械体将不再受控</DropThingBandwidthApparel>
+  <NoMechs>没有机械体</NoMechs>
+  <Group>编组</Group>
+  <Groups>编组</Groups>
+  <LoadingMechGestator>正在装载机械孕育资源</LoadingMechGestator>
+  <GestatingInspect>本周期剩余时间</GestatingInspect>
+  <InitMechGestationCycle>正在启动机械孕育周期</InitMechGestationCycle>
+  <InitMechBirth>正在启动机械体诞生</InitMechBirth>
+  <MechEnergy>机械能量</MechEnergy>
+  <Energy>能量</Energy>
+  <EnergyLower>能量</EnergyLower>
+  <BandwidthUsage>带宽使用</BandwidthUsage>
+  <MechGestationBandwidthUsed>机械孕育带宽</MechGestationBandwidthUsed>
+  <CannotSummon>无法召唤 {0} 威胁</CannotSummon>
+  <ReadyToSummonThreat>{0} 威胁已可召唤</ReadyToSummonThreat>
+  <Summon>召唤 {0} 威胁</Summon>
+  <MechsDisabled>机械族已禁用</MechsDisabled>
+  <NoReachableBossgroupCaller>没有可到达的 {0}</NoReachableBossgroupCaller>
+  <NoReservableBossgroupCaller>没有可预订的 {0}</NoReservableBossgroupCaller>
+  <NoPoweredBossgroupCaller>没有已通电的 {0}</NoPoweredBossgroupCaller>
+  <AlreadyUsed>已使用过</AlreadyUsed>
+  <Gestating>孕育中</Gestating>
+  <Escorting>正在护送 {TARGET_labelShort}。</Escorting>
+  <Worker>工作者</Worker>
+  <WaitingFor>正在等待</WaitingFor>
+  <Uncontrolled>未受控制</Uncontrolled>
+  <BossgroupIncoming>{0} 即将到来</BossgroupIncoming>
+
+  <!-- Sanguophage -->
+  <Hemogen>血原质</Hemogen>
+  <HemogenDesc>血原质是一种源自人体血液中化合物的生物能量源。基础人类会内生它，并在自身的内部平衡中随时间消耗。某些人类异种型将其用作特定能力的燃料，而另一些则必须消耗它以维持生存。</HemogenDesc>
+  <DeathrestCapacity>死眠容量</DeathrestCapacity>
+  <DeathrestCapacityDesc>这决定了一个人在死眠时能连接多少死眠建筑。每座死眠建筑提供特定益处，因此能连接更多更好。\n\n死眠容量可以通过死眠容量血清提升。这些血清可以从商人处购买。</DeathrestCapacityDesc>
+  <PawnIsConnectedToBuildings>{PAWN_nameDef} 已连接 {CURRENT} / {MAX}（上限）座死眠建筑。</PawnIsConnectedToBuildings>
+  <Wake>立即唤醒</Wake>
+  <WakeDesc>从死眠中唤醒。\n\n{PAWN_nameDef} 已死眠了 {DURATION}。</WakeDesc>
+  <WakeExtraDesc_Exhaustion>{PAWN_nameDef} 需要至少死眠 {TOTAL}。提前唤醒 {PAWN_objective} 会使 {PAWN_objective} 生病，且 {PAWN_pronoun} 将无法从任何死眠建筑中获益。</WakeExtraDesc_Exhaustion>
+  <WakeExtraDesc_Safe>{PAWN_nameDef} 现在可以安全地唤醒了。</WakeExtraDesc_Safe>
+  <CannotWakeNotEnoughHemogen>无法唤醒。至少需要 {0} 血原质。</CannotWakeNotEnoughHemogen>
+  <AutoWake>自动唤醒</AutoWake>
+  <AutoWakeDesc>开启后，{PAWN_nameDef} 将在 {PAWN_possessive} 死眠完成后自动醒来。\n\n关闭时，{PAWN_pronoun} 会继续死眠，直到你手动唤醒 {PAWN_objective}。</AutoWakeDesc>
+  <IsDeathresting>{PAWN_nameDef} 正在死眠。</IsDeathresting>
+  <CannotDeathrest>无法死眠</CannotDeathrest>
+  <StartDeathrest>开始死眠</StartDeathrest>
+  <ConfirmExitDeathrestUnderMinDays>安全完成死眠需要 {MINDURATION}，但 {PAWN_nameDef} 只死眠了 {CURDURATION}。\n\n现在唤醒 {PAWN_nameDef} 会打断 {PAWN_possessive} 的死眠，使 {PAWN_possessive} 代谢失衡，并在未来几天内使 {PAWN_objective} 生病。\n\n你确定要唤醒 {PAWN_objective} 吗？</ConfirmExitDeathrestUnderMinDays>
+  <Deathresting>死眠中</Deathresting>
+  <CanWakeSafely>现在可以安全地唤醒了。</CanWakeSafely>
+  <DisabledByGene>被基因禁用</DisabledByGene>
+  <WakeDisabledCriticalCondition>{PAWN_nameDef} 正处于危重状态。</WakeDisabledCriticalCondition>
+  <DrainRate>消耗速率</DrainRate>
+  <RegenerationRate>再生速率</RegenerationRate>
+  <NextDeathrestNeed>{PAWN_nameDef} 应在 {DURATION} 内死眠以避免衰竭。</NextDeathrestNeed>
+  <PawnShouldDeathrestNow>{PAWN_nameDef} 应尽快死眠以避免衰竭。</PawnShouldDeathrestNow>
+  <AutoTakeHemogenDesc>这决定了当 {PAWN_nameDef} 的血原质低于 {MIN} 时是否自动摄入血原质包。\n\n自动摄入当前为{ONOFF}。</AutoTakeHemogenDesc>
+  <ConsumeHemogenBelow>血原质低于此值时摄入</ConsumeHemogenBelow>
+  <NeverConsumeHemogen>从不摄入血原质。</NeverConsumeHemogen>
+  <WillKill>将会杀死</WillKill>
+  <WillCauseSeriousBloodloss>会造成大量失血</WillCauseSeriousBloodloss>
+  <TooSmall>过小</TooSmall>
+
+  <!-- Deathrest buildings -->
+  <BoundTo>已绑定至</BoundTo>
+  <WillBindOnFirstUse>首次使用时将永久绑定。</WillBindOnFirstUse>
+  <TimeActiveThisDeathrest>本次死眠的活跃时间</TimeActiveThisDeathrest>
+  <MinimumNeededToApply>至少需要 {0} 才能生效</MinimumNeededToApply>
+  <CannotAssignBedCannotDeathrest>无法死眠</CannotAssignBedCannotDeathrest>
+  <CannotAssignAlreadyBound>已绑定至 {0_nameDef}</CannotAssignAlreadyBound>
+  <CannotAssignBedCannotBindToMoreBuildings>无法绑定更多 {BUILDING_labelPlural}</CannotAssignBedCannotBindToMoreBuildings>
+
+  <!-- Aptitudes -->
+  <Aptitude>天赋</Aptitude>
+  <Aptitudes>天赋</Aptitudes>
+  <AptitudePlural>天赋</AptitudePlural>
+  <AptitudesDesc>天赋使个人的表现高于或低于其学会的技能等级。\n\n例如，某项技能的 +1 天赋意味着一名技能等级 5 的人会表现得如同等级 6。\n\n总数值不能超过 20 级或低于 1 级。</AptitudesDesc>
+  <Total>总计</Total>
+  
+  <!-- Human pregnancy -->
+  <FatherTip>父亲</FatherTip>
+  <MotherTip>基因母亲</MotherTip>
+  <RitualTargetChildBirth>一张空闲的床</RitualTargetChildBirth>
+  <NoAppropriateBedChildBirth>没有适合分娩的床。</NoAppropriateBedChildBirth>
+  <NoDoctorChildBirth>附近没有医生。</NoDoctorChildBirth>
+  <CantUseThisBed>无法使用此床。</CantUseThisBed>
+  <NotInLabor>未在分娩。</NotInLabor>
+  <Labor>分娩</Labor>
+  <LaborDilation>宫开</LaborDilation>
+  <PregnancyApproach_Normal>正常</PregnancyApproach_Normal>
+  <PregnancyApproach_AvoidPregnancy>避免怀孕</PregnancyApproach_AvoidPregnancy>
+  <PregnancyApproach_TryForBaby>尝试怀孕</PregnancyApproach_TryForBaby>
+  <PregnancyChance>怀孕几率</PregnancyChance>
+  <PregnancyApproach>怀孕策略</PregnancyApproach>
+  <ClickToChangePregnancyApproach>点击更改怀孕策略。</ClickToChangePregnancyApproach>
+  <PregnancyNotPossible>无法怀孕</PregnancyNotPossible>
+  <BirthRitualHealthyBabyChance>在此品质水平下，健康分娩的几率为 {0_percentage}。</BirthRitualHealthyBabyChance>
+  <GivingBirth>正在分娩。</GivingBirth>
+
+  <!-- Genes -->
+  <Genes>基因</Genes>
+  <GenesDesc>与此异种型相关的基因。</GenesDesc>
+  <Suppressed>已抑制</Suppressed>
+  <Active>生效</Active>
+  <SuppressedDesc>此特性已被与之冲突的强制遗传特性或基因抑制。在移除所有冲突前，它不会生效</SuppressedDesc>
+  <Trait>特性</Trait>
+  <Gene>基因</Gene>
+  <AddedByGene>由基因添加</AddedByGene>
+  <EjectAll>全部弹出</EjectAll>
+  <EjectAllDesc>将所有收容的基因包弹到地面。</EjectAllDesc>
+  <GenepacksStored>已存放的基因包</GenepacksStored>
+  <GenepackAutoLoad>自动装载</GenepackAutoLoad>
+  <GenepackAutoLoadDesc>启用后，搬运工会自动将此基因包存入基因库。</GenepackAutoLoadDesc>
+  <ForcedTraits>强制特性</ForcedTraits>
+  <SuppressedTraits>已抑制的特性</SuppressedTraits>
+  <ForcedTraitsDesc>这些特性将被添加。所有冲突的特性将被抑制。</ForcedTraitsDesc>
+  <Complexity>复杂度</Complexity>
+  <ComplexityDesc>这为基因组装过程增加了多少复杂度。</ComplexityDesc>
+  <MaxComplexityDesc>在基因合成器附近建造基因处理器可以提高复杂度上限。</MaxComplexityDesc>
+  <ComplexityTotal>总复杂度</ComplexityTotal>
+  <ComplexityTotalDesc>所有在用基因的总复杂度。</ComplexityTotalDesc>
+  <Metabolism>代谢效率</Metabolism>
+  <MetabolismDesc>这些基因组装后的总代谢效率。高效率意味着一个人需要更少的食物；低效率则意味着他们必须吃得更多。</MetabolismDesc>
+  <MetabolismTotal>代谢效率</MetabolismTotal>
+  <MetabolismTotalDesc>基因组中所有基因的总代谢效率。高效率意味着一个人需要更少的食物；低效率则意味着他们必须吃得更多。</MetabolismTotalDesc>
+  <NumberOfGenes>基因数量</NumberOfGenes>
+  <GenePriceFactors>基因价格因素</GenePriceFactors>
+  <AnyLower>任意</AnyLower>
+  <ArchitesTotal>远古胶囊总数</ArchitesTotal>
+  <ArchitesRequired>远古胶囊</ArchitesRequired>
+  <ArchitesRequiredDesc>远古胶囊是远古科技机械微粒——由超智能远古科技所创造、能直接作用于细胞和分子的微观设备。它们能实现无法解释的奇观，有些基因只有在远古科技那超凡机器的支持下才能运作。人类无法创造远古胶囊——只能在远古科技因某种不可知的原因恰好产出一些时找到它们。</ArchitesRequiredDesc>
+  <CancelXenogerm>取消异种胚芽</CancelXenogerm>
+  <CancelXenogermDesc>停止当前异种胚芽上的所有工作。</CancelXenogermDesc>
+  <AllowAllGenepacks>允许所有基因包</AllowAllGenepacks> 
+  <AllowAllGenepacksDesc>是否允许殖民者将任何基因包自动存入此容器。若你想指定哪些基因包应存于此，请关闭此选项。</AllowAllGenepacksDesc> 
+  <ContainedGenepacksDesc>此容器中当前的基因包。</ContainedGenepacksDesc> 
+  <GenepacksToLoadDesc>指定要装入此容器的基因包。</GenepacksToLoadDesc> 
+  <GenepacksIgnoredDesc>未存储且未指定装入此容器的基因包。</GenepacksIgnoredDesc> 
+  <GenepacksToLoad>要装入的基因包</GenepacksToLoad> 
+  <GenepacksToIgnore>要忽略的基因包</GenepacksToIgnore> 
+  <EjectGenepackDesc>将此基因包从容器中弹出。</EjectGenepackDesc> 
+  <ConfirmRemoveGenepack>你真的想弹出 {0} 吗？它会立即被弹到附近的地面上。</ConfirmRemoveGenepack> 
+  <MissingRequiredResearch>缺少必需的研究</MissingRequiredResearch>
+  <NoGenepacksAvailable>附近基因库中没有可用的基因包。</NoGenepacksAvailable> 
+  <AddToLoadingListDesc>允许将此基因包装入此容器。</AddToLoadingListDesc> 
+  <RemoveFromLoadingListDesc>从装载列表中移除此基因包。</RemoveFromLoadingListDesc> 
+  <Recombine>重组</Recombine>
+  <RecombineDesc>使用你基因库中基因包的数据，创建一个新的可植入异种胚芽。</RecombineDesc>
+  <ContainedGenesDesc>基因</ContainedGenesDesc>
+  <ImplantXenogerm>下令植入</ImplantXenogerm>
+  <ImplantXenogermDesc>将其植入一个人体内，部分覆盖其遗传密码。\n\n这是一项外科手术，因此需要一名医生、一张医疗床和 {MEDICINEAMOUNT} 药物。</ImplantXenogermDesc>
+  <ImplantXenogermWarningDesc>植入异种胚芽会使 {PAWN_nameDef} 在胚芽融合时陷入昏迷。平均而言，这持续 {COMADURATION}。昏迷时长取决于医生的医疗技能和你医疗设施的品质。</ImplantXenogermWarningDesc>
+  <ImplantXenogermWarningOverwriteXenogenes>此外，植入异种胚芽会覆盖现有的异种基因。{PAWN_nameDef} 当前的异种型是“{XENOTYPE}”。{PAWN_pronoun} 拥有以下异种基因：\n{XENOGENES}</ImplantXenogermWarningOverwriteXenogenes>
+  <ImplantXenogermWarningNewMetabolism>植入后，{PAWN_nameDef} 的代谢值为 {MET}，食物消耗倍率为 {CONSUMPTION}。</ImplantXenogermWarningNewMetabolism>
+  <WouldYouLikeToContinue>你想继续吗？</WouldYouLikeToContinue>
+  <CancelImplanting>取消植入</CancelImplanting>
+  <CancelImplantingDesc>取消将此异种胚芽植入 {PAWN_nameDef}。</CancelImplantingDesc>
+  <Xenotype>异种型</Xenotype>
+  <Unique>独特</Unique>
+  <UniqueXenotypeDesc>一种独特的人类变体，其异种基因不属于任何已知异种型。</UniqueXenotypeDesc>
+  <FactorForMetabolism>遗传代谢因素</FactorForMetabolism>
+  <Progress>进度</Progress>
+  <InSunlight>在阳光下</InSunlight>
+  <ThingIsSkyExposed>{0_labelShort} 暴露于天空下。</ThingIsSkyExposed>
+  <InsertPerson>放入人员</InsertPerson>
+  <InsertPersonGeneExtractorDesc>将一个人放入基因提取器。其遗传物质将被提取，用于制作一个包含其基因随机选择的基因包。\n\n基因提取很痛苦，会使受试者虚弱并嗜睡数天。对于基因正在再生的人，此过程是致命的。</InsertPersonGeneExtractorDesc>
+  <ConfirmExtractXenogermWillKill>警告：{PAWN_nameDef} 的基因正在再生。在其基因再生前提取 {PAWN_possessive} 基因会杀死 {PAWN_objective}。\n\n你确定要继续吗？</ConfirmExtractXenogermWillKill>
+  <GeneExtractionComplete>{PAWN_nameDef} 的基因提取已完成。已提取</GeneExtractionComplete>
+  <InsertXenogerm>放入异种胚芽</InsertXenogerm>
+  <InsertXenogermDesc>放入一个异种胚芽，以便在生长时应用。</InsertXenogermDesc>
+  <WaitingForPawn>正在等待 {PAWN_nameDef}。</WaitingForPawn>
+  <ExtractingXenogermFrom>正在从 {PAWN_nameDef} 提取基因。</ExtractingXenogermFrom>
+  <ExtractionPausedNoPower>提取已暂停：无电力（{TIME} 后中断）</ExtractionPausedNoPower>
+  <LastIngestedDurationAgo>上次摄入 {CHEMICAL_label} 于 {DURATION} 前。</LastIngestedDurationAgo>
+  <NamedXenogerm>{NAME} 异种胚芽</NamedXenogerm>
+  <InsertedThing>已放入 {0}</InsertedThing>
+  <AssemblyPaused>组装已暂停</AssemblyPaused>
+  <GenebankUnpowered>所需基因库未通电</GenebankUnpowered>
+  <Deathless>不死</Deathless>
+  <GeneDefChemicalNeedDurationDesc>{PAWN_nameDef} 需要定期摄入 {0} 才能生存。在没有 {0} 的情况下经过 {DEFICIENCYDURATION} 后，{PAWN_pronoun} 将遭受 {0} 缺乏症。经过 {COMADURATION} 后，{PAWN_pronoun} 会陷入昏迷。经过 {DEATHDURATION} 后，{PAWN_pronoun} 将会死亡。</GeneDefChemicalNeedDurationDesc>
+  <ChemicalDependency>{CHEMICAL_label} 依赖</ChemicalDependency>
+  <Xenogerm>异种胚芽</Xenogerm>
+  <PawnWillKeepDeathrestingLethalInjuries>只要 {PAWN_pronoun} 有致命伤，{PAWN_nameDef} 就会继续死眠。</PawnWillKeepDeathrestingLethalInjuries>
+  <PawnWillKeepRegeneratingLethalInjuries>只要 {PAWN_pronoun} 有致命伤，{PAWN_nameDef} 就会处于再生昏迷。</PawnWillKeepRegeneratingLethalInjuries>
+  <DeathrestPaused>死眠已停止</DeathrestPaused>
+  <LethalInjuries>致命伤</LethalInjuries>
+  <Deathrest>死眠</Deathrest>
+  <Capacity>容量</Capacity>
+  <MissingGeneRomanceChance>非 {GENE} 恋爱几率</MissingGeneRomanceChance>
+  <NotInGeneBank>不在基因库中</NotInGeneBank>
+
+  <!-- Child birth -->
+  <ChildBirthAlwaysHealthy_Desc>召集人手帮助母亲分娩。医生可以帮忙接生。</ChildBirthAlwaysHealthy_Desc>
+  <UntilBabyIsBorn>直到婴儿出生</UntilBabyIsBorn>
+
+  <LearningDesireTooltip>儿童在不同时候想从不同活动中学习。</LearningDesireTooltip>
+  <DevelopmentHealthGizmoTooltip>发育健康是儿童自上次生日以来学习需求的平均值。\n\n发育健康更高的儿童在成长时刻会有更多选项，并获得更多技能激情。</DevelopmentHealthGizmoTooltip>
+
+  <MustNotBePlacedCloseToAnother>不得放置在另一个 {0_label} 附近</MustNotBePlacedCloseToAnother>
+  <PollutingTerrainProgress>距离下次地形污染</PollutingTerrainProgress>
+  <PoisonedTerrain>中毒的 {0}</PoisonedTerrain>
+  <AssignMechToControlGroup>分配到控制编组 {0}</AssignMechToControlGroup>
+  <CurrentMechEnergyFallPerDay>每天下降</CurrentMechEnergyFallPerDay>
+  <CannotAssignMechToControlGroup>无法分配到控制编组 {0}</CannotAssignMechToControlGroup>
+  <AssignMechAlreadyAssigned>已分配</AssignMechAlreadyAssigned>
+
+  <!-- Lactation -->
+  <LactatingAddedNutritionPerDay>每天多消耗 {0} 营养以产奶（因当前食物水平，产奶速度为 {1_percentage}）。</LactatingAddedNutritionPerDay>
+  <LactatingStoppedBecauseFull>因奶量已达 100% 而暂停泌乳</LactatingStoppedBecauseFull>
+  <LactatingStoppedBecauseHungry>因饥饿而暂停泌乳。</LactatingStoppedBecauseHungry>
+
+  <!-- Mech gestating -->
+  <CurrentGestationCycle>当前孕育周期</CurrentGestationCycle>
+  <RemainingGestationCycles>剩余孕育周期</RemainingGestationCycles>
+  <GestationCycles>孕育周期</GestationCycles>
+  <GestatingMech>正在孕育 {0}</GestatingMech>
+  <GestatedMech>已孕育 {0}</GestatedMech>
+  <GestatingMechRequiresMechanitor>需要 {PAWN_nameDef} 才能继续孕育</GestatingMechRequiresMechanitor>
+  <GestatedMechRequiresMechanitor>需要 {PAWN_nameDef} 才能完成</GestatedMechRequiresMechanitor>
+  <GestationComplete>孕育完成</GestationComplete>
+  <ResurrectingMech>正在复活 {0}</ResurrectingMech>
+  <ResurrectedMech>已复活 {0}</ResurrectedMech>
+
+  <!-- Carrier -->
+  <MechCarrierRelease>释放 {0}</MechCarrierRelease>
+  <MechCarrierDesc>释放最多 {0} 只 {1} 的群体。每只 {2} 需消耗 {3} {4} 来构建。若母体被摧毁，所有关联的 {1} 都会死亡。{1} 无法充能，一旦能量耗尽就会死亡。</MechCarrierDesc>
+  <MechCarrierNotEnoughResources>资源不足</MechCarrierNotEnoughResources>
+  <MechCarrierAutofillResources>自动填装</MechCarrierAutofillResources>
+  <MechCarrierClickToSetAutofillAmount>点击设置所需的自动填装量。</MechCarrierClickToSetAutofillAmount>
+  <MechCarrierAutofillDesc>此自动填装量决定了你的殖民者会自动放入此 {0} 中的最大资源量。资源可用于制造 {1}。</MechCarrierAutofillDesc>
+
+  <!-- Mech power cell -->
+  <MechPowerCell>能量电池</MechPowerCell>
+  <MechPowerCellTip>战争海胆拥有一次性的能量源。当能量电池耗尽时，该机械体就会死亡。</MechPowerCellTip>
+  
+
+  <!-- Bossgroup -->
+  <BossgroupAvailableIn>{0} 后可用。</BossgroupAvailableIn>
+  <RequiresMechanitor>需要机械师</RequiresMechanitor>
+
+  <!-- Abilities -->
+  <AbilityDisabledNoHemogenGene>{0_labelShort} 不具备血原质。</AbilityDisabledNoHemogenGene>
+  <AbilityDisabledNoHemogen>{0_labelShort} 的血原质不足。</AbilityDisabledNoHemogen>
+  <AbilityStartRitualDisabledChild>儿童无法做这件事。</AbilityStartRitualDisabledChild>
+  <AbilityStartRitualNoMembersOfIdeo>需要一名 {0}。</AbilityStartRitualNoMembersOfIdeo>
+  <AbilityHemogenCost>血原质成本</AbilityHemogenCost>
+  <AbilityHemogenGain>基础血原质获得</AbilityHemogenGain>
+  <AbilityMechSmokepopCharged>烟雾弹已充能</AbilityMechSmokepopCharged>
+  <AbilityMechSmokepopRecharging>烟雾弹将在 {0} 后重新充能</AbilityMechSmokepopRecharging>
+  <AbilityMechFirefoampopCharged>灭火泡沫已充能</AbilityMechFirefoampopCharged>
+  <AbilityMechFirefoampopRecharging>灭火泡沫将在 {0} 后重新充能</AbilityMechFirefoampopRecharging>
+
+  <PollutedTerrain>受污染的 {0}</PollutedTerrain>
+
+  <!-- Growth vat -->
+  <Biostarvation>生物饥饿</Biostarvation>
+  <BiostarvationExplanation>一个或多个生长舱正因缺少营养或电力而遭受生物饥饿。\n\n若生物饥饿达到 100%，其中的存活者将会死亡。</BiostarvationExplanation>
+  <InsertPersonGrowthVatDesc>将一个人放入生长舱。他们将以正常速度的 20 倍衰老。</InsertPersonGrowthVatDesc>
+  <InsertEmbryoGrowthVatDesc>将一个胚胎植入生长舱。在孕育 {0} 后，生长舱将产出一个完整成形的婴儿，希望是健康的。</InsertEmbryoGrowthVatDesc>
+  <ImplantEmbryo>放入胚胎</ImplantEmbryo>
+  <CannotInsertEmbryo>无法放入胚胎</CannotInsertEmbryo>
+  <EmbryoAlreadyInside>已含有胚胎。</EmbryoAlreadyInside>
+  <ImplantNoEmbryos>没有胚胎</ImplantNoEmbryos>
+  <EmbryoTimeUntilBirth>距出生时间</EmbryoTimeUntilBirth>
+  <EmbryoBirthQuality>出生品质</EmbryoBirthQuality>
+  <EmbryoSelected>已选胚胎</EmbryoSelected>
+  <PersonSelected>已选人员</PersonSelected>
+  <NoPawnsCanEnterGrowthVat>没有年龄合适且未处于生物饥饿的人。要进入生长舱，此人必须小于 {0} 岁且当前未处于生物饥饿。</NoPawnsCanEnterGrowthVat>
+  <AgingSpeed>衰老速度</AgingSpeed>
+
+  <!-- Mech charger -->
+  <WasteLevel>废料</WasteLevel>
+
+  <!-- Dissolution -->
+  <DissolutionRateIndoors>室内</DissolutionRateIndoors>
+  <DissolutionRain>下雨</DissolutionRain>
+  <DissolvesEvery>每 {0} 溶解一个废料包</DissolvesEvery>
+  <DissolutionFrozen>结冰（不会溶解）。</DissolutionFrozen>
+
+  <CellsPerDay>{0} 格/天</CellsPerDay>
+
+  <WrongDevelopmentalStageForClothing>{0} 无法穿戴 {1} 的服装</WrongDevelopmentalStageForClothing> 
+
+  <!-- Subcore scanner -->
+  <SubcoreScannerStart>启动扫描器</SubcoreScannerStart>
+  <SubcoreScannerProduces>产出</SubcoreScannerProduces>
+  <SubcoreScannerStartDesc>一旦 {0} 装满了所需材料，{1}，选中一名殖民者并右键点击 {0} 或一名倒地的人来启动扫描器。</SubcoreScannerStartDesc>
+  <SubcoreScannerCompletesIn>完成于</SubcoreScannerCompletesIn>
+  <SubcoreScannerWaitingForOccupant>正在等待人员</SubcoreScannerWaitingForOccupant>
+  <SubcoreScannerWaitingForIngredients>正在等待材料</SubcoreScannerWaitingForIngredients>
+  <SubcoreScannerWaitingForIngredientsDesc>必须先装入以下材料</SubcoreScannerWaitingForIngredientsDesc>
+  <SubcoreScannerPawnHasSickness>患有 {0}</SubcoreScannerPawnHasSickness>
+  <SubcoreScannerBabyNotAllowed>不允许婴儿</SubcoreScannerBabyNotAllowed>
+  <InsertPersonSubcoreScannerDesc>将一个人放入 {0}。</InsertPersonSubcoreScannerDesc>
+
+  <DurationHours>时长（小时）</DurationHours>
+
+  <!-- Age -->
+  <Adult>成人</Adult>
+  <Adults>成人</Adults>
+  <Child>儿童</Child>
+  <Children>儿童</Children>
+  <Baby>婴儿</Baby>
+  <Babies>婴儿</Babies>
+  <FeralChild>野孩子</FeralChild>
+  <WearableBy>可穿戴者</WearableBy>
+
+  <Reward_ReimplantXenogerm_Label>异种胚芽植入</Reward_ReimplantXenogerm_Label>
+  <Reward_ReimplantXenogerm_Desc>群体中的一名成员会将其异种胚芽重新植入你指定的殖民者，从而将你的殖民者变成他们中的一员。你的殖民者仍将属于你的派系并受你控制。</Reward_ReimplantXenogerm_Desc>
+
+  <!-- Mech resurrection -->
+  <MechResurrectionCharges>机械复活次数</MechResurrectionCharges>
+
+  <!-- Mechs -->
+  <MechStunPulseWarning>死亡时释放机械眩晕脉冲</MechStunPulseWarning>
+  <IsLowEnergySelfShutdown>{PAWN_nameDef} 因能量不足而自我关闭。</IsLowEnergySelfShutdown>
+  
+  <!-- Pollution -->
+  <ShowPollutionOverlayToggleButton>切换污染覆盖层。它会显示哪些地形区域已受污染。\n\n暴露于受污染地形会导致毒素积累，可能致死。大多数植物无法在受污染地形上存活。</ShowPollutionOverlayToggleButton>
+  <TilePollutionNone>无</TilePollutionNone>
+  <TilePollutionLight>轻度</TilePollutionLight>
+  <TilePollutionModerate>中度</TilePollutionModerate>
+  <TilePollutionExtreme>极度</TilePollutionExtreme>
+  <TilePollution>污染</TilePollution>
+  <TilePollutionNearby>附近污染</TilePollutionNearby>
+  <NearbyPollutionTip>以 {0} 格为半径范围内所有地块污染水平的总和。随距离增加，污染贡献会减少：\n\n{1}\n\n附近污染越高，发生酸性雾霾的几率越大。</NearbyPollutionTip>
+  <NoxiousHazeInterval>此地块平均每 {0} 天会出现一次酸性雾霾。</NoxiousHazeInterval>
+  <NoxiousHazeNeverOccurring>此地块永远不会出现酸性雾霾。</NoxiousHazeNeverOccurring>
+  <NearbyPollutionTilesAway>格外</NearbyPollutionTilesAway>
+  <PollutionLower>污染</PollutionLower>
+  <CannotAbsorbPollution>无法吸收污染：建筑太近</CannotAbsorbPollution>
+  <CanAbsorbPollution>可以吸收附近地形的污染</CanAbsorbPollution>
+  <AbsorbingPollutionNext>正在吸收污染：下次在 {0} 后</AbsorbingPollutionNext>
+  <TerrainPollutionTip>此地块地形的污染程度。\n\n暴露于受污染地形会导致毒素积累，可能致死。大多数作物无法在受污染地形上存活。</TerrainPollutionTip>
+
+  <!-- Research -->
+  <StudyRequirementTip>需要研究</StudyRequirementTip>
+
+  <!-- Insect -->
+  <TriggerRadius>触发半径</TriggerRadius>
+  <DormantCompOpening>正在开启</DormantCompOpening>
+  
+  <!-- Fertility -->
+  <SurgeryDisableReasonOvumExtracted>近期已提取卵子</SurgeryDisableReasonOvumExtracted>
+  <Fertilize>受精</Fertilize>
+  <FertilizeThing>使 {0_label} 受精</FertilizeThing>
+  <FertilizeCannotFloatOption>无法受精</FertilizeCannotFloatOption>
+  <FertilizeGizmoDescription>选择一名男性来使此卵子受精以形成胚胎。胚胎随后可植入母亲体内开始怀孕，或放入生长舱。所生孩子的生物学父母将是提供卵子的女性和使其受精的男性。</FertilizeGizmoDescription>
+  <FertilizeCancel>取消由 {0} 进行的受精</FertilizeCancel>
+  <CannotSterile>不育</CannotSterile>
+  <CannotPregnant>已怀孕</CannotPregnant>
+  <CannotMustBeAge>必须为 {0}</CannotMustBeAge>
+  <CannotImplantingOtherEmbryo>已在植入其他胚胎</CannotImplantingOtherEmbryo>
+  <DisabledOption>{0}（{1}）</DisabledOption>
+  <FertilizeDisabledNoMales>没有男性可以使此卵子受精。</FertilizeDisabledNoMales>
+  
+  <ImplantLabel>植入胚胎</ImplantLabel>
+  <ImplantDescription>将此胚胎植入代孕母亲体内以开始怀孕。</ImplantDescription>
+  <InsertGrowthVatLabel>放入生长舱</InsertGrowthVatLabel>
+
+  <ImplantCannotFloatOption>无法植入</ImplantCannotFloatOption>
+  <ImplantDisabledNoWomen>没有女性可以作为代孕母亲。</ImplantDisabledNoWomen>
+  <ImplantDisabledNoVats>没有可用的生长舱。</ImplantDisabledNoVats>
+  <ImplantSurgeryLabel>植入 {0}</ImplantSurgeryLabel>
+  <ImplantSurgeryConfirm>{1} 中 {0} 的植入成功几率为 {2}。\n\n植入成功几率取决于代孕母亲的生育力。若母亲太老或太年轻，几率会更低。</ImplantSurgeryConfirm>
+  <ImplantEmbryoCancelVat>现在从生长舱弹出 {0} 会在形成婴儿前将其摧毁。\n\n你想继续吗？</ImplantEmbryoCancelVat>
+  <ImplantFailedMessage>将 {0} 植入 {1} 失败了。</ImplantFailedMessage>
+  <ImplantEmbryoCancel>取消胚胎植入</ImplantEmbryoCancel>
+  <EmbryoEjectedFromGrowthVat>{0} 已从生长舱弹出并被摧毁。</EmbryoEjectedFromGrowthVat>
+  <EmbryoEjectedFromGrowthVatBiostarvation>{0} 因生物饥饿而在生长舱中被摧毁。</EmbryoEjectedFromGrowthVatBiostarvation>
+
+  <IvfPregnancyLetterText>{0} 因胚胎植入而成功怀孕了！</IvfPregnancyLetterText>
+  <IvfPregnancyLetterParents>这个婴儿将拥有 {0} 和 {1} 的基因组成。</IvfPregnancyLetterParents>
+
+  <!-- Remote mech shield -->
+  <RemoteMechShieldTip>由机械师投射的远程护盾。它会尝试阻挡来袭的抛射物或弹片，但对近战攻击或热量无效。它阻止穿戴者向外射击，若被 EMP 击中会立即关闭</RemoteMechShieldTip>
+
+  <!-- Thoughtdef fallbacks -->
+  <MyChildIsHappy>我的孩子很快乐</MyChildIsHappy>
+  <MyChildIsSad>我的孩子很伤心</MyChildIsSad> 
+  
+  <GeneticChemicalDependency_Label>遗传性 {CHEMICAL_label} 依赖</GeneticChemicalDependency_Label>
+  <GeneticChemicalDependency_Desc>由于我的遗传缺陷，我需要 {CHEMICAL_label}。我已经太久没有接触它了。</GeneticChemicalDependency_Desc>
+
+</LanguageData>

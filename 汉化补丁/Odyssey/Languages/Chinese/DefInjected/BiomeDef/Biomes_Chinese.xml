@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GlacialPlain.label>冰川平原</GlacialPlain.label>
+  <GlacialPlain.description>被冰川移动刮得干干净净的开阔地带。虽然植被与土壤稀少，但一些顽强的物种已在此安家。</GlacialPlain.description>
+  <Glowforest.label>荧光森林</Glowforest.label>
+  <Glowforest.description>间歇泉喷出巨大的硫磺云，使该地区陷入永恒的黑暗。庞大的真菌群落在黑暗中绽放，以间歇泉带到地表的养分滋养。这些区域既迷人又危险。</Glowforest.description>
+  <Grasslands.label>草原</Grasslands.label>
+  <Grasslands.description>一片以高草为主的广阔地带。这些地区适合农耕与放牧，除非遇上干旱。缺少树木与其他植被意味着这里总是有稳定的微风。由于地热活动低，此地从不出现蒸汽间歇泉。</Grasslands.description>
+  <LavaField.label>熔岩原</LavaField.label>
+  <LavaField.description>被火山热量烧得干干净净的贫瘠荒原。周期性的熔岩喷发会烧伤人与建筑，但也会以矿藏肥沃土壤。</LavaField.description>
+  <Scarlands.label>疮痍之地</Scarlands.label>
+  <Scarlands.description>一座被大规模毁灭性武器摧毁的古城废墟。这里的水有毒，动物中狂疫横行。机械体潜伏在破碎的建筑之间，等待苏醒并再次杀戮。</Scarlands.description>
+  <Orbit.label>轨道</Orbit.label>
+  <Orbit.description>世界地表上方数百公里处的空旷太空。</Orbit.description>
+  <Space.label>太空</Space.label>
+  <Space.description>空旷的虚空。</Space.description>
+
+</LanguageData>

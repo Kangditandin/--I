@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Black.label>黑</Black.label>
+  <Blue.label>蓝</Blue.label>
+  <DarkBlue.label>深蓝</DarkBlue.label>
+  <DarkGreen.label>深绿</DarkGreen.label>
+  <DarkGrey.label>深灰</DarkGrey.label>
+  <DarkMauve.label>深紫红</DarkMauve.label>
+  <DarkOlive.label>深橄榄</DarkOlive.label>
+  <DarkOrange.label>深橙</DarkOrange.label>
+  <DarkPink.label>深粉</DarkPink.label>
+  <DarkPurple.label>深紫</DarkPurple.label>
+  <DarkRed.label>深红</DarkRed.label>
+  <DarkSapphire.label>深蓝宝石</DarkSapphire.label>
+  <DarkTeal.label>深青</DarkTeal.label>
+  <Green.label>绿</Green.label>
+  <Grey.label>灰</Grey.label>
+  <LightBlue.label>浅蓝</LightBlue.label>
+  <LightGreen.label>浅绿</LightGreen.label>
+  <LightGrey.label>浅灰</LightGrey.label>
+  <LightMauve.label>浅紫红</LightMauve.label>
+  <LightOlive.label>浅橄榄</LightOlive.label>
+  <LightOrange.label>浅橙</LightOrange.label>
+  <LightPink.label>浅粉</LightPink.label>
+  <LightPurple.label>浅紫</LightPurple.label>
+  <LightRed.label>浅红</LightRed.label>
+  <LightSapphire.label>浅蓝宝石</LightSapphire.label>
+  <LightTeal.label>浅青</LightTeal.label>
+  <Mauve.label>紫红</Mauve.label>
+  <Olive.label>橄榄</Olive.label>
+  <Orange.label>橙</Orange.label>
+  <Pink.label>粉</Pink.label>
+  <Purple.label>紫</Purple.label>
+  <Red.label>红</Red.label>
+  <Sapphire.label>蓝宝石</Sapphire.label>
+  <Teal.label>青</Teal.label>
+
+</LanguageData>

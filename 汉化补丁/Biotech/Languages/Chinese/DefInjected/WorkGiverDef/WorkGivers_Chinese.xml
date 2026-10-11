@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BottleFeedBaby.label>用奶瓶喂婴儿</BottleFeedBaby.label>
+  <BreastfeedBaby.label>母乳喂养婴儿</BreastfeedBaby.label>
+  <BringBabyToSafety.label>把婴儿带到安全温度</BringBabyToSafety.label>
+  <CarryToBreastfeed.label>抱去哺乳</CarryToBreastfeed.label>
+  <CarryToGeneExtractor.label>抱去基因提取器</CarryToGeneExtractor.label>
+  <CarryToGrowthVat.label>抱去成长舱</CarryToGrowthVat.label>
+  <CarryToSubcoreScanner.label>抱去子核扫描仪</CarryToSubcoreScanner.label>
+  <ChildcarerTeach.label>教孩子</ChildcarerTeach.label>
+  <CleanClearPollution.label>清理污染</CleanClearPollution.label>
+  <CreateXenogerm.label>制作异种胚芽</CreateXenogerm.label>
+  <DeliverHemogenToPrisoner.label>向囚犯送血原质</DeliverHemogenToPrisoner.label>
+  <DoBillsMechGestator.label>在机械孕育器制作物品</DoBillsMechGestator.label>
+  <DoBillsSubcoreEncoder.label>在子核编码器制作物品</DoBillsSubcoreEncoder.label>
+  <EmptyWasteContainer.label>清空废料容器</EmptyWasteContainer.label>
+  <EnterGeneExtractor.label>进入基因提取器</EnterGeneExtractor.label>
+  <EnterGrowthVat.label>进入成长舱</EnterGrowthVat.label>
+  <EnterSubcoreScanner.label>进入子核扫描仪</EnterSubcoreScanner.label>
+  <FeedHemogen.label>施用血原质</FeedHemogen.label>
+  <HaulMechsToCharger.label>把机械体运到充能器</HaulMechsToCharger.label>
+  <HaulToCarrier.label>把资源运给搬运者</HaulToCarrier.label>
+  <HaulToGeneBank.label>存入基因库</HaulToGeneBank.label>
+  <HaulToGrowthVat.label>运送到成长舱</HaulToGrowthVat.label>
+  <HaulToSubcoreScanner.label>把资源运给子核扫描仪</HaulToSubcoreScanner.label>
+  <HaulToWastepackAtomizer.label>把资源运给废料包雾化器</HaulToWastepackAtomizer.label>
+  <PlayWithBaby.label>陪婴儿玩</PlayWithBaby.label>
+  <RepairMech.label>维修机械体</RepairMech.label>
+
+</LanguageData>

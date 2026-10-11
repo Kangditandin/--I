@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CallDropPods.label>召唤空投舱</CallDropPods.label>
+  <CallDropPods.description>召唤可用于前往另一地点的空投舱。</CallDropPods.description>
+  <CallMechanoids.label>召唤机械体</CallMechanoids.label>
+  <CallMechanoids.description>使用空投舱将敌对机械体召唤到某地点。它们会攻击附近所有人类——无论敌友。</CallMechanoids.description>
+  <DeactivateMechanoid.label>停用机械体</DeactivateMechanoid.label>
+  <DeactivateMechanoid.description>永久性地使一台敌对机械体失效。</DeactivateMechanoid.description>
+  <EggSpew.label>喷蛋</EggSpew.label>
+  <EggSpew.description>向目标区域发射一枚卵囊与一片酸性污泥。污泥会附着目标并灼烧他们。</EggSpew.description>
+  <SludgeSpew.label>喷泥</SludgeSpew.label>
+  <SludgeSpew.description>向目标区域喷洒酸性污泥。污泥会附着目标并灼烧他们。</SludgeSpew.description>
+  <TerrorRoar.label>恐惧咆哮</TerrorRoar.label>
+  <TerrorRoar.description>发出可怖的咆哮，有机会使附近敌对的人类与动物惊恐逃窜。</TerrorRoar.description>
+  <ThrumboRoar.label>敲击兽咆哮</ThrumboRoar.label>
+  <ThrumboRoar.description>发出强劲的咆哮，有机会使敌对的人类与动物恐惧颤抖，降低其移动速度与操作能力。</ThrumboRoar.description>
+  <WarTrumpet.label>战争号角</WarTrumpet.label>
+  <WarTrumpet.description>发出强劲的咆哮，有机会使敌对的人类与动物恐惧颤抖，降低其移动速度与操作能力。</WarTrumpet.description>
+  <EMPPulse.label>发射EMP</EMPPulse.label>
+  <EMPPulse.description>以使用者为中心发出一阵电磁能量。该爆发会眩晕附近的机械目标，如机械体或炮塔。</EMPPulse.description>
+  <LaunchEMPShell.label>发射EMP炮弹</LaunchEMPShell.label>
+  <LaunchEMPShell.description>发射一枚会释放电磁能量爆发、眩晕机械目标的炮弹。可用钢重新装填。</LaunchEMPShell.description>
+  <LaunchFragGrenade.label>发射破片手雷</LaunchFragGrenade.label>
+  <LaunchFragGrenade.description>发射一枚手雷。可用钢重新装填。</LaunchFragGrenade.description>
+  <LaunchIncendiaryShell.label>发射燃烧弹</LaunchIncendiaryShell.label>
+  <LaunchIncendiaryShell.description>发射一枚命中时产生爆炸、点燃附近一切的炮弹。可用化合燃料重新装填。</LaunchIncendiaryShell.description>
+  <LaunchSmokeShell.label>发射烟雾弹</LaunchSmokeShell.label>
+  <LaunchSmokeShell.description>发射一枚遮蔽来袭射击并阻止炮塔锁定的烟雾弹。可用钢重新装填。</LaunchSmokeShell.description>
+
+</LanguageData>

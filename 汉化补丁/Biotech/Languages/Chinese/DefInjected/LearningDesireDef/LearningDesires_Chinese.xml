@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Floordrawing.label>地面涂鸦</Floordrawing.label>
+  <Floordrawing.description>用粉笔在地面上画画。清洁工最终会清除这些画。</Floordrawing.description>
+  <Lessontaking.label>听课</Lessontaking.label>
+  <Lessontaking.description>被分配照料儿童的成年人会教授各种科目。这能提供技能经验。需要课桌。</Lessontaking.description>
+  <NatureRunning.label>野外奔跑</NatureRunning.label>
+  <NatureRunning.description>探索附近的户外环境。需要能接触到户外。</NatureRunning.description>
+  <Radiotalking.label>无线电交谈</Radiotalking.label>
+  <Radiotalking.description>通过无线电与他人聊天。需要一台通电的通讯台。</Radiotalking.description>
+  <Reading.label>阅读</Reading.label>
+  <Reading.description>找一本书练习阅读。</Reading.description>
+  <Skydreaming.label>仰望天空</Skydreaming.label>
+  <Skydreaming.description>在户外找个地方看天空。需要能接触到户外。</Skydreaming.description>
+  <Workwatching.label>观摩工作</Workwatching.label>
+  <Workwatching.description>跟随一名成年人并观察其工作。这能提供技能经验。</Workwatching.description>
+
+</LanguageData>

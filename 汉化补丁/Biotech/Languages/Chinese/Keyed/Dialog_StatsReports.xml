@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+  <StatsReport_Genes>相关基因</StatsReport_Genes>
+  <StatsReport_InSunlight>在阳光下</StatsReport_InSunlight>
+  <StatsReport_Clothed>已穿戴</StatsReport_Clothed>
+  <StatsReport_Unclothed>未穿戴</StatsReport_Unclothed>
+  <StatsReport_InSpace>在太空中</StatsReport_InSpace>
+  <StatsReport_NotInSpace>在行星上</StatsReport_NotInSpace>
+  
+  <StatsReport_AgeRateMultiplier>衰老速率倍率</StatsReport_AgeRateMultiplier>
+  <StatsReport_AgeRateMultiplier_Desc>根据此人的当前年龄，其生理衰老速度的倍率。</StatsReport_AgeRateMultiplier_Desc>
+
+  <StatsReport_RechargerWeightClass>所需重量等级</StatsReport_RechargerWeightClass>
+  <StatsReport_RechargerWeightClass_Desc>可以使用此充能器的机械体重等级。以下机械体兼容</StatsReport_RechargerWeightClass_Desc>
+
+  <StatsReport_RechargerNeeded>所需充能器</StatsReport_RechargerNeeded>
+  <StatsReport_RechargerNeeded_Desc>此机械体可用于恢复能量的充能器类型。这取决于该机械体的重量等级。</StatsReport_RechargerNeeded_Desc>
+
+  <StatsReport_DeathrestEffectiveness>死眠效率</StatsReport_DeathrestEffectiveness>
+  <StatsReport_DeathrestEffectiveness_Desc>用于死眠时的效果倍率。该值越高，使用者在此处死眠所需的时间越短。</StatsReport_DeathrestEffectiveness_Desc>
+
+  <StatsReport_DeathrestConnectionLimit>死眠连接上限</StatsReport_DeathrestConnectionLimit>
+  <StatsReport_DeathrestConnectionLimit_Desc>死眠时最多有多少座此类建筑能连接到死眠者。此数量还受此人的死眠容量限制。</StatsReport_DeathrestConnectionLimit_Desc>
+
+  <StatsReport_GrowthTier>成长层级</StatsReport_GrowthTier>
+  <StatsReport_GrowthTierDesc>儿童会随时间推进成长层级。学习需求越高，进展越快。当成长时刻到来时（7 岁、10 岁和 13 岁），儿童的成长层级决定了你能从多少特性与激情选项中挑选。每次成长时刻后，成长层级会重置。</StatsReport_GrowthTierDesc>
+
+  <StatsReport_DevelopmentStage>生命阶段</StatsReport_DevelopmentStage>
+  <StatsReport_DevelopmentStageDesc_Baby>一名婴儿。婴儿无法自行移动。他们的生活围绕着食物、睡眠和玩耍这些简单需求。他们格格笑时，附近成人的心情会提升；他们大哭时，附近成人会感到烦躁。\n\n人类婴儿在 3 岁时变为儿童。</StatsReport_DevelopmentStageDesc_Baby>
+  <StatsReport_DevelopmentStageDesc_ChildPart1>一名儿童。总体而言，儿童比成人更慢、技能更差。但儿童有种天生的乐观。当他们心情高昂时，这种乐覂可以提升成年殖民者的心情。\n\n儿童能从事多种工作，取决于其年龄</StatsReport_DevelopmentStageDesc_ChildPart1>
+  <StatsReport_DevelopmentStageDesc_ChildPart2>随着年龄增长，儿童会获得额外的激情与特性。\n\n儿童有多种儿童专属的学习需求，并需要特制的儿童尺寸服装。\n\n八岁以下的儿童受伤时不会爬行。\n\n人类儿童在 13 岁时变为成人。</StatsReport_DevelopmentStageDesc_ChildPart2> 
+  <StatsReport_DevelopmentStageDesc_Adult>一名成人。人类在 18 岁时完全成熟。</StatsReport_DevelopmentStageDesc_Adult>
+
+  <StatsReport_Pollution>污染倍率</StatsReport_Pollution>
+
+  <StatsReport_FertilityAgeFactor>年龄因素</StatsReport_FertilityAgeFactor>
+  <StatsReport_HasGene>拥有 {0_label} 基因</StatsReport_HasGene>
+  <StatsReport_NonBaselinerDescription>一名 {0} 异种型的人。\n\n关于 {0}：</StatsReport_NonBaselinerDescription>
+  
+  <Stat_Thing_Apparel_ValidLifestage>生命阶段</Stat_Thing_Apparel_ValidLifestage>
+  <Stat_Thing_Apparel_ValidLifestage_Desc>某些服装要求穿戴者处于特定的年龄段内。</Stat_Thing_Apparel_ValidLifestage_Desc>
+
+  <StatsReport_Connected>已连接 {0}</StatsReport_Connected>
+
+  <Effects>效果</Effects>
+  <StatsReport_MissingGeneRomanceChance>与不具备此基因者建立恋爱关系的几率倍率。</StatsReport_MissingGeneRomanceChance>
+  <ImmuneTo>免疫</ImmuneTo>
+  <SocialFightChanceFactor>社交打架几率倍率</SocialFightChanceFactor>
+  <AggroMentalBreakSelectionChanceFactor>精神崩溃为暴力的几率</AggroMentalBreakSelectionChanceFactor>
+  <PrisonBreakIntervalFactor>越狱间隔倍率</PrisonBreakIntervalFactor>
+  <WillNeverPrisonBreak>永不越狱。</WillNeverPrisonBreak>
+  <AlwaysAggroMentalBreak>精神崩溃总是暴力。</AlwaysAggroMentalBreak>
+  <NeverAggroMentalBreak>精神崩溃从不暴力。</NeverAggroMentalBreak>
+  <AddictionChanceFactor>{0_label} 成瘾几率倍率</AddictionChanceFactor>
+  <OverdoseChanceFactor>{0_label} 过量几率倍率</OverdoseChanceFactor>
+  <ToleranceBuildupFactor>{0_label} 耐量积累倍率</ToleranceBuildupFactor>
+  <AddictionImmune>免疫 {0_label} 成瘾。</AddictionImmune>
+  <FoodPoisoningImmune>免疫食物中毒。</FoodPoisoningImmune>
+  <WillNeverSocialFight>永不进行社交打架。</WillNeverSocialFight>
+  <AgeFactors>衰老因素</AgeFactors>
+  <UnaffectedByDarkness>工作速度不受黑暗影响。</UnaffectedByDarkness>
+  <PassionModAdd>在 {0_label} 上增加一级激情。</PassionModAdd>
+  <PassionModDrop>移除 {0_label} 上的所有激情。</PassionModDrop>
+  <GivesAbility>赋予能力</GivesAbility>
+  <GivesAbilities>赋予能力</GivesAbilities>
+  <ResourceLossPerDay>{RESOURCE}：每天 {OFFSET}。</ResourceLossPerDay>
+  <Removes>移除</Removes>
+  <DevelopmentStage_Baby>婴儿</DevelopmentStage_Baby>
+  <DevelopmentStage_Child>儿童</DevelopmentStage_Child>
+  <DevelopmentStage_Adult>成人</DevelopmentStage_Adult>
+
+  <StatsReport_GrowthVatSpeedFactor>生长舱速度</StatsReport_GrowthVatSpeedFactor>
+
+  <GeneToleranceBuildupImmune>携带者无法对 {0_label} 产生耐量。</GeneToleranceBuildupImmune>
+  <GeneToleranceBuildupFactor>携带者对 {0_label} 产生耐量的速度是 {1}。</GeneToleranceBuildupFactor>
+  <GeneOverdoseImmune>携带者不会对 {0_label} 过量。</GeneOverdoseImmune>
+  <GeneOverdoseFactor>携带者对 {0_label} 过量的几率是 {1}。</GeneOverdoseFactor>
+
+</LanguageData>

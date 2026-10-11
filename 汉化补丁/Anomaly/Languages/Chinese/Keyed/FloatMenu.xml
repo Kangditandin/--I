@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NoEmptyEntityHolders>没有空的收容目标</NoEmptyEntityHolders>
+  <ChooseEntityHolder>选择收容目标</ChooseEntityHolder>
+  <FloatMenuContainmentStrength>收容强度</FloatMenuContainmentStrength>
+  <FloatMenuContainmentRequires>{0_label} 需要</FloatMenuContainmentRequires>
+  <EntityHolderReservedBy>预订者</EntityHolderReservedBy>
+
+  <TalkTo>与 {0_nameDef} 交谈</TalkTo>
+  <CannotTalkTo>无法与 {0_nameDef} 交谈</CannotTalkTo>
+  <ZeroSuppressionRate>无法进行压制</ZeroSuppressionRate>
+  <CannotStandNear>无法站在其旁边</CannotStandNear>
+
+  <ExtractBioferrite>从 {0} 中提取</ExtractBioferrite>
+  <BioferriteAlreadyExtracted>生物铁素正在再生</BioferriteAlreadyExtracted>
+
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Room requirements -->
+  <NeedThroneAssigned>需要王座厅</NeedThroneAssigned>
+  <NeedThroneAssignedDesc>你的一名成员拥有贵族头衔，需要一座王座厅，但尚未指定王座厅。\n\n请确保该头衔持有者被指派到王座厅内的一张王座上。\n\n王座厅的大小与装饰应满足该头衔的具体要求。\n\n同一座王座厅内可以放置多张王座。</NeedThroneAssignedDesc>
+
+  <UndignifiedBedroom>卧室不够体面</UndignifiedBedroom>
+  <UndignifiedBedroomDesc>你的一名成员拥有贵族头衔，需要具备特定条件的卧室。要么尚未指定卧室，要么指定的卧室不满足要求。</UndignifiedBedroomDesc>
+
+  <NeedBedroomAssigned>头衔要求卧室</NeedBedroomAssigned>
+  <NeedBedroomAssignedDesc>你的一名成员拥有贵族头衔，需要一间私人卧室，但尚未指定卧室。\n\n请为其指定一间私人卧室。卧室的大小与装饰应满足该头衔的具体要求。</NeedBedroomAssignedDesc>
+
+  <UndignifiedThroneroom>王座厅不够体面</UndignifiedThroneroom>
+  <UndignifiedThroneroomDesc>你的一名成员拥有贵族头衔和一张王座，但王座厅不满足该头衔的要求。</UndignifiedThroneroomDesc>
+
+  <RoyalNoAcceptableFood>没有可接受的食物</RoyalNoAcceptableFood>
+  <RoyalNoAcceptableFoodDesc>你的一名成员拥有贵族头衔并有着特定的食物要求，但当前没有满足这些要求的食物。</RoyalNoAcceptableFoodDesc>
+
+  <RoomRequirementGracePeriodDesc>距离要求生效还有 {0} 天</RoomRequirementGracePeriodDesc>
+
+  <ThroneroomInvalidConfiguration>王座无法使用</ThroneroomInvalidConfiguration>
+  <ThroneroomInvalidConfigurationDesc>由于布置方式，一张王座无法使用：</ThroneroomInvalidConfigurationDesc>
+
+  <MonumentMarkerMissingBlueprints>纪念碑缺少蓝图</MonumentMarkerMissingBlueprints>
+  <MonumentMarkerMissingBlueprintsDesc>由于并非所有部件都已放置蓝图，纪念碑将无法完工。\n\n选择纪念碑标记并点击“放置蓝图”，或手动放置蓝图。</MonumentMarkerMissingBlueprintsDesc>
+
+  <ShipLandingBeaconUnusable>信标无法使用</ShipLandingBeaconUnusable>
+  <ShipLandingBeaconUnusableDesc>一座飞船降落信标已通电但无法使用。要使其可用，必须将四座此类信标放置在边长至少 9 格的正方形四角，且该正方形区域内不得有任何障碍物，包括建筑物、人和动物。</ShipLandingBeaconUnusableDesc>
+
+  <NeedMeditationSpotAlert>需要冥想点</NeedMeditationSpotAlert>
+  <NeedMeditationSpotAlertDesc>下列殖民者拥有灵能聚焦需求或被安排了冥想，但没有可供他们使用的冥想点。\n{0}\n\n请放置一个冥想点，并确保其可到达且可用。殖民者会优先选择靠近他们能使用的、最好的聚焦物的冥想点。殖民者不会在他人的卧室中冥想。</NeedMeditationSpotAlertDesc>
+
+  <UnusableMeditationFocusAlert>无法使用的冥想聚焦物</UnusableMeditationFocusAlert>
+  <UnusableMeditationFocusAlertDesc>下列殖民者正在无法使用的聚焦物附近冥想。\n{0}\n\n每个人可以冥想的聚焦物各不相同，取决于其冥想聚焦类型。个人的聚焦类型由其背景故事、特性和头衔决定。要查看某人的冥想聚焦类型，请选中他并点击“i”按钮查看详情窗口。</UnusableMeditationFocusAlertDesc>
+
+  <PermitChoiceReadyAlert>可以挑选许可了</PermitChoiceReadyAlert>
+  <PermitChoiceReadyAlertDesc>{PAWN_nameDef} 可以挑选一项新许可。</PermitChoiceReadyAlertDesc>
+
+  <BestowerWaitingAlert>授勋者正在等待</BestowerWaitingAlert>
+  <BestowerWaitingAlertDesc>一名授勋者正在等待授勋仪式开始。</BestowerWaitingAlertDesc>
+
+  <AnimaLinkingReadyLabel>灵能链接仪式已就绪</AnimaLinkingReadyLabel>
+  <AnimaLinkingReadyDesc>一棵灵能树拥有足够的灵能草，可举行链接仪式并为这些殖民者提升灵能链接等级</AnimaLinkingReadyDesc>
+  <AnimaLinkingReadyDescExtra>要开始仪式，请选中一名殖民者，点击“开始灵能树链接”按钮，然后选择你要使用的灵能树。</AnimaLinkingReadyDescExtra>
+
+</LanguageData>

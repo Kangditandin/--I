@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Create/review world -->
+  <PlanetLandmarkDensity>地标</PlanetLandmarkDensity>
+  <PlanetLandmarkDensity_Low>稀少</PlanetLandmarkDensity_Low>
+  <PlanetLandmarkDensity_Normal>普通</PlanetLandmarkDensity_Normal>
+  <PlanetLandmarkDensity_High>密集</PlanetLandmarkDensity_High>
+  
+  <GeneratingGravship>准备起飞</GeneratingGravship>
+  <PreparingForLanding>准备降落</PreparingForLanding>
+
+  <Subject>对象</Subject>
+
+  <Difficulty_FishingYieldFactor_Label>钓鱼产量</Difficulty_FishingYieldFactor_Label>
+  <Difficulty_FishingYieldFactor_Info>调整钓鱼时的捕获量。</Difficulty_FishingYieldFactor_Info>
+
+  <OdysseyFactionDisabledContentWarning>禁用 {0} 将无法完成《奥德赛》的主要任务。</OdysseyFactionDisabledContentWarning>
+</LanguageData>

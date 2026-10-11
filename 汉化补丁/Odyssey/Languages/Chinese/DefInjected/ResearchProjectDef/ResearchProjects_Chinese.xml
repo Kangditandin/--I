@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AdvancedGravtech.label>高级引力科技</AdvancedGravtech.label>
+  <AdvancedGravtech.description>建造高级引力船部件。</AdvancedGravtech.description>
+  <BasicGravtech.label>基础引力科技</BasicGravtech.label>
+  <BasicGravtech.description>建造一艘引力船并用它环游星球。发射引力船将放弃你当前的地图。你将无法返回。</BasicGravtech.description>
+  <BeamWeapons.label>光束武器</BeamWeapons.label>
+  <BeamWeapons.description>建造使用伽马射线光束烧穿护甲并点燃目标的武器。</BeamWeapons.description>
+  <Fishing.label>钓鱼</Fishing.label>
+  <Fishing.description>划定区域，让你的殖民者可以在那里钓鱼。</Fishing.description>
+  <HeavyBridges.label>重型桥梁</HeavyBridges.label>
+  <HeavyBridges.description>建造能支撑重型建筑的重型桥梁。你可以借此在水面上建造整座殖民地。</HeavyBridges.description>
+  <HunterDrones.label>猎杀无人机</HunterDrones.label>
+  <HunterDrones.description>建造可释放猎杀无人机的陷阱与可穿戴背包。这些爆炸性无人机会追击敌人，并在进入射程时引爆。</HunterDrones.description>
+  <OrbitalTech.label>轨道科技</OrbitalTech.label>
+  <OrbitalTech.description>建造能抵御严酷太空真空的建筑与服装。</OrbitalTech.description>
+  <Shuttles.label>穿梭机</Shuttles.label>
+  <Shuttles.description>建造一架可用于远距离旅行或抵达轨道的穿梭机。这需要穿梭机引擎，而它只能从轨道商人与任务中获得。</Shuttles.description>
+  <StandardGravtech.label>标准引力科技</StandardGravtech.label>
+  <StandardGravtech.description>建造复杂的引力船部件。</StandardGravtech.description>
+
+</LanguageData>

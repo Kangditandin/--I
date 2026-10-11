@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AbortLandConfirmation>中止着陆将迫使你的引力船在世界地图上附近的随机位置降落。这会增加着陆时发生事故的几率。\n\n你确定要继续吗？</AbortLandConfirmation>
+  <AbortLandGravship>中止着陆</AbortLandGravship>
+  <AbortLandGravshipDesc>取消在这张地图上着陆，并迫使引力船在世界地图上附近降落。当你找不到着陆点时很有用。\n\n警告：这会增加着陆时发生事故的几率。</AbortLandGravshipDesc>
+  <CancelAttack>取消攻击</CancelAttack>
+  <CancelAttackDesc>清除此动物当前的目标。</CancelAttackDesc>
+  <CannotLandOnSameTile>无法在同一地块上着陆</CannotLandOnSameTile>
+  <ConfirmLoseGravship>重组商队将放弃你的引力船。你确定要继续吗？\n\n要带着引力船离开，请选中引力船的驾驶控制台，然后选择“发射”。</ConfirmLoseGravship>
+  <ConfirmMergeShuttles>合并这些商队将导致以下内容丢失：\n{0}\n\n你确定要继续吗？</ConfirmMergeShuttles>
+  <FailedToBoardGravship>{PAWN_nameDef} 无法登上 {1}</FailedToBoardGravship>
+  <FailedToFindCrashSite>未能找到坠毁地点。</FailedToFindCrashSite>
+  <FailedToLeaveGravship>{PAWN_nameDef} 无法离开 {1}</FailedToLeaveGravship>
+  <FishingSpotOverTargetResourceCount>储存的鱼超过钓鱼区设置</FishingSpotOverTargetResourceCount>
+  <GravshipBlockedByRoof>被屋顶阻挡</GravshipBlockedByRoof>
+  <GravshipBoardColonyAnimalsLabel>让殖民地动物登船</GravshipBoardColonyAnimalsLabel>
+  <GravshipBoardColonyAnimalsTooltip>命令所有殖民地动物登上引力船。在它们全部登船之前，引力船不会发射。</GravshipBoardColonyAnimalsTooltip>
+  <GravshipBoardColonyMechsLabel>让殖民地机械体登船</GravshipBoardColonyMechsLabel>
+  <GravshipBoardColonyMechsTooltip>命令所有殖民地机械体登上引力船。在它们全部登船之前，引力船不会发射。</GravshipBoardColonyMechsTooltip>
+  <GravshipForceVisitorsToLeaveLabel>强制访客离开</GravshipForceVisitorsToLeaveLabel>
+  <GravshipForceVisitorsToLeaveTooltip>等待所有访客离开引力船后再发射。这不影响敌人、囚犯或被击倒的访客。</GravshipForceVisitorsToLeaveTooltip>
+  <GravshipLandingMarkerNotPlaced>你必须为你的引力船指定一片着陆区。</GravshipLandingMarkerNotPlaced>
+  <LetterInspirationBeginPsilocap>由于摄入了迷幻菇，[PAWN_nameIndef]获得了灵感！</LetterInspirationBeginPsilocap>
+  <MentalBreakReason_Psilocap>这是由摄入迷幻菇引起的。</MentalBreakReason_Psilocap>
+  <ViewRange>视野范围</ViewRange>
+  <ViewRangeDesc>在世界地图上查看引力船当前的航程。</ViewRangeDesc>
+
+</LanguageData>

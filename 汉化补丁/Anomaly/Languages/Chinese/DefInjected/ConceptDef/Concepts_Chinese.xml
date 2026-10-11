@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnomalyResearch.label>异常研究</AnomalyResearch.label>
+  <CapturingEntities.label>捕获实体</CapturingEntities.label>
+  <ColonyGhouls.label>食尸鬼</ColonyGhouls.label>
+  <ContainingEntities.label>收容实体</ContainingEntities.label>
+  <EntityCodex.label>实体图鉴</EntityCodex.label>
+  <StudyingEntities.label>研究实体</StudyingEntities.label>
+  <SuppressingEntities.label>抑制实体</SuppressingEntities.label>
+  <VoidProvocation.label>虚空挑衅</VoidProvocation.label>
+
+</LanguageData>

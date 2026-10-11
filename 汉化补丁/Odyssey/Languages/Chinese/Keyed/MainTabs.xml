@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Research -->
+  <MissingGravEngineInspection>必须检查引力引擎</MissingGravEngineInspection>
+  <RequiresInspectionof>需要检查</RequiresInspectionof>
+  <RequireGravEngineInspected>已检查引力引擎</RequireGravEngineInspected>
+  
+  <!-- Ancient vents -->
+  <AncientSmokeVentActive>正在排放烟雾。</AncientSmokeVentActive>
+  <AncientToxVentActive>正在造成有毒落尘。</AncientToxVentActive>
+  <AncientHeatVentActive>正在排放热量。</AncientHeatVentActive>
+  
+</LanguageData>

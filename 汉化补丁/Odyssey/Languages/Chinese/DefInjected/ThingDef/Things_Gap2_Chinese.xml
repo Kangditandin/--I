@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BlocksVacstone.label>真空石砖</BlocksVacstone.label>
+  <BlocksVacstone.description>从行星采集的压实真空岩石块。</BlocksVacstone.description>
+  <ChunkVacstone.label>真空石块</ChunkVacstone.label>
+  <DropPodIncomingAncient.label>远古运输舱（抵达）</DropPodIncomingAncient.label>
+  <DropPodLeavingAncient.label>远古运输舱（离开）</DropPodLeavingAncient.label>
+  <GravAnchor.label>引力锚</GravAnchor.label>
+  <GravAnchor.description>防止当地地图在引力船发射期间被摧毁。\n\n引力锚能被动地在大范围内减弱不稳定的引力切变，从而防止引力船发射带来的破坏性影响。它无法建在引力船本身上，因为那样会完全阻止飞行。</GravAnchor.description>
+  <SmoothedVacstone.label>平整真空石</SmoothedVacstone.label>
+  <SmoothedVacstone.description>从行星采集的平整、压实真空岩石。</SmoothedVacstone.description>
+  <VacskinGland.label>真空皮腺</VacskinGland.label>
+  <VacskinGland.description>这种仿生腺体会释放一种蜡状物质，在皮肤上形成隔热屏障，防止真空灼伤，但会限制行动。该腺体还会调节血氧水平，使人在太空真空中存活更久。</VacskinGland.description>
+  <Vacstone.label>真空石</Vacstone.label>
+  <Vacstone.description>从行星采集的压实岩石和尘埃。</Vacstone.description>
+  
+</LanguageData>

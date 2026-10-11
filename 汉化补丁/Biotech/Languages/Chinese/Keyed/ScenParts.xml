@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <ScenPart_StartingMech>开局携带机械体</ScenPart_StartingMech>
+  <Mechanoid>机械族</Mechanoid>
+  <RandomMech>随机机械体</RandomMech>
+  <StartOverseenChance>被监督几率</StartOverseenChance>
+
+</LanguageData>

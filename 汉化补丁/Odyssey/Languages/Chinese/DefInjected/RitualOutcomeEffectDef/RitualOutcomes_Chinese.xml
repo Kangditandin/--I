@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GravshipLaunch.description>质量因素决定引擎的冷却时长以及着陆时发生事故的几率。</GravshipLaunch.description>
+  <GravshipLaunch.comps.0.label>{PAWN_labelShort}的驾驶能力</GravshipLaunch.comps.0.label>
+  <GravshipLaunch.comps.1.label>{PAWN_labelShort}的驾驶能力</GravshipLaunch.comps.1.label>
+  <GravshipLaunch.comps.2.label>船员数量</GravshipLaunch.comps.2.label>
+  <GravshipLaunch.comps.3.label>小型推进器</GravshipLaunch.comps.3.label>
+  <GravshipLaunch.comps.4.label>大型推进器</GravshipLaunch.comps.4.label>
+  <GravshipLaunch.comps.5.label>驾驶副人格核心</GravshipLaunch.comps.5.label>
+  <GravshipLaunch.extraOutcomeDescriptions.0.description>按当前质量，引力船在着陆后 {0_time} 内无法再次发射。</GravshipLaunch.extraOutcomeDescriptions.0.description>
+  <GravshipLaunch.extraOutcomeDescriptions.1.description>此外，引力船着陆时有 {0_percentage} 的几率发生小事故。</GravshipLaunch.extraOutcomeDescriptions.1.description>
+
+</LanguageData>

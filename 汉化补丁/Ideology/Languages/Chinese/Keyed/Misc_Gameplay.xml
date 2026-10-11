@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <CustomizeIdeoligion>自定义理念</CustomizeIdeoligion>
+  <ChooseYourIdeoligion>选择你的理念</ChooseYourIdeoligion>
+  <RandomStructureTip>将为你的理念随机使用一种结构。</RandomStructureTip>
+  <RandomStyleTip>将为你的理念随机使用一种风格。</RandomStyleTip>
+  <PlayClassic>理念系统未启用</PlayClassic>
+  <CreateCustomFluid>创建自定义\n（流动）</CreateCustomFluid>
+  <CreateCustomFixed>创建自定义\n（固定）</CreateCustomFixed>
+  <CustomIdeoligions>自定义理念</CustomIdeoligions>
+  <LoadSaved>加载已保存</LoadSaved>
+  <Structure>结构</Structure>
+  <ChooseYourIdeoligionDesc>你的开局殖民者该信仰什么？这些信仰会影响玩法与外观。你可以招募他人信奉你的信仰，或接受他们的信仰。</ChooseYourIdeoligionDesc>
+  <CreateCustom>创建自定义</CreateCustom>
+  <DeleteCustom>删除自定义</DeleteCustom>
+  <CreateNew>新建</CreateNew>
+  <CreateFluid>创建流动</CreateFluid>
+  <LoadExisting>加载现有</LoadExisting>
+  <CreateCustomIdeoligion>创建自定义理念</CreateCustomIdeoligion>
+  <CustomIdeoligionSectionHeader>自定义理念</CustomIdeoligionSectionHeader>
+  <FactionIdeoligionSectionHeader>派系理念</FactionIdeoligionSectionHeader>
+  <LoadExistingIdeoligion>加载已保存的理念</LoadExistingIdeoligion>
+  <SelectAnIdeo>在左侧为你的派系选择一个理念，或</SelectAnIdeo>
+  <Ideo>理念</Ideo> 
+  <RandomizeAll>全部随机</RandomizeAll>
+  <Appearance>外观</Appearance>
+  <DoneButton>完成</DoneButton>
+  <BeliefInIdeo>信仰</BeliefInIdeo>
+  <Reward_RelicInfo>关于 {0} 的信息</Reward_RelicInfo>
+  <Reward_RelicInfoLabel>关于 {0} 的信息</Reward_RelicInfoLabel>
+  <RelicOf>{IDEO_name} 的圣物</RelicOf>
+  <Altar>祭坛</Altar>
+  <Base>基础</Base>
+  <MinExpectation>最低期望</MinExpectation>
+  <PreceptThoughtMoodRange>{0} 到 {1}</PreceptThoughtMoodRange>
+  <ComesFromIdeo>源于理念</ComesFromIdeo>
+  <CurrentTotalAnimalBodySizePerColonist>当前每名殖民者的动物总体型</CurrentTotalAnimalBodySizePerColonist>
+  <AnimalsBodySizePerColonist>每名殖民者的动物总体型</AnimalsBodySizePerColonist>
+  <VeneratedAnimalsBodySizePerColonist>每名殖民者附近崇敬动物的总体型</VeneratedAnimalsBodySizePerColonist>
+  <MinAnimalBodySizePerColonist>期望每名殖民者至少拥有 {0} 体型。</MinAnimalBodySizePerColonist>
+  <Disables>禁用</Disables>
+  <RequiresOnePrecept>需要以下戒律之一</RequiresOnePrecept>
+  <RequiredPrecepts>必需戒律</RequiredPrecepts>
+  <RequiredRituals>必需仪式</RequiredRituals>
+  <PreventsPrecepts>阻止戒律</PreventsPrecepts>
+  <Styles>风格</Styles>
+  <ChanceToHavePrecept>拥有戒律的几率</ChanceToHavePrecept>
+  <FavoriteColorTooltip>{PAWN_labelShort} 最喜欢的颜色：{COLOR}\n将 {PAWN_possessive} 超过 {PERCENTAGE} 的服装设为该颜色{ORIDEO}，会使 {PAWN_objective} 稍微更快乐。\n\n你可以在造型台使用染料改变服装颜色。</FavoriteColorTooltip>
+  <OrIdeoColor>，或 {PAWN_possessive} 理念的颜色，</OrIdeoColor>
+  <SetIdeoColor>设为理念颜色</SetIdeoColor>
+  <SetFavoriteColor>设为最喜欢的颜色</SetFavoriteColor>
+  <FavoriteColorPickerTip>{PAWN_nameDef} 最喜欢的颜色。将 {PAWN_possessive} 超过 60% 的服装设为该颜色，或 {PAWN_possessive} 理念的颜色，会使 {PAWN_objective} 稍微更快乐。</FavoriteColorPickerTip>
+  <IdeoColorPickerTip>{PAWN_nameDef} 的理念颜色。将 {PAWN_possessive} 超过 60% 的服装设为该颜色，或 {PAWN_possessive} 最喜欢的颜色，会使 {PAWN_objective} 稍微更快乐。</IdeoColorPickerTip>
+  <ConfigureIdeoligion>配置你派系的理念</ConfigureIdeoligion>
+  <NotEnoughDye>染料不足。</NotEnoughDye>
+  <ApparelLockedCannotRecolor>{PAWN_nameDef} 不愿为 {PAWN_possessive} 的 {APPAREL_labelShort} 重新染色。</ApparelLockedCannotRecolor>
+  <NotEnoughDyeWillRecolorApparel>当染料可用时，殖民者会为服装重新染色。</NotEnoughDyeWillRecolorApparel>
+  <NotEnoughDyeWillRecolorHair>当染料可用时，殖民者会为头发重新染色。</NotEnoughDyeWillRecolorHair>
+  <IdeoCertaintyTooltip>{PAWN_labelShort} 对 {IDEO} 的确信度为 {PERCENTAGE}</IdeoCertaintyTooltip>
+  <DisabledByPrecept>被戒律 {0} 禁用</DisabledByPrecept>
+  <Everyone>所有人</Everyone>
+  <Narrative>叙事</Narrative>
+  <NarrativeLower>叙事</NarrativeLower>
+  <PreceptName>戒律名称</PreceptName>
+  <PreceptNameLower>戒律名称</PreceptNameLower>
+  <Changing>正在更改 {0}</Changing>
+  <StructuresLower>结构</StructuresLower>
+  <MemesLower>模因</MemesLower>
+  <Reward_DevelopmentPointsLabel>发展点数</Reward_DevelopmentPointsLabel>
+  <Reward_DevelopmentPoints>你为 {0} 的发展点数将增加 {1}。\n\n你当前有 {2} 点发展点数。当你拥有 {3} 点发展点数时，即可改革理念。\n\n通过完成其他任务和仪式可获得额外发展点数。</Reward_DevelopmentPoints>
+  <CurrentDevelopmentPoints>当前点数</CurrentDevelopmentPoints>
+  <ReformDevelopmentPoints>改革所需点数</ReformDevelopmentPoints>
+  <QuestLower>任务</QuestLower>
+  <MealKindVegetarian>素食</MealKindVegetarian>
+  <MealKindMeat>含肉</MealKindMeat>
+  <MealKindAny>所有人都可接受的食物</MealKindAny>
+  <WearingDesiredApparelMulti>这套服装</WearingDesiredApparelMulti>
+
+  <UnableToLoadIdeoTitle>无法加载理念</UnableToLoadIdeoTitle>
+  <UnableToLoadIdeoDescription>由于将信奉此理念的派系的要求，无法加载所选理念。违反的要求为：</UnableToLoadIdeoDescription>
+  <UnableToLoadIdeoMemeNotAllowed>模因 {MEME} 不允许用于 {FACTIONTYPE} 派系</UnableToLoadIdeoMemeNotAllowed>
+  <UnableToLoadIdeoMemeRequired>模因 {MEME} 是 {FACTIONTYPE} 派系所必需的</UnableToLoadIdeoMemeRequired>
+  <UnableToLoadIdeoPreceptNotAllowed>戒律 {PRECEPT} 不允许用于非玩家派系</UnableToLoadIdeoPreceptNotAllowed>
+
+  <RitualTargetGraveInfo>装有 {PAWN_labelShort} 尸体的坟墓</RitualTargetGraveInfo>
+  <RitualTargetEmptyGraveInfo>用于悼念 {PAWN_labelShort} 逝世的空坟</RitualTargetEmptyGraveInfo>
+  <RitualTargetGraveInfoAbstract>装有 {IDEO_memberNameIndef} 尸体的坟墓</RitualTargetGraveInfoAbstract>
+  <RitualTargetGraveInfoAbstractNoIdeo>装有尸体的坟墓</RitualTargetGraveInfoAbstractNoIdeo>
+  <RitualTargetEmptyGraveInfoAbstract>用于悼念 {IDEO_memberNameIndef} 逝世的空坟</RitualTargetEmptyGraveInfoAbstract>
+  <RitualTargetGraveInfoMustBeBuried>{PAWN_labelShort} 的遗体必须先被埋葬</RitualTargetGraveInfoMustBeBuried>
+  <RitualTargetGatherSpotInfo>任意聚集点，比如一张桌子</RitualTargetGatherSpotInfo>
+  <RitualTargetGatherAltarOrRitualSpotInfo>祭坛或任意仪式点。</RitualTargetGatherAltarOrRitualSpotInfo>
+  <RitualTargetGatherAltarIdeogramOrRitualSpotInfo>祭坛、理念图或任意仪式点。</RitualTargetGatherAltarIdeogramOrRitualSpotInfo>
+  <RitualTargetLightBallIsNotPowered>光球未通电。</RitualTargetLightBallIsNotPowered>
+  <RitualTargetNoPoweredSpeakers>没有已通电的扬声器。</RitualTargetNoPoweredSpeakers>
+  <RitualTargetCampfireNoFuel>营火没有燃料。</RitualTargetCampfireNoFuel>
+  <RitualTargetCampfireMustBeUnroofed>营火上方必须无屋顶。</RitualTargetCampfireMustBeUnroofed>
+  <RitualTargetNoDrum>附近没有鼓。</RitualTargetNoDrum>
+  <RitualTargetNeedUnroofedCells>附近至少需要 {0} 个无屋顶格。</RitualTargetNeedUnroofedCells>
+  <RitualTargetCampfirePartyInfo>一堆点燃的营火</RitualTargetCampfirePartyInfo>
+  <RitualTargetUnconnectedGaruanlenTreeInfo>一棵未连接的高兰树</RitualTargetUnconnectedGaruanlenTreeInfo>
+  <RitualTargetConnectedGauranlenTree>已与 {PAWN_nameDef} 连接</RitualTargetConnectedGauranlenTree>
+  <RitualTargetConnectionTornGauranlenTree>{TREE_definite} 的连接最近被扯断。它可以在 {1} 后再次连接。</RitualTargetConnectionTornGauranlenTree>
+  <RitualTargetWoodInfo>每名参与者需要 {0} 木材（共 {1}）。</RitualTargetWoodInfo>
+  <RitualTargetWoodInfoAppend>有一名参与者无法获得足够的木材。</RitualTargetWoodInfoAppend>
+  <RitualTargetWoodInfoAppendMultiple>{0} 名参与者无法获得足够的木材。</RitualTargetWoodInfoAppendMultiple>
+  <RitualTargetWoodInfoWarning>{PAWN_labelShort} 无法获得足够的木材。</RitualTargetWoodInfoWarning>
+  <RitualTargetUnreachable>{0} 必须能够到达仪式目标。</RitualTargetUnreachable>
+  <Accuse>指控</Accuse>
+  <RitualScarificationWarnNonScarificationIdeo>{PAWN_labelShort} 不信仰理念割礼，不会喜欢被割伤。</RitualScarificationWarnNonScarificationIdeo>
+  <RitualScarificationWarnWimp>{PAWN_labelShort} 是个胆小鬼，不会喜欢被割伤。</RitualScarificationWarnWimp>
+  <RitualBlindingWarnWimp>{PAWN_labelShort} 是个胆小鬼，不会喜欢被致盲。</RitualBlindingWarnWimp>
+  <RitualScarificationTriggerExtraDesc>只要被割伤的 {IDEOMEMBERPLURAL} 少于 {0} 名，就期望对 {IDEOMEMBERPLURAL} 进行割礼。</RitualScarificationTriggerExtraDesc>
+  <RitualBlindingTriggerExtraDesc>对每名现有及新加入的 {IDEOMEMBER} 殖民者都期望进行致盲。</RitualBlindingTriggerExtraDesc>
+  
+  <RitualOutcomeExtraDesc_DancePartyWorkFocus>所有参与仪式的人都获得了为期一天的工作专注加成（全局工作速度 {PERCENTAGE}）！</RitualOutcomeExtraDesc_DancePartyWorkFocus>
+  <RitualOutcomeExtraDesc_BlindingPsylink>得益于一次令人满意的致盲仪式，{PAWN_labelShort} 获得了 1 级灵能链接！</RitualOutcomeExtraDesc_BlindingPsylink>
+  <RitualOutcomeExtraDesc_BlindingPsylinkAbility>凭新的灵能链接等级，{PAWN_pronoun} 获得了 {0} 灵能法术。</RitualOutcomeExtraDesc_BlindingPsylinkAbility>
+  <RitualOutcomeExtraDesc_ConsumableInspiration>得益于一次令人满意的 {RITUAL}，{PAWN_labelShort} 获得了 {INSPIRATION}！</RitualOutcomeExtraDesc_ConsumableInspiration>
+  <RitualOutcomeExtraDesc_SkylanternWanderers>你的天灯吸引了一些友善的旅行者。他们会造访并留下礼物。</RitualOutcomeExtraDesc_SkylanternWanderers>
+  <RitualOutcomeExtraDesc_Execution>所有参与的奴隶都被死亡的景象震慑。他们的压制已提升至最高水平。</RitualOutcomeExtraDesc_Execution>
+  
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwarded>由于仪式的品质，你的发展点数增加了 {2}（从 {0} 到 {1}）。</RitualOutcomeExtraDesc_DevelopmentPointsAwarded>
+  <RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>发展点数不能超过 {0}。</RitualOutcomeExtraDesc_DevelopmentPointsAwardedCapped>
+  <RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>由于仪式品质不佳，未获得发展点数。</RitualOutcomeExtraDesc_NoDevelopmentPointsAwarded>
+
+  <RitualAttachedReward>额外奖励</RitualAttachedReward>
+  <RitualAttachedRewardChoose>选择</RitualAttachedRewardChoose>
+  <RitualAttachedRewardCantUseWithRitual>无法将 {0} 与 {1} 一起使用。</RitualAttachedRewardCantUseWithRitual>
+  <RitualAttachedRewardRequiredMemeAny>需要以下模因之一</RitualAttachedRewardRequiredMemeAny>
+  <RitualAttachedRewardRequiredFaction>需要 {0} 派系</RitualAttachedRewardRequiredFaction>
+  <RitualAttachedOutcomes_Positive>正面</RitualAttachedOutcomes_Positive>
+  <RitualAttachedOutcomes_Negative>负面</RitualAttachedOutcomes_Negative>
+  <RitualAttachedOutcomesInfo>若 {0} 为{1}</RitualAttachedOutcomesInfo>
+  <RitualAttachedApplliesForOutcome>任何 {0} 结果时</RitualAttachedApplliesForOutcome>
+  <RitualAttachedApplliesForOutcomes>任何 {0} 结果时</RitualAttachedApplliesForOutcomes>
+  <RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>{0} 的喧闹吸引了一些好奇的动物！\n\n它们似乎习惯与人类接触，正在加入殖民地。</RitualAttachedOutcome_FarmAnimalsWanderIn_Desc>
+  <RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>{0} 促使一个高兰树荚在附近萌芽。</RitualAttachedOutcome_GauranlenTreePod_ExtraDesc>
+  <RitualAttachedOutcomeCantApply>无法应用奖励</RitualAttachedOutcomeCantApply>
+  <RitualAttachedOutcomeCantApply_NoValidSpot>没有有效位置</RitualAttachedOutcomeCantApply_NoValidSpot>
+  <RitualAttachedOutcomeCantApply_ExtremeBiome>极端生态区</RitualAttachedOutcomeCantApply_ExtremeBiome>
+  <RitualAttachedOutcomeCantApply_AncientComplexIsPresent>已有一个已知的古代复合体可供探索。</RitualAttachedOutcomeCantApply_AncientComplexIsPresent>
+  <RitualAttachedOutcomeCantApply_NotAvailableRightNow>当前不可用。</RitualAttachedOutcomeCantApply_NotAvailableRightNow>
+  
+  <IdeoBuildingVariationOf>此建筑是以下建筑的变体</IdeoBuildingVariationOf>
+  <IdeoBuildingMinimumExpectations>最低期望</IdeoBuildingMinimumExpectations>
+  <Optional>可选</Optional>
+  <Expectations>期望</Expectations>
+  <RitualRepeatPenaltyTip>在 {0} 天内重复举行仪式会降低其品质。距上次仪式已过 {1} 天，因此当前品质削减为 {2}。此惩罚将在 {3} 天后降至零。</RitualRepeatPenaltyTip>
+  <RitualOutcomeCompTip_RitualTargetDefsPart1>为获得最佳品质，请在 {1} 开始 {0}。</RitualOutcomeCompTip_RitualTargetDefsPart1>
+  <RitualOutcomeCompTip_RitualTargetDefsPart2>目前，{0} 正在 {1_labelShortIndef} 开始。</RitualOutcomeCompTip_RitualTargetDefsPart2>
+  <RitualDevelopmentPoints>发展点数</RitualDevelopmentPoints>
+  <RitualDevelopmentPointsTip>完成此仪式会根据品质给予 {0}-{1} 点发展点数。</RitualDevelopmentPointsTip>
+  <RitualOutcomeBlockedNoPower>{0} 需要通电。</RitualOutcomeBlockedNoPower>
+
+  <ForSlaveUse>供奴隶使用</ForSlaveUse>
+  <SellingAsSlave>若你将某人卖给其他任何派系（而非其本派系），他们将成为奴隶。</SellingAsSlave>
+  <SellingAsRansom>若你将某人卖给其本派系，他们将被赎回而不是被奴役。</SellingAsRansom>
+
+  <MemeGoodwillImpact_Player>我们{0}</MemeGoodwillImpact_Player>
+  <MemeGoodwillImpact_Other>他们{0}</MemeGoodwillImpact_Other>
+
+  <!-- TextMotes -->
+  <TextMote_SuppressionIncreased>奴隶压制：{0}</TextMote_SuppressionIncreased>
+
+  <!-- Role requirements -->
+  <RoleRequirementsLabel>要求</RoleRequirementsLabel>
+  <RoleEffectsLabel>被动效果</RoleEffectsLabel>
+  <RoleRequirementLabelSameIdeo>必须是 {0}</RoleRequirementLabelSameIdeo>
+  <RoleRequirementLabelSupremeGender>必须是 {0}</RoleRequirementLabelSupremeGender>
+  <RoleRequirementCannotBe>不能是儿童</RoleRequirementCannotBe>
+
+  <RoleGrantedAbilitiesLabel>能力</RoleGrantedAbilitiesLabel>
+  <RoleRequiredApparelLabel>要求服装</RoleRequiredApparelLabel>
+  <RoleRitualsLabel>在仪式中的职位</RoleRitualsLabel>
+  <RoleBelieverCountDesc>当你派系拥有 {1} 名 {0} 时，此职位生效。当你派系仅有 {3} 名 {2} 时，它失效。</RoleBelieverCountDesc>
+  <RoleExpectationOffset>提升 {0} 级。</RoleExpectationOffset>
+  <RoleRaisedExpectation>{0} 的期望更高。</RoleRaisedExpectation>
+  <RoleRaisedExpectationGracePeriod>{0} 将在 {1} 后拥有更高的期望。</RoleRaisedExpectationGracePeriod>
+  <IdeoLeaderDifferentIdeoThoughtLabel>由 {0} 领导</IdeoLeaderDifferentIdeoThoughtLabel>
+  <AbilityDisabled_IncapableOfWorkTag>{PAWN_nameDef} 不会从事 {1} 工作。</AbilityDisabled_IncapableOfWorkTag>
+  <AbilityDisabledNoAltarOrRitualsSpot>没有可到达的祭坛或仪式点。</AbilityDisabledNoAltarOrRitualsSpot>
+  <AbilityDisabledNoAltarIdeogramOrRitualsSpot>没有可到达的祭坛、理念图或仪式点。</AbilityDisabledNoAltarIdeogramOrRitualsSpot>
+  <AbilityDisabledNoRitualSpot>没有可到达的仪式点。</AbilityDisabledNoRitualSpot>
+
+  <TextMote_WillReduced>意志\n{0} 至 {1}</TextMote_WillReduced>
+
+  <ConfirmationCharityJoiner>接受这个加入请求是一种慈善行为。若你拒绝，以下人将因其支持慈善的信仰而不满：\n{0}\n\n你确定要拒绝这个加入请求吗？</ConfirmationCharityJoiner>
+
+  <BelieversIn>{0} 的信徒（{1}）</BelieversIn>
+  <AddPrecept>添加 {0}</AddPrecept>
+  <Precept>戒律</Precept>
+  <IdeoBuilding>建筑</IdeoBuilding>
+  <IdeoRelic>圣物</IdeoRelic>
+  
+  <!-- Beggars -->
+  <GiveItemsTo>将 {0} 交给 {1_nameDef}</GiveItemsTo>
+  <CannotGiveItemsTo>无法将 {0} 交给 {1_nameDef}</CannotGiveItemsTo>
+  <NoItemFound>找不到物品</NoItemFound>
+
+  <!-- Outfits -->
+  <OutfitSlave>奴隶</OutfitSlave>
+
+  <RelicInfoFound>已找到圣物信息</RelicInfoFound>
+  <InactiveRoleRequiresMoreBelievers>未生效，至少需要 {0} 名 {1}（现有 {2}）</InactiveRoleRequiresMoreBelievers>
+  
+  <Certainty>确信度</Certainty>
+
+  <!-- Slave interaction -->
+  <EmancipateNonCololonistWithFactionTooltip>该奴隶将徒步离开地图，返回其所属派系 {0}。</EmancipateNonCololonistWithFactionTooltip>
+  <EmancipateNonCololonistWithoutFactionTooltip>该奴隶将徒步离开并退出地图。</EmancipateNonCololonistWithoutFactionTooltip>
+  <EmancipateCololonistTooltip>该奴隶将恢复为殖民者。</EmancipateCololonistTooltip>
+
+  <WorshippedTerminalFactionBecameHostileTimed>你在村中停留过久。{FACTION_name} 的人们正在发动攻击！</WorshippedTerminalFactionBecameHostileTimed>
+  <WorshippedTerminalRaidIncoming>村民正从附近赶回保护崇敬终端！</WorshippedTerminalRaidIncoming>
+
+  <!-- Relic hunt -->
+  <RelicHuntFoundRelicSite>圣物收藏在一座由多单元安全系统保护的古代建筑中。\n\n你可以逐个击败安全部队，或抢走圣物并在他们抓到你之前逃跑。</RelicHuntFoundRelicSite>
+  <RelicHuntFoundRelicSitePeaceful>圣物安放在附近的一座古代建筑中。</RelicHuntFoundRelicSitePeaceful>
+
+  <Relic>圣物</Relic>
+  <RitualSeat>仪式座</RitualSeat>
+
+  <!-- Ritual requirements -->
+  <RitualPredictedOutcomeDescNumActiveLoudspeakers>已激活的扬声器</RitualPredictedOutcomeDescNumActiveLoudspeakers>
+  <RitualPredictedOutcomeDescNumDrums>鼓</RitualPredictedOutcomeDescNumDrums>
+
+  <RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>使用仪式点会使所有参与者的情绪加成减少 {0}。</RitualPredictedOutcomeDescEffectRitualSpotMoodReduction>
+
+  <RitualOutcomeLabelAnyOfThese>以下任意</RitualOutcomeLabelAnyOfThese>
+
+  <PreceptReplaceWith>替换为</PreceptReplaceWith>
+  <RitualSeatOf>{IDEOS} 的仪式座</RitualSeatOf>
+  <StartingQuality>初始品质</StartingQuality>
+  <ExpectedConvictionChance>感化几率</ExpectedConvictionChance>
+ 
+  <MustBePlacedIndoors>必须放置在室内。</MustBePlacedIndoors>
+
+  <!-- Gauranlen trees/Dryads -->
+  <ConnectedPawn>已连接至</ConnectedPawn>
+  <Nobody>无人</Nobody>
+  <ConnectedPawnDesc>此 {TREE_label} 所连接的人。若关联者死亡，此 {TREE_label} 将在 {DURATION} 内无法连接到其他人。</ConnectedPawnDesc>
+  <ConnectionTorn>连接已扯断。可在 {0} 后连接。</ConnectionTorn>
+  <ConnectedPawnAway>{PAWN_nameDef} 距离太远</ConnectedPawnAway>
+  <TreeBlockedByNearbyBuildingsDesc>在人工建筑附近种植 {PLANT_definite} 会使其连接强度随时间衰减。连接强度决定了 {PLANT_definite} 能同时供养的树精上限。\n\n你确定要在此种植吗？</TreeBlockedByNearbyBuildingsDesc>
+  <GauranlenModeChangeDescFull>更改 {TREE_definite} 的树精种类需要时间与能量。\n\n在关联者与树互动后，所有树精将在茧中度过 {DURATION} 天，同时变形为所选种类。\n\n现有的茧会取消其变形，以便改形为当前种类。</GauranlenModeChangeDescFull>
+  <ChangeModeDesc>更改 {TREE_definite} 产出的树精类型。</ChangeModeDesc>
+  <ConnectionStrengthFall>连接强度下降</ConnectionStrengthFall>
+  <ConnectionStrength>连接强度</ConnectionStrength>
+  <ConnectionStrengthDisplay>{0} 强度</ConnectionStrengthDisplay>
+  <ConnectionStrengthDesc>决定此树能供养多少树精。</ConnectionStrengthDesc>
+  <MaximumDryads>树精上限</MaximumDryads>
+  <MaximumDryadsDesc>此树能供养的树精上限。</MaximumDryadsDesc>
+  <MaxDryadsBasedOnConnectionStrength>基于连接强度的树精上限</MaxDryadsBasedOnConnectionStrength>
+  <PruningConnectionStrength>修剪获得的连接强度</PruningConnectionStrength>
+  <PruningHoursToMaintain>每天维护时长（小时）</PruningHoursToMaintain>
+  <DesiredConnectionStrength>目标</DesiredConnectionStrength>
+  <DesiredConnectionStrengthDesc>{CONNECTEDPAWN_nameDef} 会经常修剪 {TREE_definite}，使连接强度保持在此水平之上。\n\n更高的连接强度可供养更多树精，但下降也更快，因此需要更频繁地修剪以维持。\n\n你可以点击进度条来调整目标连接强度。\n\n每天连接强度下降：{FALL}\n\n连接强度受附近建筑影响。</DesiredConnectionStrengthDesc>
+  <WaitingForConnectorToChangeCaste>正在等待 {CONNECTEDPAWN_nameDef} 更改树精种类。</WaitingForConnectorToChangeCaste>
+  <GauranlenTreeMode>树精种类</GauranlenTreeMode>
+  <NoCaste>无种类</NoCaste>
+  <GauranlenTreeModeDesc>决定当前产出的树精种类。</GauranlenTreeModeDesc>
+  <SpawningDryadIn>将在 {TIME} 后产出 {DRYAD_label}</SpawningDryadIn>
+  <ChangingDryadIntoType>正在将 {DRYAD_labelShort} 变形为 {TYPE_label}。</ChangingDryadIntoType>
+  <HoursEveryDay>每天 {0} 小时</HoursEveryDay>
+  <HoursEveryOtherDay>每隔一天 {0} 小时</HoursEveryOtherDay>
+  <DryadProducesResourcesDesc>每 {DURATION}，{DRYAD_labelPlural} 产出 {RESOURCES}。</DryadProducesResourcesDesc>
+  <DryadCannotChangeMaster>{ANIMAL_nameDef} 通过 {ANIMAL_possessive} 的高兰树与 {MASTER_nameDef} 连接。{ANIMAL_possessive} 的主人无法更改。</DryadCannotChangeMaster>
+  <ConnectionStrengthTooWeakForGaumakerPod>连接强度太低，无法产生高兰树荚。</ConnectionStrengthTooWeakForGaumakerPod>
+  <Unconnected>未连接</Unconnected>
+  <DryadPlural>树精</DryadPlural>
+  <ConnectionStrengthAffectedBy>连接强度受以下影响</ConnectionStrengthAffectedBy>
+  <CurrentlyAffectedBy>当前受以下影响</CurrentlyAffectedBy>
+  <NotEnoughConnectionStrengthForSingleDryad>供养一只树精需要 {0} 连接强度。</NotEnoughConnectionStrengthForSingleDryad>
+  <CannotAssignAllowedAreaToDryad>无法指定活动区域</CannotAssignAllowedAreaToDryad>
+
+  <!-- Shooting report -->
+  <TargetNightOutdoors>目标在室外且为夜间</TargetNightOutdoors>
+  <TargetDarkIndoors>目标在室内且黑暗</TargetDarkIndoors>
+  <TargetDayOutdoors>目标在室外且为白天</TargetDayOutdoors>
+  <TargetLitIndoors>目标在室内且明亮</TargetLitIndoors>  
+  <RechargeableCharging>充能中</RechargeableCharging>
+  <RechargeableReady>就绪</RechargeableReady>
+  
+  <RoleRequirementSkill>技能</RoleRequirementSkill>
+  <RoleRequirementSkillAny>以下技能之一</RoleRequirementSkillAny>
+  <RoleEffectWontUseRangedWeapons>不会使用远程武器</RoleEffectWontUseRangedWeapons>
+  <RoleEffectWontUseMeleeWeapons>不会使用近战武器</RoleEffectWontUseMeleeWeapons>
+  <RoleEffectProductionQualityOffset>制作或建造品质 {0}</RoleEffectProductionQualityOffset>
+  <RoleEffectHuntingRevengeChance>狩猎报复几率 {0}</RoleEffectHuntingRevengeChance>
+  <RoleEffectGiveThoughtOnTended>给予想法</RoleEffectGiveThoughtOnTended>
+
+  <AssignColonists>将殖民者指派到你的理念</AssignColonists>
+  <RemoveNewIdeoligion>移除新理念</RemoveNewIdeoligion>
+  <MakeIdeoligionPrimary>将此设为主要理念</MakeIdeoligionPrimary>
+
+  <!-- Archonexus -->
+  <GameOverArchotechInvokedIntro>你已调用神圣枢纽核心。世界充满耀眼的强光，时间似乎变慢了……\n\n</GameOverArchotechInvokedIntro>
+  <GameOverArchotechInvokedEnding>机械之神注意到了你。无人能预测接下来会发生什么。它可能摧毁你，或直接与你交流，或将你的意识传送到另一层现实。\n\n你感到一个巨大、非人、具有无限分形复杂性的结构涌入你的脑海。时间与尺度开始溶解。它令人恐惧。它也无比美丽……</GameOverArchotechInvokedEnding>
+  <GameOverColonistsTranscended>这些殖民者已升华：\n\n{0}</GameOverColonistsTranscended>
+  <Reward_ArchonexusMapPart>一块神圣枢纽地图碎片</Reward_ArchonexusMapPart>
+  <Reward_ArchonexusMapPartLabel>神圣枢纽地图碎片 {0}/{1}</Reward_ArchonexusMapPartLabel>
+
+  <RelicsLower>圣物</RelicsLower>
+  <RelicLower>圣物</RelicLower>
+
+  <LinkedTo>已链接至</LinkedTo>
+  <SupplySatellite>补给卫星</SupplySatellite>
+
+  <CannotExtractSkull>殖民者不愿从尸体中取出头骨（缺少支持头骨尖刺的戒律）</CannotExtractSkull>
+  <TipPreviewRitualAmbienceSound>试听仪式环境音</TipPreviewRitualAmbienceSound>
+
+  <ChooseStuffForRelic>选择</ChooseStuffForRelic>
+  <RelicStuff>材料</RelicStuff>
+
+  <!-- Bioscuplter pod -->
+  <BiosculpterPodCycleLabel>循环</BiosculpterPodCycleLabel>
+  <BiosculpterPodCycleLabelLoading>正在装载材料</BiosculpterPodCycleLabelLoading>
+  <BiosculpterPodCycleWillBiotune>（以及生物调谐）</BiosculpterPodCycleWillBiotune>
+  <BiosculpterPodCycleCommand>开始 {0} 循环</BiosculpterPodCycleCommand>
+  <BiosculpterPodCycleDuration>时长</BiosculpterPodCycleDuration>
+  <BiosculpterPodCycleDurationTranshumanists>时长（超人类主义者）</BiosculpterPodCycleDurationTranshumanists>
+  <BiosculpterPodCycleSelection>可进行循环选择</BiosculpterPodCycleSelection>
+  <BiosculpterPodCycleStandby>正在待机，准备与 {PAWN_labelShort} 进行 {CYCLE} 循环</BiosculpterPodCycleStandby>
+  <BiosculpterPodCycleSelectionNoPower>营养已装载，无电力</BiosculpterPodCycleSelectionNoPower>
+  <BiosculpterCycleTimeRemaining>结束于</BiosculpterCycleTimeRemaining>
+  <BiosculpterCycleAccelerated>对超人类主义者加速</BiosculpterCycleAccelerated>
+  <BiosculpterCycleNoPowerInterrupt>已暂停：无电力（{TIME} 后中断）</BiosculpterCycleNoPowerInterrupt>
+  <BiosculpterBiotunedTo>已生物调谐至</BiosculpterBiotunedTo>
+  <BiosculpterInteruptCycle>中断循环</BiosculpterInteruptCycle>
+  <BiosculpterInteruptCycleDesc>中断当前循环。使用者将被弹出，无法从循环效果中获益，并会遭受短期的生物雕塑疾病。</BiosculpterInteruptCycleDesc>
+  <BiosculpterEnteringMessage>{PAWN_labelShort} 将进入生物雕塑舱并开始 {CYCLE} 循环。</BiosculpterEnteringMessage>
+  <BiosculpterLoadingStartedMessage>{PAWN_labelShort} 将收集 {INGREDIENTS}，并开始 {CYCLE} 循环。</BiosculpterLoadingStartedMessage>
+  <BiosculpterCarryStartedMessage>{PAWN_labelShort} 将收集 {INGREDIENTS}，将 {DOWNED_labelShort} 放入生物雕塑舱，并开始 {CYCLE} 循环。</BiosculpterCarryStartedMessage>
+  <NumNutrition>{0} 营养</NumNutrition>
+  <BiosculpterNoPowerEjectedMessage>{PAWN_labelShort} 因断电而从生物雕塑舱中被弹出。</BiosculpterNoPowerEjectedMessage>
+  <BiosculpterHealCompletedMessage>{PAWN_labelShort} 完成了治疗循环。</BiosculpterHealCompletedMessage>
+  <BiosculpterHealCompletedWithCureMessage>{PAWN_labelShort} 完成了治疗循环，{PAWN_possessive} 的 {HEDIFF_label} 已被治愈。</BiosculpterHealCompletedWithCureMessage>
+  <BiosculpterAgeReversalCompletedMessage>{PAWN_labelShort} 完成了 {PAWN_possessive} 年龄逆转循环。</BiosculpterAgeReversalCompletedMessage>
+  <AgeReversalExpectationDeadline>{PAWN_pronoun} 期望在 {DEADLINE} 天后接受下一次年龄逆转。</AgeReversalExpectationDeadline>
+  <BiosculpterPleasureCompletedMessage>{PAWN_labelShort} 的愉悦循环已完成。</BiosculpterPleasureCompletedMessage>
+  <BiosculpterCleanlinessSpeedFactor>清洁度速度系数</BiosculpterCleanlinessSpeedFactor>
+  <BiosculpterBiotunedSpeedFactor>生物调谐速度系数</BiosculpterBiotunedSpeedFactor>
+  <HealingCycleWillHeal>这些状况将被治愈</HealingCycleWillHeal>
+  <HealingCycleOneWillHeal>这些状况之一将被治愈</HealingCycleOneWillHeal>
+  <MissingRequiredResearch>缺少必需的研究</MissingRequiredResearch>
+  <BiosculpterRequiresIngredients>需要</BiosculpterRequiresIngredients>
+  <OnCompletionOfCycle>{CYCLE} 循环完成后，将发生以下情况</OnCompletionOfCycle>
+  <BiosculpterNoCoditionsToHeal>{PAWN_nameDef} 没有任何可由 {CYCLE} 循环治愈的状况。\n\n你想继续吗？</BiosculpterNoCoditionsToHeal>
+
+  <Basic>基础</Basic>
+  <ChangeStyleDesc>更改此物的建造风格。这纯粹是外观上的，没有玩法影响。</ChangeStyleDesc>
+  <ChangeStyleDisabledNoCategories>没有可用的风格。</ChangeStyleDisabledNoCategories>
+  <SpacedroneSelfDestructsIn>太空无人机将在 {0} 后自毁</SpacedroneSelfDestructsIn>
+
+</LanguageData>

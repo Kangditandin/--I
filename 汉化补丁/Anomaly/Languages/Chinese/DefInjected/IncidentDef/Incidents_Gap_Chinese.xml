@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BloodRain.letterLabel>血雨</BloodRain.letterLabel>
+  <DeathPall.letterLabel>死亡阴霾</DeathPall.letterLabel>
+  <DevourerAssault.letterLabel>吞噬者袭击</DevourerAssault.letterLabel>
+  <DevourerAssault.letterText>一群张着巨口的庞然怪物正在袭击！\n\n这些生物的下颚大得足以将一个人整个吞下。保持距离！</DevourerAssault.letterText>
+  <FleshbeastAttack.letterLabel>肉兽袭击</FleshbeastAttack.letterLabel>
+  <FleshbeastAttack.letterText>地面似乎在塌陷。下方传来扭动的血肉和断裂骨骼的声响。</FleshbeastAttack.letterText>
+  <FleshmassHeart.letterLabel>来自地下的东西</FleshmassHeart.letterLabel>
+  <FleshmassHeart.letterText>一小圈地形开始移动并裂开。有东西正朝地表挖掘上来。有节奏的搏动从下方震动着地面。</FleshmassHeart.letterText>
+  <GhoulAttack.letterLabel>食尸鬼袭击</GhoulAttack.letterLabel>
+  <GhoulAttack.letterText>一个凶残的人形食尸鬼正在袭击！\n\n它只求非人的残暴，且感觉不到疼痛。准备好防御。</GhoulAttack.letterText>
+  <GiveQuest_DistressCall.letterLabel>求救信号</GiveQuest_DistressCall.letterLabel>
+  <GorehulkAssault.letterLabel>血块巨兽袭击</GorehulkAssault.letterLabel>
+  <GorehulkAssault.letterText>一群怪物般、似人的可憎之物正在袭击！它们的身体覆满厚厚的角蛋白尖刺，可以远距离发射。不过，它们血肉之躯的近身攻击造成不了多少伤害。</GorehulkAssault.letterText>
+  <HarbingerTreeProvoked.letterLabel>预兆树嫩芽</HarbingerTreeProvoked.letterLabel>
+  <HarbingerTreeProvoked.letterText>附近冒出了一棵预兆树。这些扭曲多节的树会长出肉质的覆盖物，并以放在附近的尸体和生肉为食。若喂养得当，这片树林会持续生长。\n\n在一个部落神话中，这些树是无形之神的使者，那神统治着一片无尽的黑色海洋。神话的结尾是无形之神从水中伸起，撕裂了天空。</HarbingerTreeProvoked.letterText>
+  <HarbingerTreeSpawn.letterLabel>预兆树嫩芽</HarbingerTreeSpawn.letterLabel>
+  <HarbingerTreeSpawn.letterText>附近冒出了一棵预兆树。这些扭曲多节的树会长出肉质的覆盖物，并以放在附近的尸体和生肉为食。若喂养得当，这片树林会持续生长。\n\n在一个部落神话中，这些树是无形之神的使者，那神统治着一片无尽的黑色海洋。神话的结尾是无形之神从水中伸起，撕裂了天空。</HarbingerTreeSpawn.letterText>
+  <MonolithMigration.letterLabel>奇异信号</MonolithMigration.letterLabel>
+  <MonolithMigration.letterText>你的殖民者感觉到一种奇异的灵能信号。可以对信号作出回应，不过不清楚这样做会发生什么。</MonolithMigration.letterText>
+  <Nociosphere.letterLabel>脑械球</Nociosphere.letterLabel>
+  <Nociosphere.letterText>一个奇异的金属球出现了。靠近它会感到疼痛。\n\n你可以攻击它，不过你不确定它会如何自卫。或者，你可以用收容平台将其捕获，并学着利用它的力量。\n\n它目前似乎很安静，但会随着时间积蓄能量。当这个球被捕获到收容平台后，你可以进行压制，以降低它的能量。</Nociosphere.letterText>
+  <PitGate.letterLabel>坑门开启</PitGate.letterLabel>
+  <PitGate.letterText>一大片地形开始向深处下沉，形成一个越来越深的洞口。照此速度，它会在一天内深到看不见底。你能听到从深处升起的非人尖叫声。\n\n把建筑和物品从浮现点移开。</PitGate.letterText>
+  <RevenantEmergence.letterLabel>亡魂脊柱嗡鸣</RevenantEmergence.letterLabel>
+  <RevenantEmergence.letterText>亡魂脊柱变得更加活跃，并发出不祥的嗡鸣。趁还来得及，摧毁它或把它束缚在收容平台上。</RevenantEmergence.letterText>
+  <SightstealerSwarm.letterLabel>远处的尖啸</SightstealerSwarm.letterLabel>
+  <SightstealerSwarm.letterText>你的殖民者听到远处传来非人的尖啸声。\n\n外面有东西。</SightstealerSwarm.letterText>
+  <SmallShamblerSwarm.letterLabel>行尸逼近</SmallShamblerSwarm.letterLabel>
+  <SmallShamblerSwarm.letterText>一小群{0}蹒跚的尸体正在逼近。驱使它们的非人力量正在消退，因此它们会在一天内倒下。\n\n如果你能捕获一个，就能研究它以获取异常知识。否则，如果你不招惹它们，它们可能不会注意到你。</SmallShamblerSwarm.letterText>
+  <VoidCuriosity.letterLabel>虚空好奇</VoidCuriosity.letterLabel>
+  <WarpedObelisk_Abductor.letterLabel>扭曲方尖碑</WarpedObelisk_Abductor.letterLabel>
+  <WarpedObelisk_Duplicator.letterLabel>腐化方尖碑</WarpedObelisk_Duplicator.letterLabel>
+  <WarpedObelisk_Mutator.letterLabel>变形方尖碑</WarpedObelisk_Mutator.letterLabel>
+  
+</LanguageData>

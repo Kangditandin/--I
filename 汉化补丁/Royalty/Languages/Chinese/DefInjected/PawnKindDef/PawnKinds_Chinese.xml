@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Empire_Common_Laborer.label>帝国劳工</Empire_Common_Laborer.label>
+  <Empire_Common_Laborer.labelPlural>帝国劳工们</Empire_Common_Laborer.labelPlural>
+  <Empire_Common_Lodger.label>帝国公民</Empire_Common_Lodger.label>
+  <Empire_Common_Lodger.labelPlural>帝国公民们</Empire_Common_Lodger.labelPlural>
+  <Empire_Common_Trader.label>帝国商人</Empire_Common_Trader.label>
+  <Empire_Common_Trader.labelPlural>帝国商人们</Empire_Common_Trader.labelPlural>
+  <Empire_Fighter_Cataphract.label>铁甲骑兵</Empire_Fighter_Cataphract.label>
+  <Empire_Fighter_Cataphract.labelPlural>铁甲骑兵们</Empire_Fighter_Cataphract.labelPlural>
+  <Empire_Fighter_Champion.label>冠军勇士</Empire_Fighter_Champion.label>
+  <Empire_Fighter_Champion.labelPlural>冠军勇士们</Empire_Fighter_Champion.labelPlural>
+  <Empire_Fighter_Grenadier.label>帝国掷弹兵</Empire_Fighter_Grenadier.label>
+  <Empire_Fighter_Grenadier.labelPlural>帝国掷弹兵们</Empire_Fighter_Grenadier.labelPlural>
+  <Empire_Fighter_Janissary.label>亲兵</Empire_Fighter_Janissary.label>
+  <Empire_Fighter_Janissary.labelPlural>亲兵们</Empire_Fighter_Janissary.labelPlural>
+  <Empire_Fighter_StellicGuardMelee.label>星界守卫</Empire_Fighter_StellicGuardMelee.label>
+  <Empire_Fighter_StellicGuardMelee.labelPlural>星界守卫们</Empire_Fighter_StellicGuardMelee.labelPlural>
+  <Empire_Fighter_StellicGuardRanged.label>星界防御者</Empire_Fighter_StellicGuardRanged.label>
+  <Empire_Fighter_StellicGuardRanged.labelPlural>星界防御者们</Empire_Fighter_StellicGuardRanged.labelPlural>
+  <Empire_Fighter_Trooper.label>列兵</Empire_Fighter_Trooper.label>
+  <Empire_Fighter_Trooper.labelPlural>列兵们</Empire_Fighter_Trooper.labelPlural>
+  <Empire_Royal_Acolyte.label>侍从</Empire_Royal_Acolyte.label>
+  <Empire_Royal_Acolyte.labelPlural>侍从们</Empire_Royal_Acolyte.labelPlural>
+  <Empire_Royal_Baron.label>男爵</Empire_Royal_Baron.label>
+  <Empire_Royal_Baron.labelFemale>男爵夫人</Empire_Royal_Baron.labelFemale>
+  <Empire_Royal_Baron.labelFemalePlural>男爵夫人们</Empire_Royal_Baron.labelFemalePlural>
+  <Empire_Royal_Baron.labelPlural>男爵们</Empire_Royal_Baron.labelPlural>
+  <Empire_Royal_Bestower.label>授勋者</Empire_Royal_Bestower.label>
+  <Empire_Royal_Bestower.labelPlural>授勋者们</Empire_Royal_Bestower.labelPlural>
+  <Empire_Royal_Consul.label>执政官</Empire_Royal_Consul.label>
+  <Empire_Royal_Consul.labelPlural>执政官们</Empire_Royal_Consul.labelPlural>
+  <Empire_Royal_Count.label>伯爵</Empire_Royal_Count.label>
+  <Empire_Royal_Count.labelFemale>伯爵夫人</Empire_Royal_Count.labelFemale>
+  <Empire_Royal_Count.labelFemalePlural>伯爵夫人们</Empire_Royal_Count.labelFemalePlural>
+  <Empire_Royal_Count.labelPlural>伯爵们</Empire_Royal_Count.labelPlural>
+  <Empire_Royal_Duke.label>公爵</Empire_Royal_Duke.label>
+  <Empire_Royal_Duke.labelFemale>公爵夫人</Empire_Royal_Duke.labelFemale>
+  <Empire_Royal_Duke.labelFemalePlural>公爵夫人们</Empire_Royal_Duke.labelFemalePlural>
+  <Empire_Royal_Duke.labelPlural>公爵们</Empire_Royal_Duke.labelPlural>
+  <Empire_Royal_Knight.label>骑士</Empire_Royal_Knight.label>
+  <Empire_Royal_Knight.labelFemale>女爵士</Empire_Royal_Knight.labelFemale>
+  <Empire_Royal_Knight.labelFemalePlural>女爵士们</Empire_Royal_Knight.labelFemalePlural>
+  <Empire_Royal_Knight.labelPlural>骑士们</Empire_Royal_Knight.labelPlural>
+  <Empire_Royal_NobleWimp.label>贵族</Empire_Royal_NobleWimp.label>
+  <Empire_Royal_NobleWimp.labelPlural>贵族们</Empire_Royal_NobleWimp.labelPlural>
+  <Empire_Royal_Praetor.label>禁卫官</Empire_Royal_Praetor.label>
+  <Empire_Royal_Praetor.labelPlural>禁卫官们</Empire_Royal_Praetor.labelPlural>
+  <Empire_Royal_Stellarch.label>星主</Empire_Royal_Stellarch.label>
+  <Empire_Royal_Stellarch.labelPlural>星主们</Empire_Royal_Stellarch.labelPlural>
+  <Empire_Royal_Yeoman.label>自耕农</Empire_Royal_Yeoman.label>
+  <Empire_Royal_Yeoman.labelPlural>自耕农们</Empire_Royal_Yeoman.labelPlural>
+  <Slave_Empire.label>奴隶</Slave_Empire.label>
+  <Slave_Empire.labelPlural>奴隶们</Slave_Empire.labelPlural>
+  <Refugee.label>难民</Refugee.label>
+  <Refugee.labelFemale>女难民</Refugee.labelFemale>
+  <Refugee.labelFemalePlural>女难民们</Refugee.labelFemalePlural>
+  <Refugee.labelPlural>难民们</Refugee.labelPlural>
+
+</LanguageData>

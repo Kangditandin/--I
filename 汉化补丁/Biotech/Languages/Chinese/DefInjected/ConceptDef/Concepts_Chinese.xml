@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Babies.label>婴儿</Babies.label>
+  <Children.label>儿童</Children.label>
+  <Deathrest.label>死眠</Deathrest.label>
+  <GenesAndXenotypes.label>基因与异种</GenesAndXenotypes.label>
+  <Mechanitors.label>机械师</Mechanitors.label>
+  <MechsInCaravans.label>商队中的机械体</MechsInCaravans.label>
+  <PollutedTerrain.label>污染地形</PollutedTerrain.label>
+
+</LanguageData>

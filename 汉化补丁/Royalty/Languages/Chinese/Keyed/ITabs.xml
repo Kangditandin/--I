@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Character tab -->
+  <RoyalTitleTooltipHasTitle>{PAWN_labelShort} 当前拥有由 {FACTION_name} 授予的 {TITLE} 头衔。</RoyalTitleTooltipHasTitle>
+  <RoyalTitleTooltipConceited>{PAWN_labelShort} 将要求此头衔的特权被完全尊重。</RoyalTitleTooltipConceited>
+  <RoyalTitleTooltipNonConceited>{PAWN_labelShort} 对此头衔特权的态度比较灵活。</RoyalTitleTooltipNonConceited>
+  <RoyalTitleTooltipNextTitle>下一个头衔</RoyalTitleTooltipNextTitle>
+  <RoyalTitleTooltipNextTitleFavorCost>消耗 {0} {FACTION_royalFavorLabel}</RoyalTitleTooltipNextTitleFavorCost>
+  <RoyalTitleTooltipFinalTitle>本星球上已没有可继续获得的头衔。</RoyalTitleTooltipFinalTitle>
+  <RoyalTitleTooltipInheritance>若 {PAWN_nameDef} 死亡，{HEIR_nameFull} 被指定继承 {PAWN_possessive} 头衔。</RoyalTitleTooltipInheritance>
+  <RoyalTitleTooltipHeirNoFaction>{HEIR_nameFull} 不属于任何派系。</RoyalTitleTooltipHeirNoFaction>
+  <RoyalTitleTooltipHeirDifferentFaction>{HEIR_nameFull} 是 {FACTION_name} 的成员。</RoyalTitleTooltipHeirDifferentFaction>
+  <RoyalTitleTooltipNoHeir>没有人被指定继承 {PAWN_nameDef} 的头衔。若 {PAWN_pronoun} 死亡，该头衔将会失去。</RoyalTitleTooltipNoHeir>
+  <RoyalTitleTooltipTitlesEarnable>{FACTION_name} 的可获得头衔</RoyalTitleTooltipTitlesEarnable>
+  <RoyalTitleTooltipTitlesNonEarnable>{FACTION_name} 的其他头衔</RoyalTitleTooltipTitlesNonEarnable>
+  <RoyalTitleTooltipRoyalFavorAmount>{0} {1}</RoyalTitleTooltipRoyalFavorAmount>
+  <RoyalTitleTooltipRoyalFavorTotal>共 {0}</RoyalTitleTooltipRoyalFavorTotal>
+
+  <RecruitmentResistanceRoyalTitleOffset>{0} 头衔</RecruitmentResistanceRoyalTitleOffset>
+  
+  <!-- Permits tab -->
+  <TabPermits>许可</TabPermits>
+  <PermitsFromFaction>来自 {FACTION_name} 的许可</PermitsFromFaction>
+  <CurrentTitle>当前头衔</CurrentTitle>
+  <UnusedPermits>未使用的许可点</UnusedPermits>
+  <ReturnAllPermits>返还所有许可</ReturnAllPermits>
+  <NoPermitsToReturn>{PAWN_nameDef} 没有可返还的许可。</NoPermitsToReturn>
+  <NotEnoughFavor>返还许可需要 {FAVORCOST} {FAVOR}，但 {PAWN_nameDef} 只有 {CURFAVOR}。</NotEnoughFavor>
+  <ReturnAllPermits_Desc>返还此派系此前选择的所有许可。你将收回所有已花费的许可点，并可以重新分配它们。\n\n此操作消耗 {BASEFAVORCOST} {FAVOR}，再加上当前处于冷却中的许可的重置成本。当前总成本为 {FAVORCOST}。</ReturnAllPermits_Desc>
+  <ReturnAllPermits_Confirm>返还 {FACTION_name} 此前选择的所有许可？\n\n你将收回所有已花费的许可点，并可以重新分配它们。\n\n此操作消耗 {BASEFAVORCOST} {FAVOR}，再加上当前处于冷却中的许可的重置成本。当前总成本为 {FAVORCOST}。</ReturnAllPermits_Confirm>
+  <SwitchFaction_Desc>切换派系</SwitchFaction_Desc>
+  <AcceptPermit>接受许可</AcceptPermit>
+  <RequiresTitle>需要头衔：{0}</RequiresTitle>
+  <UpgradeFrom>升级自：{0}</UpgradeFrom>
+  <Cooldown>冷却</Cooldown>
+  <CooldownUseFavorCost>冷却期间使用需消耗 {HONOR}</CooldownUseFavorCost>
+  
+</LanguageData>

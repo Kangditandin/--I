@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BasicMechtech.label>基础机械科技</BasicMechtech.label>
+  <BasicMechtech.description>你的机械师创造并控制基础级机械体所需的技术。</BasicMechtech.description>
+  <HighMechtech.label>高级机械科技</HighMechtech.label>
+  <HighMechtech.description>你的机械师创造并控制高等级机械体所需的技术。\n\n你可以使用机械师召唤战女王威胁来获得能量聚焦芯片。</HighMechtech.description>
+  <StandardMechtech.label>标准机械科技</StandardMechtech.label>
+  <StandardMechtech.description>你的机械师创造并控制标准级机械体所需的技术。\n\n你可以使用机械师召唤迪亚波罗斯威胁来获得信号芯片。</StandardMechtech.description>
+  <UltraMechtech.label>超级机械科技</UltraMechtech.label>
+  <UltraMechtech.description>你的机械师创造并控制超级级机械体（包括大型机械体与超级级机械师装备）所需的先进技术。\n\n你可以使用机械师召唤阿波克里顿威胁来获得纳米构造芯片。</UltraMechtech.description>
+  <WastepackAtomizer.label>废料包雾化器</WastepackAtomizer.label>
+  <WastepackAtomizer.description>建造废料包雾化器，它能在分子层面分解有毒废料包，从而安全处置它们。</WastepackAtomizer.description>
+  <Archogenetics.label>远古基因学</Archogenetics.label>
+  <Archogenetics.description>允许基因组装机使用远古微粒胶囊创造看似不可能的基因。远古微粒基因与远古微粒胶囊可以从商人处获得。</Archogenetics.description>
+  <Deathrest.label>死眠</Deathrest.label>
+  <Deathrest.description>携带死眠基因者必须定期经历一种持续数天的特殊死眠昏迷。该研究项目允许你建造能加速死眠昏迷并赋予死眠者特定加成的建筑。随着时间推移，你可以建造一座宏伟的死眠神殿。</Deathrest.description>
+  <FertilityProcedures.label>生育手术</FertilityProcedures.label>
+  <FertilityProcedures.description>进行必要的手术，从一名有生育能力的男性与女性制造一个试管胚胎，然后将胚胎植入代孕母亲或成长舱。此外，对男性与女性进行绝育手术。</FertilityProcedures.description>
+  <GeneProcessor.label>基因处理器</GeneProcessor.label>
+  <GeneProcessor.description>建造基因处理器，它允许基因组装机制作更高基因复杂度的异种胚芽。</GeneProcessor.description>
+  <GrowthVats.label>成长舱</GrowthVats.label>
+  <GrowthVats.description>建造成长舱，它可孕育胚胎或加速儿童生长。</GrowthVats.description>
+  <ToxFiltration.label>毒素过滤</ToxFiltration.label>
+  <ToxFiltration.description>制作并植入能过滤环境与敌人攻击中毒素的仿生器官。</ToxFiltration.description>
+  <ToxGas.label>毒气</ToxGas.label>
+  <ToxGas.description>生产利用腐蚀性毒气的武器。</ToxGas.description>
+  <ToxifierGenerator.label>产毒发电机</ToxifierGenerator.label>
+  <ToxifierGenerator.description>制造产毒发电机，它能发电，但也会在自身周围散布污染。</ToxifierGenerator.description>
+  <Xenogermination.label>异种基因学</Xenogermination.label>
+  <Xenogermination.description>制作可植入人体以对其进行基因改造的异种胚芽。使用基因提取器从活人身上提取基因包，以便将其基因重新植入他人。</Xenogermination.description>
+
+</LanguageData>

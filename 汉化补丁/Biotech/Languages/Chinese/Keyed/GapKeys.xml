@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AlreadyBreastfeeding>正在母乳喂养 {BABY_labelShort}</AlreadyBreastfeeding>
+  <AlreadyCarryingToSafePlace>已经送往安全地点</AlreadyCarryingToSafePlace>
+  <ComesFromGene>源于基因</ComesFromGene>
+  <MechsDisabled>机械体已停用</MechsDisabled>
+  <MessageStartingPawnCapableOfViolence>教学模式下，起始殖民者必须能够施暴。</MessageStartingPawnCapableOfViolence>
+  <NoBetterSafePlace>没有比当前位置更安全的地方</NoBetterSafePlace>
+  <ReportTakingLessonFrom>来自 {TEACHER_labelShort}</ReportTakingLessonFrom>
+  <StatsReport_InSpace>在太空中</StatsReport_InSpace>
+  <StatsReport_NotInSpace>行星地表</StatsReport_NotInSpace>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <EdgeWalkInDarkness.textEnemy>一群{0}已从附近抵达。</EdgeWalkInDarkness.textEnemy>
+  <EdgeWalkInDarkness.textFriendly>一群友好的{0}已抵达附近。</EdgeWalkInDarkness.textFriendly>
+  <EdgeWalkInDarkness.textWillArrive>{0_pawnsPluralDef}将步行抵达。</EdgeWalkInDarkness.textWillArrive>
+  <EdgeWalkInDistributedGroups.textEnemy>一大群{0}蹒跚的腐烂尸体正在逼近。</EdgeWalkInDistributedGroups.textEnemy>
+  <EdgeWalkInDistributedGroups.textWillArrive>一大群{0}蹒跚的腐烂尸体即将抵达。</EdgeWalkInDistributedGroups.textWillArrive>
+  <EdgeWalkInHateChanters.textEnemy>一群来自{1}的{0}已从附近抵达。</EdgeWalkInHateChanters.textEnemy>
+  <EdgeWalkInHateChanters.textFriendly>一群来自{1}的友好{0}已抵达附近。</EdgeWalkInHateChanters.textFriendly>
+  <EdgeWalkInHateChanters.textWillArrive>{0_pawnsPluralDef}将步行抵达。</EdgeWalkInHateChanters.textWillArrive>
+  
+</LanguageData>

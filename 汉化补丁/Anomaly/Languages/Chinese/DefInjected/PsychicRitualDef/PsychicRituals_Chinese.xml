@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodRain.label>血雨</BloodRain.label>
+  <BloodRain.description>施放一场仪式，使类似血液的灵能液从天而降。该液体会缓慢驱使暴露其中的人类与动物陷入狂暴。特质与心灵敏感度会调节效果。</BloodRain.description>
+  <Brainwipe.label>脑洗</Brainwipe.label>
+  <Brainwipe.description>抹除一个人的记忆。创伤事件将被遗忘。囚犯会忘记自己的效忠，变得更容易招募，即使此前坚定不移。被去人性化的个体会忘记自己与虚空的联系。不幸的是，该仪式的扰乱效应会诱发昏迷，可能持续很长时间，尤其当仪式质量低劣时。</Brainwipe.description>
+  <Chronophagy.label>时间吞噬</Chronophagy.label>
+  <Chronophagy.description>引导一台遥远的远古科技将熵从一人转移到另一人。这会使目标迅速衰老，而施法者变得年轻，可能治愈疤痕或与年龄相关的疾病。目标会遭受脑损伤，陷入数天的昏迷。</Chronophagy.description>
+  <ImbueDeathRefusal.label>灌注拒死</ImbueDeathRefusal.label>
+  <ImbueDeathRefusal.description>将目标与一台遥远的远古科技引擎链接，它能在数秒内让他们从死亡中归来。该过程并非没有副作用。</ImbueDeathRefusal.description>
+  <NeurosisPulse.label>神经质脉冲</NeurosisPulse.label>
+  <NeurosisPulse.description>发出一阵强烈的灵能脉冲，使该区域内任何心灵敏感者工作更快但更易怒。受影响者会感到对娱乐的需求降低，但会更不开心，也更可能精神崩溃。这会替换其他活跃脉冲的效果。</NeurosisPulse.description>
+  <Philophagy.label>友情吞噬</Philophagy.label>
+  <Philophagy.description>以灵能方式从受害者心智中抽取经验并转移给施法者，目标是受害者的最高技能。目标会遭受脑损伤，陷入数天的昏迷。</Philophagy.description>
+  <PleasurePulse.label>愉悦脉冲</PleasurePulse.label>
+  <PleasurePulse.description>发出一阵强烈的灵能脉冲，使该区域内任何心灵敏感者更开心，但降低其工作意愿。这会替换其他活跃脉冲的效果。</PleasurePulse.description>
+  <Psychophagy.label>灵能吞噬</Psychophagy.label>
+  <Psychophagy.description>吞噬目标的灵能敏感度。施法者会在一段时间内提升自己的灵能敏感度。效果不会叠加。目标会遭受脑损伤，陷入数天的昏迷。</Psychophagy.description>
+  <SkipAbduction.label>跃迁绑架</SkipAbduction.label>
+  <SkipAbduction.description>将一名随机的敌对人员传送到仪式地点并使其昏迷。</SkipAbduction.description>
+  <SkipAbductionPlayer.label>跃迁绑架</SkipAbductionPlayer.label>
+  <SkipAbductionPlayer.description>从世界上任何地方绑架一名随机的敌对人员，优先选择附近的。该仪式引导黑暗远古科技扭曲空间，将一名远处的人传送到仪式法阵中心。该过程会使目标陷入短暂昏迷。</SkipAbductionPlayer.description>
+  <SummonAnimals.label>吸引动物</SummonAnimals.label>
+  <SummonAnimals.description>创造一阵灵能脉冲，吸引远处的一群动物进入当地区域。你随后可以猎杀它们或按你的选择加以利用。若做得不对，这可能吸引感染狂疫的猎杀者。</SummonAnimals.description>
+  <SummonFleshbeasts.label>吸引肉兽</SummonFleshbeasts.label>
+  <SummonFleshbeasts.description>创造一阵灵能脉冲，吸引肉兽向上挖掘并出现在你的敌人附近。它们会攻击它们发现的任何人，包括你的敌人与盟友。肉兽可以被捕获并研究，或被屠宰获得扭曲的肉。</SummonFleshbeasts.description>
+  <SummonFleshbeastsPlayer.label>吸引肉兽</SummonFleshbeastsPlayer.label>
+  <SummonFleshbeastsPlayer.description>创造一阵灵能脉冲，吸引肉兽向上挖掘并出现在你的敌人附近。它们会攻击它们发现的任何人，包括你的敌人与盟友。肉兽可以被捕获并研究，或被屠宰获得扭曲的肉。</SummonFleshbeastsPlayer.description>
+  <SummonPitGate.label>挑衅坑门</SummonPitGate.label>
+  <SummonPitGate.description>使用一阵灵能脉冲挑衅地下的肉兽，在当地某处地面上打开一道巨大的坑门。这个巨大的沉洞会通向一个充满肉兽的洞窟，可进入探索获取资源。</SummonPitGate.description>
+  <SummonShamblers.label>吸引行尸</SummonShamblers.label>
+  <SummonShamblers.description>创造一阵灵能脉冲，吸引远处的一群复活尸体前往你的当地区域。虽然它们会攻击任何看到的人类，但不会直接攻击你的殖民地。你可以捕获它们以供研究。</SummonShamblers.description>
+  <VoidProvocation.label>虚空挑衅</VoidProvocation.label>
+  <VoidProvocation.description>以灵能方式与虚空交流，吸引一个可被捕获并研究的实体。施法者有一定几率陷入数小时的昏迷。</VoidProvocation.description>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <ChangeTreeMode.gerund>为……更改树精种类</ChangeTreeMode.gerund>
+  <ChangeTreeMode.verb>为……更改树精种类</ChangeTreeMode.verb>
+  <ConvertPrisoner.gerund>皈依</ConvertPrisoner.gerund>
+  <ConvertPrisoner.verb>皈依</ConvertPrisoner.verb>
+  <EmancipateSlave.gerund>解放</EmancipateSlave.gerund>
+  <EmancipateSlave.verb>解放</EmancipateSlave.verb>
+  <EnslavePrisoner.gerund>奴役</EnslavePrisoner.gerund>
+  <EnslavePrisoner.verb>奴役</EnslavePrisoner.verb>
+  <ExecuteSlave.gerund>处决</ExecuteSlave.gerund>
+  <ExecuteSlave.verb>处决</ExecuteSlave.verb>
+  <HaulToBiosculpterPod.gerund>填充</HaulToBiosculpterPod.gerund>
+  <HaulToBiosculpterPod.verb>填充</HaulToBiosculpterPod.verb>
+  <ImprisonSlave.gerund>囚禁</ImprisonSlave.gerund>
+  <ImprisonSlave.verb>囚禁</ImprisonSlave.verb>
+  <PruneGauranlenTree.gerund>修剪</PruneGauranlenTree.gerund>
+  <PruneGauranlenTree.verb>修剪</PruneGauranlenTree.verb>
+  <SuppressSlave.gerund>压制</SuppressSlave.gerund>
+  <SuppressSlave.verb>压制</SuppressSlave.verb>
+  
+</LanguageData>

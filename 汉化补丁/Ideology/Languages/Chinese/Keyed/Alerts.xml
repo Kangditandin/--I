@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <NeedSlaveBeds>需要奴隶床</NeedSlaveBeds>
+  <NeedSlaveBedsDesc>你的奴隶数量多于奴隶床。有人将没有地方睡觉。\n\n要么多造些床，要么将一张殖民者或囚犯床改为奴隶床。\n\n若你没有资源，睡点是免费的，可以立即放置。</NeedSlaveBedsDesc>
+
+  <SlavesUnsuppressedLabel>奴隶未被压制</SlavesUnsuppressedLabel>
+  <SlavesUnsuppressedDesc>{0_nameDef} 的压制水平已低到危险。{0_pronoun} 很有可能会叛乱。\n\n确保有殖民者被指派到看守工作。看守会定期压制奴隶以阻止他们叛乱。</SlavesUnsuppressedDesc>
+  <SlaveUnattendedLabel>奴隶无人看管</SlaveUnattendedLabel>
+  <SlaveUnattendedMultipleLabel>奴隶无人看管</SlaveUnattendedMultipleLabel>
+  <SlavesUnattendedDesc>一些奴隶独自在地图上，附近没有健全的殖民者。\n\n如此无人看管的奴隶很可能在几天或几小时内叛乱。</SlavesUnattendedDesc>
+
+  <RitualOpportunity>{0} 机会</RitualOpportunity>
+  <RitualOpportunityFor>为 {1} 的 {0} 机会</RitualOpportunityFor>
+  <RitualExpiresIn>在 {0} 后，即 {1} 过期。</RitualExpiresIn>
+  <RitualSingleTargetDesc>要开始仪式，选中一个 {FOCUS} 并点击“开始 {RITUAL_label}”指令。</RitualSingleTargetDesc>
+  <RitualMultiTargetDesc>要开始仪式，选中以下之一并点击“开始 {RITUAL_label}”指令</RitualMultiTargetDesc>
+  <RitualTargetsExplanation>要开始仪式，选中一个焦点对象并点击“开始 {RITUAL_label}”指令。以下是有效的焦点对象：\n{1}</RitualTargetsExplanation>
+  <RitualJumpToTargets>点击跳转至目标</RitualJumpToTargets>
+  <RitualUnfilledRoles>要举行 {0}，你需要填补以下职位</RitualUnfilledRoles>
+
+  <IdeoBuildingMissing>需要 {0}</IdeoBuildingMissing>
+  <IdeoBuildingMissingDesc>{IDEO_name} 要求你的殖民地中拥有一座 {0}，只要人数达到 {2} 或更多。\n\n{0} 是 {BASEBUILDING_label} 的变体。{BUILDINGINFO}\n\n仅当 {IDEO_name} 是你派系的主要理念，或你派系中有 {MINBELIEVERS} 名信徒时，此要求才生效。{4}\n\n若未满足要求，这些信徒将会不满：\n{3}</IdeoBuildingMissingDesc>
+  <IdeoBuildingArchitectTabDesc> 你可以通过打开建筑规划菜单的“{TABNAME}”页签找到它。</IdeoBuildingArchitectTabDesc>
+  <IdeoBuildingCanBeCraftedAt> 它可以在以下处制作：\n{0}。</IdeoBuildingCanBeCraftedAt>
+  <IdeoBuildingRoomRequirementsDesc>要使 {0} 显得体面，必须满足以下房间要求</IdeoBuildingRoomRequirementsDesc>
+  <IdeoBuildingExpectations>期望值为</IdeoBuildingExpectations>
+
+  <IdeoBuildingDisrespected>{0} 未受尊重</IdeoBuildingDisrespected>
+  <IdeoBuildingDisrespectedDesc>{0} 要求 {1} 处于体面的房间内。必须满足以下房间要求：\n{2}\n\n若未满足 {1} 的房间要求，这些信徒将会不满：\n{3}</IdeoBuildingDisrespectedDesc>
+  
+  <QuestPartRaidsDelay>袭击将在 {0} 后到达</QuestPartRaidsDelay>
+  <QuestPartRaidsDelayDesc>袭击将在 {0} 后开始到来。\n\n袭击者会以太空无人机为目标并试图摧毁它。保护太空无人机，以便你的殖民者可以骇入其计算机并取回数据。</QuestPartRaidsDelayDesc>
+
+  <IdeoRoleEmpty>{0} 职位未填补</IdeoRoleEmpty>
+  <IdeoRolesEmpty>{0} 个职位未填补</IdeoRolesEmpty>
+  <IdeoRolesEmptyDesc>这些职位未填补：\n{0}\n\n你可以在某人的社交页签上为其指定职位。你也可以选择一个仪式点或祭坛并点击“开始职位变更”。\n\n若这些职位持续空缺，下列人会不满</IdeoRolesEmptyDesc>
+
+  <AncientAltarThreatsWaking>安全威胁将在 {0} 后激活</AncientAltarThreatsWaking>
+  <AncientAltarThreatsWakingDesc>安全威胁将在 {0} 后激活。它们会攻击任何可能威胁圣物的人。</AncientAltarThreatsWakingDesc>
+
+  <AlertRitualComing>仪式机会即将到来</AlertRitualComing>
+  <AlertRitualComingDesc>以下仪式即将迎来机会</AlertRitualComingDesc>
+  <AlertRitualComingExtra>机会在 {0} 天后过期，并在每年同一天重现。</AlertRitualComingExtra>
+  <AlertRitualComingEntry>{1} 的 {0}，距机会出现还有 {2}</AlertRitualComingEntry>
+
+  <AlertAgeReversalDemandNear>要求年龄逆转</AlertAgeReversalDemandNear>
+  <AlertAgeReversalDemandDesc>由于其信仰，你的一些殖民者要求在生物雕塑舱中定期接受年龄逆转治疗。若得不到治疗，他们会不满。\n\n下列人要求年龄逆转治疗</AlertAgeReversalDemandDesc>
+  <AlertAgeReversalDemandDesc_Recruit>{PAWN} 最近加入了 {FACTION}，希望在 {DURATION} 后开始年龄逆转治疗。</AlertAgeReversalDemandDesc_Recruit>
+  <AlertAgeReversalDemandDesc_Next>{PAWN} 希望在 {DURATION} 后接受下一次治疗。</AlertAgeReversalDemandDesc_Next>
+  <AlertAgeReversalDemandDesc_Initial>{PAWN} 希望在 {DURATION} 后接受第一次治疗。</AlertAgeReversalDemandDesc_Initial>
+  <AlertAgeReversalDemandDesc_Overdue>{PAWN} 的治疗已逾期 {DURATION}。</AlertAgeReversalDemandDesc_Overdue>
+
+  <AlertRoyalTitleNoVeneratedAnimalMeat>{PAWN_nameDef} 对 {IDEO_name} 的信仰使 {PAWN_objective} 无法食用 {ANIMALS} 的肉。</AlertRoyalTitleNoVeneratedAnimalMeat>
+
+  <AlertGauranlenTreeWithoutDryadTypeLabel>未设置树精种类</AlertGauranlenTreeWithoutDryadTypeLabel>
+  <AlertGauranlenTreeWithoutDryadTypeDesc>一棵或多棵高兰树尚未设置其树精种类。\n\n选中该树并点击“{0}”按钮来设置生产的树精种类。</AlertGauranlenTreeWithoutDryadTypeDesc>
+  <AlertConnectedPawnNotAssignedToPlantCuttingLabel>关联者未被指派到植物剪伐</AlertConnectedPawnNotAssignedToPlantCuttingLabel>
+  <AlertConnectedPawnNotAssignedToPlantCuttingDesc>你有设为需要修剪的高兰树，但它们的关联者未被指派到植物剪伐。\n\n你应将植物剪伐工作指派给以下人员</AlertConnectedPawnNotAssignedToPlantCuttingDesc>
+
+  <AlertFuelNodeIgniting>燃料节点将在 {0} 后爆炸</AlertFuelNodeIgniting>
+  <AlertFuelNodeIgnitingDesc>一个燃料节点已起火！它很快会熔毁并爆炸。\n\n快离开，并准备好战斗或逃离火场。</AlertFuelNodeIgnitingDesc>
+
+  <AlertInfestationArriving>虫类将在 {0} 后抵达</AlertInfestationArriving>
+  <AlertInfestationArrivingDesc>巨虫察觉到了你们的动静，正从地下挖出准备袭击。虫灾即将开始。</AlertInfestationArrivingDesc>
+
+  <AlertHostilesWakingUp>{0_pawnsPlural} 将在 {1} 后苏醒</AlertHostilesWakingUp>
+  <AlertHostilesWakingUpDesc>一名或多名 {0_pawnsPlural} 正在苏醒。\n\n若他们发现你，就会发动攻击。</AlertHostilesWakingUpDesc>
+
+  <AlertCasketOpening>低温休眠棺将在 {0} 后开启</AlertCasketOpening>
+  <AlertCasketOpeningDesc>装有未知威胁的低温休眠棺很快会开启。</AlertCasketOpeningDesc>
+
+  <AlertSlaveRebellionLikely>奴隶很可能叛乱</AlertSlaveRebellionLikely>
+  <AlertSlaveRebellionLikelyRebelliousCount>有 {REBELLIOUSCOUNT} 名奴隶可能发动叛乱。</AlertSlaveRebellionLikelyRebelliousCount>
+  <AlertSlaveRebellionLikelyMostRebellious>预计大约每 {COMBINEDTIME} 发生一次奴隶叛乱。请注意，每名奴隶的叛乱几率是独立的，因此若其中任何一人叛乱，都可能带走其他人。\n\n{REBEL_labelShort} 是最具叛逆倾向的奴隶，预计大约每 {INDIVIDUALTIME} 发动一次叛乱。以下因素影响着他们叛乱的频率：</AlertSlaveRebellionLikelyMostRebellious>
+  
+</LanguageData>

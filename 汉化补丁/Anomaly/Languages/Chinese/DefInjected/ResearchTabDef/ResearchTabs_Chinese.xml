@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Anomaly.label>异常</Anomaly.label>
+  <Anomaly.generalTitle>异常研究项目</Anomaly.generalTitle>
+  <Anomaly.generalDescription>通过研究非自然实体来解锁与虚空相关的技术。\n\n你可以同时进行一个基础项目和一个高级项目。若没有正在进行的高级项目，高级研究将改为推进一个基础项目。</Anomaly.generalDescription>
+
+</LanguageData>

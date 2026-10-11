@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AncientAltar.label>圣物复合体</AncientAltar.label>
+  <AncientAltar.description>一座藏有圣物的远古复合体。</AncientAltar.description>
+  <AncientComplex.label>远古复合体</AncientComplex.label>
+  <AncientComplex.description>一座藏有宝藏的远古复合体。</AncientComplex.description>
+  <Archonexus.label>机械神所</Archonexus.label>
+  <Archonexus.description>一件古老的远古科技装置。有人说它能唤起机械之神的力量。</Archonexus.description>
+  <WorkSite_Farming.label>农作工作点</WorkSite_Farming.label>
+  <WorkSite_Farming.description>由另一阵营建造的工作点。它会随时间过期。在此之前，你愿意的话可以袭击它。</WorkSite_Farming.description>
+  <WorkSite_Hunting.label>狩猎工作点</WorkSite_Hunting.label>
+  <WorkSite_Hunting.description>由另一阵营建造的工作点。它会随时间过期。在此之前，你愿意的话可以袭击它。</WorkSite_Hunting.description>
+  <WorkSite_Logging.label>伐木工作点</WorkSite_Logging.label>
+  <WorkSite_Logging.description>由另一阵营建造的工作点。它会随时间过期。在此之前，你愿意的话可以袭击它。</WorkSite_Logging.description>
+  <WorkSite_Mining.label>{THING_label} 采矿工作点</WorkSite_Mining.label>
+  <WorkSite_Mining.description>由另一阵营建造的工作点。它会随时间过期。在此之前，你愿意的话可以袭击它。</WorkSite_Mining.description>
+  <WorshippedTerminal.label>崇拜村</WorshippedTerminal.label>
+  <WorshippedTerminal.description>一个村庄，其中有一座被当地人崇拜的远古终端。</WorshippedTerminal.description>
+
+</LanguageData>

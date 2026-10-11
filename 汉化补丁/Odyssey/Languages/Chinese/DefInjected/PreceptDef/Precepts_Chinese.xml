@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GravshipLaunch.label>引力船启航</GravshipLaunch.label>
+  <GravshipLaunch.description>使用你的引力船前往遥远的目的地。你当前的地图，以及任何不在引力船子结构上的东西，都将永久失去。你将无法返回。</GravshipLaunch.description>
+  <Fishing_Disapproved.label>不赞成</Fishing_Disapproved.label>
+  <Fishing_Disapproved.description>钓鱼是残忍的。我们应避免钓鱼。</Fishing_Disapproved.description>
+  <Fishing_Disapproved.comps.1.description>有人屠宰了一条鱼</Fishing_Disapproved.comps.1.description>
+  <Fishing_Prohibited.label>禁止</Fishing_Prohibited.label>
+  <Fishing_Prohibited.description>钓鱼是不道德的。我们绝不应钓鱼。</Fishing_Prohibited.description>
+  <Fishing_Prohibited.comps.1.description>有人屠宰了鱼</Fishing_Prohibited.comps.1.description>
+  <Fishing_Prohibited.comps.2.description>屠宰鱼</Fishing_Prohibited.comps.2.description>
+  <Fishing_Sacred.label>神圣</Fishing_Sacred.label>
+  <Fishing_Sacred.description>钓鱼是正道的一部分。</Fishing_Sacred.description>
+  <Fishing_Sacred.comps.0.description>鱼不够</Fishing_Sacred.comps.0.description>
+  <Nomadic_Preferred.label>期望</Nomadic_Preferred.label>
+  <Nomadic_Preferred.description>停留在一处会让我们变弱。旅行让我们强大。</Nomadic_Preferred.description>
+  <Nomadic_Preferred.comps.0.description>上次定居在 {DURATION} 前</Nomadic_Preferred.comps.0.description>
+  <SpaceHabitat_Preferred.label>偏好</SpaceHabitat_Preferred.label>
+  <SpaceHabitat_Preferred.description>行星生活是给低等动物的。我们应当生活在轨道上或群星之间。</SpaceHabitat_Preferred.description>
+
+</LanguageData>

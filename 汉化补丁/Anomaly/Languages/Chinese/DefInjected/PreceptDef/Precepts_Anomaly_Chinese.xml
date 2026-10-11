@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Inhumanizing_Required.label>必需</Inhumanizing_Required.label>
+  <Inhumanizing_Required.description>人类的道德与情感只是干扰。我们必须抛弃人性。\n\n精神崩溃会使信徒去人性化。</Inhumanizing_Required.description>
+  <PsychicRituals_Abhorrent.label>可憎</PsychicRituals_Abhorrent.label>
+  <PsychicRituals_Abhorrent.description>灵能仪式完全是邪恶的。</PsychicRituals_Abhorrent.description>
+  <PsychicRituals_Abhorrent.comps.0.description>参与灵能仪式</PsychicRituals_Abhorrent.comps.0.description>
+  <PsychicRituals_Disapproved.label>不赞成</PsychicRituals_Disapproved.label>
+  <PsychicRituals_Disapproved.description>应尽可能避免灵能仪式。</PsychicRituals_Disapproved.description>
+  <PsychicRituals_Exalted.label>尊崇</PsychicRituals_Exalted.label>
+  <PsychicRituals_Exalted.description>与心灵之流相连，使我们更接近真理。</PsychicRituals_Exalted.description>
+  <PsychicRituals_Exalted.comps.2.description>{DURATION}内未举行灵能仪式</PsychicRituals_Exalted.comps.2.description>
+  <VoidStudy_Efficient.label>高效</VoidStudy_Efficient.label>
+  <VoidStudy_Efficient.description>虚空是真正的谜团，值得研究。</VoidStudy_Efficient.description>
+  <VoidStudy_Inefficient.label>低效</VoidStudy_Inefficient.label>
+  <VoidStudy_Inefficient.description>试图理解不可知之物毫无意义。我们应专注于更有价值的事。</VoidStudy_Inefficient.description>
+  <VoidStudy_VeryEfficient.label>极高效率</VoidStudy_VeryEfficient.label>
+  <VoidStudy_VeryEfficient.description>虚空是终极真理。</VoidStudy_VeryEfficient.description>
+  <VoidStudy_VeryInefficient.label>极低效率</VoidStudy_VeryInefficient.label>
+  <VoidStudy_VeryInefficient.description>关于虚空的这一切都是迷信。我们应着眼于现实。</VoidStudy_VeryInefficient.description>
+
+</LanguageData>

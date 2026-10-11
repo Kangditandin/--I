@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <PsychicRitualSiege.arrivalTextEnemy>他们打算举行{RITUAL_definite}仪式。在他们完成之前打断他们。若不被阻止，他们可能会多次举行该仪式。</PsychicRitualSiege.arrivalTextEnemy>
+  <ShamblerAssault.arrivalTextEnemy>某种非自然力量正驱动着这些毫无生气的尸体。它们一心想攻击你的殖民地。随着它们耗尽那奇异能量，它们会在数小时内开始倒下。</ShamblerAssault.arrivalTextEnemy>
+  
+</LanguageData>

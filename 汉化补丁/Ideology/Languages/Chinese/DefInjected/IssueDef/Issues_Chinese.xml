@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnimalsVenerated.label>受崇敬动物</AnimalsVenerated.label>
+  <AnimalConnection.label>动物连接</AnimalConnection.label>
+  <AnimalSlaughter.label>屠宰动物</AnimalSlaughter.label>
+  <Apostasy.label>叛教</Apostasy.label>
+  <ApparelDesire.label>期望服装</ApparelDesire.label>
+  <AutonomousWeapons.label>自主武器</AutonomousWeapons.label>
+  <BlindPsysense.label>盲眼灵觉</BlindPsysense.label>
+  <Blindness.label>失明</Blindness.label>
+  <BodyModification.label>身体改造</BodyModification.label>
+  <Bonding.label>羁绊</Bonding.label>
+  <IdeoBuilding.label>建筑</IdeoBuilding.label>
+  <Charity.label>慈善</Charity.label>
+  <Comfort.label>舒适</Comfort.label>
+  <SlabBed.label>石板床</SlabBed.label>
+  <DrugUse.label>药物使用</DrugUse.label>
+  <FungusEating.label>菌类</FungusEating.label>
+  <IdeoDiversity.label>思想多元</IdeoDiversity.label>
+  <KillingInnocentAnimals.label>杀死无辜动物</KillingInnocentAnimals.label>
+  <DarknessCombat.label>黑暗中战斗</DarknessCombat.label>
+  <Eclipse.label>日食</Eclipse.label>
+  <Lighting.label>光照</Lighting.label>
+  <MeatEating.label>肉食</MeatEating.label>
+  <Mining.label>采矿</Mining.label>
+  <MiningYield.label>采矿产量</MiningYield.label>
+  <Nudity_Female.label>女性穿着</Nudity_Female.label>
+  <Nudity_Male.label>男性穿着</Nudity_Male.label>
+  <Pain.label>痛苦</Pain.label>
+  <Proselytizing.label>传教</Proselytizing.label>
+  <Raiding.label>劫掠</Raiding.label>
+  <Ranching.label>牧场经营</Ranching.label>
+  <IdeoRelic.label>圣物</IdeoRelic.label>
+  <Research.label>研究</Research.label>
+  <IdeoRitualSeat.label>仪式座位</IdeoRitualSeat.label>
+  <IdeoRole.label>角色</IdeoRole.label>
+  <RoughLiving.label>艰苦生活</RoughLiving.label>
+  <Scarification.label>划痕</Scarification.label>
+  <Skullspike.label>头颅尖刺</Skullspike.label>
+  <Slavery.label>奴隶制</Slavery.label>
+  <SmallSpaces.label>狭小空间</SmallSpaces.label>
+  <Temperature.label>温度</Temperature.label>
+  <AgeReversal.label>年龄逆转</AgeReversal.label>
+  <Biosculpting.label>生体塑形</Biosculpting.label>
+  <NeuralSupercharge.label>神经强化</NeuralSupercharge.label>
+  <SleepAccelerator.label>睡眠加速器</SleepAccelerator.label>
+  <TreeCutting.label>砍树</TreeCutting.label>
+  <GauranlenConnection.label>高兰树连接</GauranlenConnection.label>
+  <Trees.label>树木</Trees.label>
+  <Weapons.label>武器</Weapons.label>
+  <WorkDrive.label>工作激励</WorkDrive.label>
+
+</LanguageData>

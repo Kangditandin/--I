@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AncientExostriderRemains.letterLabel>远古机械</AncientExostriderRemains.letterLabel>
+  <AncientExostriderRemains.letterText>途经一台远古外骨巨兽机械体的残骸时，{PAWN_nameDef}注意到里面有一个(*Reward)完好的应答器(/Reward)。\n\n如果你能拿到应答器，就能从中读取宝贵的信息。这具庞大的机械体已被砸碎并熔结成一整块。你必须摧毁它才能取出应答器。\n\n小心——那些燃烧武器电池看起来(*Threat)很不稳定(/Threat)，在你造成一些伤害后很可能会引爆。</AncientExostriderRemains.letterText>
+  <NanostructuringChip.jobString>分析纳米结构芯片</NanostructuringChip.jobString>
+  <PowerfocusChip.jobString>分析能量聚焦芯片</PowerfocusChip.jobString>
+  <SignalChip.jobString>分析信号芯片</SignalChip.jobString>
+  
+</LanguageData>

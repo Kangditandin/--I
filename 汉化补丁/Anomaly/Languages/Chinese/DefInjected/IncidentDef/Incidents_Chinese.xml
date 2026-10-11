@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodRain.label>血雨</BloodRain.label>
+  <CreepJoinerJoin.label>诡异加入者加入</CreepJoinerJoin.label>
+  <CreepJoinerJoin_Metalhorror.label>诡异加入者加入</CreepJoinerJoin_Metalhorror.label>
+  <DeathPall.label>死亡之幕</DeathPall.label>
+  <FleshmassHeart.label>肉团之心</FleshmassHeart.label>
+  <GiveQuest_DistressCall.label>求救信号</GiveQuest_DistressCall.label>
+  <GoldenCubeArrival.label>金色方块抵达</GoldenCubeArrival.label>
+  <HarbingerTreeProvoked.label>先驱之树</HarbingerTreeProvoked.label>
+  <MetalhorrorImplantation.label>金属恐惧植入</MetalhorrorImplantation.label>
+  <MysteriousCargoCube.label>神秘货物方块</MysteriousCargoCube.label>
+  <MysteriousCargoRevenantSpine.label>神秘货物亡魂脊椎</MysteriousCargoRevenantSpine.label>
+  <MysteriousCargoUnnaturalCorpse.label>神秘货物尸体</MysteriousCargoUnnaturalCorpse.label>
+  <Nociosphere.label>夜球</Nociosphere.label>
+  <PitGate.label>坑门</PitGate.label>
+  <RevenantEmergence.label>亡魂出现</RevenantEmergence.label>
+  <UnnaturalCorpseArrival.label>非自然尸体抵达</UnnaturalCorpseArrival.label>
+  <UnnaturalDarkness.label>非自然黑暗</UnnaturalDarkness.label>
+  <WarpedObelisk_Abductor.label>扭曲方尖碑</WarpedObelisk_Abductor.label>
+  <WarpedObelisk_Duplicator.label>腐化方尖碑</WarpedObelisk_Duplicator.label>
+  <WarpedObelisk_Mutator.label>扭曲方尖碑</WarpedObelisk_Mutator.label>
+  <HarbingerTreeSpawn.label>先驱之树</HarbingerTreeSpawn.label>
+  <MonolithMigration.label>奇异的信号</MonolithMigration.label>
+  <RefugeePodCrash_Ghoul.label>食尸鬼运输舱坠毁</RefugeePodCrash_Ghoul.label>
+  <VoidCuriosity.label>虚空好奇</VoidCuriosity.label>
+  <ChimeraAssault.label>嵌合体突袭</ChimeraAssault.label>
+  <DevourerAssault.label>吞噬者突袭</DevourerAssault.label>
+  <DevourerWaterAssault.label>吞噬者突袭</DevourerWaterAssault.label>
+  <FleshbeastAttack.label>肉兽攻击</FleshbeastAttack.label>
+  <FrenziedAnimals.label>狂乱动物</FrenziedAnimals.label>
+  <GhoulAttack.label>食尸鬼袭击</GhoulAttack.label>
+  <GorehulkAssault.label>巨魔突袭</GorehulkAssault.label>
+  <HateChanters.label>仇恨吟唱者</HateChanters.label>
+  <PsychicRitualSiege.label>灵能仪式围攻</PsychicRitualSiege.label>
+  <Revenant.label>亡魂</Revenant.label>
+  <ShamblerAssault.label>行尸突袭</ShamblerAssault.label>
+  <ShamblerSwarm.label>行尸群</ShamblerSwarm.label>
+  <ShamblerSwarmAnimals.label>行尸群</ShamblerSwarmAnimals.label>
+  <SightstealerArrival.label>窃视者抵达</SightstealerArrival.label>
+  <SightstealerSwarm.label>窃视者群</SightstealerSwarm.label>
+  <SmallShamblerSwarm.label>行尸群</SmallShamblerSwarm.label>
+
+</LanguageData>

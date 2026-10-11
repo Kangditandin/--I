@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AttackTarget.label>攻击目标</AttackTarget.label>
+  <AttackTarget.description>命令动物攻击其主人能看到的特定目标。</AttackTarget.description>
+  <Comfort.label>抚慰</Comfort.label>
+  <Comfort.description>该动物会更具情感支持性。它会更频繁地蹭人，并在这样做时让你的殖民者更开心。</Comfort.description>
+  <Dig.label>挖掘</Dig.label>
+  <Dig.description>该动物会开采被标记为开采的岩石。动物采矿通常又慢又低效。</Dig.description>
+  <EggSpew.label>喷蛋</EggSpew.label>
+  <EggSpew.description>命令虫后向目标区域发射一枚卵囊与一片酸性污泥。训练后，虫后只有在被命令时才会产卵。</EggSpew.description>
+  <Forage.label>觅食</Forage.label>
+  <Forage.description>该动物会偶尔找到浆果、蘑菇或食物。在可觅食性更高的生物群系中，动物能找到更多食物。只能在肥沃地形上觅食。</Forage.description>
+  <SludgeSpew.label>喷泥</SludgeSpew.label>
+  <SludgeSpew.description>命令幼虫向目标区域喷洒酸性污泥。训练后，幼虫只有在被命令时才会喷泥。</SludgeSpew.description>
+  <TerrorRoar.label>恐惧咆哮</TerrorRoar.label>
+  <TerrorRoar.description>命令阿尔法敲击兽发出震耳欲聋的咆哮。这有机会使附近的敌对人类与动物惊恐逃窜。</TerrorRoar.description>
+  <ThrumboRoar.label>敲击兽咆哮</ThrumboRoar.label>
+  <ThrumboRoar.description>命令敲击兽发出震耳欲聋的咆哮。这有机会使敌对人类与动物恐惧颤抖，降低其移动速度与操作能力。</ThrumboRoar.description>
+  <WarTrumpet.label>战争号角</WarTrumpet.label>
+  <WarTrumpet.description>命令该动物发出强劲的咆哮。这有机会使敌对人类与动物恐惧颤抖，降低其移动速度与操作能力。</WarTrumpet.description>
+
+</LanguageData>

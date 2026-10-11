@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AttendedFuneral.label>道德导师在场</AttendedFuneral.label>
+  <AttendedFuneralNoCorpse.label>道德导师在场</AttendedFuneralNoCorpse.label>
+  <CelebratedDate.label>领袖在场</CelebratedDate.label>
+  <CelebrationPartyDanceDrum.label>击鼓次数</CelebrationPartyDanceDrum.label>
+  <CelebrationPartyDanceTech.label>活跃扬声器数量</CelebrationPartyDanceTech.label>
+  <CelebrationSkyLanterns.label>参与者人数</CelebrationSkyLanterns.label>
+  <ConnectToTree.label>参与者人数</ConnectToTree.label>
+  <DestroyConsumableBuilding_CannibalPlatter.label>房间观感</DestroyConsumableBuilding_CannibalPlatter.label>
+  <Sacrifice.label>道德导师在场</Sacrifice.label>
+  
+</LanguageData>

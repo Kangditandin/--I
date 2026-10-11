@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GravshipRange.label>引力船航程</GravshipRange.label>
+  <GravshipRange.description>该引力船连同其连接的子结构能飞行的最远距离。</GravshipRange.description>
+  <SubstructureSupport.label>子结构支撑</SubstructureSupport.label>
+  <SubstructureSupport.description>该引力船能支撑的子结构最大数量。</SubstructureSupport.description>
+  <FishingSpeed.label>钓鱼速度</FishingSpeed.label>
+  <FishingSpeed.description>此人捕鱼的速度。</FishingSpeed.description>
+  <FishingYield.label>钓鱼产量</FishingYield.label>
+  <FishingYield.description>此人钓鱼时获得的产量百分比。</FishingYield.description>
+  <PilotingAbility.label>驾驶能力</PilotingAbility.label>
+  <PilotingAbility.description>此人驾驶载具的水平。</PilotingAbility.description>
+  <VacuumResistance.label>真空抗性</VacuumResistance.label>
+  <VacuumResistance.description>该生物对太空真空负面效果的抵抗程度。</VacuumResistance.description>
+
+</LanguageData>

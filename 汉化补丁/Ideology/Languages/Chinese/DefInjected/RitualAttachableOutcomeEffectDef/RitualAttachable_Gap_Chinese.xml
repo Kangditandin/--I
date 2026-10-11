@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <DiscoverAncientComplex.letterInfoText>你发现了远古建筑群的位置。</DiscoverAncientComplex.letterInfoText>
+  <FarmAnimalsWanderIn.letterInfoText>好奇的农场动物被喧闹吸引，游荡了进来。</FarmAnimalsWanderIn.letterInfoText>
+  <GauranlenTreePod.letterInfoText>附近冒出了一个高兰荚。</GauranlenTreePod.letterInfoText>
+  <InsectJellyTunnels.letterInfoText>地下的巨型虫群沉积了一些虫胶。</InsectJellyTunnels.letterInfoText>
+  <NearbyFactionGoodwill.letterInfoText>你与{FACTION_name}的好感度提升了{AMOUNT}。</NearbyFactionGoodwill.letterInfoText>
+  <RandomRecruit.letterInfoText>一名流浪者到来，想加入你的殖民地。</RandomRecruit.letterInfoText>
+  
+</LanguageData>

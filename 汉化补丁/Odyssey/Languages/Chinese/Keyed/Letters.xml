@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <GravcoreAbandonedSettlementRaid>来自 {FACTION_name} 的 {FACTION_pawnsPlural} 正在攻击！他们用引力核心将你引进了埋伏。</GravcoreAbandonedSettlementRaid>
+  <GravcoreAbandonedSettlementRaid_Reinforcements>更多增援正在赶来，将在未来几天内抵达。做好准备迎战，或在它们抵达前逃走。</GravcoreAbandonedSettlementRaid_Reinforcements>
+  
+  <GravcoreMechRelayRaidLetterLabel>中继站防御响应</GravcoreMechRelayRaidLetterLabel>
+  <GravcoreMechRelayRaidLetterText>机械族正在赶来保卫中继站！\n\n他们通过运输舱抵达，并会立即发动攻击。</GravcoreMechRelayRaidLetterText>
+  
+  <GravEngineInspectedLetterContents>在坠毁的机械族平台残骸之中，一台仍完好无损的引力引擎正嗡嗡作响，散发着能量。\n\n你可以在引擎周围建造引力船子结构，造出一艘新的引力船。引擎会抵消重力，使飞船升空并实现远距离航行。\n\n研究基础引力科技，然后建造燃料箱、推进器和驾驶控制台，即可发射引力船。\n\n除非先建造一个引力锚，否则发射引力船会废弃你当前的地图。\n\n  - 已解锁研究：基础引力科技\n  - 已解锁地板：引力船子结构</GravEngineInspectedLetterContents>
+  <ViewQuest>查看任务</ViewQuest>
+  
+  <!-- Asteroid -->
+  <AsteroidLetter>{RESOURCE} 小行星</AsteroidLetter> 
+  <AsteroidLetterText>你发现了一颗环绕行星的小行星的位置。它含有大量 {RESOURCE}，可能还有其他资源。\n\n轨道采矿者会将有价值的小行星引入行星轨道，以便轻松开采并卖给轨道商人。你未从这颗小行星上探测到任何生命迹象。\n\n你可以通过运输舱、穿梭机或引力船抵达这颗小行星。</AsteroidLetterText>
+
+  <AsteroidName>{RESOURCE} 小行星</AsteroidName>
+
+  <!-- Ancient Reactor -->
+  <AncientReactorArrivedLetter>古代反应堆</AncientReactorArrivedLetter>
+  <AncientReactorArrivedLetterText>一台古代反应堆藏在附近的废墟中。反应堆已损坏并发生泄漏，使整个地区笼罩在有毒落尘中。找到并关闭反应堆，以获得引力核心并阻止落尘。</AncientReactorArrivedLetterText>
+
+  <!-- Frozen Terraformer -->
+  <FrozenTerraformerArrivedLetter>古代地形改造器</FrozenTerraformerArrivedLetter>
+  <FrozenTerraformerArrivedLetterText>这台故障的地形改造器将自己封在了坚冰之中。引力核心的能量信号从其中某处传来。找到并摧毁地形改造器以获得引力核心。</FrozenTerraformerArrivedLetterText>
+
+  <!-- Ancient Stockpile -->
+  <AncientStockpileArrivedLetter>古代储备库</AncientStockpileArrivedLetter>
+  <AncientStockpileArrivedLetterText>引力核心的能量信号从附近某个地下储备库中传来。骇入入口并搜索储备库以找到引力核心。\n\n小心，有些防御系统可能仍在运作。</AncientStockpileArrivedLetterText>
+
+  <!-- Orbital Mechanoid Platform -->
+  <OrbitalMechanoidPlatformLetterArrived>机械族平台</OrbitalMechanoidPlatformLetterArrived>
+  <OrbitalMechanoidPlatformLetterArrivedText>这座轨道平台用于维修和部署战斗机械族，很可能是某台横跨行星的古代战争机器的一部分。\n\n引力核心信号从其中某处传来。</OrbitalMechanoidPlatformLetterArrivedText>
+
+  <!-- Orbital Ancient Platform -->
+  <OrbitalAncientPlatformLetterArrived>古代平台</OrbitalAncientPlatformLetterArrived>
+  <OrbitalAncientPlatformLetterArrivedText>曾居住在这座轨道平台上的人早已消失，其最初的用途也早已被遗忘。\n\n引力核心信号从其中某处传来。</OrbitalAncientPlatformLetterArrivedText>
+  
+  <!-- Ancient Reactor -->
+  <CrashedPlatformArrivedLetter>坠毁的机械族平台</CrashedPlatformArrivedLetter>
+  <CrashedPlatformArrivedLetterText>一座轨道平台的残骸散落在附近。小心，残骸中有敌对机械族。\n\n引力核心信号从坠毁地点内某处传来。</CrashedPlatformArrivedLetterText>
+
+  <!-- Lava Incidents-->
+  <LetterLabelLavaEmergence>熔岩涌出</LetterLabelLavaEmergence>
+  <LetterLavaEmergence>熔岩正从地缝中涌出！它会不断积聚，直到形成一个小湖。之后需要数天冷却，冷却后即可清除。</LetterLavaEmergence>
+  <LetterLabelLavaFlow>熔岩流</LetterLabelLavaFlow>
+  <LetterLavaFlow>熔岩开始涌入此地区，淹没低洼的火山岩。让你的殖民者远离危险！</LetterLavaFlow>
+
+  <!-- Seasonal Flooding -->
+  <LetterLabelSeasonalFlooding>季节性洪水</LetterLabelSeasonalFlooding>
+  <LetterSeasonalFlooding>上游降雨使河水上涨。洪水将在数天后消退。</LetterSeasonalFlooding>
+  <MessageSeasonalFloodingFrozen>低温开始使河水结冰。洪水正在消退。</MessageSeasonalFloodingFrozen>
+  <MessageFloodingSubsiding>洪水正在消退。</MessageFloodingSubsiding>
+
+  <!-- Fishing -->
+  <LetterLabelRareCatch>稀有渔获</LetterLabelRareCatch>
+  <LetterTextRareCatch>钓鱼时，{PAWN_nameDef} 有了不寻常的收获</LetterTextRareCatch>
+
+  <!-- Pursuing Mechanoids -->
+  <LetterLabelMechanoidThreat>机械族来袭</LetterLabelMechanoidThreat>
+  <LetterTextMechanoidThreat>机械巢的扫描过程即将确定你的位置。一旦定位到你的引力船，它就会派出庞大的机械族部队来杀死你。\n\n收拾好物资，然后通过选择驾驶控制台并点击发射来撤离此地。</LetterTextMechanoidThreat>
+
+  <!-- Mechhive -->
+  <LetterLabelMechhiveWarning>机械巢信号</LetterLabelMechhiveWarning>
+  <LetterTextMechhiveWarning>你探测到巨大的引力科技能量读数，表明机械巢藏在轨道上的某处。如果你能找到它，就能将其关闭——或利用它的力量。\n\n机械巢是生产与控制平台，会孕育机械族并协调它们在全行星的行动。它们由一个人格核心供能。\n\n收集更多引力船科技，以追踪机械巢的位置。</LetterTextMechhiveWarning>
+
+  <OrbitalMechhiveLetterArrived>脑机核心</OrbitalMechhiveLetterArrived>
+  <OrbitalMechhiveLetterArrivedText>在轨道平台的中心，矗立着一座巨大的机械族结构，由比发丝还细的超科技丝线构成，支撑着一个人格核心。这就是机械巢的智能核心，指挥着全行星的机械族。\n\n该结构受到附近稳定器的保护，几乎坚不可摧。找到并摧毁脑机稳定器，以削弱核心的防御。</OrbitalMechhiveLetterArrivedText>
+
+  <MechhiveRaidLetterLabel>机械族强攻</MechhiveRaidLetterLabel>
+  <MechhiveRaidLetterText>脑机核心正在派出机械族攻击你。做好准备！</MechhiveRaidLetterText>
+
+  <MechhiveDefenseResponseLetterLabel>防御响应</MechhiveDefenseResponseLetterLabel>
+  <MechhiveDefenseResponseLetterText>机械族巢穴召来了机械族增援以自卫。它们正通过运输舱抵达，并会立即发动攻击！</MechhiveDefenseResponseLetterText>
+
+  <CerebrexCoreLoweredLetterLabel>脑机核心</CerebrexCoreLoweredLetterLabel>
+  <CerebrexCoreLoweredLetterText>通过摧毁稳定器，你削弱了脑机核心的防御。派一名殖民者去检查核心。</CerebrexCoreLoweredLetterText>
+
+  <CerebrexCoreDestroyedLetterLabel>机械族已停用</CerebrexCoreDestroyedLetterLabel>
+  <CerebrexCoreDestroyedLetterText>通过摧毁脑机核心，{PAWN_nameDef} 使全行星的机械族都失活了。\n\n机械族的威胁结束了。</CerebrexCoreDestroyedLetterText>
+
+  <CerebrexCoreScavengedLetterLabel>脑机节点</CerebrexCoreScavengedLetterLabel>
+  <CerebrexCoreScavengedLetterText>从脑机核心上拆下的节点就在附近。它对核心反应强烈，显然仍与核心相连。\n\n将节点装备给一名殖民者即可使用它。</CerebrexCoreScavengedLetterText>
+
+  <!-- Caravan entered enemy base -->
+  <LetterLabelGravshipEnteredEnemyBase>攻击已开始</LetterLabelGravshipEnteredEnemyBase>
+  <LetterGravshipEnteredEnemyBase>你的引力船已降落在 {0}，可以开始攻击了。</LetterGravshipEnteredEnemyBase>
+  
+  <!-- Survey Scanner -->
+  <LetterLabelSurveyScannerArrived>勘测扫描器</LetterLabelSurveyScannerArrived>
+  <LetterSurveyScannerArrived>保护扫描器直到它完成对该区域的勘测。这将需要 {DURATION}。</LetterSurveyScannerArrived>
+  
+  <!-- Psilocaps -->
+  <LetterInspirationBeginPsilocap>由于摄入了灵能菇，[PAWN_nameIndef] 产生了灵感！</LetterInspirationBeginPsilocap>
+  <MentalBreakReason_Psilocap>这是由摄入灵能菇引起的。</MentalBreakReason_Psilocap>
+
+  <EnteredMegahiveLabel>虫巢</EnteredMegahiveLabel>
+  <EnteredMegahiveText>{PAWN_nameDef} 抵达了一座巨大地下虫巢的深处。空气中弥漫着虫类分泌物的恶臭。</EnteredMegahiveText>
+  <EnteredMegahiveGravcoreExtra>引力核心的信号从洞穴墙后某处传来。攻击洞穴墙以继续探索。</EnteredMegahiveGravcoreExtra>
+
+</LanguageData>

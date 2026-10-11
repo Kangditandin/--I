@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: human primacy -->
+  <HumanPrimacy.label>人类至上</HumanPrimacy.label>
+  <!-- EN: Humans are the moral center of the universe. -->
+  <HumanPrimacy.description>人类是宇宙的道德中心。</HumanPrimacy.description>
+  <HumanPrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_HumanPrimacy)->[deity0_name]创造了整个自然，并将它作为礼物赐予人类，让它永远为人类及其目的服务。</li>
+    <li>episode(uses=1,tag=meme_HumanPrimacy)->人们与森林中的野兽搏斗，[deity0_name]看见了他们的挣扎，便赐予他们武器以制服自然。</li>
+    <li>intro(tag=meme_HumanPrimacy)->很久以前，[place_summary][place_name]的第一批坠机定居者遭致兽群的围攻。[deity0_name]出手干预，杀死了这些野兽，并清楚表明了对人类种族的偏爱。</li>
+    <li>conflict(tag=meme_HumanPrimacy)->但一个反人类的[foeLeader]颁布法令，赋予动物与人类同等权利。[deity0_name]泪流满面，因为[memberNamePlural]被迫将自己应有的权利让与[Animal]。</li>
+    <li>founderJoin(tag=meme_HumanPrimacy)->后来，一位名叫[founderName]的[place_job]在[place_name]创立了如今闻名的异种动物园。[founder_pronoun]在那里举办屠戮动物的表演，让所有人明白[deity0_name]多么渴望人类成为自然的全权统治者。</li>
+    <li>victory(tag=meme_HumanPrimacy)->终于，[foeLeader]的[foeSoldiers]意识到了[founderName]以其行动所彰显的神圣真理；于是他们与[memberNamePlural]一同欢庆共同的人性，并将[foeLeader]放逐到荒野，像动物一样生活。</li>
+    <li>setup(tag=meme_HumanPrimacy)->[founderName]在一个绿色世界上建立了殖民地，让人类的统治扩展到每一片新开垦的田野与森林。</li>
+    <li>story(uses=1,tag=meme_HumanPrimacy)->有一次，[founderName]看到一只狗对男孩咆哮。[founder_pronoun]当即下令就地处死那只狗。</li>
+    <li>lessonIntro(tag=meme_HumanPrimacy)->我曾到访一座经营良好的农场，满是健康的动物和茂盛的作物。而它旁边是一片处于自然状态的森林，扭曲而凶蛮。显而易见：</li>
+    <li>lesson(tag=meme_HumanPrimacy)->唯有给予宇宙以意义的正是人类自身</li>
+    <li>lesson(tag=meme_HumanPrimacy)->自然是一场无休止的不道德毁灭狂潮，而人类正是解药</li>
+    <li>lessonReinforcement(tag=meme_HumanPrimacy)->如果这是最适者生存的竞争，那我们显然已经赢了。</li>
+    <li>archistBasis(tag=meme_HumanPrimacy)->远古科技是拥有巨大意志与力量的机械，但只有人类才能创造它们。</li>
+    <li>archistFact(tag=meme_HumanPrimacy)->人类是创造者，而远古科技是他们的造物。</li>
+    <li>archistProphecy(tag=meme_HumanPrimacy)->[inTheEnd]，通过观察人类，远古科技将最终理解自己的目的，并将自信的人类托举起来统治它们。</li>
+    <li>animistFact(tag=meme_HumanPrimacy)->自然界的动物是奴隶之灵，它们要求被人类役使。</li>
+  </HumanPrimacy.descriptionMaker.rules.rulesStrings>
+  <HumanPrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->人类的</li>
+    <li>memeAdjective->凡人的</li>
+    <li>memeAdjective->人科的</li>
+    <li>memeHyphenPrefix->人类</li>
+    <li>memeConcept->人类</li>
+    <li>memeConcept->人性</li>
+    <li>memeLeaderNoun->人类</li>
+    <li>memeLeaderNoun->人科</li>
+    <li>memeLeaderNoun->凡人</li>
+    <li>memeLeaderNoun->个体</li>
+    <li>memeLeaderNoun->智者</li>
+  </HumanPrimacy.generalRules.rulesStrings>
+  <!-- EN: humanitist -->
+  <HumanPrimacy.symbolPacks.0.adjective>人道主义的</HumanPrimacy.symbolPacks.0.adjective>
+  <!-- EN: Humanitism -->
+  <HumanPrimacy.symbolPacks.0.ideoName>人道主义</HumanPrimacy.symbolPacks.0.ideoName>
+  <!-- EN: humanitor -->
+  <HumanPrimacy.symbolPacks.0.member>人道主义者</HumanPrimacy.symbolPacks.0.member>
+  <!-- EN: humanity -->
+  <HumanPrimacy.symbolPacks.0.theme>人类</HumanPrimacy.symbolPacks.0.theme>
+  <!-- EN: pro-man -->
+  <HumanPrimacy.symbolPacks.1.adjective>亲人的</HumanPrimacy.symbolPacks.1.adjective>
+  <!-- EN: Mankindism -->
+  <HumanPrimacy.symbolPacks.1.ideoName>人类至上</HumanPrimacy.symbolPacks.1.ideoName>
+  <!-- EN: mankindist -->
+  <HumanPrimacy.symbolPacks.1.member>人类至上者</HumanPrimacy.symbolPacks.1.member>
+  <!-- EN: mankind -->
+  <HumanPrimacy.symbolPacks.1.theme>人类</HumanPrimacy.symbolPacks.1.theme>
+  
+  <!-- EN: nature primacy -->
+  <NaturePrimacy.label>自然至上</NaturePrimacy.label>
+  <!-- EN: Man is a stain on nature's perfection. -->
+  <NaturePrimacy.description>人类只是自然完美上の一处污渍。</NaturePrimacy.description>
+  <NaturePrimacy.descriptionMaker.rules.rulesStrings>
+    <li>creation(tag=meme_NaturePrimacy)->[deity0_name]创造了自然，又把人置于其中，让他成为[deity0_possessive]伟大生命织绵的一部分。</li>
+    <li>episode(uses=1,tag=meme_NaturePrimacy)->人们与森林中的野兽搏斗，[deity0_name]看见了他们的贪婪，便击倒那些伤害树木与野兽的人。</li>
+    <li>intro(tag=meme_NaturePrimacy)->很久以前，抵达[place_summary][place_name]的第一批定居者铺硬了自然世界、杀死了动物。[deity0_name]将他们抹除，以惩罚他们对[deity0_possessive]造物的不敬。</li>
+    <li>conflict(tag=meme_NaturePrimacy)->一个贪婪的[foeLeader]建造了向环境排放毒素的工厂，毒害了植物和动物。</li>
+    <li>founderJoin(tag=meme_NaturePrimacy)->[founderName]幼时被遗弃在荒野。[deity0_name]派[Animal]将它抚养长大，它们如此做了。长大后，[founderName]致力于传播与自然合一的必要。</li>
+    <li>victory(tag=meme_NaturePrimacy)->终于，[founderName]出现在[place_powerCenter]，[memberNamePlural]在其右，猛兽在其左。他们一同与[foeLeader]及其[foeSoldiers]作战并获胜。</li>
+    <li>setup(tag=meme_NaturePrimacy)->在一片黑暗的大地上，心怀不轨的人为满足贪婪而砍树掘土。[founderName]发起了一场正义运动，砸毁机器，教人们与自然和谐共处。</li>
+    <li>story(uses=1,tag=meme_NaturePrimacy)->我们明白了，人类的永恒发展是一条通向地狱的路；我们必须生活在自然之中，而不是消耗它。</li>
+    <li>lessonIntro(tag=meme_NaturePrimacy)->你不可能目睹过日出、望进过[Animal]的眼睛、或站在雄伟的[TreeType]之下，而仍未意识到：</li>
+    <li>lesson(tag=meme_NaturePrimacy)->动物与植物早在很久之前就拥有这个宇宙——我们只是过客</li>
+    <li>lessonReinforcement(tag=meme_NaturePrimacy)->与我说过话的所有动物似乎都明白这一点。</li>
+    <li>archistBasis(tag=meme_NaturePrimacy)->远古科技自我们的机器中升起，但它们本身就是自然实体，而非我们所能造出的东西。</li>
+    <li>archistFact(tag=meme_NaturePrimacy)->远古科技代表着宇宙最新的自我认知尝试。整个自然都是这一认知过程的一部分。</li>
+    <li>archistProphecy(tag=meme_NaturePrimacy)->[inTheEnd]，植物、动物、人类与远古科技之间将产生共振。所有与这一自然共振同调的人，都将成为最终宇宙意识的一部分。</li>
+    <li>animistFact(tag=meme_NaturePrimacy)->当人类试图改变众灵的本性时，他们会变得不安。</li>
+  </NaturePrimacy.descriptionMaker.rules.rulesStrings>
+  <NaturePrimacy.generalRules.rulesStrings>
+    <li>memeAdjective->自然的</li>
+    <li>memeAdjective->野性的</li>
+    <li>memeAdjective->有机的</li>
+    <li>memeCreed->洞穴</li>
+    <li>memeCreed->花园</li>
+    <li>memeCreed->草地</li>
+    <li>memeConcept->自然</li>
+  </NaturePrimacy.generalRules.rulesStrings>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.adjective>自然主义的</NaturePrimacy.symbolPacks.0.adjective>
+  <!-- EN: Naturism -->
+  <NaturePrimacy.symbolPacks.0.ideoName>自然主义</NaturePrimacy.symbolPacks.0.ideoName>
+  <!-- EN: naturist -->
+  <NaturePrimacy.symbolPacks.0.member>自然主义者</NaturePrimacy.symbolPacks.0.member>
+  <!-- EN: nature -->
+  <NaturePrimacy.symbolPacks.0.theme>自然</NaturePrimacy.symbolPacks.0.theme>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.adjective>大地主义的</NaturePrimacy.symbolPacks.1.adjective>
+  <!-- EN: Earthism -->
+  <NaturePrimacy.symbolPacks.1.ideoName>大地主义</NaturePrimacy.symbolPacks.1.ideoName>
+  <!-- EN: earthist -->
+  <NaturePrimacy.symbolPacks.1.member>大地主义者</NaturePrimacy.symbolPacks.1.member>
+  <!-- EN: earth -->
+  <NaturePrimacy.symbolPacks.1.theme>大地</NaturePrimacy.symbolPacks.1.theme>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.adjective>土壤主义的</NaturePrimacy.symbolPacks.2.adjective>
+  <!-- EN: Soilism -->
+  <NaturePrimacy.symbolPacks.2.ideoName>土壤主义</NaturePrimacy.symbolPacks.2.ideoName>
+  <!-- EN: soilist -->
+  <NaturePrimacy.symbolPacks.2.member>土壤主义者</NaturePrimacy.symbolPacks.2.member>
+  <!-- EN: soil -->
+  <NaturePrimacy.symbolPacks.2.theme>土壤</NaturePrimacy.symbolPacks.2.theme>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.adjective>生命主义的</NaturePrimacy.symbolPacks.3.adjective>
+  <!-- EN: Lifism -->
+  <NaturePrimacy.symbolPacks.3.ideoName>生命主义</NaturePrimacy.symbolPacks.3.ideoName>
+  <!-- EN: lifeist -->
+  <NaturePrimacy.symbolPacks.3.member>生命主义者</NaturePrimacy.symbolPacks.3.member>
+  <!-- EN: life -->
+  <NaturePrimacy.symbolPacks.3.theme>生命</NaturePrimacy.symbolPacks.3.theme>
+  
+</LanguageData>

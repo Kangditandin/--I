@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Farmer.label>农夫</Farmer.label>
+  <Farmer.labelPlural>农夫们</Farmer.labelPlural>
+  <Hunter.label>猎人</Hunter.label>
+  <Hunter.labelFemale>女猎人</Hunter.labelFemale>
+  <Hunter.labelFemalePlural>女猎人们</Hunter.labelFemalePlural>
+  <Hunter.labelPlural>猎人们</Hunter.labelPlural>
+  <Logger.label>伐木工</Logger.label>
+  <Logger.labelPlural>伐木工们</Logger.labelPlural>
+  <Miner.label>矿工</Miner.label>
+  <Miner.labelPlural>矿工们</Miner.labelPlural>
+  <Tribal_Farmer.label>农夫</Tribal_Farmer.label>
+  <Tribal_Farmer.labelPlural>农夫们</Tribal_Farmer.labelPlural>
+  <Tribal_Logger.label>伐木工</Tribal_Logger.label>
+  <Tribal_Logger.labelPlural>伐木工们</Tribal_Logger.labelPlural>
+  <Tribal_Miner.label>矿工</Tribal_Miner.label>
+  <Tribal_Miner.labelPlural>矿工们</Tribal_Miner.labelPlural>
+  <Beggar.label>乞丐</Beggar.label>
+  <Beggar.labelPlural>乞丐们</Beggar.labelPlural>
+  <PovertyPilgrim.label>苦修朝圣者</PovertyPilgrim.label>
+  <PovertyPilgrim.labelPlural>苦修朝圣者们</PovertyPilgrim.labelPlural>
+  <WellEquippedTraveler.label>装备精良的旅行者</WellEquippedTraveler.label>
+  <WellEquippedTraveler.labelPlural>装备精良的旅行者们</WellEquippedTraveler.labelPlural>
+  <Dryad_Barkskin.label>树皮树精</Dryad_Barkskin.label>
+  <Dryad_Basic.label>未成熟树精</Dryad_Basic.label>
+  <Dryad_Berrymaker.label>浆果师树精</Dryad_Berrymaker.label>
+  <Dryad_Carrier.label>搬运者树精</Dryad_Carrier.label>
+  <Dryad_Clawer.label>爪击者树精</Dryad_Clawer.label>
+  <Dryad_Gaumaker.label>树苗培育者树精</Dryad_Gaumaker.label>
+  <Dryad_Medicinemaker.label>药材师树精</Dryad_Medicinemaker.label>
+  <Dryad_Woodmaker.label>木材师树精</Dryad_Woodmaker.label>
+
+</LanguageData>

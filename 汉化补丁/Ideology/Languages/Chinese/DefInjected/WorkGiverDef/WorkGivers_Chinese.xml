@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ChangeTreeMode.label>更改树精类型</ChangeTreeMode.label>
+  <ConvertPrisoner.label>转化囚犯</ConvertPrisoner.label>
+  <EmancipateSlave.label>解放奴隶</EmancipateSlave.label>
+  <EnslavePrisoner.label>奴役囚犯</EnslavePrisoner.label>
+  <ExecuteSlave.label>处决囚犯</ExecuteSlave.label>
+  <HaulToBiosculpterPod.label>搬运至生物雕塑舱</HaulToBiosculpterPod.label>
+  <ImprisonSlave.label>关押奴隶</ImprisonSlave.label>
+  <PruneGauranlenTree.label>修剪高兰树</PruneGauranlenTree.label>
+  <SuppressSlave.label>压制奴隶</SuppressSlave.label>
+
+</LanguageData>

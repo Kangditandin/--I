@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <EnslaveAttempt.label>奴役尝试</EnslaveAttempt.label>
+  <ReduceWill.label>试图削弱意志</ReduceWill.label>
+  <SparkSlaveRebellion.label>引发奴隶叛乱</SparkSlaveRebellion.label>
+  <Suppress.label>压制</Suppress.label>
+  <Convert_Failure.label>失败转化</Convert_Failure.label>
+  <Convert_Success.label>成功转化</Convert_Success.label>
+  <ConvertIdeoAttempt.label>转化理念尝试</ConvertIdeoAttempt.label>
+  <Counsel_Failure.label>失败辅导</Counsel_Failure.label>
+  <Counsel_Success.label>成功辅导</Counsel_Success.label>
+  <PreachHealth.label>布道健康</PreachHealth.label>
+  <Reassure.label>安抚</Reassure.label>
+  <Trial_Accuse.label>指控</Trial_Accuse.label>
+  <Trial_Defend.label>辩护</Trial_Defend.label>
+  <WorkDrive.label>工作激励</WorkDrive.label>
+  <Speech_AcceptRole.label>接受角色演说</Speech_AcceptRole.label>
+  <Speech_Blinding.label>致盲演说</Speech_Blinding.label>
+  <Speech_Conversion.label>转化演说</Speech_Conversion.label>
+  <Speech_DateRitual.label>庆典演说</Speech_DateRitual.label>
+  <Speech_Duel.label>决斗演说</Speech_Duel.label>
+  <Speech_Execution.label>处决演说</Speech_Execution.label>
+  <Speech_Funeral.label>葬礼演说</Speech_Funeral.label>
+  <Speech_Leader.label>领袖演说</Speech_Leader.label>
+  <Speech_RemoveRole.label>撤销角色演说</Speech_RemoveRole.label>
+  <Speech_Sacrifice.label>献祭演说</Speech_Sacrifice.label>
+  <Speech_Scarification.label>划痕演说</Speech_Scarification.label>
+  <Speech_TreeConnection.label>高兰树连接演说</Speech_TreeConnection.label>
+
+</LanguageData>

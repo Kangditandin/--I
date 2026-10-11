@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DrugUse_Abhorrent.label>可憎（严格）</DrugUse_Abhorrent.label>
+  <Nudity_Male_CoveringAnythingButHairOrFaceDisapproved.label>不得遮盖</Nudity_Male_CoveringAnythingButHairOrFaceDisapproved.label>
+  <Nudity_Female_CoveringAnythingButHairOrFaceDisapproved.label>不得遮盖</Nudity_Female_CoveringAnythingButHairOrFaceDisapproved.label>
+  <Nudity_Male_CoveringFaceDisapproved.label>面部暴露</Nudity_Male_CoveringFaceDisapproved.label>
+  <Nudity_Female_CoveringFaceDisapproved.label>面部暴露</Nudity_Female_CoveringFaceDisapproved.label>
+  <OrganUse_Respected.label>尊崇</OrganUse_Respected.label>
+  <Indoors_Acceptable.label>偏好</Indoors_Acceptable.label>
+  <Indoors_Acceptable.description>我们本就该住在室内。待在狭小的地方没什么好困扰的。</Indoors_Acceptable.description>
+
+</LanguageData>

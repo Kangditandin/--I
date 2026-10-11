@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <AlphaThrumbo.labelPlural>阿尔法敲击兽幼崽</AlphaThrumbo.labelPlural>
+  <BogHound.labelPlural>沼犬幼犬</BogHound.labelPlural>
+  <Mastodon.labelPlural>乳齿象幼崽</Mastodon.labelPlural>
+  <Peacock.labelFemale>雌孔雀</Peacock.labelFemale>
+  <Peacock.labelMale>孔雀</Peacock.labelMale>
+  <SeaLion.labelPlural>海狮幼崽</SeaLion.labelPlural>
+  <Seal.labelPlural>海豹幼崽</Seal.labelPlural>
+  <Walrus.labelPlural>海象幼崽</Walrus.labelPlural>
+  
+</LanguageData>

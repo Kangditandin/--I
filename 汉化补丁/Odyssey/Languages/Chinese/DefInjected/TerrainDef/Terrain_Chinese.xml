@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <FlagstoneStellite.label>星岩石板</FlagstoneStellite.label>
+  <FlagstoneStellite.description>粗切石砖。它们不美观，但是道路与户外步道的好地面。拆除石板不产出任何资源。</FlagstoneStellite.description>
+  <TileStellite.label>星岩地砖</TileStellite.label>
+  <TileStellite.description>精心切割并拼接的石砖，营造城堡般的感觉。看上去很漂亮，但铺设耗时很长。</TileStellite.description>
+  <HeavyBridge.label>重型桥梁</HeavyBridge.label>
+  <HeavyBridge.description>基础桥梁的加强版，能支撑其上的重型结构。你可以借此在水面上建造整座殖民地。</HeavyBridge.description>
+  <Substructure.label>引力船子结构</Substructure.label>
+  <Substructure.description>一种轻型桁架结构，上方铺有地板，构成引力船的甲板。只有位于该子结构之上的东西才能被引力引擎的悬浮场抬升。该地板必须建在引力引擎的范围内。</Substructure.description>
+  <InsectSludge.label>昆虫污泥</InsectSludge.label>
+  <MechanoidPlatform.label>机械体平台</MechanoidPlatform.label>
+  <OrbitalPlatform.label>轨道平台</OrbitalPlatform.label>
+  <AncientMegastructure.label>远古巨型结构</AncientMegastructure.label>
+  <CooledLava.label>冷却的熔岩</CooledLava.label>
+  <LavaDeep.label>深熔岩</LavaDeep.label>
+  <Space.label>太空</Space.label>
+  <VolcanicRock.label>火山岩</VolcanicRock.label>
+  <VolcanicRock_Smooth.label>光滑火山岩</VolcanicRock_Smooth.label>
+  <LavaShallow.label>浅熔岩</LavaShallow.label>
+  <ThinIce.label>薄冰</ThinIce.label>
+  <DryLakeBed.label>干涸湖床</DryLakeBed.label>
+  <DryLakeBed.tools.sand.label>沙</DryLakeBed.tools.sand.label>
+  <GlowforestSoil.label>土壤</GlowforestSoil.label>
+  <GlowforestSoil.tools.dirt.label>泥土</GlowforestSoil.tools.dirt.label>
+  <GrasslandSoil.label>土壤</GrasslandSoil.label>
+  <GrasslandSoil.tools.dirt.label>泥土</GrasslandSoil.tools.dirt.label>
+  <MarshFlood.label>浅洪水</MarshFlood.label>
+  <MarshFlood.tools.water.label>水</MarshFlood.tools.water.label>
+  <MarshFlood.tools.mud.label>泥</MarshFlood.tools.mud.label>
+  <ShallowFloodwater.label>浅洪水</ShallowFloodwater.label>
+  <ShallowFloodwater.tools.water.label>水</ShallowFloodwater.tools.water.label>
+  <SpringFlood.label>浅洪水</SpringFlood.label>
+  <SpringFlood.tools.water.label>水</SpringFlood.tools.water.label>
+  <ToxicFlood.label>浅洪水</ToxicFlood.label>
+  <ToxicFlood.tools.water.label>水</ToxicFlood.tools.water.label>
+  <HotSpring.label>温泉水</HotSpring.label>
+  <HotSpring.tools.water.label>水</HotSpring.tools.water.label>
+  <ToxicWaterDeep.label>有毒深水</ToxicWaterDeep.label>
+  <ToxicWaterDeep.tools.water.label>水</ToxicWaterDeep.tools.water.label>
+  <ToxicWaterMovingChestDeep.label>有毒齐胸流动水</ToxicWaterMovingChestDeep.label>
+  <ToxicWaterMovingChestDeep.tools.water.label>水</ToxicWaterMovingChestDeep.tools.water.label>
+  <ToxicWaterMovingShallow.label>有毒浅流动水</ToxicWaterMovingShallow.label>
+  <ToxicWaterMovingShallow.tools.water.label>水</ToxicWaterMovingShallow.tools.water.label>
+  <ToxicWaterOceanDeep.label>有毒深海海水</ToxicWaterOceanDeep.label>
+  <ToxicWaterOceanDeep.tools.water.label>水</ToxicWaterOceanDeep.tools.water.label>
+  <ToxicWaterOceanShallow.label>有毒浅海海水</ToxicWaterOceanShallow.label>
+  <ToxicWaterOceanShallow.tools.water.label>水</ToxicWaterOceanShallow.tools.water.label>
+  <ToxicWaterShallow.label>有毒浅水</ToxicWaterShallow.label>
+  <ToxicWaterShallow.tools.water.label>水</ToxicWaterShallow.tools.water.label>
+
+</LanguageData>

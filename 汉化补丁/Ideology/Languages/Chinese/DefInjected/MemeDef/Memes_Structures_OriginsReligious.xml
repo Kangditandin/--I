@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Buddhist origin -->
+  <Structure_OriginBuddhist.label>佛教源流</Structure_OriginBuddhist.label>
+  <!-- EN: This ideoligion is a descendant of ancient Buddhism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginBuddhist.description>此理念源自古佛教。它的戒律可能与数千年前大不相同，但符号相似。</Structure_OriginBuddhist.description>
+  <!-- EN: pagoda -->
+  <Structure_OriginBuddhist.worshipRoomLabel>佛塔</Structure_OriginBuddhist.worshipRoomLabel>
+
+  <!-- EN: Christian origin -->
+  <Structure_OriginChristian.label>基督教源流</Structure_OriginChristian.label>
+  <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Christianity. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginChristian.description>这是抽象有神论结构的变体。此理念源自古基督教。它的戒律可能与数千年前大不相同，但符号相似。</Structure_OriginChristian.description>
+  <!-- EN: church -->
+  <Structure_OriginChristian.worshipRoomLabel>教堂</Structure_OriginChristian.worshipRoomLabel>
+
+  <!-- EN: Hindu origin -->
+  <Structure_OriginHindu.label>印度教源流</Structure_OriginHindu.label>
+  <!-- EN: This is a variant of the embodied theist structure. This ideoligion is a descendant of ancient Hinduism. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginHindu.description>这是具象有神论结构的变体。此理念源自古印度教。它的戒律可能与数千年前大不相同，但符号相似。</Structure_OriginHindu.description>
+  <!-- EN: shrine -->
+  <Structure_OriginHindu.worshipRoomLabel>神庙</Structure_OriginHindu.worshipRoomLabel>
+
+  <!-- EN: Islamic origin -->
+  <Structure_OriginIslamic.label>伊斯兰教源流</Structure_OriginIslamic.label>
+  <!-- EN: This is a variant of the abstract theist structure. This ideoligion is a descendant of ancient Islam. It may have very different precepts than those of thousands of years ago, but its symbols are similar. -->
+  <Structure_OriginIslamic.description>这是抽象有神论结构的变体。此理念源自古伊斯兰教。它的戒律可能与数千年前大不相同，但符号相似。</Structure_OriginIslamic.description>
+  <!-- EN: mosque -->
+  <Structure_OriginIslamic.worshipRoomLabel>清真寺</Structure_OriginIslamic.worshipRoomLabel>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Labyrinth.label>迷宫</Labyrinth.label>
+  <Labyrinth.description>这个地方感觉与任何熟悉的环境都隔绝开来。沉重的空气与压抑的寂静营造出无处不在的恐惧感。</Labyrinth.description>
+  <MetalHell.label>金属地狱</MetalHell.label>
+  <MetalHell.description>这个房间完全由灰色金属构成，锯齿状与扭曲的形状似乎超越人类的理解。空气中震颤着污浊的能量，偶尔还夹杂着金属墙壁摩擦的吱嘎声。</MetalHell.description>
+  <Undercave.label>地下洞穴</Undercave.label>
+  <Undercave.description>这个洞穴充满了腐肉的恶臭。</Undercave.description>
+
+</LanguageData>

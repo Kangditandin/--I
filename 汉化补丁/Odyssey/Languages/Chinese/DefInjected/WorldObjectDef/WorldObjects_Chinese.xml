@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AsteroidBasic.label>基础小行星</AsteroidBasic.label>
+  <AsteroidBasic.description>一颗星岩小行星，很久以前作为采矿作业的一部分被拖入环绕行星的轨道。这颗小行星的大部分宝贵资源已被采尽。\n\n可使用运输舱、穿梭机或引力船抵达该地点。</AsteroidBasic.description>
+  <AsteroidMiningSite.label>小行星采矿点</AsteroidMiningSite.label>
+  <AsteroidMiningSite.description>一颗星岩小行星，很久以前作为采矿作业的一部分被拖入环绕行星的轨道。这颗小行星只被部分开采。\n\n可使用运输舱、穿梭机或引力船抵达该地点。</AsteroidMiningSite.description>
+  <ClaimableSite.label>可宣称地点</ClaimableSite.label>
+  <ClaimableSpaceSite.label>可宣称太空地点</ClaimableSpaceSite.label>
+  <DestroyedSpaceSettlement.label>被摧毁的定居点</DestroyedSpaceSettlement.label>
+  <DestroyedSpaceSettlement.description>一处被摧毁的定居点。</DestroyedSpaceSettlement.description>
+  <Gravship.label>引力船</Gravship.label>
+  <Gravship.description>一艘飞行中的引力船。</Gravship.description>
+  <GravshipLaunch.label>引力船发射</GravshipLaunch.label>
+  <GravshipLaunch.description>一艘引力船的发射地点。</GravshipLaunch.description>
+  <Mechhive.label>机械巢</Mechhive.label>
+  <OrbitalItemStash.label>轨道物品储藏点</OrbitalItemStash.label>
+  <OrbitalItemStash.description>一颗星岩小行星，很久以前作为采矿作业的一部分被拖入环绕行星的轨道。这颗小行星的大部分宝贵资源已被采尽。\n\n可使用运输舱、穿梭机或引力船抵达该地点。</OrbitalItemStash.description>
+  <PassengerShuttle.label>客运穿梭机</PassengerShuttle.label>
+  <PassengerShuttle.description>一架飞行中的客运穿梭机。</PassengerShuttle.description>
+  <Space.label>太空</Space.label>
+  <SpaceSettlement.label>轨道定居点</SpaceSettlement.label>
+  <SpaceSettlement.description>一处由另一个人类阵营控制的轨道平台。他们不会欢迎访客。\n\n这些平台拥有能摧毁来犯飞船的远程自动武器系统。只有配备信号干扰器的引力船才能安全接近它们。</SpaceSettlement.description>
+  <SpaceSite.label>太空地点</SpaceSite.label>
+
+</LanguageData>

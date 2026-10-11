@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <DoubleTuft.label>双发簇</DoubleTuft.label>
+  <LargeTuft.label>大发簇</LargeTuft.label>
+  <LongMess.label>长乱发</LongMess.label>
+  <LongOily.label>长油发</LongOily.label>
+  <Parted.label>中分</Parted.label>
+  <PatchyShave.label>斑驳剃发</PatchyShave.label>
+  <RoughShave.label>粗剃</RoughShave.label>
+  <ShavedMohawk.label>剃边莫西干</ShavedMohawk.label>
+  <ShortCut.label>短发</ShortCut.label>
+  <SideCut.label>侧削</SideCut.label>
+  <SideSpikes.label>侧刺</SideSpikes.label>
+  <Ghoul_Furious.label>狂怒</Ghoul_Furious.label>
+  <Ghoul_Hungry.label>饥饿</Ghoul_Hungry.label>
+  <Ghoul_Ravenous.label>饥肠辘辘</Ghoul_Ravenous.label>
+  <Ghoul_Twisted.label>扭曲</Ghoul_Twisted.label>
+  <Ghoul_Vengeful.label>复仇</Ghoul_Vengeful.label>
+  <Ghoul_Warped.label>畸变</Ghoul_Warped.label>
+  <Ghoul_Wicked.label>邪恶</Ghoul_Wicked.label>
+
+</LanguageData>

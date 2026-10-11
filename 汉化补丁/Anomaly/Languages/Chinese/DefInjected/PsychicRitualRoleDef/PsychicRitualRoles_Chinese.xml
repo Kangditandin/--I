@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BrainwipeTarget.label>目标</BrainwipeTarget.label>
+  <Chanter.label>吟诵者</Chanter.label>
+  <Chanter.description>吟诵者为仪式增添心灵之力。</Chanter.description>
+  <ChanterAdvanced.label>吟诵者</ChanterAdvanced.label>
+  <ChanterAdvanced.description>吟诵者为仪式增添心灵之力。</ChanterAdvanced.description>
+  <ChronophagyTarget.label>目标</ChronophagyTarget.label>
+  <DeathRefusalTarget.label>目标</DeathRefusalTarget.label>
+  <Defender.label>护卫</Defender.label>
+  <Defender.description>护卫保护仪式参与者免受伤害。</Defender.description>
+  <Invoker.label>召唤者</Invoker.label>
+  <PhilophagyTarget.label>目标</PhilophagyTarget.label>
+  <PsychophagyTarget.label>目标</PsychophagyTarget.label>
+
+</LanguageData>

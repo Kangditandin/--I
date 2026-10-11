@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AttendedFuneral.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</AttendedFuneral.description>
+  <AttendedFuneral.comps.0.label>道德导师在场</AttendedFuneral.comps.0.label>
+  <AttendedFuneral.comps.1.label>参与者数量</AttendedFuneral.comps.1.label>
+  <AttendedFuneral.outcomeChances.0.label>糟糕</AttendedFuneral.outcomeChances.0.label>
+  <AttendedFuneral.outcomeChances.0.description>那场{0}太糟了！每个人都因不得不忍受它而感到受辱。</AttendedFuneral.outcomeChances.0.description>
+  <AttendedFuneral.outcomeChances.1.label>乏味</AttendedFuneral.outcomeChances.1.label>
+  <AttendedFuneral.outcomeChances.1.description>那场{0}很乏味。演讲冗长，未能化解任何情绪。</AttendedFuneral.outcomeChances.1.description>
+  <AttendedFuneral.outcomeChances.2.label>不错</AttendedFuneral.outcomeChances.2.label>
+  <AttendedFuneral.outcomeChances.2.description>那场{0}不错。说话者的最后几句话为每个人提供了继续前行的路径。</AttendedFuneral.outcomeChances.2.description>
+  <AttendedFuneral.outcomeChances.3.label>温暖人心</AttendedFuneral.outcomeChances.3.label>
+  <AttendedFuneral.outcomeChances.3.description>那场{0}温暖人心。演讲引人入胜而真挚，每个人离开时都专注于美好的回忆。</AttendedFuneral.outcomeChances.3.description>
+  <AttendedFuneralNoCorpse.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</AttendedFuneralNoCorpse.description>
+  <AttendedFuneralNoCorpse.comps.0.label>道德导师在场</AttendedFuneralNoCorpse.comps.0.label>
+  <AttendedFuneralNoCorpse.comps.1.label>参与者数量</AttendedFuneralNoCorpse.comps.1.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.label>糟糕</AttendedFuneralNoCorpse.outcomeChances.0.label>
+  <AttendedFuneralNoCorpse.outcomeChances.0.description>那场{0}太糟了！每个人都因不得不忍受它而感到受辱。</AttendedFuneralNoCorpse.outcomeChances.0.description>
+  <AttendedFuneralNoCorpse.outcomeChances.1.label>乏味</AttendedFuneralNoCorpse.outcomeChances.1.label>
+  <AttendedFuneralNoCorpse.outcomeChances.1.description>那场{0}很乏味。演讲冗长，未能化解任何情绪。</AttendedFuneralNoCorpse.outcomeChances.1.description>
+  <AttendedFuneralNoCorpse.outcomeChances.2.label>不错</AttendedFuneralNoCorpse.outcomeChances.2.label>
+  <AttendedFuneralNoCorpse.outcomeChances.2.description>那场{0}不错。说话者的最后几句话为每个人提供了继续前行的路径。</AttendedFuneralNoCorpse.outcomeChances.2.description>
+  <AttendedFuneralNoCorpse.outcomeChances.3.label>温暖人心</AttendedFuneralNoCorpse.outcomeChances.3.label>
+  <AttendedFuneralNoCorpse.outcomeChances.3.description>那场{0}温暖人心。演讲引人入胜而真挚，每个人离开时都专注于美好的回忆。</AttendedFuneralNoCorpse.outcomeChances.3.description>
+  <BlindingCeremony.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</BlindingCeremony.description>
+  <BlindingCeremony.comps.2.label>道德导师在场</BlindingCeremony.comps.2.label>
+  <BlindingCeremony.comps.3.label>参与者数量</BlindingCeremony.comps.3.label>
+  <BlindingCeremony.comps.4.label>在祭坛开始</BlindingCeremony.comps.4.label>
+  <BlindingCeremony.outcomeChances.0.label>糟糕</BlindingCeremony.outcomeChances.0.label>
+  <BlindingCeremony.outcomeChances.0.description>那场{0}太糟了！演讲结结巴巴、语无伦次。致盲手法也搞砸了。每个人都在等它结束。</BlindingCeremony.outcomeChances.0.description>
+  <BlindingCeremony.outcomeChances.1.label>无聊</BlindingCeremony.outcomeChances.1.label>
+  <BlindingCeremony.outcomeChances.1.description>那场{0}很无聊。演讲重复，致盲手法明显有瑕疵。感觉就是不够庄重。</BlindingCeremony.outcomeChances.1.description>
+  <BlindingCeremony.outcomeChances.2.label>令人满足</BlindingCeremony.outcomeChances.2.label>
+  <BlindingCeremony.outcomeChances.2.description>那场{0}令人满足。演讲感觉有意义，致盲手法精准而庄重。</BlindingCeremony.outcomeChances.2.description>
+  <BlindingCeremony.outcomeChances.3.label>壮观</BlindingCeremony.outcomeChances.3.label>
+  <BlindingCeremony.outcomeChances.3.description>那场{0}壮观！演讲把所有人带到狂乱的边缘，恰在此时眼球以令人满足的湿润声被取出。</BlindingCeremony.outcomeChances.3.description>
+  <CelebratedDate.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</CelebratedDate.description>
+  <CelebratedDate.comps.2.label>领袖在场</CelebratedDate.comps.2.label>
+  <CelebratedDate.comps.3.label>参与者数量</CelebratedDate.comps.3.label>
+  <CelebratedDate.comps.4.label>在祭坛开始</CelebratedDate.comps.4.label>
+  <CelebratedDate.outcomeChances.0.label>糟糕</CelebratedDate.outcomeChances.0.label>
+  <CelebratedDate.outcomeChances.0.description>那场{0}太糟了！参与者忍受了数小时令人咬紧牙关的闲聊，只等它结束。</CelebratedDate.outcomeChances.0.description>
+  <CelebratedDate.outcomeChances.1.label>无聊</CelebratedDate.outcomeChances.1.label>
+  <CelebratedDate.outcomeChances.1.description>那场{0}很无聊。每个人都尴尬得无法敞开心扉、开怀大笑。</CelebratedDate.outcomeChances.1.description>
+  <CelebratedDate.outcomeChances.2.label>有趣</CelebratedDate.outcomeChances.2.label>
+  <CelebratedDate.outcomeChances.2.description>那场{0}很有趣。每个人都珍惜这个一起放松、一起玩乐的机会。</CelebratedDate.outcomeChances.2.description>
+  <CelebratedDate.outcomeChances.3.label>难忘</CelebratedDate.outcomeChances.3.label>
+  <CelebratedDate.outcomeChances.3.description>那场{0}难忘！每个人都在了解彼此，感觉像一家人。</CelebratedDate.outcomeChances.3.description>
+  <CelebratedDate_Consumable.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</CelebratedDate_Consumable.description>
+  <CelebratedDate_Consumable.comps.0.label>参与者数量</CelebratedDate_Consumable.comps.0.label>
+  <CelebratedDate_Consumable.comps.1.label>房间观感</CelebratedDate_Consumable.comps.1.label>
+  <CelebratedDate_Consumable.outcomeChances.0.label>糟糕</CelebratedDate_Consumable.outcomeChances.0.label>
+  <CelebratedDate_Consumable.outcomeChances.0.description>那场{0}太糟了！参与者忍受了数小时令人咬紧牙关的闲聊，只等它结束。</CelebratedDate_Consumable.outcomeChances.0.description>
+  <CelebratedDate_Consumable.outcomeChances.1.label>无聊</CelebratedDate_Consumable.outcomeChances.1.label>
+  <CelebratedDate_Consumable.outcomeChances.1.description>那场{0}很无聊。每个人都尴尬得无法敞开心扉、开怀大笑。</CelebratedDate_Consumable.outcomeChances.1.description>
+  <CelebratedDate_Consumable.outcomeChances.2.label>有趣</CelebratedDate_Consumable.outcomeChances.2.label>
+  <CelebratedDate_Consumable.outcomeChances.2.description>那场{0}不错。每个人都珍惜这个一起放松、一起玩乐的机会。</CelebratedDate_Consumable.outcomeChances.2.description>
+  <CelebratedDate_Consumable.outcomeChances.3.label>难忘</CelebratedDate_Consumable.outcomeChances.3.label>
+  <CelebratedDate_Consumable.outcomeChances.3.description>那场{0}难忘！每个人都在了解彼此，感觉像一家人。</CelebratedDate_Consumable.outcomeChances.3.description>
+  <CelebrationPartyDanceDrum.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</CelebrationPartyDanceDrum.description>
+  <CelebrationPartyDanceDrum.comps.0.label>参与者数量</CelebrationPartyDanceDrum.comps.0.label>
+  <CelebrationPartyDanceDrum.comps.1.label>房间观感</CelebrationPartyDanceDrum.comps.1.label>
+  <CelebrationPartyDanceDrum.comps.2.label>击鼓数量</CelebrationPartyDanceDrum.comps.2.label>
+  <CelebrationPartyDanceDrum.comps.3.label>在篝火旁开始</CelebrationPartyDanceDrum.comps.3.label>
+  <CelebrationPartyDanceDrum.outcomeChances.0.label>糟糕</CelebrationPartyDanceDrum.outcomeChances.0.label>
+  <CelebrationPartyDanceDrum.outcomeChances.0.description>那场{0}太糟了！尴尬的交谈、糟糕的笑话、难看的舞姿，还有沉闷的音乐。</CelebrationPartyDanceDrum.outcomeChances.0.description>
+  <CelebrationPartyDanceDrum.outcomeChances.1.label>无聊</CelebrationPartyDanceDrum.outcomeChances.1.label>
+  <CelebrationPartyDanceDrum.outcomeChances.1.description>那场{0}很无聊。糟糕的舞姿与平庸的音乐让整件事感觉像浪费时间。</CelebrationPartyDanceDrum.outcomeChances.1.description>
+  <CelebrationPartyDanceDrum.outcomeChances.2.label>有趣</CelebrationPartyDanceDrum.outcomeChances.2.label>
+  <CelebrationPartyDanceDrum.outcomeChances.2.description>那场{0}很有趣。每个人都享受这个从日常生活中脱身的机会，一起跳了些好舞。</CelebrationPartyDanceDrum.outcomeChances.2.description>
+  <CelebrationPartyDanceDrum.outcomeChances.3.label>难忘</CelebrationPartyDanceDrum.outcomeChances.3.label>
+  <CelebrationPartyDanceDrum.outcomeChances.3.description>那场{0}难忘！舞者在音乐中忘记了自我，这段体验把所有人聚在一起。</CelebrationPartyDanceDrum.outcomeChances.3.description>
+  <CelebrationPartyDanceTech.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</CelebrationPartyDanceTech.description>
+  <CelebrationPartyDanceTech.comps.0.label>参与者数量</CelebrationPartyDanceTech.comps.0.label>
+  <CelebrationPartyDanceTech.comps.1.label>房间观感</CelebrationPartyDanceTech.comps.1.label>
+  <CelebrationPartyDanceTech.comps.2.label>活跃扬声器数量</CelebrationPartyDanceTech.comps.2.label>
+  <CelebrationPartyDanceTech.comps.3.label>在光球旁开始</CelebrationPartyDanceTech.comps.3.label>
+  <CelebrationPartyDanceTech.outcomeChances.0.label>糟糕</CelebrationPartyDanceTech.outcomeChances.0.label>
+  <CelebrationPartyDanceTech.outcomeChances.0.description>那场{0}太糟了！尴尬的交谈、糟糕的笑话、难看的舞姿，还有沉闷的音乐。</CelebrationPartyDanceTech.outcomeChances.0.description>
+  <CelebrationPartyDanceTech.outcomeChances.1.label>无聊</CelebrationPartyDanceTech.outcomeChances.1.label>
+  <CelebrationPartyDanceTech.outcomeChances.1.description>那场{0}很无聊。糟糕的舞姿与平庸的音乐让整件事感觉像浪费时间。</CelebrationPartyDanceTech.outcomeChances.1.description>
+  <CelebrationPartyDanceTech.outcomeChances.2.label>有趣</CelebrationPartyDanceTech.outcomeChances.2.label>
+  <CelebrationPartyDanceTech.outcomeChances.2.description>那场{0}很有趣。每个人都享受这个从日常生活中脱身的机会，一起跳了些好舞。</CelebrationPartyDanceTech.outcomeChances.2.description>
+  <CelebrationPartyDanceTech.outcomeChances.3.label>难忘</CelebrationPartyDanceTech.outcomeChances.3.label>
+  <CelebrationPartyDanceTech.outcomeChances.3.description>那场{0}难忘！舞者在音乐中忘记了自我，这段体验把所有人聚在一起。</CelebrationPartyDanceTech.outcomeChances.3.description>
+  <CelebrationSkyLanterns.description>根据仪式质量，参与者将在 {MOODDAYS} 天内获得 {MINMOOD} 到 {MAXMOOD} 的心情。</CelebrationSkyLanterns.description>
+  <CelebrationSkyLanterns.comps.0.label>参与者数量</CelebrationSkyLanterns.comps.0.label>
+  <CelebrationSkyLanterns.outcomeChances.0.label>糟糕</CelebrationSkyLanterns.outcomeChances.0.label>
+  <CelebrationSkyLanterns.outcomeChances.0.description>那场{0}太糟了！人们做天灯时不断被惹恼，它们在风中看起来像垃圾。</CelebrationSkyLanterns.outcomeChances.0.description>
+  <CelebrationSkyLanterns.outcomeChances.1.label>平淡</CelebrationSkyLanterns.outcomeChances.1.label>
+  <CelebrationSkyLanterns.outcomeChances.1.description>那场{0}平淡无奇。做天灯花了太久，整件事感觉相当没意义。</CelebrationSkyLanterns.outcomeChances.1.description>
+  <CelebrationSkyLanterns.outcomeChances.2.label>美丽</CelebrationSkyLanterns.outcomeChances.2.label>
+  <CelebrationSkyLanterns.outcomeChances.2.description>那场{0}很美丽。飘动的天灯让每个人都感到平静。</CelebrationSkyLanterns.outcomeChances.2.description>
+  <CelebrationSkyLanterns.outcomeChances.3.label>难忘</CelebrationSkyLanterns.outcomeChances.3.label>
+  <CelebrationSkyLanterns.outcomeChances.3.description>那场{0}难忘！制作天灯的时光充满欢笑，每个人的心绪也随之升腾。</CelebrationSkyLanterns.outcomeChances.3.description>
+  <ConnectToTree.description>连接者将与树建立连接。</ConnectToTree.description>
+  <ConnectToTree.comps.0.label>参与者数量</ConnectToTree.comps.0.label>
+  <Conversion.description>如果进展顺利，目标的理念确信将被降低，或他们将转化。若进展不顺，他们会对自己旧有的信仰更加确信。</Conversion.description>
+  <Conversion.comps.0.label>房间观感</Conversion.comps.0.label>
+  <Conversion.comps.1.label>参与者数量</Conversion.comps.1.label>
+  <Conversion.comps.2.label>{PAWN_labelShort}的社交影响</Conversion.comps.2.label>
+  <Conversion.comps.3.label>{PAWN_labelShort}的期望</Conversion.comps.3.label>
+
+</LanguageData>

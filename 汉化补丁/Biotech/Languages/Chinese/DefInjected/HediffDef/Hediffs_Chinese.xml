@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <GlucosoidRush.label>葡萄糖激涌</GlucosoidRush.label>
+  <GlucosoidRush.description>由于此人在死眠时使用了葡萄糖泵，移动速度得到提升。此效果持续到下一次死眠。</GlucosoidRush.description>
+  <HemogenAmplified.label>血原质增幅</HemogenAmplified.label>
+  <HemogenAmplified.description>由于此人在死眠时使用了血原质增幅器，所有血原质获取量得到成倍提升。此效果持续到下一次死眠。</HemogenAmplified.description>
+  <PsychofluidRush.label>灵能液激涌</PsychofluidRush.label>
+  <PsychofluidRush.description>由于此人在死眠时使用了灵能液泵，心灵敏感度得到增强。此效果持续到下一次死眠。</PsychofluidRush.description>
+  <MechBoost.label>机械体强化</MechBoost.label>
+  <MechBoost.description>这只机械体的能力因附近的机械体强化建筑而得到提升。</MechBoost.description>
+  <DetoxifierKidney.label>消毒肾</DetoxifierKidney.label>
+  <DetoxifierKidney.description>一枚已植入的消毒肾。通过一系列纳米过滤器，它能迅速从血液中清除大量毒素，因此对环境毒素、毒液与注射毒物都有效。</DetoxifierKidney.description>
+  <DetoxifierLung.label>消毒肺</DetoxifierLung.label>
+  <DetoxifierLung.description>一枚已植入的消毒肺。可防止此肺发生肺腐病，并抵消酸性烟雾的刺激。\n\n注意：消毒肺不能防止毒气的刺激效果。</DetoxifierLung.description>
+  <InfantIllness.label>婴儿病</InfantIllness.label>
+  <InfantIllness.description>各种出生并发症的影响。如果婴儿能存活 10 天，他们就会强壮到可以自行康复。\n\n病症会随时间起伏，需要不同程度的照料与药物才能康复。</InfantIllness.description>
+  <InfantIllness.stages.minor.label>轻微</InfantIllness.stages.minor.label>
+  <InfantIllness.stages.major.label>严重</InfantIllness.stages.major.label>
+  <InfantIllness.stages.extreme-0.label>极重</InfantIllness.stages.extreme-0.label>
+  <InfantIllness.stages.extreme-1.label>极重</InfantIllness.stages.extreme-1.label>
+  <Lactating.label>泌乳</Lactating.label>
+  <Lactating.description>能够哺乳婴儿的状态。乳房正在积极产生并储存乳汁。泌乳状态在母亲分娩时开始，只要她每 10 天至少哺乳一次就会无限期持续。\n\n正在泌乳的人更难受孕。</Lactating.description>
+  <MorningSickness.label>孕吐</MorningSickness.label>
+  <MorningSickness.description>这是怀孕常见的副作用，尽管名为“晨”，但并不限于早晨。在此期间，此人会遭受恶心、头晕与思维模糊。</MorningSickness.description>
+  <OvumExtracted.label>已取卵</OvumExtracted.label>
+  <OvumExtracted.description>这位女性近期接受了取卵手术。在过一段时间之前无法再取卵。</OvumExtracted.description>
+  <PollutionStimulus.label>污染刺激</PollutionStimulus.label>
+  <PollutionStimulus.description>这只生物因暴露于污染而精力充沛。\n\n污染刺激反应最初是为帮助巨型昆虫履行反机械体生物武器的角色而设计的。不过，该基因此后也被用于帮助人们在污染区域中正常运作。</PollutionStimulus.description>
+  <PollutionStimulus.stages.minor.label>轻微</PollutionStimulus.stages.minor.label>
+  <PollutionStimulus.stages.moderate.label>中度</PollutionStimulus.stages.moderate.label>
+  <PollutionStimulus.stages.maximum.label>最大</PollutionStimulus.stages.maximum.label>
+  <PostpartumExhaustion.label>产后虚脱</PostpartumExhaustion.label>
+  <PostpartumExhaustion.description>分娩的一般后遗症。这位母亲需要一些时间才能恢复体力。</PostpartumExhaustion.description>
+  <PregnancyLabor.label>分娩（开指）</PregnancyLabor.label>
+  <PregnancyLabor.description>即将分娩的状态。分娩会经历多个阶段，伴随不同程度的疼痛与宫缩。每次分娩都不同，疼痛会随时间不可预测地起落。婴儿出生时分娩结束。</PregnancyLabor.description>
+  <PregnancyLabor.stages.mild.label>轻度</PregnancyLabor.stages.mild.label>
+  <PregnancyLabor.stages.intense.label>剧烈</PregnancyLabor.stages.intense.label>
+  <PregnancyLabor.stages.debilitating.label>极度虚弱</PregnancyLabor.stages.debilitating.label>
+  <PregnancyLaborPushing.label>分娩（用力）</PregnancyLaborPushing.label>
+  <PregnancyLaborPushing.description>婴儿正沿产道下降，母亲有强烈的用力冲动。分娩即将来临。</PregnancyLaborPushing.description>
+  <PregnancyMood.label>孕期情绪</PregnancyMood.label>
+  <PregnancyMood.description>这一常见的怀孕副作用表现为激素失衡引起的心情起伏。</PregnancyMood.description>
+  <PregnantHuman.label>怀孕</PregnantHuman.label>
+  <PregnantHuman.description>一个婴儿正在女性体内生长，准备出生。在人类中，怀孕持续 18 天，分为 3 个孕期。随着孕期增长，会降低母亲的移动能力。对某些母亲而言，怀孕可能引发难以应对的恶心或情绪波动。</PregnantHuman.description>
+  <PregnantHuman.stages.first_trimester.label>孕早期</PregnantHuman.stages.first_trimester.label>
+  <PregnantHuman.stages.second_trimester.label>孕中期</PregnantHuman.stages.second_trimester.label>
+  <PregnantHuman.stages.third_trimester.label>孕晚期</PregnantHuman.stages.third_trimester.label>
+  <Stillborn.label>死胎</Stillborn.label>
+  <Stillborn.description>这个婴儿因怀孕期间的非特异性并发症而死亡。</Stillborn.description>
+  <BloodfeederMark.label>噬血者咬痕</BloodfeederMark.label>
+  <BloodfeederMark.description>两个小小的穿刺伤口。</BloodfeederMark.description>
+  <ImplantedIUD.label>已植入节育器</ImplantedIUD.label>
+  <ImplantedIUD.description>一枚小型金属装置已被植入此人的子宫内以避孕。在大多数情况下可通过手术逆转，但有永久绝育的几率。</ImplantedIUD.description>
+  <ToxGasExposure.label>毒气</ToxGasExposure.label>
+  <ToxGasExposure.description>暴露于毒气（一种有毒化学气体）的后遗症。它会灼伤肺部与眼睛，造成暂时的呼吸急促与视力下降。持续暴露于毒气会导致毒素积累并最终死亡。</ToxGasExposure.description>
+  <ToxGasExposure.stages.mild.label>轻度</ToxGasExposure.stages.mild.label>
+  <ToxGasExposure.stages.moderate.label>中度</ToxGasExposure.stages.moderate.label>
+  <ToxGasExposure.stages.severe.label>重度</ToxGasExposure.stages.severe.label>
+  <TubalLigation.label>输卵管结扎</TubalLigation.label>
+  <TubalLigation.description>此人的生殖器官因封闭输卵管而停止工作，阻止卵子从卵巢移动到子宫。</TubalLigation.description>
+  <Vasectomy.label>输精管结扎</Vasectomy.label>
+  <Vasectomy.description>这只生物的生殖器官因切断并封闭输精管（一条将精子输送到尿道的管道）而失效。在大多数情况下可通过手术逆转，但有永久绝育的几率。</Vasectomy.description>
+  <BandNode.label>频带节点（已调谐）</BandNode.label>
+  <BandNode.description>这台频带节点结构的影响提升了这位机械师的带宽。</BandNode.description>
+  <ControlSublinkImplant.label>控制子链接</ControlSublinkImplant.label>
+  <ControlSublinkImplant.description>一种可提升机械师控制组数量与其机械体工作速度的植入体。\n\n此植入体最多可植入 6 次以增强效果。</ControlSublinkImplant.description>
+  <MechFormfeederImplant.label>机械孕育处理器</MechFormfeederImplant.label>
+  <MechFormfeederImplant.description>一种可提升机械师在机械孕育器中生产机械体速度的植入体。该处理器优化了机械成形槽中机械微粒的行为。\n\n此植入体可以像机械链接一样自行植入。\n\n此植入体最多可植入 6 次以增强效果。</MechFormfeederImplant.description>
+  <MechlinkImplant.label>机械链接</MechlinkImplant.label>
+  <MechlinkImplant.description>一种可直接控制机械体的仿生植入体。机械链接被士兵用于控制战斗机械体，被工人用于控制劳作机械体。拥有机械链接的人被称为机械师。\n\n机械链接可自行植入。它被压入咽喉后部，装置会自行穿过血肉，夹在颅底与脊髓相接之处。在那里，它把一张超细导线网穿入附近的神经组织，在用户与机械体控制频带之间建立直接的精神链接。\n\n机械链接不只是向机械体发送无线电信号的装置，因为机械体并不仅仅是机器人。除了传统计算机之外，机械体还具有微弱的灵能存在，因此要流畅地控制它们就需要灵能连接。通过在灵能与电磁两方面同时连接机械师与机械体，机械链接能实现比屏幕加按钮界面更深层的控制。\n\n由于机械链接深深交织于脑组织之中，它只能在死后取出。\n\n注意：机械师必须能够从事锻造工作才能孕育机械体。</MechlinkImplant.description>
+  <RemoteRepairerImplant.label>远程维修器</RemoteRepairerImplant.label>
+  <RemoteRepairerImplant.description>一种允许机械师远距离维修机械体的机械链接升级。使用者与机械体链接，并用自己的大脑以灵能方式引导其自我维修机械微粒。\n\n此植入体最多可植入 3 次以增加范围。</RemoteRepairerImplant.description>
+  <RemoteShielderImplant.label>远程护盾器</RemoteShielderImplant.label>
+  <RemoteShielderImplant.description>一种允许机械师为机械体施加个人防御护盾的植入体。机械师必须持续专注于该机械体以维持护盾。它可用于在关键时刻挽救一台机械体。\n\n此植入体最多可植入 3 次以增加范围与护盾能量。</RemoteShielderImplant.description>
+  <RepairProbeImplant.label>维修探针</RepairProbeImplant.label>
+  <RepairProbeImplant.description>一种可提升机械师维修机械体速度的植入体。这不影响维修机械体所需的总能量。\n\n该植入体让机械师在维修时能直接接入机械体，更好地引导机械体的自我维修机械微粒。\n\n此植入体最多可植入 6 次以增强效果。</RepairProbeImplant.description>
+  <SelfShutdown.label>休眠自充电</SelfShutdown.label>
+  <SelfShutdown.description>这台机械体没有足够能量保持活动。它已进入休眠以自行充电。自充电比在充能站充电慢得多。</SelfShutdown.description>
+  <BioStarvation.label>生物饥饿</BioStarvation.label>
+  <BioStarvation.description>此人曾处于一个因缺少电力或营养饲料而运作不良的成长舱中。这使他们的身体处于生物饥饿状态。</BioStarvation.description>
+  <Deathrest.label>死眠中</Deathrest.label>
+  <Deathrest.description>一种持续数天、形似昏迷的深眠，能恢复身体的资源。某些基因会产生对死眠的需求。死眠还可以通过多种支持建筑增强，为死眠者提供特殊加成。</Deathrest.description>
+  <DeathrestExhaustion.label>死眠耗竭</DeathrestExhaustion.label>
+  <DeathrestExhaustion.description>此人迫切需要死眠以重新平衡其新陈代谢。</DeathrestExhaustion.description>
+  <GeneticDrugNeed.label>化学依赖</GeneticDrugNeed.label>
+  <GeneticDrugNeed.description>此人具有基因诱发的、对特定药物的生化依赖。若没有定期摄入该药物，其身体无法维持健康状态，会持续健康与心情恶化直至死亡。\n\n在年龄达到 13 岁后生效。</GeneticDrugNeed.description>
+  <GeneticDrugNeed.stages.deficiency.label>缺乏症</GeneticDrugNeed.stages.deficiency.label>
+  <HemogenCraving.label>血原质渴求</HemogenCraving.label>
+  <HemogenCraving.description>由于缺乏血原质，此人的身体正在分解骨髓中的血原质储备。这会导致定向障碍以及对人类血液的痛苦渴求。</HemogenCraving.description>
+  <HemogenCraving.stages.minor.label>轻微</HemogenCraving.stages.minor.label>
+  <HemogenCraving.stages.moderate.label>中度</HemogenCraving.stages.moderate.label>
+  <HemogenCraving.stages.major.label>严重</HemogenCraving.stages.major.label>
+  <InterruptedDeathrest.label>死眠被打断</InterruptedDeathrest.label>
+  <InterruptedDeathrest.description>在此人的新陈代谢仍处于失衡状态时，死眠被中断。他们会在恢复平衡期间生病数天。</InterruptedDeathrest.description>
+  <PsychicBond.label>灵能羁绊</PsychicBond.label>
+  <PsychicBond.description>此人基于灵能羁绊基因与他人建立了灵能羁绊。羁绊本身赋予了有限的心灵感知能力，甚至能与心灵闭塞者相连。</PsychicBond.description>
+  <PsychicBondTorn.label>灵能羁绊断裂</PsychicBondTorn.label>
+  <PsychicBondTorn.description>此人曾与他人建立灵能羁绊，但当其伴侣死亡时，羁绊被撕裂。</PsychicBondTorn.description>
+  <RegenerationComa.label>再生昏迷</RegenerationComa.label>
+  <RegenerationComa.description>若此人并非基因上的不死之身，他们早该因健康状况而死。相反，他们陷入了再生昏迷，在此期间会再生自己的身体。</RegenerationComa.description>
+  <ScanningSickness.label>扫描不适</ScanningSickness.label>
+  <ScanningSickness.description>此人被软扫描仪扫描以生产一枚机械体子核。高能扫描装置干扰了其大脑化学，需要时间才能自行恢复。不会有任何长期损伤。</ScanningSickness.description>
+  <VatGrowing.label>成长舱生长</VatGrowing.label>
+  <VatGrowing.description>成长舱正刺激此人的身体以加快细胞分裂与衰老速度。</VatGrowing.description>
+  <VatLearning.label>成长舱学习</VatLearning.label>
+  <VatLearning.description>成长舱正以电刺激此人的大脑以促进技能发展。该过程效率不高，只能部分弥补因未在外部世界成长而缺失的技能。</VatLearning.description>
+  <XenogerminationComa.label>异种胚芽化昏迷</XenogerminationComa.label>
+  <XenogerminationComa.description>一枚异种胚芽被植入此人体内。异种胚芽需要时间将自身整合进宿主，并修改全身各种组织的基因与化学。在此期间，此人无法安全醒来，因此异种胚芽使其保持昏迷。\n\n在更好的医疗设施与更熟练的医生手中植入异种胚芽可缩短这段昏迷时长。</XenogerminationComa.description>
+  <XenogermLossShock.label>基因丧失冲击</XenogermLossShock.label>
+  <XenogermLossShock.description>此人的基因近期被移除或排出。这破坏了其新陈代谢与激素的稳定，使其暂时虚弱、昏昏欲睡，并免疫系统减弱。</XenogermLossShock.description>
+  <XenogermReplicating.label>基因再生中</XenogermReplicating.label>
+  <XenogermReplicating.description>此人的遗传物质正在再生。该过程没有任何直接的健康影响。不过，在他们再生期间提取其基因会杀死他们。</XenogermReplicating.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Escort.label>护卫</Escort.label>
+  <Escort.description>待在机械师附近并与附近的敌人作战。跟随机械师，甚至离开地图。</Escort.description>
+  <Recharge.label>充电</Recharge.label>
+  <Recharge.description>前往充能器充电，即使电量已充足。</Recharge.description>
+  <SelfShutdown.label>休眠自充电</SelfShutdown.label>
+  <SelfShutdown.description>进入休眠自充电状态，在没有充能器的情况下以极慢的速度恢复能量。</SelfShutdown.description>
+  <Work.label>工作</Work.label>
+  <Work.description>按机械体类型自主工作。需要时自动前往充能器充电。</Work.description>
+
+</LanguageData>

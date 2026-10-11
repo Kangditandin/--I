@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <GiveQuest_AncientComplex_Mechanitor.letterLabel>远古机械师建筑群</GiveQuest_AncientComplex_Mechanitor.letterLabel>
+  <PoluxTreeSpawn.letterLabel>波卢克斯树嫩芽</PoluxTreeSpawn.letterLabel>
+  <PoluxTreeSpawn.letterText>附近冒出了一棵波卢克斯树！\n\n波卢克斯树会缓慢吸收周围地形的污染。与大多数清理受污染地形的方法不同，波卢克斯树不会产生有毒废料包。</PoluxTreeSpawn.letterText>
+  <WastepackInfestation.letterLabel>废料包虫害</WastepackInfestation.letterLabel>
+  <WastepackInfestation.letterText>一群在地道中休眠的虫茧嗅到了一个刚刚溶解的有毒废料包的气味。它们正朝上挖掘，以靠近那些化学物质！\n\n这些虫茧会以休眠状态浮现，并会无限期保持休眠。如果有人靠近或惊扰它们，它们就会打开并释放出狂怒的虫群。</WastepackInfestation.letterText>
+  
+</LanguageData>

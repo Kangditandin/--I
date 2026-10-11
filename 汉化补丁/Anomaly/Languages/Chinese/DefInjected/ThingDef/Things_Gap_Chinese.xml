@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <FleshmassHeart.jobString>诱发心动过速致死</FleshmassHeart.jobString>
+  <FleshmassNeuralLump.jobString>分析神经块</FleshmassNeuralLump.jobString>
+  <FleshmassNucleus.letterDesc>肉团核心已长成临界质量的新血肉。它已发育成一颗新的肉团心脏！\n\n在此过程中，肉团心脏发生突变，并具备了新的生物特征。</FleshmassNucleus.letterDesc>
+  <FloorEtching.jobString>破译地板蚀刻</FloorEtching.jobString>
+  <FloorEtchingRambling.jobString>破译地板蚀刻</FloorEtchingRambling.jobString>
+  <GoldenCube.jobString>停用</GoldenCube.jobString>
+  <GrayDoor.jobString>强行打开这扇门</GrayDoor.jobString>
+  <GrayFleshSample.jobString>分析灰肉样本</GrayFleshSample.jobString>
+  <GrayStatueDeadlifeDust.letterLabel>灰色雕像已激活</GrayStatueDeadlifeDust.letterLabel>
+  <GrayStatueDeadlifeDust.letterText>那尊奇异的雕像响应{PAWN_nameDef}的存在，开始释放出一团死生尘埃！\n\n这种尘埃状物质会落在附近的尸体上，将它们复活为危险的行尸。</GrayStatueDeadlifeDust.letterText>
+  <GrayStatueTeleporter.letterLabel>{PAWN_nameDef}被传送了</GrayStatueTeleporter.letterLabel>
+  <GrayStatueTeleporter.letterText>在靠近那尊奇异雕像后，{PAWN_nameDef}一眨眼便发现{PAWN_objective}已被传送到一个新的地方。</GrayStatueTeleporter.letterText>
+  <Nociosphere.jobString>发射脑械球</Nociosphere.jobString>
+  <Nociosphere.letterDesc>脑械球的活跃度已达到100%，并已激活。它开始了痛苦与毁灭的猛攻。\n\n它最终会离开——前提是你能撑得足够久。</Nociosphere.letterDesc>
+  <RevenantFleshChunk.jobString>分析亡魂肉块</RevenantFleshChunk.jobString>
+  <VoidMonolith.jobString>激活</VoidMonolith.jobString>
+  <VoidMonolith.letterLabel>坠落的巨石碑</VoidMonolith.letterLabel>
+  <VoidMonolith.letterText>{PAWN_nameDef}注意到附近有一座半埋在地下的远古巨石碑。\n\n如果你去调查，也许能了解更多。</VoidMonolith.letterText>
+  <VoidNode.jobString>触碰虚空节点</VoidNode.jobString>
+  <VoidStructure.jobString>激活</VoidStructure.jobString>
+  <WarpedObelisk_Abductor.jobString>触发传送</WarpedObelisk_Abductor.jobString>
+  <WarpedObelisk_Duplicator.jobString>触发复制</WarpedObelisk_Duplicator.jobString>
+  <WarpedObelisk_Labyrinth.jobString>激活方尖碑</WarpedObelisk_Labyrinth.jobString>
+  <WarpedObelisk_Mutator.jobString>触发变异</WarpedObelisk_Mutator.jobString>
+  
+</LanguageData>

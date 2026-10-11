@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AddictionImmune.label>{0}免疫</AddictionImmune.label>
+  <AddictionImmune.description>携带此基因者永远不会对{0}上瘾。</AddictionImmune.description>
+  <AddictionResistant.label>{0}抗性</AddictionResistant.label>
+  <AddictionResistant.description>携带者对{0}上瘾的几率只有一半。</AddictionResistant.description>
+  <AptitudePoor.label>{0}天赋差</AptitudePoor.label>
+  <AptitudePoor.description>携带者的{0}天赋降低 4。天赋的作用相当于技能等级的偏移。</AptitudePoor.description>
+  <AptitudeRemarkable.label>{0}天赋极佳</AptitudeRemarkable.label>
+  <AptitudeRemarkable.description>携带者的{0}天赋提高 8。天赋的作用相当于技能等级的偏移。此外，{0}会获得一级热情。</AptitudeRemarkable.description>
+  <AptitudeStrong.label>{0}天赋强</AptitudeStrong.label>
+  <AptitudeStrong.description>携带者的{0}天赋提高 4。天赋的作用相当于技能等级的偏移。</AptitudeStrong.description>
+  <AptitudeTerrible.label>{0}天赋极差</AptitudeTerrible.label>
+  <AptitudeTerrible.description>携带者的{0}天赋降低 8。天赋的作用相当于技能等级的偏移。此外，{0}的所有热情都会被移除。</AptitudeTerrible.description>
+  <ChemicalDependency.label>{0}依赖</ChemicalDependency.label>
+  <ChemicalDependency.description>携带此基因者需要定期摄入{0}才能生存。离开{0}达到{DEFICIENCYDURATION}后，携带者会患上{0}缺乏症。达到{COMADURATION}后，他们会陷入昏迷。达到{DEATHDURATION}后，他们会死亡。</ChemicalDependency.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <BloodWarmer.label>血液加温器</BloodWarmer.label>
+  <BloodWarmer.description>一颗经改造的人类肾脏，被重构用于加热食尸鬼的血液，使其能在极寒环境中生存。</BloodWarmer.description>
+  <PilotAssistant.label>驾驶辅助器</PilotAssistant.label>
+  <PilotAssistant.description>一枚已植入的驾驶辅助器。这种神经接口将驾驶员的大脑直接连接到载具，提升驾驶员的操控与反应速度。</PilotAssistant.description>
+  <SentienceCatalyst.label>智能催化剂</SentienceCatalyst.label>
+  <SentienceCatalyst.description>特殊的机械微粒强化了这只动物的神经通路，使其能接受原本无法进行的训练。</SentienceCatalyst.description>
+  <GravNausea.label>引力眩晕</GravNausea.label>
+  <GravNausea.description>由引力船突然加速或减速引起的强烈眩晕。</GravNausea.description>
+  <ThrumboRoar.label>敲击兽咆哮</ThrumboRoar.label>
+  <ThrumboRoar.description>这只生物被敲击兽强有力的咆哮震慑了。</ThrumboRoar.description>
+  <VacuumExposure.label>暴露于真空</VacuumExposure.label>
+  <VacuumExposure.description>这只生物正因暴露于太空真空而遭受多种负面效果，包括缺氧与减压病。除非能进入加压区域，它们很快就会死亡。</VacuumExposure.description>
+  <VacuumExposure.stages.initial-0.label>初期</VacuumExposure.stages.initial-0.label>
+  <VacuumExposure.stages.initial-1.label>初期</VacuumExposure.stages.initial-1.label>
+  <VacuumExposure.stages.mild.label>轻度</VacuumExposure.stages.mild.label>
+  <VacuumExposure.stages.moderate.label>中度</VacuumExposure.stages.moderate.label>
+  <VacuumExposure.stages.extreme.label>极重度</VacuumExposure.stages.extreme.label>
+  <VolcanicAsh.label>火山灰</VolcanicAsh.label>
+  <VolcanicAsh.description>来自火山喷发的灰烬。</VolcanicAsh.description>
+  <WarTrumpet.label>战争号角</WarTrumpet.label>
+  <WarTrumpet.description>这只生物被一头猛兽强有力的号角声震慑了。</WarTrumpet.description>
+  <PorcupineQuill.label>豪猪刺</PorcupineQuill.label>
+  <PorcupineQuill.description>一根豪猪身上的尖刺。虽然通常不致命，但极其疼痛。必须通过手术取出。</PorcupineQuill.description>
+  <VacuumBurn.label>真空灼伤</VacuumBurn.label>
+  <VacuumBurn.description>由暴露于太空真空造成的组织损伤。可能极其疼痛。</VacuumBurn.description>
+  <PsilocapHigh.label>迷幻菇致幻</PsilocapHigh.label>
+  <PsilocapHigh.description>来自迷幻菇孢子的化学物质（可能是从空气中吸入的）正使此人产生微妙的幻觉，扭曲其对现实的感知。</PsilocapHigh.description>
+  <PsilocapHigh.stages.minor.label>轻微</PsilocapHigh.stages.minor.label>
+  <PsilocapHigh.stages.moderate.label>中度</PsilocapHigh.stages.moderate.label>
+  <PsilocapHigh.stages.extreme.label>极重</PsilocapHigh.stages.extreme.label>
+  <PsilocapTolerance.label>迷幻菇耐受</PsilocapTolerance.label>
+  <PsilocapTolerance.description>对迷幻菇获得的耐受。耐受越严重，需要越多迷幻菇才能获得相同效果。</PsilocapTolerance.description>
+  <PsilocapTolerance.stages.small.label>小</PsilocapTolerance.stages.small.label>
+  <PsilocapTolerance.stages.large.label>大</PsilocapTolerance.stages.large.label>
+  <PsilocapTolerance.stages.massive.label>极大</PsilocapTolerance.stages.massive.label>
+
+</LanguageData>

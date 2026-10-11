@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AbandonedColonyOutlander.label>废弃殖民地</AbandonedColonyOutlander.label>
+  <AbandonedColonyTribal.label>废弃殖民地</AbandonedColonyTribal.label>
+  <AncientChemfuelRefinery.label>远古化合燃料精炼厂</AncientChemfuelRefinery.label>
+  <AncientGarrison.label>远古驻防地</AncientGarrison.label>
+  <AncientHeatVent.label>远古排热口</AncientHeatVent.label>
+  <AncientInfestedSettlement.label>虫巢定居点</AncientInfestedSettlement.label>
+  <AncientLaunchSite.label>远古发射场</AncientLaunchSite.label>
+  <AncientQuarry.label>远古采石场</AncientQuarry.label>
+  <AncientSmokeVent.label>远古排烟口</AncientSmokeVent.label>
+  <AncientToxVent.label>远古排毒口</AncientToxVent.label>
+  <AncientWarehouse.label>远古仓库</AncientWarehouse.label>
+  <Archipelago.label>群岛</Archipelago.label>
+  <Basin.label>盆地</Basin.label>
+  <Bay.label>海湾</Bay.label>
+  <Cavern.label>大洞穴</Cavern.label>
+  <Chasm.label>裂谷</Chasm.label>
+  <Cliffs.label>悬崖</Cliffs.label>
+  <CoastalAtoll.label>海岸环礁</CoastalAtoll.label>
+  <CoastalIsland.label>海岸岛屿</CoastalIsland.label>
+  <Cove.label>小湾</Cove.label>
+  <Crevasse.label>冰隙</Crevasse.label>
+  <DryLake.label>干涸湖</DryLake.label>
+  <Dunes.label>沙丘</Dunes.label>
+  <Fjord.label>峡湾</Fjord.label>
+  <FrozenRuins.label>冰封废墟</FrozenRuins.label>
+  <Harbor.label>港口</Harbor.label>
+  <Hollow.label>凹地</Hollow.label>
+  <HotSprings.label>温泉</HotSprings.label>
+  <Iceberg.label>冰山</Iceberg.label>
+  <IceDunes.label>冰丘</IceDunes.label>
+  <Lake.label>湖泊</Lake.label>
+  <LakeWithIsland.label>湖泊</LakeWithIsland.label>
+  <LakeWithIslands.label>湖泊</LakeWithIslands.label>
+  <LavaCrater.label>熔岩湖</LavaCrater.label>
+  <LavaFlow.label>熔岩流</LavaFlow.label>
+  <LavaLake.label>熔岩湖</LavaLake.label>
+  <Oasis.label>绿洲</Oasis.label>
+  <Peninsula.label>半岛</Peninsula.label>
+  <Plateau.label>高原</Plateau.label>
+  <Pond.label>湖泊</Pond.label>
+  <Ruins.label>废墟</Ruins.label>
+  <TerraformingScar.label>地形改造疤痕</TerraformingScar.label>
+  <ToxicLake.label>有毒湖</ToxicLake.label>
+  <Valley.label>山谷</Valley.label>
+  <Wetland.label>湿地</Wetland.label>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- Research -->
+  <KnowledgeCategory>知识类别</KnowledgeCategory>
+  <AnomalyResearchDescriptionHelpText>研究非自然实体以推进此项研究。若没有正在进行的高级项目，研究高级项目将改为推进一个基础项目。</AnomalyResearchDescriptionHelpText>
+  <MonolithLevel>巨石碑等级</MonolithLevel>
+
+</LanguageData>

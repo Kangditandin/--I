@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <CentipedeBurner.label>孕育蜈蚣（喷火）</CentipedeBurner.label>
+  <CentipedeBurner.description>孕育一只配备地狱火加农炮的蜈蚣机械体。</CentipedeBurner.description>
+  <CentipedeGunner.label>孕育蜈蚣（机枪）</CentipedeGunner.label>
+  <CentipedeGunner.description>孕育一只配备速射机枪的蜈蚣机械体。</CentipedeGunner.description>
+  <Diabolus.label>孕育迪亚波罗斯</Diabolus.label>
+  <Diabolus.description>孕育一台迪亚波罗斯机械体。</Diabolus.description>
+  <Tunneler.label>孕育掘地者</Tunneler.label>
+  <Tunneler.description>孕育一只掘地者机械体。</Tunneler.description>
+  <Agrihand.label>孕育农手机械体</Agrihand.label>
+  <Agrihand.description>孕育一只农手机械体。</Agrihand.description>
+  <Cleansweeper.label>孕育清扫机</Cleansweeper.label>
+  <Cleansweeper.description>孕育一台清扫机机械体。</Cleansweeper.description>
+  <Constructoid.label>孕育构建体</Constructoid.label>
+  <Constructoid.description>孕育一台构建体机械体。</Constructoid.description>
+  <Fabricor.label>孕育制造机</Fabricor.label>
+  <Fabricor.description>孕育一台制造机机械体。</Fabricor.description>
+  <Lifter.label>孕育搬运机</Lifter.label>
+  <Lifter.description>孕育一台搬运机机械体。</Lifter.description>
+  <Militor.label>孕育民兵</Militor.label>
+  <Militor.description>孕育一台民兵机械体。</Militor.description>
+  <Paramedic.label>孕育医疗兵</Paramedic.label>
+  <Paramedic.description>孕育一台医疗兵机械体。</Paramedic.description>
+  <CentipedeBlaster.label>孕育蜈蚣（爆能）</CentipedeBlaster.label>
+  <CentipedeBlaster.description>孕育一只配备重型电荷爆能枪的蜈蚣机械体。</CentipedeBlaster.description>
+  <Lancer.label>孕育枪骑兵</Lancer.label>
+  <Lancer.description>孕育一台枪骑兵机械体。</Lancer.description>
+  <Legionary.label>孕育军团兵</Legionary.label>
+  <Legionary.description>孕育一台军团兵机械体。</Legionary.description>
+  <Pikeman.label>孕育长枪兵</Pikeman.label>
+  <Pikeman.description>孕育一台长枪兵机械体。</Pikeman.description>
+  <Scorcher.label>孕育焦灼者</Scorcher.label>
+  <Scorcher.description>孕育一台焦灼者机械体。</Scorcher.description>
+  <Scyther.label>孕育镰刃</Scyther.label>
+  <Scyther.description>孕育一台镰刃机械体。</Scyther.description>
+  <Tesseron.label>孕育泰瑟龙</Tesseron.label>
+  <Tesseron.description>孕育一台泰瑟龙机械体。</Tesseron.description>
+  <Centurion.label>孕育百夫长</Centurion.label>
+  <Centurion.description>孕育一台百夫长机械体。</Centurion.description>
+  <Warqueen.label>孕育战女王</Warqueen.label>
+  <Warqueen.description>孕育一台战女王机械体。</Warqueen.description>
+  <ResurrectHeavyMech.label>复活重型机械体</ResurrectHeavyMech.label>
+  <ResurrectHeavyMech.description>复活一台友方重型机械体。只要该机械体的躯体未被完全摧毁，它就能被复活。</ResurrectHeavyMech.description>
+  <ResurrectLightMech.label>复活轻型机械体</ResurrectLightMech.label>
+  <ResurrectLightMech.description>复活一台友方轻型机械体。只要该机械体的躯体未被完全摧毁，它就能被复活。</ResurrectLightMech.description>
+  <ResurrectMediumMech.label>复活中型机械体</ResurrectMediumMech.label>
+  <ResurrectMediumMech.description>复活一台友方中型机械体。只要该机械体的躯体未被完全摧毁，它就能被复活。</ResurrectMediumMech.description>
+  <ResurrectUltraheavyMech.label>复活超重型机械体</ResurrectUltraheavyMech.label>
+  <ResurrectUltraheavyMech.description>复活一台友方超重型机械体。只要该机械体的躯体未被完全摧毁，它就能被复活。</ResurrectUltraheavyMech.description>
+  <InstallDetoxifierKidney.label>植入消毒肾</InstallDetoxifierKidney.label>
+  <InstallDetoxifierKidney.description>植入消毒肾。</InstallDetoxifierKidney.description>
+  <InstallDetoxifierLung.label>植入消毒肺</InstallDetoxifierLung.label>
+  <InstallDetoxifierLung.description>植入消毒肺。</InstallDetoxifierLung.description>
+  <Make_BabyFood.label>制作婴儿食品</Make_BabyFood.label>
+  <Make_BabyFood.description>制作婴儿食品——一种为婴儿准备、营养均衡的素食糊。虽然易于大量制作，但只有婴儿欣赏它淡而无味的口感与糊状质地。</Make_BabyFood.description>
+  <Make_BabyFoodBulk.label>制作婴儿食品 x4</Make_BabyFoodBulk.label>
+  <Make_BabyFoodBulk.description>批量制作婴儿食品——一种为婴儿准备、营养均衡的素食糊。虽然易于大量制作，但只有婴儿欣赏它淡而无味的口感与糊状质地。</Make_BabyFoodBulk.description>
+  <BloodTransfusion.label>输血</BloodTransfusion.label>
+  <BloodTransfusion.description>使用血原质包减轻失血的影响。每使用一包血原质恢复 35% 失血。该手术还会为具备造血能力的个体恢复血原质。</BloodTransfusion.description>
+  <ExtractHemogenPack.label>提取血原质包</ExtractHemogenPack.label>
+  <ExtractHemogenPack.description>从目标身上提取一个血原质包。若目标血液不足，该手术将无法产出血液原质包。\n\n血原质包可以被施用给他人以减轻失血，或满足那些以血为食者。</ExtractHemogenPack.description>
+  <ExtractOvum.label>取出卵子用于体外受精</ExtractOvum.label>
+  <ExtractOvum.description>将一枚卵子取出存入储存胶囊。随后它可由男性受精，最终植入母体以开始怀孕。</ExtractOvum.description>
+  <ImplantEmbryo.label>植入胚胎</ImplantEmbryo.label>
+  <ImplantEmbryo.description>将一枚胚胎植入代孕母亲以开始怀孕。</ImplantEmbryo.description>
+  <ImplantIUD.label>植入节育器</ImplantIUD.label>
+  <ImplantIUD.description>在子宫内植入一枚小型金属装置以避孕。它日后可被取出，但有很小的几率使患者永久绝育。该手术会终止怀孕早期的妊娠。</ImplantIUD.description>
+  <ImplantXenogerm.label>植入异种胚芽</ImplantXenogerm.label>
+  <ImplantXenogerm.description>将一枚异种胚芽植入患者体内。这会替换他们此前可能拥有的任何异种胚芽。</ImplantXenogerm.description>
+  <RemoveIUD.label>移除节育器</RemoveIUD.label>
+  <RemoveIUD.description>移除已植入的宫内节育器以允许正常怀孕。若手术出错，患者将永久绝育。</RemoveIUD.description>
+  <ReverseVasectomy.label>逆转输精管结扎</ReverseVasectomy.label>
+  <ReverseVasectomy.description>尝试逆转输精管结扎，使男性重新能够生育子女。大多数逆转手术都能成功，但若手术出错，该男性将永久绝育。</ReverseVasectomy.description>
+  <TerminatePregnancy.label>终止怀孕</TerminatePregnancy.label>
+  <TerminatePregnancy.description>终止一只动物或人类的怀孕。</TerminatePregnancy.description>
+  <TubalLigation.label>输卵管结扎术</TubalLigation.label>
+  <TubalLigation.description>永久性地使患者绝育、无法生育。</TubalLigation.description>
+  <Vasectomy.label>输精管结扎术</Vasectomy.label>
+  <Vasectomy.description>切断输精管以使患者无法生育。若手术出错，患者将永久绝育。</Vasectomy.description>
+
+</LanguageData>

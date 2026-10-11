@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Fin.label>鳍</Fin.label>
+  <FleshClub_Gorehulk.label>血肉棒</FleshClub_Gorehulk.label>
+  <FleshmassNucleusCore.label>核心</FleshmassNucleusCore.label>
+  <MetalhorrorArm.label>手臂</MetalhorrorArm.label>
+  <MetalhorrorBlade.label>刀刃</MetalhorrorBlade.label>
+  <MetalhorrorBrain.label>心智核心</MetalhorrorBrain.label>
+  <MetalhorrorCore.label>核心</MetalhorrorCore.label>
+  <MetalhorrorEye.label>眼睛</MetalhorrorEye.label>
+  <MetalhorrorFoot.label>脚</MetalhorrorFoot.label>
+  <MetalhorrorHead.label>头</MetalhorrorHead.label>
+  <MetalhorrorLeg.label>腿</MetalhorrorLeg.label>
+  <MetalhorrorNeck.label>颈</MetalhorrorNeck.label>
+  <MetalhorrorShoulder.label>手臂</MetalhorrorShoulder.label>
+  <MetalhorrorTorso.label>躯干</MetalhorrorTorso.label>
+  <MovingBody.label>身体</MovingBody.label>
+  <NociosphereCore.label>核心</NociosphereCore.label>
+  <NociosphereShell.label>外壳</NociosphereShell.label>
+  <NoctolClaw.label>爪</NoctolClaw.label>
+  <ShellSection.label>外壳节段</ShellSection.label>
+  <SpineLauncher_Gorehulk.label>脊刺簇</SpineLauncher_Gorehulk.label>
+  <FleshbeastHead.label>头</FleshbeastHead.label>
+  <FleshbeastLeg.label>触手</FleshbeastLeg.label>
+  <FleshbeastSpike.label>尖刺</FleshbeastSpike.label>
+  <MovingBodyFleshbeast.label>身体</MovingBodyFleshbeast.label>
+  <Tentacle.label>触手</Tentacle.label>
+
+</LanguageData>

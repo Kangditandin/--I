@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <OpportunitySite_AbandonedPlatform.label>任务已过期：[resolvedQuestName]</OpportunitySite_AbandonedPlatform.label>
+  <OpportunitySite_AlphaThrumbo_Giver.label>任务已过期：[resolvedQuestName]</OpportunitySite_AlphaThrumbo_Giver.label>
+  <OpportunitySite_BanditCamp_Giver.label>任务已过期：[resolvedQuestName]</OpportunitySite_BanditCamp_Giver.label>
+  <OpportunitySite_ItemStash_Giver.label>任务已过期：[resolvedQuestName]</OpportunitySite_ItemStash_Giver.label>
+  <OpportunitySite_MechanoidPlatform.label>任务已过期：[resolvedQuestName]</OpportunitySite_MechanoidPlatform.label>
+  <OpportunitySite_OrbitalWreck.label>任务已过期：[resolvedQuestName]</OpportunitySite_OrbitalWreck.label>
+  <OpportunitySite_Satellite.label>任务已过期：[resolvedQuestName]</OpportunitySite_Satellite.label>
+  <SurveySite.label>任务已过期：[resolvedQuestName]</SurveySite.label>
+  
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <InstallBloodWarmer.jobString>正在安装血液保温器。</InstallBloodWarmer.jobString>
+  <InstallPilotAssistant.jobString>正在安装驾驶员辅助器。</InstallPilotAssistant.jobString>
+  <InstallVacskinGland.jobString>正在安装真空皮腺。</InstallVacskinGland.jobString>
+  <Make_BeamGraser.jobString>正在制作激光束枪。</Make_BeamGraser.jobString>
+  <RemovePilotAssistant.jobString>正在移除驾驶员辅助器。</RemovePilotAssistant.jobString>
+  <RemovePorcupineQuill.jobString>正在移除尖刺。</RemovePorcupineQuill.jobString>
+  <RemoveVacskinGland.jobString>正在移除真空皮腺。</RemoveVacskinGland.jobString>
+  
+</LanguageData>

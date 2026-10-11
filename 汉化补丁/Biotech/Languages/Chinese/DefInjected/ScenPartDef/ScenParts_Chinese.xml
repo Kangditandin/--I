@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <ConfigurePawnsKindDefs.label>起始人员</ConfigurePawnsKindDefs.label>
+  <ConfigurePawnsXenotypes.label>起始人员</ConfigurePawnsXenotypes.label>
+  <DisableExostriderRemains.label>禁用外骨巨兽残骸</DisableExostriderRemains.label>
+  <StartingMech.label>以机械体开局</StartingMech.label>
+
+</LanguageData>

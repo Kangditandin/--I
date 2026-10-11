@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Barkskin.label>树皮</Barkskin.label>
+  <Barkskin.description>一种专精于在战斗中吸收打击的树精类型。树皮树精覆有厚厚的树皮状外皮，其中一部分由高兰树自身生成。在人类的影响下，它能充当吸收伤害的战士。</Barkskin.description>
+  <Berrymaker.label>浆果师</Berrymaker.label>
+  <Berrymaker.description>一种专精于食物生产的树精类型。与其高兰树一起，这种树精能持续产出营养丰富的浆果。不过它在工作或战斗中又慢又低效。</Berrymaker.description>
+  <Carrier.label>搬运者</Carrier.label>
+  <Carrier.description>一种专精于搬运物品的树精类型。在人类的影响下，它能帮忙把东西搬到该去的地方。</Carrier.description>
+  <Clawer.label>爪击者</Clawer.label>
+  <Clawer.description>一种专精于攻击与造成伤害的树精类型。爪击者树精因其巨大的爪子而得名。尽管能造成巨大伤害，它自身也容易受到攻击。</Clawer.description>
+  <Gaumaker.label>树苗培育者</Gaumaker.label>
+  <Gaumaker.description>一种拥有独特能力的树精类型：能产出新的高兰树荚，并与它的共生体——树精女王——一同繁殖高兰树。为此，三只培育者树精必须缓慢融合。</Gaumaker.description>
+  <Medicinemaker.label>药材师</Medicinemaker.label>
+  <Medicinemaker.description>一种专精于药物生产的树精类型。与其高兰树一起，这种树精能持续产出药草。不过它在工作或战斗中又慢又低效。</Medicinemaker.description>
+  <Woodmaker.label>木材师</Woodmaker.label>
+  <Woodmaker.description>一种缓慢笨拙、专精于木材生产的树精类型。与其高兰树一起，这种树精能持续产出类似木材的材料。不过它在工作或战斗中又慢又低效。</Woodmaker.description>
+
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <NoxiousHaze.label>酸性烟雾</NoxiousHaze.label>
+  <NoxiousHaze.description>酸性烟雾由附近世界地块的污染引起。它会减缓植物生长、使暴露在外的物品老化，并降低心情。\n\n当前世界地块的附近污染值为 {NEARBYPOLLUTION}，由附近世界地块的污染相加得出。这意味着平均每 {MTB} 天会发生一次酸性烟雾。</NoxiousHaze.description>
+
+</LanguageData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BottleFeedBaby.gerund>喂养</BottleFeedBaby.gerund>
+  <BottleFeedBaby.verb>喂养</BottleFeedBaby.verb>
+  <BreastfeedBaby.gerund>哺乳</BreastfeedBaby.gerund>
+  <BreastfeedBaby.verb>哺乳</BreastfeedBaby.verb>
+  <BringBabyToSafety.gerund>营救</BringBabyToSafety.gerund>
+  <BringBabyToSafety.verb>营救</BringBabyToSafety.verb>
+  <CarryToBreastfeed.gerund>带母亲去哺乳</CarryToBreastfeed.gerund>
+  <CarryToBreastfeed.verb>带母亲去哺乳</CarryToBreastfeed.verb>
+  <CarryToGeneExtractor.gerund>从……提取基因</CarryToGeneExtractor.gerund>
+  <CarryToGeneExtractor.verb>提取基因</CarryToGeneExtractor.verb>
+  <CarryToGrowthVat.gerund>培育</CarryToGrowthVat.gerund>
+  <CarryToGrowthVat.verb>培育</CarryToGrowthVat.verb>
+  <CarryToSubcoreScanner.gerund>搬运</CarryToSubcoreScanner.gerund>
+  <CarryToSubcoreScanner.verb>搬运</CarryToSubcoreScanner.verb>
+  <ChildcarerTeach.gerund>教学</ChildcarerTeach.gerund>
+  <ChildcarerTeach.verb>教学</ChildcarerTeach.verb>
+  <CleanClearPollution.gerund>清理污染</CleanClearPollution.gerund>
+  <CleanClearPollution.verb>清理污染</CleanClearPollution.verb>
+  <CreateXenogerm.gerund>在……制造异种胚芽</CreateXenogerm.gerund>
+  <CreateXenogerm.verb>制造异种胚芽</CreateXenogerm.verb>
+  <DeliverHemogenToPrisoner.gerund>为……运送血原质</DeliverHemogenToPrisoner.gerund>
+  <DeliverHemogenToPrisoner.verb>为……运送血原质</DeliverHemogenToPrisoner.verb>
+  <DoBillsMechGestator.gerund>在……工作</DoBillsMechGestator.gerund>
+  <DoBillsMechGestator.verb>在……工作</DoBillsMechGestator.verb>
+  <DoBillsSubcoreEncoder.gerund>在……工作</DoBillsSubcoreEncoder.gerund>
+  <DoBillsSubcoreEncoder.verb>在……工作</DoBillsSubcoreEncoder.verb>
+  <EmptyWasteContainer.gerund>从……提取</EmptyWasteContainer.gerund>
+  <EmptyWasteContainer.verb>从……提取</EmptyWasteContainer.verb>
+  <EnterGeneExtractor.gerund>进入</EnterGeneExtractor.gerund>
+  <EnterGeneExtractor.verb>进入</EnterGeneExtractor.verb>
+  <EnterGrowthVat.gerund>进入</EnterGrowthVat.gerund>
+  <EnterGrowthVat.verb>进入</EnterGrowthVat.verb>
+  <EnterSubcoreScanner.gerund>进入</EnterSubcoreScanner.gerund>
+  <EnterSubcoreScanner.verb>进入</EnterSubcoreScanner.verb>
+  <FeedHemogen.gerund>给……注入血原质</FeedHemogen.gerund>
+  <FeedHemogen.verb>给……注入血原质</FeedHemogen.verb>
+  <HaulMechsToCharger.gerund>搬运</HaulMechsToCharger.gerund>
+  <HaulMechsToCharger.verb>搬运</HaulMechsToCharger.verb>
+  <HaulToGeneBank.gerund>存入</HaulToGeneBank.gerund>
+  <HaulToGeneBank.verb>存入</HaulToGeneBank.verb>
+  <HaulToGrowthVat.gerund>填充</HaulToGrowthVat.gerund>
+  <HaulToGrowthVat.verb>填充</HaulToGrowthVat.verb>
+  <PlayWithBaby.gerund>与……玩耍</PlayWithBaby.gerund>
+  <PlayWithBaby.verb>与……玩耍</PlayWithBaby.verb>
+  <RepairMech.gerund>修理</RepairMech.gerund>
+  <RepairMech.verb>修理</RepairMech.verb>
+  
+</LanguageData>

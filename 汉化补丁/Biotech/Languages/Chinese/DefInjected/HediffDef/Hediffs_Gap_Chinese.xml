@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <BloodfeederMark.labelNoun>一个哺血者印记</BloodfeederMark.labelNoun>
+  <DetoxifierKidney.labelNoun>一个解毒肾</DetoxifierKidney.labelNoun>
+  <DetoxifierLung.labelNoun>一个解毒肺</DetoxifierLung.labelNoun>
+  <InfantIllness.descriptionShort>各种出生并发症的影响</InfantIllness.descriptionShort>
+  <MechFormfeederImplant.descriptionShort>一种植入物，可让机械师更快地孕育新机械体。最多可安装6次以增强效果。</MechFormfeederImplant.descriptionShort>
+  <MechlinkImplant.descriptionShort>一种仿生植入物，可直接控制机械体。只能在死亡后被移除。</MechlinkImplant.descriptionShort>
+  <MechlinkImplant.letterLabel>有可重复使用的{HEDIFF_label}可用</MechlinkImplant.letterLabel>
+  <MechlinkImplant.letterText>{PAWN}死亡时体内装有{HEDIFF_label}。它可以被取出并由他人安装。</MechlinkImplant.letterText>
+  <PollutionStimulus.descriptionShort>该生物因暴露于污染而获得了能量。</PollutionStimulus.descriptionShort>
+  <PregnantHuman.labelNoun>怀孕</PregnantHuman.labelNoun>
+  <PregnantHuman.letterLabel>{0_labelShort}怀孕了</PregnantHuman.letterLabel>
+  <PregnantHuman.letterText>{0_labelShort}怀孕了！</PregnantHuman.letterText>
+  <RemoteRepairerImplant.descriptionShort>一种植入物，可让使用者远距离修理机械体。最多可安装3次。</RemoteRepairerImplant.descriptionShort>
+  <RepairProbeImplant.descriptionShort>一种植入物，可让机械师更快地修理机械体。最多可安装6次。</RepairProbeImplant.descriptionShort>
+  
+</LanguageData>

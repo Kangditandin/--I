@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Body_Buttons.label>纽扣</Body_Buttons.label>
+  <Body_Cross.label>十字</Body_Cross.label>
+  <Body_Heart.label>心</Body_Heart.label>
+  <Body_Insect.label>昆虫</Body_Insect.label>
+  <Body_Jester.label>弄臣</Body_Jester.label>
+  <Body_Moon.label>月亮</Body_Moon.label>
+  <Body_Power.label>力量</Body_Power.label>
+  <Body_Rings.label>环</Body_Rings.label>
+  <Body_Royal.label>皇家</Body_Royal.label>
+  <Body_Scar.label>疤痕</Body_Scar.label>
+  <Body_Skeleton.label>骷髅架</Body_Skeleton.label>
+  <Body_Skull.label>骷髅</Body_Skull.label>
+  <Body_Spike.label>尖刺</Body_Spike.label>
+  <Body_Sun.label>太阳</Body_Sun.label>
+  <Body_Tiger.label>虎</Body_Tiger.label>
+  <Body_Wings.label>翅膀</Body_Wings.label>
+  <Face_Cobweb.label>蛛网</Face_Cobweb.label>
+  <Face_Eclipse.label>日蚀</Face_Eclipse.label>
+  <Face_Headshot.label>爆头</Face_Headshot.label>
+  <Face_Line.label>线</Face_Line.label>
+  <Face_Love.label>爱</Face_Love.label>
+  <Face_Oracle.label>神谕</Face_Oracle.label>
+  <Face_Pantheon.label>万神殿</Face_Pantheon.label>
+  <Face_Spider.label>蜘蛛</Face_Spider.label>
+  <Face_Stars.label>群星</Face_Stars.label>
+  <Face_Tear.label>泪</Face_Tear.label>
+  <Face_Tiger.label>虎</Face_Tiger.label>
+  <Face_Warpaint.label>战纹</Face_Warpaint.label>
+  <Face_Worried.label>忧虑</Face_Worried.label>
+
+</LanguageData>

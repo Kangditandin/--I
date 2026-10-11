@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Mech_Tunneler.label>带动力爪的重型机械体</Mech_Tunneler.label>
+  <Mech_Agrihand.label>带刀刃的轻型机械体</Mech_Agrihand.label>
+  <Mech_Light.label>轻型机械体</Mech_Light.label>
+  <Apocriton.label>阿波克里顿</Apocriton.label>
+  <Scorcher.label>焦灼者</Scorcher.label>
+  <Mech_Centurion.label>百夫长</Mech_Centurion.label>
+  <Mech_Diabolus.label>迪亚波罗斯</Mech_Diabolus.label>
+  <Mech_Warqueen.label>战女王</Mech_Warqueen.label>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Controls.label>控制装置</Controls.label>
+  <FuelStorage.label>燃料箱</FuelStorage.label>
+  <PowerCell.label>电池</PowerCell.label>
+  <SignalJammer.label>信号干扰器</SignalJammer.label>
+  <Thruster.label>推进器</Thruster.label>
+
+</LanguageData>

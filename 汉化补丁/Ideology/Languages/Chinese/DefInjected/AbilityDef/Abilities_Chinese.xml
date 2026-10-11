@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnimalCalm.label>动物安抚</AnimalCalm.label>
+  <AnimalCalm.description>使用与动物相连的独特方法安抚一头发狂的野兽。</AnimalCalm.description>
+  <BerserkTrance.label>狂暴恍惚</BerserkTrance.label>
+  <BerserkTrance.description>施法者因理念上的委屈而充满怒火。这会强化身体超越正常极限，但也意味着失去控制，以无法阻挡的暴怒攻击附近每个敌人。狂暴状态会持续 3 小时。</BerserkTrance.description>
+  <CombatCommand.label>战斗指挥</CombatCommand.label>
+  <CombatCommand.description>创造一道光环，提升附近所有人的战斗技能。效果持续 24 小时，并在期间保持附着于领袖身上。</CombatCommand.description>
+  <ConversionRitual.label>转化仪式</ConversionRitual.label>
+  <ConversionRitual.description>尝试说服某人接受你的信仰。若进展顺利，他们会对自己理念的确信有所丧失，并可能转化。若适得其反，他们会对自己旧有的信仰更加确信。\n\n要在特定地点开始该仪式，请选择一个仪式点或相匹配的祭坛/理念图徽。</ConversionRitual.description>
+  <Convert.label>转化</Convert.label>
+  <Convert.description>尝试将某人转化为说话者的理念。这会降低目标对自身信仰的确信。确信降低量取决于说话者的交涉能力。</Convert.description>
+  <Counsel.label>辅导</Counsel.label>
+  <Counsel.description>向某人提供辅导，以取消一段悲伤记忆的效果。成功几率取决于说话者的社交技能及其与听者的关系。</Counsel.description>
+  <FarmingCommand.label>农作指挥</FarmingCommand.label>
+  <FarmingCommand.description>提供农作技术指导，提升附近所有人的农作能力。效果会保持附着于施法者 24 小时。</FarmingCommand.description>
+  <ImmunityDrive.label>免疫激励</ImmunityDrive.label>
+  <ImmunityDrive.description>提供为身体注入活力的精神支持，提升某人一天的免疫获取。</ImmunityDrive.description>
+  <LeaderSpeech.label>领袖演说</LeaderSpeech.label>
+  <LeaderSpeech.description>开始一段领袖演说。若进展顺利，听众会获得心情提升、对说话者的尊敬，并可能有新的灵感。若不顺利，会造成社交损害。</LeaderSpeech.description>
+  <MarksmanCommand.label>射手指挥</MarksmanCommand.label>
+  <MarksmanCommand.description>呼叫射击并提升附近所有人的射击技能。效果会保持附着于施法者 24 小时。</MarksmanCommand.description>
+  <MiningCommand.label>采矿指挥</MiningCommand.label>
+  <MiningCommand.description>提供采矿技术指导，提升附近所有人的采矿速度。效果会保持附着于施法者 24 小时。</MiningCommand.description>
+  <PreachHealth.label>布道健康</PreachHealth.label>
+  <PreachHealth.description>通过你理念的概念向患病或受伤者宣讲道德力量。这会提升其伤口愈合与免疫获取速率。</PreachHealth.description>
+  <ProductionCommand.label>生产指挥</ProductionCommand.label>
+  <ProductionCommand.description>提供建造技术指导，提升附近所有人的建造与制作能力。效果会保持附着于施法者 24 小时。</ProductionCommand.description>
+  <Reassure.label>安抚</Reassure.label>
+  <Reassure.description>提升某人对自己信仰的确信。恢复的确信量取决于说话者的交涉能力。</Reassure.description>
+  <ResearchCommand.label>研究指挥</ResearchCommand.label>
+  <ResearchCommand.description>提供建议与精神支持，提升附近所有人的研究速度。效果会保持附着于施法者 24 小时。</ResearchCommand.description>
+  <Trial.label>审判</Trial.label>
+  <Trial.description>指控某人犯下可怕罪行并发起一场审判，其结果将为定罪或无罪。若目标被定罪，便可被自由监禁、处决或流放而不受惩罚。定罪几率取决于指控者与被指控者的社交能力。</Trial.description>
+  <WorkDrive.label>工作激励</WorkDrive.label>
+  <WorkDrive.description>召唤某人一段时间内更加努力工作。</WorkDrive.description>
+
+</LanguageData>

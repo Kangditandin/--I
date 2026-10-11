@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Emancipate.label>解放</Emancipate.label>
+  <Emancipate.description>狱警将释放此奴隶。</Emancipate.description>
+  <Execute.label>处决</Execute.label>
+  <Execute.description>狱警将当场用刀处决此奴隶。</Execute.description>
+  <Imprison.label>收监</Imprison.label>
+  <Imprison.description>狱警将把此奴隶关入牢房。一旦被关押，他们就可以被招募，或再次被奴役。</Imprison.description>
+  <NoInteraction.label>无互动</NoInteraction.label>
+  <NoInteraction.description>狱警不会与此奴隶互动。</NoInteraction.description>
+  <Suppress.label>压制</Suppress.label>
+  <Suppress.description>狱警会定期恐吓奴隶，以提升其压制度并降低叛乱几率。</Suppress.description>
+
+</LanguageData>

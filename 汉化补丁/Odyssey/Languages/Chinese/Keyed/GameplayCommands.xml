@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Grav engine -->
+  <CommandShowSubstructureOverlay>显示子结构覆盖层</CommandShowSubstructureOverlay>
+  <CommandShowSubstructureOverlayDesc>将有效的子结构显示为蓝色，无效的子结构显示为红色。</CommandShowSubstructureOverlayDesc>
+  <CommandInspectGravEngine>检查 {0_labelShort}</CommandInspectGravEngine>
+  <CommandInspectGravEngineDesc>选择一名殖民者去检查这台神秘的引力引擎。</CommandInspectGravEngineDesc>
+  <CommandChooseNavigator>选择领航员</CommandChooseNavigator>
+  <CannotChooseNavigator>无法领航</CannotChooseNavigator>
+
+  <CommandLaunchGravship>发射</CommandLaunchGravship>
+  <CommandLaunchGravshipDesc>选择一名殖民者驾驶引力船。引力船子结构上的一切都会被传送到新地图。如果你没有引力锚，当前地图将被废弃。</CommandLaunchGravshipDesc>
+
+  <CommandAllowFish>允许钓鱼</CommandAllowFish>
+  <CommandAllowFishDesc>关闭后，殖民者绝不会在此区域钓鱼。</CommandAllowFishDesc>
+  
+  <CommandAllowRemovingApparel>允许取走物品</CommandAllowRemovingApparel>
+  <CommandAllowRemovingApparelDesc>关闭后，搬运工不会从服装架上取走物品，殖民者也不会装备服装（除非被明确指令）。</CommandAllowRemovingApparelDesc>
+
+  <CommandShuttleNoPilot>没有能驾驶穿梭机的殖民者。需要至少 10% 的驾驶能力。</CommandShuttleNoPilot>
+
+  <ConfirmLandGravship>确认着陆区</ConfirmLandGravship>
+  <ConfirmLandGravshipDesc>将你的引力船降落在着陆区。</ConfirmLandGravshipDesc>
+  <AbortLandGravship>中止降落</AbortLandGravship>
+  <AbortLandGravshipDesc>取消在此地图降落，并强制引力船在世界地图上降落到附近。当你找不到降落点时很有用。\n\n警告：这会增加降落时发生意外的几率。</AbortLandGravshipDesc>
+  <AbortLandConfirmation>中止降落将强制你的引力船在世界地图上的随机附近位置降落。这会增加降落时发生意外的几率。\n\n你确定要继续吗？</AbortLandConfirmation>
+  <FailedToFindCrashSite>未找到坠毁地点。</FailedToFindCrashSite>
+  <GravshipLandingMarkerNotPlaced>你必须为引力船指定一片着陆区域。</GravshipLandingMarkerNotPlaced>
+
+  <CommandRefuelShuttleFromCargo>用货物加注燃料</CommandRefuelShuttleFromCargo>
+  <CommandRefuelShuttleFromCargoDesc>使用载具中储存的化合燃料为客用穿梭机加注燃料。</CommandRefuelShuttleFromCargoDesc>
+  <NoFuelInCaravan>商队中没有燃料。</NoFuelInCaravan>
+  <NoFuelInShuttle>穿梭机中没有燃料。</NoFuelInShuttle>
+  <ShuttleFullyFueled>穿梭机燃料已满</ShuttleFullyFueled>
+
+  <GravshipShieldOrderActivation>激活</GravshipShieldOrderActivation>
+  <GravshipShieldOrderDeactivation>停用</GravshipShieldOrderDeactivation>
+  <GravshipShieldOrderActivationDesc>命令一名成员激活引力船护盾发生器。</GravshipShieldOrderActivationDesc>
+  <GravshipShieldOrderDeactivationDesc>命令一名成员停用引力船护盾发生器。</GravshipShieldOrderDeactivationDesc>
+
+  <ConfirmMergeShuttles>合并这些商队将导致以下物品丢失：\n{0}\n\n你确定要继续吗？</ConfirmMergeShuttles>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <Beggars.label>乞丐</Beggars.label>
+  <Beggars.description>一群寻求施舍的乞丐。</Beggars.description>
+  <CannibalPirate.label>食人海盗帮</CannibalPirate.label>
+  <CannibalPirate.description>一个由海盗团体组成的松散联盟，他们约定主要攻击外人而非彼此。\n\n海盗不播种、不建造，也极少贸易。受崇尚个人武力与残忍的血与荣誉文化驱使，他们靠劫掠比自己更勤劳的邻居来致富。\n\n他们的科技水平主要取决于近期抢了谁。多数人携带火药武器，也有些人偏爱近身刺杀。\n\n这个特定的海盗帮是食人族。</CannibalPirate.description>
+  <NudistTribe.label>裸体部落</NudistTribe.label>
+  <NudistTribe.description>这些人已经在这里生活了很久很久。也许他们的祖先在一千年前坠毁于此。也许他们在一场摧毁了此处科技文明的灾变中幸存下来。无论如何，部落民大多是使用原始工具与武器、靠土地为生的游牧民族。\n\n尽管科技上明显落后，部落民凭借其低科技战争技巧、数量以及坚韧，仍可能是危险的敌人。\n\n这个特定的部落认为遮蔽身体是错误的。</NudistTribe.description>
+  <Pilgrims.label>朝圣者</Pilgrims.label>
+  <Pilgrims.description>一群寻求朝拜远古圣物的朝圣者。</Pilgrims.description>
+  <TribeCannibal.label>食人部落</TribeCannibal.label>
+  <TribeCannibal.description>这些人已经在这里生活了很久很久。也许他们的祖先在一千年前坠毁于此。也许他们在一场摧毁了此处科技文明的灾变中幸存下来。无论如何，部落民大多是使用原始工具与武器、靠土地为生的游牧民族。\n\n尽管科技上明显落后，部落民凭借其低科技战争技巧、数量以及坚韧，仍可能是危险的敌人。\n\n这个特别凶残的部落认为吃敌人的肉是极大的荣耀。</TribeCannibal.description>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <AnimaTreeLinking.label>灵树链接</AnimaTreeLinking.label>
+  <AnimaTreeLinking.description>一人将与灵树链接。链接者将在灵树前冥想，形成灵能链接。其他人围成一圈观看，并为仪式增添灵能力量。</AnimaTreeLinking.description>
+  <ThroneSpeech.label>王座演说</ThroneSpeech.label>
+  <ThroneSpeech.description>从王座上发表演说。{ORGANIZER_labelShort} 将前往 {ORGANIZER_possessive} 的王座，并召集所有殖民者前来聆听演说。若一切顺利，听众会受到激励，并对 {ORGANIZER_labelShort} 更加尊敬。若效果不佳，演说会造成社交损害。结果取决于 {ORGANIZER_labelShort} 的社交能力。</ThroneSpeech.description>
+
+</LanguageData>
