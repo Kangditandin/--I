@@ -1,7 +1,9 @@
-# 大体积打包文件，不入库
+# 大体积打包文件，一律不入库
 *.zip
+
+# 已弃用：RimWorldCore 完整汉化整包（不再使用、不再上传）
 RimWorldCore_汉化包.zip
 
-# 系统
+# 系统垃圾文件
 .DS_Store
 Thumbs.db
