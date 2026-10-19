@@ -4,6 +4,8 @@
 > 覆盖 **本体 + 5 个 DLC**：Core、Royalty、Ideology、Biotech、Anomaly、Odyssey。
 > 中文内容只**新增文件、不改不删**原版任何文件，安全可回退。
 
+**Keywords:** `rimworld chinese` · `rimworld translation` · `rimworld mobile mod` · `rimworld 汉化` · `环世界汉化包` · `rimworld android` · `rimworld dlc translation` · `rimworld localization`
+
 ---
 
 ## 一、推荐：直接下安装包
